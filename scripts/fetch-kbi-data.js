@@ -21,15 +21,9 @@ const REGION_NAMES = [
   "경기", "강원", "충북", "충남", "전북", "전남", "경북", "경남", "제주"
 ];
 
-// ─────────────────────────────────────────────
-// 축종·부위 코드. 소(4301) 안심(21)은 화면에서 확인된 값이다.
-// 돼지·닭·오리 코드가 확정되면 이 배열에 그대로 추가하면 된다.
-// ─────────────────────────────────────────────
 const SPECIES = [
   { key: "beef", label: "소고기", judgeKind: "4301", itemCd: "21" },
-  // { key: "pork", label: "돼지고기", judgeKind: "4304", itemCd: "TBD" },
-  // { key: "chicken", label: "닭고기", judgeKind: "TBD", itemCd: "TBD" },
-  // { key: "duck", label: "오리고기", judgeKind: "TBD", itemCd: "TBD" },
+  { key: "pork", label: "돼지고기", judgeKind: "4304", itemCd: "21" },
 ];
 
 function todayYmd() {
@@ -40,7 +34,6 @@ function todayYmd() {
   return `${y}${m}${day}`;
 }
 
-// 아주 단순한 XML 태그 추출기 (외부 라이브러리 의존 없이 처리)
 function extractTag(xml, tagName) {
   const match = xml.match(new RegExp(`<${tagName}>([^<]*)</${tagName}>`));
   return match ? match[1].trim() : null;
@@ -55,7 +48,7 @@ async function fetchSpecies(species) {
   const resultCode = extractTag(xml, "resultCode");
   if (resultCode !== "00") {
     const msg = extractTag(xml, "resultMsg") || "알 수 없는 오류";
-    throw new Error(`${species.label} 조회 실패 (resultCode=${resultCode}): ${msg}`);
+    throw new Error(`${species.label} 조회 실패 (resultCode=${resultCode}): ${msg} / 원본응답: ${xml.slice(0, 300)}`);
   }
 
   const regionPrices = {};
@@ -85,6 +78,7 @@ async function main() {
     updatedAt: new Date().toISOString(),
     source: "축산물품질평가원 축산유통정보(다봄) - 일자별 축산물소비자가격 정보",
     species: {},
+    errors: {},
   };
 
   for (const species of SPECIES) {
@@ -93,6 +87,7 @@ async function main() {
       console.log(`[OK] ${species.label} 갱신 완료`);
     } catch (err) {
       console.error(`[FAIL] ${species.label}: ${err.message}`);
+      result.errors[species.key] = err.message;
     }
   }
 
