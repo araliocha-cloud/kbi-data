@@ -1,16 +1,10 @@
 // KBI 데이터 자동 갱신 스크립트
-// 축산물품질평가원 "일자별 축산물소비자가격 정보" API를 호출해서
-// 17개 시도 소비자가격을 받아와 data/kbi-prices.json 으로 저장한다.
-//
-// 이 스크립트는 GitHub Actions(서버 환경)에서 실행되므로 브라우저의
-// CORS 제약이 적용되지 않는다 — 그래서 이 방식으로 우회한 것이다.
-
 const fs = require("fs");
 const path = require("path");
 
 const SERVICE_KEY = process.env.EKAPE_SERVICE_KEY;
 if (!SERVICE_KEY) {
-  console.error("EKAPE_SERVICE_KEY 환경변수가 없습니다. GitHub 저장소 Secrets에 등록됐는지 확인하세요.");
+  console.error("EKAPE_SERVICE_KEY 환경변수가 없습니다.");
   process.exit(1);
 }
 
@@ -23,7 +17,8 @@ const REGION_NAMES = [
 
 const SPECIES = [
   { key: "beef", label: "소고기", judgeKind: "4301", itemCd: "21" },
-  { key: "pork", label: "돼지고기", judgeKind: "4304", itemCd: "21" },
+  { key: "pork", label: "돼지고기", judgeKind: "4304", itemCd: "27" },
+  { key: "chicken", label: "닭고기", judgeKind: "9901", itemCd: "99" },
 ];
 
 function todayYmd() {
