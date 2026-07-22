@@ -1,0 +1,34 @@
+name: Update KBI livestock price data
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 준비
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 축산물품질평가원 API 호출 및 데이터 갱신
+        env:
+          EKAPE_SERVICE_KEY: ${{ secrets.EKAPE_SERVICE_KEY }}
+        run: node scripts/fetch-kbi-data.js
+
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name "kbi-bot"
+          git config user.email "kbi-bot@users.noreply.github.com"
+          git add data/kbi-prices.json
+          git diff --quiet --cached || git commit -m "KBI 데이터 자동 갱신 $(date -u +%Y-%m-%d)"
+          git push
