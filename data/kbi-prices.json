@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-22T07:48:58.434Z",
+  "updatedAt": "2026-07-22T08:04:25.988Z",
   "source": "축산물품질평가원 축산유통정보(다봄) - 일자별 축산물소비자가격 정보",
   "species": {
     "beef": {
       "label": "소고기",
       "unit": "원/100g",
-      "nationalAvg": 0,
+      "nationalAvg": 14097,
       "maxPrice": 17471,
       "minPrice": 12508,
       "regionPrices": {
