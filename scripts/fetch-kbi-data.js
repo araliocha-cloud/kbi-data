@@ -93,7 +93,6 @@ async function main() {
       console.log(`[OK] ${species.label} 갱신 완료`);
     } catch (err) {
       console.error(`[FAIL] ${species.label}: ${err.message}`);
-      // 한 축종이 실패해도 나머지는 계속 진행한다 (WBI의 견고한 fallback 패턴과 동일)
     }
   }
 
