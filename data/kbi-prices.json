@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:04:25.988Z",
+  "updatedAt": "2026-07-22T08:36:31.804Z",
   "source": "축산물품질평가원 축산유통정보(다봄) - 일자별 축산물소비자가격 정보",
   "species": {
     "beef": {
@@ -27,6 +27,33 @@
         "경남": 13685,
         "제주": 13869
       }
+    },
+    "pork": {
+      "label": "돼지고기",
+      "unit": null,
+      "nationalAvg": null,
+      "maxPrice": 0,
+      "minPrice": 0,
+      "regionPrices": {
+        "서울": null,
+        "부산": null,
+        "대구": null,
+        "인천": null,
+        "광주": null,
+        "대전": null,
+        "울산": null,
+        "세종": null,
+        "경기": null,
+        "강원": null,
+        "충북": null,
+        "충남": null,
+        "전북": null,
+        "전남": null,
+        "경북": null,
+        "경남": null,
+        "제주": null
+      }
     }
-  }
+  },
+  "errors": {}
 }
