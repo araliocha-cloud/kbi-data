@@ -65,10 +65,15 @@ async function fetchSpecies(species) {
     regionPrices[name] = val !== null ? Number(val) : null;
   });
 
+  const validPrices = Object.values(regionPrices).filter((v) => v !== null && !Number.isNaN(v));
+  const computedAvg = validPrices.length
+    ? Math.round(validPrices.reduce((a, b) => a + b, 0) / validPrices.length)
+    : null;
+
   return {
     label: species.label,
     unit: extractTag(xml, "unit"),
-    nationalAvg: Number(extractTag(xml, "totalPrc")),
+    nationalAvg: computedAvg,
     maxPrice: Number(extractTag(xml, "maxPrc")),
     minPrice: Number(extractTag(xml, "minPrc")),
     regionPrices,
