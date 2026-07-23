@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T03:35:50.695Z",
+  "updatedAt": "2026-07-23T06:53:42.067Z",
   "source": "축산물품질평가원 축산유통정보(다봄) - 일자별 축산물소비자가격 정보 (부위별 1kg 가격, 평균 아님)",
   "species": {
     "beef": {
@@ -8,20 +8,71 @@
         "sirloin": {
           "name": "등심",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=99: 어플리케이션 에러 / 원본응답: <?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><response><header><resultCode>99</resultCode><resultMsg>어플리케이션 에러</resultMsg></header></response>"
+          "regionPrices": {
+            "서울": 116080,
+            "부산": 108970,
+            "대구": 109850,
+            "인천": 112170,
+            "광주": 115710,
+            "대전": 113510,
+            "울산": 110150,
+            "세종": 110590,
+            "경기": 113050,
+            "강원": 113950,
+            "충북": 112730,
+            "충남": 108890,
+            "전북": 112290,
+            "전남": 106080,
+            "경북": 105560,
+            "경남": 106920,
+            "제주": 106710
+          }
         },
         "brisket": {
           "name": "양지",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=99: 어플리케이션 에러 / 원본응답: <?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><response><header><resultCode>99</resultCode><resultMsg>어플리케이션 에러</resultMsg></header></response>"
+          "regionPrices": {
+            "서울": 61560,
+            "부산": 57900,
+            "대구": 59880,
+            "인천": 58150,
+            "광주": 56430,
+            "대전": 55310,
+            "울산": 59340,
+            "세종": 56890,
+            "경기": 58890,
+            "강원": 55260,
+            "충북": 54180,
+            "충남": 53070,
+            "전북": 54730,
+            "전남": 51670,
+            "경북": 54010,
+            "경남": 55680,
+            "제주": 58730
+          }
         },
         "ribs": {
           "name": "갈비",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=99: 어플리케이션 에러 / 원본응답: <?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><response><header><resultCode>99</resultCode><resultMsg>어플리케이션 에러</resultMsg></header></response>"
+          "regionPrices": {
+            "서울": 79670,
+            "부산": 95250,
+            "대구": 70130,
+            "인천": 81610,
+            "광주": 90700,
+            "대전": 75820,
+            "울산": 90220,
+            "세종": 70040,
+            "경기": 77440,
+            "강원": 61840,
+            "충북": 101880,
+            "충남": 83930,
+            "전북": 65070,
+            "전남": 81330,
+            "경북": 65610,
+            "경남": 63620,
+            "제주": 84370
+          }
         }
       }
     },
@@ -31,14 +82,48 @@
         "belly": {
           "name": "삼겹살",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=99: 어플리케이션 에러 / 원본응답: <?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><response><header><resultCode>99</resultCode><resultMsg>어플리케이션 에러</resultMsg></header></response>"
+          "regionPrices": {
+            "서울": 28080,
+            "부산": 27140,
+            "대구": 26510,
+            "인천": 27520,
+            "광주": 26440,
+            "대전": 26320,
+            "울산": 28080,
+            "세종": 26910,
+            "경기": 27180,
+            "강원": 27120,
+            "충북": 27840,
+            "충남": 26370,
+            "전북": 28060,
+            "전남": 26480,
+            "경북": 27250,
+            "경남": 26210,
+            "제주": 27290
+          }
         },
         "neck": {
           "name": "목심",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=99: 어플리케이션 에러 / 원본응답: <?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><response><header><resultCode>99</resultCode><resultMsg>어플리케이션 에러</resultMsg></header></response>"
+          "regionPrices": {
+            "서울": 26210,
+            "부산": 25600,
+            "대구": 25420,
+            "인천": 25700,
+            "광주": 24040,
+            "대전": 24760,
+            "울산": 25810,
+            "세종": 25760,
+            "경기": 25340,
+            "강원": 25990,
+            "충북": 26050,
+            "충남": 24820,
+            "전북": 25520,
+            "전남": 24100,
+            "경북": 25600,
+            "경남": 24540,
+            "제주": 27510
+          }
         }
       }
     },
@@ -48,8 +133,25 @@
         "broiler": {
           "name": "육계",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=99: 어플리케이션 에러 / 원본응답: <?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><response><header><resultCode>99</resultCode><resultMsg>어플리케이션 에러</resultMsg></header></response>"
+          "regionPrices": {
+            "서울": 6134,
+            "부산": 6065,
+            "대구": 6267,
+            "인천": 6647,
+            "광주": 5578,
+            "대전": 5773,
+            "울산": 6169,
+            "세종": 6758,
+            "경기": 6063,
+            "강원": 6034,
+            "충북": 6200,
+            "충남": 6132,
+            "전북": 6158,
+            "전남": 6150,
+            "경북": 5900,
+            "경남": 5445,
+            "제주": 6037
+          }
         }
       }
     }
