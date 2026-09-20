@@ -1,1 +1,22 @@
-
+{
+  "queries": [
+    { "label": "KCBS", "query": "Kansas City Barbeque Society", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 8 },
+    { "label": "Memphis in May", "query": "Memphis in May barbecue", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 8 },
+    { "label": "American Royal", "query": "American Royal barbecue World Series", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 6 },
+    { "label": "Jack Daniel's Invitational", "query": "Jack Daniel's World Championship Invitational Barbecue", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 6 },
+    { "label": "World BBQ Assoc.", "query": "World Barbecue Association WBQA", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 6 },
+    { "label": "BBQ World Championship", "query": "barbecue world championship competition", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 10 },
+    { "label": "Grillstock UK", "query": "Grillstock barbecue UK", "hl": "en-GB", "gl": "GB", "ceid": "GB:en", "max_items": 6 },
+    { "label": "Asado Argentina", "query": "campeonato de asado Argentina", "hl": "es-419", "gl": "AR", "ceid": "AR:es-419", "max_items": 8 },
+    { "label": "Asado Mundial", "query": "campeonato mundial de asado", "hl": "es-419", "gl": "AR", "ceid": "AR:es-419", "max_items": 6 },
+    { "label": "바비큐 대회", "query": "바비큐 대회", "hl": "ko", "gl": "KR", "ceid": "KR:ko", "max_items": 10 },
+    { "label": "스포츠바비큐", "query": "스포츠바비큐", "hl": "ko", "gl": "KR", "ceid": "KR:ko", "max_items": 8 },
+    { "label": "바베큐 페스티벌", "query": "바베큐 페스티벌", "hl": "ko", "gl": "KR", "ceid": "KR:ko", "max_items": 6 },
+    { "label": "バーベキュー大会", "query": "バーベキュー 大会", "hl": "ja", "gl": "JP", "ceid": "JP:ja", "max_items": 6 },
+    { "label": "烧烤大赛", "query": "烧烤大赛", "hl": "zh-TW", "gl": "TW", "ceid": "TW:zh-Hant", "max_items": 6 }
+  ],
+  "official_feeds": [
+    { "label": "KCBS (확인 필요)", "url": "", "max_items": 10 },
+    { "label": "WBQA (확인 필요)", "url": "", "max_items": 10 }
+  ]
+}
