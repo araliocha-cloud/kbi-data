@@ -3,17 +3,6 @@
 """
 collect_bbq_news.py
 professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
-
-동작 방식
-  1. feeds_config.json에 등록된 여러 검색 쿼리로 구글 뉴스 RSS를 훑는다.
-  2. 제목에 실제 바비큐 핵심 단어가 있는 것만 통과시킨다.
-  3. 구글 뉴스 링크는 실제 도착지 주소로 풀어내고(googlenewsdecoder),
-     확실히 죽은 링크(404 등)만 걸러낸다.
-  4. 한 번 확인한 기사는 resolve_cache.json에 결과를 저장해두고,
-     다음 실행부터는 그 결과를 재사용해 반복 확인을 건너뛴다.
-  5. 통과한 기사는 전부 news.json에 게시한다.
-  6. 게시 후 72시간이 지난 항목은 자동으로 걷어낸다.
-  7. 캐시는 30일 넘은 항목을 자동으로 정리한다.
 """
 
 import json
@@ -32,9 +21,13 @@ CONFIG_PATH = BASE_DIR / "feeds_config.json"
 NEWS_PATH = BASE_DIR / "news.json"
 CACHE_PATH = BASE_DIR / "resolve_cache.json"
 
-MAX_LIVE_ITEMS = 80
-LIVE_RETENTION_HOURS = 72
+MAX_LIVE_ITEMS = 120
+LIVE_RETENTION_HOURS = 168  # 7일
 CACHE_RETENTION_DAYS = 30
+
+# feeds_config.json에 적힌 max_items에 이 배율을 곱해서 실제로 가져온다.
+# 이 숫자 하나만 바꾸면 전체 검색어의 수집량이 한꺼번에 조절된다.
+MAX_ITEMS_MULTIPLIER = 2
 
 HEADERS = {
     "User-Agent": (
@@ -89,9 +82,15 @@ def raw_key(raw_url):
     return hashlib.sha1(raw_url.encode("utf-8")).hexdigest()[:16]
 
 
-def is_relevant(title):
-    lowered = title.lower()
-    return any(term.lower() in lowered for term in CORE_BBQ_TERMS)
+def strip_html(text):
+    """요약 필드에 섞인 HTML 태그를 제거한다."""
+    return re.sub(r"<[^>]+>", " ", text or "")
+
+
+def is_relevant(title, summary=""):
+    """제목이나 요약 중 하나라도 핵심 단어를 포함하면 통과시킨다."""
+    haystack = (title + " " + strip_html(summary)).lower()
+    return any(term.lower() in haystack for term in CORE_BBQ_TERMS)
 
 
 def fetch_feed(url):
@@ -137,7 +136,6 @@ def validate_url(url):
 
 
 def resolve_and_validate(raw_url, cache):
-    """캐시에 있으면 재사용하고, 없으면 새로 확인해서 캐시에 저장한다."""
     key = raw_key(raw_url)
     cached = cache.get(key)
     if cached:
@@ -167,8 +165,9 @@ def parse_entry(entry, query_label, cache):
         source_title = parts[-1] if len(parts) > 1 else query_label
 
     headline = entry.get("title", "").rsplit(" - ", 1)[0].strip()
+    summary = entry.get("summary", "")
 
-    if not is_relevant(headline):
+    if not is_relevant(headline, summary):
         return None
 
     url, alive = resolve_and_validate(raw_url, cache)
@@ -207,22 +206,24 @@ def fetch_all(config, cache):
         )
         print(f"[검색어: {label}]")
         parsed = fetch_feed(rss_url)
+        limit = feed.get("max_items", 8) * MAX_ITEMS_MULTIPLIER
         found, rejected = 0, 0
-        for entry in parsed.entries[: feed.get("max_items", 8)]:
+        for entry in parsed.entries[:limit]:
             item = parse_entry(entry, label, cache)
             if item:
                 collected.append(item)
                 found += 1
             else:
                 rejected += 1
-        print(f"  → {found}건 게시 / {rejected}건 제외")
+        print(f"  → {found}건 게시 / {rejected}건 제외 (조회 상한 {limit}건)")
 
     for feed in config.get("official_feeds", []):
         if not feed.get("url"):
             continue
         print(f"[공식 피드: {feed.get('label')}]")
         parsed = fetch_feed(feed["url"])
-        for entry in parsed.entries[: feed.get("max_items", 10)]:
+        limit = feed.get("max_items", 10) * MAX_ITEMS_MULTIPLIER
+        for entry in parsed.entries[:limit]:
             item = parse_entry(entry, feed.get("label", "OFFICIAL"), cache)
             if item:
                 item["source"] = feed.get("label", item["source"])
