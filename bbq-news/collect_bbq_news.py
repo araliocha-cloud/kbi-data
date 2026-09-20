@@ -6,9 +6,10 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
 
 동작 방식
   1. feeds_config.json에 등록된 여러 검색 쿼리로 구글 뉴스 RSS를 훑는다.
-  2. 찾아온 기사 중, 제목에 실제 바비큐 핵심 단어가 있는 것만 통과시킨다.
-     (검색어에는 걸렸지만 제목에 핵심 단어가 없는 기사는 버린다.)
-  3. 통과한 기사는 전부 news.json에 바로 게시한다. 검수 대기열은 없다.
+  2. 찾아온 기사 중, 제목에 실제 바비큐 핵심 단어(또는 관련 단체명)가
+     있는 것만 통과시킨다. 검색어에는 걸렸지만 제목에 핵심 단어가
+     없는 기사는 버린다.
+  3. 통과한 기사는 전부 news.json에 바로 게시한다.
   4. 이미 실려 있는 기사는 URL 해시로 중복 제거한다.
   5. 게시 후 72시간이 지난 항목은 자동으로 걷어낸다.
 """
@@ -27,7 +28,7 @@ BASE_DIR = Path(__file__).parent
 CONFIG_PATH = BASE_DIR / "feeds_config.json"
 NEWS_PATH = BASE_DIR / "news.json"
 
-MAX_LIVE_ITEMS = 60
+MAX_LIVE_ITEMS = 80
 LIVE_RETENTION_HOURS = 72
 
 HEADERS = {
@@ -44,8 +45,16 @@ CORE_BBQ_TERMS = [
     "바비큐", "바베큐",
     "barbecue", "bbq", "barbeque",
     "asado", "barbacoa",
+    "churrasco", "braai",
+    "grillweltmeisterschaft",
     "バーベキュー",
     "烧烤",
+    "باربكيو",
+    "บาร์บีคิว",
+    "iobsf", "kooba", "kbri", "kcbs",
+    "korea barbecue university",
+    "aobe",
+    "户外厨房",
 ]
 
 
@@ -78,7 +87,7 @@ def extract_domain(url):
 
 
 def is_relevant(title):
-    """제목에 바비큐 핵심 단어가 하나라도 있는지 검사한다."""
+    """제목에 바비큐 핵심 단어(또는 관련 단체명)가 하나라도 있는지 검사한다."""
     lowered = title.lower()
     return any(term.lower() in lowered for term in CORE_BBQ_TERMS)
 
