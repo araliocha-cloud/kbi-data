@@ -104,12 +104,9 @@ def resolve_final_url(url):
     if "news.google.com" not in url:
         return url
     try:
-        resp = requests.get(
-            url, headers=HEADERS, timeout=RESOLVE_TIMEOUT, allow_redirects=True
-        )
-        final_url = resp.url
-        if final_url and "news.google.com" not in final_url:
-            return final_url
+        result = gnewsdecoder(url, interval=1)
+        if result.get("status") and result.get("decoded_url"):
+            return result["decoded_url"]
         return url
     except Exception as e:
         print(f"    (링크 해석 실패, 원본 유지: {e})")
