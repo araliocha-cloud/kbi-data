@@ -173,3 +173,10 @@ def parse_entry(entry, query_label):
     return {
         "id": make_id(url),
         "source": source_title,
+        "title": headline,
+        "url": url,
+        "query": query_label,
+        "published_at": published_at.isoformat(),
+        "time": published_at.strftime("%H:%M"),
+        "date": published_at.strftime("%Y-%m-%d"),
+    }
