@@ -9,9 +9,12 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
   2. 찾아온 기사 중, 제목에 실제 바비큐 핵심 단어(또는 관련 단체명)가
      있는 것만 통과시킨다. 검색어에는 걸렸지만 제목에 핵심 단어가
      없는 기사는 버린다.
-  3. 통과한 기사는 전부 news.json에 바로 게시한다.
-  4. 이미 실려 있는 기사는 URL 해시로 중복 제거한다.
-  5. 게시 후 72시간이 지난 항목은 자동으로 걷어낸다.
+  3. 구글 뉴스 RSS의 링크는 구글이 감싼 중계 주소라 그대로 클릭하면
+     오류가 뜰 수 있다. 통과한 기사는 그 중계 주소를 실제 도착지
+     주소로 미리 풀어서(resolve) 저장한다.
+  4. 통과한 기사는 전부 news.json에 바로 게시한다.
+  5. 이미 실려 있는 기사는 URL 해시로 중복 제거한다.
+  6. 게시 후 72시간이 지난 항목은 자동으로 걷어낸다.
 """
 
 import json
@@ -38,9 +41,8 @@ HEADERS = {
     )
 }
 REQUEST_TIMEOUT = 10
+RESOLVE_TIMEOUT = 8  # 실제 기사 주소를 풀어보는 데 걸리는 시간 제한
 
-# 기사 제목에 이 중 하나라도 없으면, 검색어에 걸렸어도 버린다.
-# 대소문자 구분 없이 검사한다.
 CORE_BBQ_TERMS = [
     "바비큐", "바베큐",
     "barbecue", "bbq", "barbeque",
@@ -78,16 +80,7 @@ def make_id(url):
     return hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
 
 
-def extract_domain(url):
-    try:
-        netloc = urlparse(url).netloc.lower()
-        return re.sub(r"^www\.", "", netloc)
-    except Exception:
-        return ""
-
-
 def is_relevant(title):
-    """제목에 바비큐 핵심 단어(또는 관련 단체명)가 하나라도 있는지 검사한다."""
     lowered = title.lower()
     return any(term.lower() in lowered for term in CORE_BBQ_TERMS)
 
@@ -104,9 +97,27 @@ def fetch_feed(url):
         return feedparser.parse(b"")
 
 
+def resolve_final_url(url):
+    """구글 뉴스가 감싼 중계 주소를 실제 기사 주소로 풀어낸다.
+    실패하면 원래 주소를 그대로 돌려준다(클릭은 되지만 오류가 뜰 수 있다)."""
+    if "news.google.com" not in url:
+        return url
+    try:
+        resp = requests.get(
+            url, headers=HEADERS, timeout=RESOLVE_TIMEOUT, allow_redirects=True
+        )
+        final_url = resp.url
+        if final_url and "news.google.com" not in final_url:
+            return final_url
+        return url
+    except Exception as e:
+        print(f"    (링크 해석 실패, 원본 유지: {e})")
+        return url
+
+
 def parse_entry(entry, query_label):
-    url = entry.get("link", "")
-    if not url:
+    raw_url = entry.get("link", "")
+    if not raw_url:
         return None
 
     source_title = ""
@@ -119,9 +130,12 @@ def parse_entry(entry, query_label):
 
     headline = entry.get("title", "").rsplit(" - ", 1)[0].strip()
 
-    # 관문: 제목에 핵심 단어가 없으면 걸러낸다.
+    # 관문: 제목에 핵심 단어가 없으면 걸러낸다. (네트워크 요청 전에 먼저 검사)
     if not is_relevant(headline):
         return None
+
+    # 통과한 기사만 실제 주소를 풀어본다. (요청 횟수를 아끼기 위해)
+    url = resolve_final_url(raw_url)
 
     published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
     if published_struct:
