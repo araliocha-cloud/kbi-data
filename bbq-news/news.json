@@ -1,5 +1,15 @@
 [
   {
+    "id": "2ddb3ef88b26",
+    "source": "starnewskorea.com",
+    "title": "「韓国バーベキューの看板」イ・ジュホ、アジア大会3連続ポディウム··· 100m銅メダル獲得 [愛知名古屋AG]",
+    "url": "https://www.starnewskorea.com/ja/sports/2026/09/20/2026092018361782463",
+    "query": "バーベキュー大会",
+    "published_at": "2026-09-20T09:52:37+00:00",
+    "time": "09:52",
+    "date": "2026-09-20"
+  },
+  {
     "id": "371824a81aaa",
     "source": "水戸ホーリーホック公式サイト",
     "title": "水戸ホーリーホック後援会 葵龍会 『2026/27シーズン選手・スタッフを励ますBBQ大会』開催のお知らせ",
@@ -8,6 +18,16 @@
     "published_at": "2026-09-20T04:03:15+00:00",
     "time": "04:03",
     "date": "2026-09-20"
+  },
+  {
+    "id": "6efcf8fc26ab",
+    "source": "The Press",
+    "title": "Canterbury barbecue team to roast the best in American championship",
+    "url": "https://www.thepress.co.nz/food-drink/361079770/canterbury-barbecue-team-roast-best-american-championship",
+    "query": "BBQ World Championship",
+    "published_at": "2026-09-18T16:00:00+00:00",
+    "time": "16:00",
+    "date": "2026-09-18"
   },
   {
     "id": "84f5551b1533",
@@ -47,6 +67,16 @@
     "query": "바베큐 페스티벌",
     "published_at": "2026-09-17T05:46:58+00:00",
     "time": "05:46",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "b123e2e0a9ce",
+    "source": "굿뉴스365",
+    "title": "2026 홍성글로벌바비큐페스티벌 먹거리 부스 운영",
+    "url": "http://www.goodnews365.net/bbs/board.php?bo_table=news&wr_id=329717",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-17T01:45:00+00:00",
+    "time": "01:45",
     "date": "2026-09-17"
   },
   {
@@ -141,13 +171,23 @@
   },
   {
     "id": "687c8ef68b14",
-    "source": "Shelby County Reporter",
+    "source": "shelbycountyreporter.com",
     "title": "Mike Gannon Memorial BBQ set for Sept. 18-19",
     "url": "https://www.shelbycountyreporter.com/news/mike-gannon-memorial-bbq-set-for-sept-18-19-b9f3fb96",
     "query": "Jack Daniel's Invitational",
     "published_at": "2026-09-10T20:15:26+00:00",
     "time": "20:15",
     "date": "2026-09-10"
+  },
+  {
+    "id": "9fa5fcf16cb6",
+    "source": "인디포커스",
+    "title": "서울시, 도심 속 K-BBQ 미식 축제! ‘서울 바비큐 페스티벌’ 개최",
+    "url": "http://www.indifocus.kr/81799",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-09T00:38:00+00:00",
+    "time": "00:38",
+    "date": "2026-09-09"
   },
   {
     "id": "4c693f89bd9a",
@@ -160,8 +200,18 @@
     "date": "2026-09-06"
   },
   {
+    "id": "586c128e17db",
+    "source": "Hoodline",
+    "title": "Bartlett Fall Festival Returns to W.J. Freeman Park With BBQ, Cars and a 5K",
+    "url": "https://hoodline.com/2026/09/bartlett-fall-festival-returns-to-w-j-freeman-park-with-bbq-cars-and-a-5k/",
+    "query": "Memphis BBQ Network",
+    "published_at": "2026-09-04T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-09-04"
+  },
+  {
     "id": "19a961f79014",
-    "source": "The Citizen",
+    "source": "citizen.co.za",
     "title": "Win a Hilux built for the ultimate South African braai",
     "url": "https://www.citizen.co.za/network-news/motoring/2026/09/03/win-a-hilux-built-for-the-ultimate-south-african-braai/",
     "query": "Braai South Africa",
@@ -181,7 +231,7 @@
   },
   {
     "id": "2952ea12b8ca",
-    "source": "Sun Sentinel",
+    "source": "sun-sentinel.com",
     "title": "The Labor Day Weekend Top 10: Peachfest, ‘The African Mean Girls Play,’ plus Bacon, Beer & BBQ!",
     "url": "https://www.sun-sentinel.com/2026/09/02/the-weekend-top-10-palm-beach-improvs-back-orange-blossom-classic-remembering-dolly-on-labor-day/",
     "query": "Barbecue Ghana",
@@ -201,7 +251,7 @@
   },
   {
     "id": "93584fc53391",
-    "source": "sacurrent.com",
+    "source": "San Antonio Current",
     "title": "Couple behind San Antonio's 2M Smokehouse wins Food Network barbecue competition Pitmasters",
     "url": "https://www.sacurrent.com/food-drink/flavor/couple-behind-san-antonios-2m-smokehouse-wins-food-network-barbecue-competition-pitmasters/",
     "query": "Barbecue Malaysia",
@@ -220,24 +270,14 @@
     "date": "2026-08-31"
   },
   {
-    "id": "12f4ff127fe6",
-    "source": "Dongen.nieuws.nl",
-    "title": "Opnieuw groot barbecue spektakel in Dongen-Vaart",
-    "url": "https://dongen.nieuws.nl/nieuws/opnieuw-groot-barbecue-spektakel-in-dongen-vaart",
-    "query": "Barbecue Nederland",
-    "published_at": "2026-08-30T19:38:45+00:00",
-    "time": "19:38",
-    "date": "2026-08-30"
-  },
-  {
-    "id": "2cf57b2a7ab5",
-    "source": "GRANT HAVEN MEDIA",
-    "title": "OCCA hold annual family BBQ at Pittock",
-    "url": "https://www.granthaven.com/post/occa-hold-annual-family-bbq-at-pittock",
-    "query": "Caribbean BBQ Assoc.",
-    "published_at": "2026-08-27T15:50:09+00:00",
-    "time": "15:50",
-    "date": "2026-08-27"
+    "id": "37b8c8d6d98e",
+    "source": "Irish Mirror",
+    "title": "Urgent recall of barbecue grills over risk of electric shock",
+    "url": "https://www.irishmirror.ie/news/irish-news/urgent-recall-barbecue-grills-over-37603386",
+    "query": "European BBQ Championship",
+    "published_at": "2026-08-28T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-28"
   },
   {
     "id": "95d7c9cff792",
@@ -248,6 +288,26 @@
     "published_at": "2026-08-23T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-08-23"
+  },
+  {
+    "id": "e1617390143d",
+    "source": "nieuwsblad.be",
+    "title": "Derde Oogstfeest op wijk de Ruiter met ludieke wedstrijden en barbecue",
+    "url": "https://www.nieuwsblad.be/regio/west-vlaanderen/midwest/roeselare/derde-oogstfeest-op-wijk-de-ruiter-met-ludieke-wedstrijden-en-barbecue/160312352.html",
+    "query": "Barbecue Nederland",
+    "published_at": "2026-08-22T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "c61f04135f0b",
+    "source": "oconeeenterprise.com",
+    "title": "Oconee’s Best BBQ Competition returns | Watkinsville",
+    "url": "https://www.oconeeenterprise.com/news/watkinsville/oconee-s-best-bbq-competition-returns/article_472930ad-e781-4a34-a728-983797671b49.html",
+    "query": "Barbecue Kenya",
+    "published_at": "2026-08-21T18:27:00+00:00",
+    "time": "18:27",
+    "date": "2026-08-21"
   },
   {
     "id": "d2397bd19721",
@@ -270,18 +330,18 @@
     "date": "2026-08-21"
   },
   {
-    "id": "8bf7bf0c6d38",
-    "source": "Uvalde Leader News",
-    "title": "Servantes joins BBQ hall of fame",
-    "url": "https://www.uvaldeleadernews.com/articles/servantes-joins-bbq-hall-of-fame/",
-    "query": "IBCA",
-    "published_at": "2026-08-18T07:00:00+00:00",
+    "id": "d644a35ac9d3",
+    "source": "L'Ardennais",
+    "title": "Concours de pétanque, barbecue, jeux gonflables : quatre jours de fête dans ce village des Portes du Luxembourg",
+    "url": "https://www.lardennais.fr/id823249/article/2026-08-19/concours-de-petanque-barbecue-jeux-gonflables-quatre-jours-de-fete-dans-ce",
+    "query": "Barbecue France",
+    "published_at": "2026-08-19T07:00:00+00:00",
     "time": "07:00",
-    "date": "2026-08-18"
+    "date": "2026-08-19"
   },
   {
     "id": "8fd78c780a56",
-    "source": "elobservador.com.uy",
+    "source": "El Observador",
     "title": "Los campeones en un torneo de asadores en Argentina fueron los uruguayos de Fogón Criollo",
     "url": "https://www.elobservador.com.uy/agro/los-campeones-un-torneo-asadores-argentina-fueron-los-uruguayos-fogon-criollo-n6054363",
     "query": "Asado Argentina",
@@ -310,26 +370,6 @@
     "date": "2026-08-12"
   },
   {
-    "id": "91f1f7329540",
-    "source": "eldiaonline.com",
-    "title": "Este fin de semana se realizará la Copa Argentina de Asadores en Pueblo Belgrano",
-    "url": "https://www.eldiaonline.com/este-fin-de-semana-se-realizara-la-copa-argentina-de-asadores-en-pueblo-belgrano",
-    "query": "Asado Argentina",
-    "published_at": "2026-08-11T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "f5f754ad6082",
-    "source": "R2820",
-    "title": "Pueblo Belgrano prende el fuego: llega un festival con los mejores asadores de Latinoamérica",
-    "url": "https://www.r2820.com/noticias/2026/08/10/113680-pueblo-belgrano-prende-el-fuego-llega-un-festival-con-los-mejores-asadores-de-latinoamerica",
-    "query": "Asado Argentina",
-    "published_at": "2026-08-10T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-08-10"
-  },
-  {
     "id": "dfb101dc4cd7",
     "source": "Business Research Insights",
     "title": "바베큐 그릴 숯 크기, 동향 보고서 2035",
@@ -338,6 +378,16 @@
     "published_at": "2026-08-10T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-08-10"
+  },
+  {
+    "id": "cda220e193f1",
+    "source": "Daily Nation",
+    "title": "Kenya’s Yusuf Garani cooks his way into Guinness record after 134-hour barbecue marathon",
+    "url": "https://nation.africa/kenya/counties/mombasa/kenya-s-yusuf-garani-cooks-his-way-into-guinness-record-after-134-hour-barbecue-marathon-5551646",
+    "query": "Barbecue Kenya",
+    "published_at": "2026-08-09T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-09"
   },
   {
     "id": "f60eb3d10240",
@@ -351,7 +401,7 @@
   },
   {
     "id": "2c09aa28fe4e",
-    "source": "Dublin Live",
+    "source": "dublinlive.ie",
     "title": "Europe’s biggest BBQ Festival lands in Ballsbridge this August",
     "url": "https://www.dublinlive.ie/whats-on/food-drink-news/europes-biggest-bbq-festival-lands-34415234",
     "query": "European BBQ Championship",
@@ -361,7 +411,7 @@
   },
   {
     "id": "73462137f5ca",
-    "source": "Hospitality Ireland",
+    "source": "hospitalityireland.com",
     "title": "Europe’s Biggest BBQ Festival Returns To Dublin",
     "url": "https://www.hospitalityireland.com/food/europes-biggest-bbq-festival-returns-to-dublin-216698",
     "query": "European BBQ Championship",
@@ -391,7 +441,7 @@
   },
   {
     "id": "885cb9f66070",
-    "source": "France 3 Régions",
+    "source": "france3-regions.franceinfo.fr",
     "title": "Des champions s’affrontent pour prouver que le barbecue peut être gastronomique, \"on veut quelque chose de goûtu, de noble\"",
     "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/colmar/on-veut-quelque-chose-de-noble-une-competition-nationale-de-barbecue-a-la-foire-aux-vins-pour-decouvrir-autrement-cette-cuisson-3396232.html",
     "query": "Barbecue France",
@@ -420,8 +470,18 @@
     "date": "2026-08-04"
   },
   {
+    "id": "4463c269c649",
+    "source": "El Rionegrense",
+    "title": "Argentina dominó el II Campeonato Binacional de Asadores disputado en Fray Bentos.",
+    "url": "https://www.elrionegrense.com.uy/2026/08/03/argentina-domino-el-ii-campeonato-binacional-de-asadores-disputado-en-fray-bentos/",
+    "query": "Asado Argentina",
+    "published_at": "2026-08-03T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-03"
+  },
+  {
     "id": "98dd65d035e9",
-    "source": "MultiMedios Rincón",
+    "source": "multimediosrincon.com.uy",
     "title": "Llegó para quedarse: Se realizó el concurso bi nacional de asadores en Fray Bentos.",
     "url": "https://multimediosrincon.com.uy/2026/08/03/llego-para-quedarse-se-realizo-el-concurso-bi-nacional-de-asadores-en-fray-bentos/",
     "query": "Asado Uruguay",
@@ -430,18 +490,8 @@
     "date": "2026-08-03"
   },
   {
-    "id": "4463c269c649",
-    "source": "elrionegrense.com.uy",
-    "title": "Argentina dominó el II Campeonato Binacional de Asadores disputado en Fray Bentos.",
-    "url": "https://www.elrionegrense.com.uy/2026/08/03/argentina-domino-el-ii-campeonato-binacional-de-asadores-disputado-en-fray-bentos/",
-    "query": "Asado Uruguay",
-    "published_at": "2026-08-03T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-08-03"
-  },
-  {
     "id": "009e6891a045",
-    "source": "rionegroahora.com",
+    "source": "Río Negro Ahora",
     "title": "CONCURSO DE ASADORES: DOMINARON LOS ARGENTINOS.",
     "url": "https://rionegroahora.com/2026/08/02/concurso-de-asadores-dominaron-los-argentinos/",
     "query": "Asado Argentina",
@@ -471,7 +521,7 @@
   },
   {
     "id": "ed6f1aef3dac",
-    "source": "elrionegrense.com.uy",
+    "source": "El Rionegrense",
     "title": "Fray Bentos volverá a ser la capital del asado con una nueva edición del Campeonato Binacional de Asadores.",
     "url": "https://www.elrionegrense.com.uy/2026/07/31/fray-bentos-volvera-a-ser-la-capital-del-asado-con-una-nueva-edicion-del-campeonato-binacional-de-asadores/",
     "query": "Asado Uruguay",
@@ -510,18 +560,8 @@
     "date": "2026-07-28"
   },
   {
-    "id": "43629b5ad0e0",
-    "source": "選挙ドットコム",
-    "title": "諏訪の杜自治会のバーベキュー大会へ🍉夏のお祭りシーズンがスタート！諏訪の杜自治会のバーベキュー...",
-    "url": "https://go2senkyo.com/seijika/148941/posts/1449741",
-    "query": "バーベキュー大会",
-    "published_at": "2026-07-26T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-07-26"
-  },
-  {
     "id": "8d6d952a1e54",
-    "source": "Il Resto del Carlino",
+    "source": "ilrestodelcarlino.it",
     "title": "“Noi, campioni del barbecue”. Griglia e costine in cima all’Europa",
     "url": "https://www.ilrestodelcarlino.it/ferrara/cronaca/campioni-europei-barbecue-moretti-lzc4u7dv",
     "query": "Barbecue Italia",
@@ -534,7 +574,7 @@
     "source": "WREG.com",
     "title": "BBQ Showdown serves up competition, community support in Memphis",
     "url": "https://wreg.com/news/bbq-showdown-serves-up-competition-community-support-in-memphis/",
-    "query": "Barbecue Philippines",
+    "query": "Barbecue Malaysia",
     "published_at": "2026-07-25T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-07-25"
@@ -580,6 +620,16 @@
     "date": "2026-07-24"
   },
   {
+    "id": "79370d362cac",
+    "source": "Allgemeine Zeitung",
+    "title": "Ingelheimer grillt mit „Volmeat“ um den BBQ-Titel",
+    "url": "https://www.allgemeine-zeitung.de/lokales/kreis-mainz-bingen/ingelheim/ingelheimer-grillt-um-die-deutsche-meisterschaft-5897963",
+    "query": "German Barbecue Assoc.",
+    "published_at": "2026-07-24T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-24"
+  },
+  {
     "id": "c284d07993a4",
     "source": "latribuna.com.py",
     "title": "Torneo nacional de asadores busca elevar nivel de la carne paraguaya",
@@ -590,18 +640,8 @@
     "date": "2026-07-23"
   },
   {
-    "id": "d3129e406965",
-    "source": "푸드투데이",
-    "title": "BBQ 윤홍근 회장, 메이저 2연승 유해란 격려…“든든한 동반자 될 것”",
-    "url": "https://www.foodtoday.or.kr/news/article.html?no=206579",
-    "query": "바비큐 대회",
-    "published_at": "2026-07-23T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-07-23"
-  },
-  {
     "id": "12e97e138b23",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "title": "BBQ, LPGA 메이저 2연승 유해란 프로 초청 기념행사 개최",
     "url": "https://www.ajunews.com/view/20260723134118989",
     "query": "프로바비큐",
@@ -610,10 +650,20 @@
     "date": "2026-07-23"
   },
   {
-    "id": "bfb9fc30186f",
-    "source": "뉴스1",
-    "title": "'LPGA 메이저 2연승' 유해란 프로, BBQ 본사 방문해 감사인사 전해",
-    "url": "https://www.news1.kr/industry/distribution/6236140",
+    "id": "ab286f335a09",
+    "source": "아시아경제",
+    "title": "윤홍근 BBQ 회장, '메이저 2연승' 유해란 프로에 격려금 전달",
+    "url": "https://www.asiae.co.kr/article/2026072309344837386",
+    "query": "프로바비큐",
+    "published_at": "2026-07-23T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "d3129e406965",
+    "source": "foodtoday.or.kr",
+    "title": "BBQ 윤홍근 회장, 메이저 2연승 유해란 격려…“든든한 동반자 될 것”",
+    "url": "https://www.foodtoday.or.kr/news/article.html?no=206579",
     "query": "프로바비큐",
     "published_at": "2026-07-23T07:00:00+00:00",
     "time": "07:00",
@@ -640,6 +690,16 @@
     "date": "2026-07-19"
   },
   {
+    "id": "e51cd53b1246",
+    "source": "infocielo.com",
+    "title": "El Mundial 2026, EN VIVO: el emocionante posteo de Manu Ginóbili, Messi es el abanderado argentino, Marcos Rojo y su viaje a USA, el último asado de la Scaloneta y más...",
+    "url": "https://www.infocielo.com/deportes/el-mundial-2026-en-vivo-minuto-a-minuto-todas-las-noticias-importantes-del-dia",
+    "query": "Asado Argentina",
+    "published_at": "2026-07-19T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-19"
+  },
+  {
     "id": "143eaf63759a",
     "source": "El Periódico",
     "title": "España-Argentina (Mundial 2026): chistorra contra asado. ¿Qué se come en el país sudamericano?",
@@ -650,21 +710,11 @@
     "date": "2026-07-19"
   },
   {
-    "id": "e51cd53b1246",
-    "source": "Infocielo",
-    "title": "El Mundial 2026, EN VIVO: el emocionante posteo de Manu Ginóbili, Messi es el abanderado argentino, Marcos Rojo y su viaje a USA, el último asado de la Scaloneta y más...",
-    "url": "https://www.infocielo.com/deportes/el-mundial-2026-en-vivo-minuto-a-minuto-todas-las-noticias-importantes-del-dia",
+    "id": "a886e2ec42fb",
+    "source": "examedia.com.ar",
+    "title": "Ritual cumplido: la Selección Argentina tuvo su asado previo a la final del Mundial 2026 contra España",
+    "url": "https://www.examedia.com.ar/portada/post/87493124",
     "query": "Asado Argentina",
-    "published_at": "2026-07-19T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-07-19"
-  },
-  {
-    "id": "ca73abcdcd11",
-    "source": "Infobae",
-    "title": "“Este es el corte”: la intimidad del último asado de la selección argentina antes de la final del Mundial 2026 ante España",
-    "url": "https://www.infobae.com/deportes/2026/07/18/este-es-el-corte-la-intimidad-del-ultimo-asado-de-la-seleccion-argentina-antes-de-la-final-del-mundial-2026-ante-espana/",
-    "query": "Asado Mundial",
     "published_at": "2026-07-18T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-07-18"
@@ -710,6 +760,16 @@
     "date": "2026-07-17"
   },
   {
+    "id": "6aa78b0603ec",
+    "source": "Agenda Sorocaba",
+    "title": "Lucky Friends Arena sedia o Ranch Camp BBQ & Picnic Experience no sábado (18/07)",
+    "url": "https://agendasorocaba.com.br/eventos/ranch-camp-bbq-picnic-experience/",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-07-16T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-16"
+  },
+  {
     "id": "e1cb304bf687",
     "source": "Wichita By E.B.",
     "title": "New KCBS-Sanctioned Flavor and Barbecue Fest coming to Gilley's in October | Wichita By E.B.",
@@ -741,7 +801,7 @@
   },
   {
     "id": "6521c9ce697b",
-    "source": "Noordhollands Dagblad",
+    "source": "noordhollandsdagblad.nl",
     "title": "Wie is de beste jonge BBQ-chef van IJmuiden? BBQ-wedstrijd voor kinderen op het Homburgplantsoen in IJmuiden",
     "url": "https://www.noordhollandsdagblad.nl/regio/ijmond/wie-is-de-beste-jonge-bbq-chef-van-ijmuiden-bbq-wedstrijd-voor-kinderen-op-het-homburgplantsoen-in-ijmuiden/158653806.html",
     "query": "Barbecue Nederland",
@@ -891,7 +951,7 @@
   },
   {
     "id": "32ed8b4b5f3e",
-    "source": "texasmonthly.com",
+    "source": "Texas Monthly",
     "title": "Food Network’s New BBQ-Competition Show Stars a Few Familiar Texas Faces",
     "url": "https://www.texasmonthly.com/bbq/food-network-bbq-show-pitmasters/",
     "query": "Barbecue Malaysia",
@@ -901,13 +961,23 @@
   },
   {
     "id": "052c686db98a",
-    "source": "binghamtonhomepage.com",
-    "title": "The 5th Annual ALS Awareness BBQ Competition and Music Festival returns",
+    "source": "WIVT - News 34",
+    "title": "The 5th Annual ALS Awareness BBQ Competition and Music Festival returns - WIVT",
     "url": "https://www.binghamtonhomepage.com/news/the-5th-annual-als-awareness-bbq-competition-and-music-festival-returns/",
     "query": "Barbecue Philippines",
     "published_at": "2026-07-06T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-07-06"
+  },
+  {
+    "id": "b4b5101b3d04",
+    "source": "Outlook Newspapers",
+    "title": "Laurell: Historical Society Celebrates BBQ Tradition of Independence Day | Burbank Leader",
+    "url": "https://outlooknewspapers.com/burbankleader/laurell-historical-society-celebrates-bbq-tradition-of-independence-day/article_baffcc3e-a20e-4730-b4f8-1edb886a287a.html",
+    "query": "British BBQ Society",
+    "published_at": "2026-07-04T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-04"
   },
   {
     "id": "b973f2ee6e21",
@@ -921,7 +991,7 @@
   },
   {
     "id": "3b6a4a7d9b19",
-    "source": "Yahoo",
+    "source": "shopping.yahoo.com",
     "title": "How to host a 4th of July backyard barbecue like a professional caterer — without hiring one",
     "url": "https://shopping.yahoo.com/home-garden/outdoor/article/how-to-host-a-4th-of-july-backyard-barbecue-like-a-professional-caterer--without-hiring-one-145837293.html",
     "query": "Professional Barbecuer",
@@ -938,6 +1008,16 @@
     "published_at": "2026-07-03T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-07-03"
+  },
+  {
+    "id": "bbafeb332f44",
+    "source": "GVA",
+    "title": "Barbecue-expert Tom Bertels krijgt eigen barbecueprogramma",
+    "url": "https://www.gva.be/regio/antwerpen/regio-antwerpen/antwerpen/barbecue-expert-tom-bertels-krijgt-eigen-barbecueprogramma/158184343.html",
+    "query": "Barbecue Nederland",
+    "published_at": "2026-07-02T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-02"
   },
   {
     "id": "75ca594b310d",
@@ -960,18 +1040,8 @@
     "date": "2026-07-01"
   },
   {
-    "id": "d3c41d1d5a4b",
-    "source": "머니투데이",
-    "title": "BBQ후원 유해란·윤이나 LPGA우승·준우승...\"3400억 美시장 홍보효과↑\" - 머니투데이",
-    "url": "https://www.mt.co.kr/living/2026/06/30/2026063010330711193",
-    "query": "바비큐 대회",
-    "published_at": "2026-06-30T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-30"
-  },
-  {
     "id": "75979aade13f",
-    "source": "ajunews.com",
+    "source": "아주경제",
     "title": "LPGA 메이저 휩쓴 BBQ 후원 선수들…미국 시장 존재감 확대",
     "url": "https://www.ajunews.com/view/20260630140909806",
     "query": "바비큐 대회",
@@ -1001,7 +1071,7 @@
   },
   {
     "id": "c76c265cf194",
-    "source": "fnnews.com",
+    "source": "파이낸셜뉴스",
     "title": "유해란·윤이나 LPGA 휩쓸어...BBQ, 글로벌 스포츠 마케팅 빛났다",
     "url": "https://www.fnnews.com/news/202606300945016929",
     "query": "스포츠바비큐",
@@ -1014,6 +1084,16 @@
     "source": "아시아경제",
     "title": "BBQ 후원 유해란, LPGA 우승… '브랜드 노출' 효과 상승",
     "url": "https://www.asiae.co.kr/article/2026063014472315071",
+    "query": "바비큐 챔피언십",
+    "published_at": "2026-06-30T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "4938cc704b30",
+    "source": "매일일보",
+    "title": "BBQ, LPGA 후원 효과 '톡톡'…미국 시장 브랜드 인지도 강화",
+    "url": "https://www.m-i.kr/news/articleView.html?idxno=1386510",
     "query": "바비큐 챔피언십",
     "published_at": "2026-06-30T07:00:00+00:00",
     "time": "07:00",
@@ -1048,16 +1128,6 @@
     "published_at": "2026-06-29T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-06-29"
-  },
-  {
-    "id": "8809a95b0985",
-    "source": "選挙ドットコム",
-    "title": "【町内会バーベキュー懇親会 in 新川】",
-    "url": "https://go2senkyo.com/seijika/74099/posts/1424304",
-    "query": "BBQ選手権",
-    "published_at": "2026-06-27T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-27"
   },
   {
     "id": "52b815fe8d28",
@@ -1100,8 +1170,18 @@
     "date": "2026-06-24"
   },
   {
+    "id": "70572949f250",
+    "source": "radiko news",
+    "title": "イモト、イッテQ山男たちとジビエBBQ",
+    "url": "https://news.radiko.jp/article/station/TBS/136643/",
+    "query": "バーベキュー大会",
+    "published_at": "2026-06-24T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-24"
+  },
+  {
     "id": "bd8ba0c890ae",
-    "source": "Idaho State Journal",
+    "source": "idahostatejournal.com",
     "title": "Smoke-N-Wings BBQ Contest returning to Blackfoot this weekend",
     "url": "https://www.idahostatejournal.com/chronicle/news/smoke-n-wings-bbq-contest-returning-to-blackfoot-this-weekend/article_63f31a13-4b40-40b4-9dee-8aa973013b2c.html",
     "query": "KCBS",
@@ -1118,85 +1198,5 @@
     "published_at": "2026-06-23T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-06-23"
-  },
-  {
-    "id": "b4ed8cd7d4e0",
-    "source": "Vernon Morning Star",
-    "title": "Vernon couple conjure up silver for gold barbecue sauce",
-    "url": "https://vernonmorningstar.com/2026/06/23/vernon-couple-conjure-up-silver-for-gold-barbecue-sauce/",
-    "query": "Canadian Barbecue Assoc.",
-    "published_at": "2026-06-23T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-23"
-  },
-  {
-    "id": "44b530fb40ed",
-    "source": "Misset Horeca",
-    "title": "Dutch Cuisine organiseert plantaardige BBQ-wedstrijd: 'Als chef verwachten we je hier'",
-    "url": "https://www.missethoreca.nl/417286/dutch-cuisine-organiseert-plantaardige-bbq-wedstrijd-als-chef-verwachten-we-je-hier",
-    "query": "Barbecue Nederland",
-    "published_at": "2026-06-22T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-22"
-  },
-  {
-    "id": "fd117b3396fd",
-    "source": "WV News",
-    "title": "Almost Heaven BBQ Bash draws large crowds, record competition teams to Buckhannon",
-    "url": "https://www.wvnews.com/recorddelta/news/almost-heaven-bbq-bash-draws-large-crowds-record-competition-teams-to-buckhannon/article_ad0f78c1-43cb-4db3-bd62-d81e32e335ec.html",
-    "query": "Barbecue Kenya",
-    "published_at": "2026-06-22T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-22"
-  },
-  {
-    "id": "fec0140c3404",
-    "source": "beIN SPORTS",
-    "title": "Argentina trae el asado tradicional a la concentración llevando un sabor de casa a Estados Unidos",
-    "url": "https://www.beinsports.com/es-us/football/copa-mundial-de-la-fifa-2026/articles-video/argentina-trae-el-asado-tradicional-a-la-concentraci%C3%B3n-llevando-un-sabor-de-casa-a-estados-unidos-2026-06-21",
-    "query": "Asado Mundial",
-    "published_at": "2026-06-21T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-21"
-  },
-  {
-    "id": "2c22c67c7a54",
-    "source": "Infobae",
-    "title": "Gloria Trevi, Inspector y el Trono de México, conciertos en la Feria de la Barbacoa 2026: fechas, cartelera y horarios",
-    "url": "https://www.infobae.com/mexico/2026/06/20/gloria-trevi-inspector-y-el-trono-de-mexico-conciertos-en-la-feria-de-la-barbacoa-2026-fechas-cartelera-y-horarios/",
-    "query": "Barbacoa México",
-    "published_at": "2026-06-19T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-19"
-  },
-  {
-    "id": "118bb54c6b53",
-    "source": "브릿지경제",
-    "title": "[신간]‘생산’ 아닌 ‘분배’가 인류를 진화시켰다… 차영기 바비큐 원장의 ‘분배경제학’",
-    "url": "https://www.viva100.com/article/20260619500191",
-    "query": "KBRI",
-    "published_at": "2026-06-19T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-19"
-  },
-  {
-    "id": "1ad67794e9a2",
-    "source": "연합뉴스",
-    "title": "[월드컵] 한국 경기에 특수 누린 치킨업계…BBQ 평소 매출의 4.5배",
-    "url": "https://www.yna.co.kr/view/AKR20260619129200030",
-    "query": "Barbecue World Cup",
-    "published_at": "2026-06-19T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-19"
-  },
-  {
-    "id": "2fc9449b10c7",
-    "source": "아시아경제",
-    "title": "'월드컵 특수' BBQ…오늘 매출 4.5배 급증",
-    "url": "https://www.asiae.co.kr/article/2026061915431666920",
-    "query": "Barbecue World Cup",
-    "published_at": "2026-06-19T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-19"
   }
 ]
