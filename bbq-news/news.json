@@ -40,6 +40,16 @@
     "date": "2026-09-17"
   },
   {
+    "id": "3fe0cd177d93",
+    "source": "RUNNET",
+    "title": "【長田練】多摩丘陵ラン20K&バーベキュー",
+    "url": "https://runnet.jp/entry/runtes/smp/eventdetail.do?raceId=153872",
+    "query": "バーベキュー大会",
+    "published_at": "2026-09-17T00:26:11+00:00",
+    "time": "00:26",
+    "date": "2026-09-17"
+  },
+  {
     "id": "2112774a7c40",
     "source": "Kansas City Star",
     "title": "World Series of BBQ in KCK will be smaller, with fewer options. What to expect",
@@ -180,16 +190,6 @@
     "date": "2026-08-27"
   },
   {
-    "id": "95d7c9cff792",
-    "source": "huffingtonpost.es",
-    "title": "Ibai Llanos replica la final del Mundial con un duelo gastronómico entre España y Argentina: tortilla de patatas contra asado",
-    "url": "https://www.huffingtonpost.es/virales/ibai-llanos-replica-final-mundial-duelo-gastronomico-espana-argentina-tortilla-patatas-asado-f202608.html",
-    "query": "Asado Mundial",
-    "published_at": "2026-08-23T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-08-23"
-  },
-  {
     "id": "d2397bd19721",
     "source": "PR Newswire",
     "title": "Holladay Distillery Helps Bring Made for KC Barbecue Championship to Weston",
@@ -270,20 +270,20 @@
     "date": "2026-08-10"
   },
   {
-    "id": "cda220e193f1",
-    "source": "Daily Nation",
-    "title": "Kenya’s Yusuf Garani cooks his way into Guinness record after 134-hour barbecue marathon",
-    "url": "https://nation.africa/kenya/counties/mombasa/kenya-s-yusuf-garani-cooks-his-way-into-guinness-record-after-134-hour-barbecue-marathon-5551646",
-    "query": "Barbecue Kenya",
-    "published_at": "2026-08-09T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-08-09"
-  },
-  {
     "id": "f60eb3d10240",
     "source": "98FM",
     "title": "Europe’s Biggest BBQ Festival Returns To Dublin Next Week!",
     "url": "https://www.98fm.com/lifestyle/europes-biggest-bbq-festival-returns-to-dublin-next-week-2285350",
+    "query": "European BBQ Championship",
+    "published_at": "2026-08-06T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "2c09aa28fe4e",
+    "source": "Dublin Live",
+    "title": "Europe’s biggest BBQ Festival lands in Ballsbridge this August",
+    "url": "https://www.dublinlive.ie/whats-on/food-drink-news/europes-biggest-bbq-festival-lands-34415234",
     "query": "European BBQ Championship",
     "published_at": "2026-08-06T07:00:00+00:00",
     "time": "07:00",
@@ -341,7 +341,7 @@
   },
   {
     "id": "ed6f1aef3dac",
-    "source": "elrionegrense.com.uy",
+    "source": "El Rionegrense",
     "title": "Fray Bentos volverá a ser la capital del asado con una nueva edición del Campeonato Binacional de Asadores.",
     "url": "https://www.elrionegrense.com.uy/2026/07/31/fray-bentos-volvera-a-ser-la-capital-del-asado-con-una-nueva-edicion-del-campeonato-binacional-de-asadores/",
     "query": "Asado Uruguay",
@@ -388,16 +388,6 @@
     "published_at": "2026-07-24T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-07-24"
-  },
-  {
-    "id": "c284d07993a4",
-    "source": "latribuna.com.py",
-    "title": "Torneo nacional de asadores busca elevar nivel de la carne paraguaya",
-    "url": "https://www.latribuna.com.py/nacionales/locales/2026/07/23/torneo-nacional-de-asadores-busca-elevar-nivel-de-la-carne-paraguaya/",
-    "query": "Asado Mundial",
-    "published_at": "2026-07-23T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-07-23"
   },
   {
     "id": "d3129e406965",
@@ -610,6 +600,16 @@
     "date": "2026-07-06"
   },
   {
+    "id": "b4b5101b3d04",
+    "source": "Outlook Newspapers",
+    "title": "Laurell: Historical Society Celebrates BBQ Tradition of Independence Day | Burbank Leader",
+    "url": "https://outlooknewspapers.com/burbankleader/laurell-historical-society-celebrates-bbq-tradition-of-independence-day/article_baffcc3e-a20e-4730-b4f8-1edb886a287a.html",
+    "query": "British BBQ Society",
+    "published_at": "2026-07-04T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-04"
+  },
+  {
     "id": "b973f2ee6e21",
     "source": "FOX Sports",
     "title": "From poutine to barbecue, local cuisines give World Cup fans another reason to cheer",
@@ -621,7 +621,7 @@
   },
   {
     "id": "3b6a4a7d9b19",
-    "source": "shopping.yahoo.com",
+    "source": "Yahoo",
     "title": "How to host a 4th of July backyard barbecue like a professional caterer — without hiring one",
     "url": "https://shopping.yahoo.com/home-garden/outdoor/article/how-to-host-a-4th-of-july-backyard-barbecue-like-a-professional-caterer--without-hiring-one-145837293.html",
     "query": "Professional Barbecuer",
@@ -710,6 +710,16 @@
     "date": "2026-06-29"
   },
   {
+    "id": "8809a95b0985",
+    "source": "選挙ドットコム",
+    "title": "【町内会バーベキュー懇親会 in 新川】",
+    "url": "https://go2senkyo.com/seijika/74099/posts/1424304",
+    "query": "BBQ選手権",
+    "published_at": "2026-06-27T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-27"
+  },
+  {
     "id": "52b815fe8d28",
     "source": "TN",
     "title": "Asado y cumbia: así es la intimidad de la Selección argentina en Kansas durante el Mundial 2026",
@@ -785,16 +795,6 @@
     "title": "Almost Heaven BBQ Bash draws large crowds, record competition teams to Buckhannon",
     "url": "https://www.wvnews.com/recorddelta/news/almost-heaven-bbq-bash-draws-large-crowds-record-competition-teams-to-buckhannon/article_ad0f78c1-43cb-4db3-bd62-d81e32e335ec.html",
     "query": "Barbecue Kenya",
-    "published_at": "2026-06-22T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-22"
-  },
-  {
-    "id": "206d63e66bf7",
-    "source": "選挙ドットコム",
-    "title": "安城市 バーベキュー大会にお邪魔しました",
-    "url": "https://go2senkyo.com/seijika/186005/posts/1417812",
-    "query": "バーベキュー大会",
     "published_at": "2026-06-22T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-06-22"
