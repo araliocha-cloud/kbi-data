@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "id": "dbbd6ee04b95",
+    "source": "thepress.co.nz",
+    "title": "Canterbury barbecue team to roast the best in American championship",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanRjTEw0NlVZUnkyN0tyc2JvdEJNWWFWMVpJdVVrYkVBQVBEbzJjSmZ0NWFpU2oxdlQtYXo1eF9xRzRreEpjSkhxaHRtS21NWWxiVEktUjVVa05JbFVrQ0R6R3hXQkZDRndnWXR2V3VYd1R5R1M3NFB1aWpKSlR1VnlqcTNwcFd1WGpMX2hLcVFGSHlyWFFCT0dQeExyNDFjRHVndWxWeEw?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-09-18T16:00:00+00:00",
+    "time": "16:00",
+    "date": "2026-09-18"
+  },
+  {
+    "id": "d91f458c9e72",
+    "source": "신아일보",
+    "title": "'홍성글로벌바비큐페스티벌' 음식 부스 운영자 모집",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WaWlXS1BtSW1kMUZCNlpXQTU1RVNPSWhrX3E1UzA2ek9DQlBWYmQzbVdZcTMydkhvZEJiTjctbHdObElRNzZ0XzJkV0QtVFUtYW5NSXE5RWpoTTRlNFBCeFQ4eXZiUGRMVUxBZW40ckE?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-17T06:59:46+00:00",
+    "time": "06:59",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "7367577d761d",
+    "source": "v.daum.net",
+    "title": "바비큐 맛보고 노래 즐기고… 월산상가에 활력 더한다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ubkU0dEpjZk5aYlFoUElmSWNYaXVaQnNHVWU5c0h5cWRvWXdqU1R2NTlrNDY0V0pQZ1k3U29fMW9mVFVlOU50cll3ZmQzR2s?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-17T05:46:58+00:00",
+    "time": "05:46",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "4df05cfa4f6b",
+    "source": "중부매일",
+    "title": "홍성 월산상가서 오는 19일 ‘스몰 BBQ 페스티벌’ 개최",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53ZjhRMjYtbTk4cUlhUmc2aFVvSFNqZXYtdEFfRnA4akloeC16QUhjbjB5QTUtZmNfOTcwbmRQNG85dkJqeWVtanVubUJLVTFqYllKcFFpM0FPdWhxSHNacl93VnJYXzZmU2c?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-17T04:45:36+00:00",
+    "time": "04:45",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "bcbab24a6316",
+    "source": "메가충청뉴스",
+    "title": "홍성글로벌바비큐페스티벌, 지역 먹거리 부스 운영자 모집",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Q3FGV2ozSWFPcUlsbXYzbXdLMzBKZklPZURjYzNuRS1wOG9JSmEwQmZlU1F3Vk05VTNETFpweHZ3bkdRc3Z5YmZrbTVlcEhrRzU3VWtVb3lzWUdlY0s1bm9wdVhkSmZOUnJv?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-17T02:19:36+00:00",
+    "time": "02:19",
+    "date": "2026-09-17"
+  },
+  {
+    "id": "2423a8791c1f",
+    "source": "충남내포뉴스",
+    "title": "월산상가 스몰 BBQ 축제 19일 개최",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pTUREVmQyU1FzRDdRNDc4Qk5FRXNMNXNycEE5YUJ4bWQtMzdDMjJJVDd2WWhsNlBfM3E4MlZ2NVBBenIwSl9KY3V0TVRkczBIY3d1UHUwZHVoOW4wUmhVWGthWXBlbGhjOVhuZHh3?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-16T23:46:52+00:00",
+    "time": "23:46",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "bb215e201363",
+    "source": "kansascity.com",
+    "title": "World Series of BBQ in KCK will be smaller, with fewer options. What to expect",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX05EMHo5QkRVeVZBMUQ0QUwwZkpULXZVQnFVRExYeTZ3bk95VklaMF9heVE4dTNEczNZdjZVRnVVZ1l4ZkVwai05WlQyNGI5NkluZTNJLWNwM3VqNEtVU2pNZ1ZwOVJTTUVFN19iN20xQVRnYU1DbThja0JoNUswOGR30gGCAUFVX3lxTFB3SjhLalRnS2F3UTUzM0dhU1dEYVN2QXVTbDZFR1dGRjhBQV9ON3MyZDl3X3QtVkpLeWFUODAzUnp1RVo0NWI0VGZWaWlJaktOOTEtR3N3bHZkTXVOM2pVYnowYnVLNFRTUllIQUpSemlkdDJVZU5FUlJSNUxseWk2Qmc?oc=5",
+    "query": "American Royal",
+    "published_at": "2026-09-15T20:52:22+00:00",
+    "time": "20:52",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "3b9d412a1b66",
+    "source": "서울특별시",
+    "title": "지글지글~ 군침 꼴깍! '서울 바비큐 페스티벌' 예약은?",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zM09pUFd2T3BjbUQ4bzFYMlZZS1pCVVRqREJTaDFCRmpxc3BVUEt3cGU2aG5BeDJuMUU2OGlYeTRSZkVEZE5tT2JDTDVFb3FvMkZLXzFlaWc?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-15T01:37:00+00:00",
+    "time": "01:37",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "55195fe51412",
+    "source": "Infobae",
+    "title": "Mundial de Comidas de Ibai Llanos: Perú pasa a la semifinal con el ceviche y enfrenta a Argentina con su asado",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdDRqaVR3Q2V0cUNnR3NwZlRxOWJnWWpheFppcnV5VUtFS1UwTnRSQWpTc1ZURUxfZ3FRc3hiS3d2UFBoMUdrc3hGN3FoREVFV1RFeWlTUDU0d2diMkZGekdZX2F3T1psNkdmV3BIMG5mUkQwdjE0YkowaWZhSTdpWUdMVGpMdmlxTDdBZVU5dnNwTnVLSHlvSG5Rd1pmejhvMjFtX3dGaExtUEZzOWpIV09Gbmc4YmExaHVMUW5VU010eWZyWVJ2eFV6cmlOMnJmclNDcmJxcEFQbVZSZEhQU0FCRkTSAf8BQVVfeXFMTmlZVTQ3bDAtR2MxMmQ4ckFJcVcyallMWFRZMU94R3lqYWJrMmRpZERLTWxyZ1h3M2NlLV9nczlfVnFZV3R5ZDBpbFJMX2RTbjRBa2ZWQk9XbWMxV0lhdFpPWnEwbzd1X2ptSm1VTEI0U1BTeVNWd0pod1dqRENia2dydmMxYWp5WllmMUFMWlg4eTN3Vk1QQy11Q1dnVnMyRXdxSVhFOWJfc2NBMVdpX3NBUXNELWhBRGlFSTZ4aTF5U0VpNmtMamYycG5wZWEwTF9GSFllMmlack1vakxoekFIS3ZXbGRXVTlRTW8yUVhOZnBzUEZwVU1DOEV4ajJz?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-09-10T21:36:00+00:00",
+    "time": "21:36",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "4a8ffccab559",
+    "source": "Shelby County Reporter",
+    "title": "Mike Gannon Memorial BBQ set for Sept. 18-19",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0JNQ3ZPOHJMOUs2UzlwT2FTQVd6c29KX0pqWm9JRFA4MEIxNjdRNzhzQXhHRGxrazFMSzlPNlNac3o0M1B0TUc3SG9kQlpZQlhna3VrQTMtOVk5cXNFNUt6dm84bWZSckxzYnBoN0dRNlpWX1phenE5SC1LaDVjeWliYzVzUjVnakFSaXlKUko0UzNDeEFSSWZ3?oc=5",
+    "query": "Jack Daniel's Invitational",
+    "published_at": "2026-09-10T20:15:26+00:00",
+    "time": "20:15",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "b2cae3697e8f",
+    "source": "日テレNEWS NNN",
+    "title": "猛暑の夏休みは、きょう最終日 プールは親子連れらで賑わう 今治の少年サッカーチームは練習に励んだご褒美にバーベキュー大会【愛媛】 （2026年8月31日掲載）｜南海放送NEWS NNN",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWFWTFNrTmx4TFhodHhTMEN0bnpSenF2YWxxQWhTY01jUS1PRi0ybXgtczRfUWZmblZCN0RlV1lMc0c1Ny1iT1pFVEJOeF9YczNtMy1iX0lRQV9MRGZsT290U2NKYzA3eEJNQ0ltV0hiZk9YSmlOcW9ZV1pIb08wU2xUUUhIVXc?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-08-31T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "5a56778f34b1",
+    "source": "El HuffPost",
+    "title": "Ibai Llanos replica la final del Mundial con un duelo gastronómico entre España y Argentina: tortilla de patatas contra asado",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdER1SWdtT094ZEMwcE5pU2VHME1HSnJMaTk0WmNiRUw3TkJ1X1psSFRFR3l4MHpZWTdaRlQ5VDYxRXplV09xbEtzY0JmaTFzZnFIdzFRS2drTG5MeUYwLXlZY2tKMk9ZNnptbkUtdkQ4RmtoZHhnaGR2bnVEaU1sbXBEbGRNeVNlcmVQSnB3YXI3ejFERTlvMUNoeGtmVXRlLWlaM1JXaElIZTdJS2tFZFRCTWV0Sm92NkdFLV9lTWxXUEJaZEtPdmpFRGNZQm5DZjd2R0pBQnQxVU3SAe8BQVVfeXFMTzB3NWZ0QkFXMTgxM3RZU0xCMjRKR0VjeTREekxvbEpQbnEwN2NGbzNfTEs4WjE0QUFLRE52bUdZOXp0R05ELXhoQk1FUEdZWjMzUmtHdHl1Q1poMkVqaHNnaDcwMVdGT1U5cEc3NVdjbmpqSXNjWlR4aUFDTlc0SWRIZ09sZ2c4WHB0MHlYQkJOQi0xT1gxWGE2NGl4TUVaYjBiczN6SUdfWnpaOUhaR3RyS1praVgycG5GMzR6LWNmdEVQVThFTzJUSmxZbGlyenRBb3pWZHdpQV9PVGlVWnhLTUNUNUcxM0wtR3FjUEk?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-08-23T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-23"
+  },
+  {
+    "id": "c165aa277a3e",
+    "source": "PR Newswire",
+    "title": "Holladay Distillery Helps Bring Made for KC Barbecue Championship to Weston",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQkRleEJLYVJJMmhVTU1SRnoteDRnemRKQXpaQkwzc2xONHZOd3ZVRjZfNHhQdUdWeWx4X0NIVld5Y203bG4zVnRvcGlpTHk5anZtNjktLXZEUEtPNW9EdEdFc2k0SGh3NWI0djJ1emZ1bVZYc0FZUU1rLWlQTjI4cTVDQTl5c3o1YWl6eWYyLTZiQ2JoQ0poVklUbkMyRjhVbi1xOGZ1c28zdndjSC1VQnBTNHhLa09ETDNXeUk2SjFKZDhOTEhSc0Z0OA?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-08-21T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "567da731351a",
+    "source": "El Observador",
+    "title": "Los campeones en un torneo de asadores en Argentina fueron los uruguayos de Fogón Criollo",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWFYaTdPNGRISTE3R0JvdW9sbzhacnJobHVRUkRlOWJxbUczMnpOZHUwRXFzTGV0b205TW9IclNHVzRuaVpDMEJVQkp2NWttU1J6RWhnTzJHVjBSSUlPOWdTUndybEhMMUxzemlkZUoxMkxzQlRiMTd5Vzc3ZXpjT1MtLVRJbGJVU0MzYmt4akhBZks2bHFEUXVaWjM0dTRaOVE5ZkFULXZHazZPb19oYkpkZ2hxbjM4LWxINDlUR1_SAcYBQVVfeXFMTjVKOWhzRWNYcHl4cEw4R0dmX2VEVFRkNjVHdjlrQnhNbDhVbUhzV3UtdFhKcjRmS0FqSmhPdDdXSnAxVzZFaXFUaWtKcEVlS3pmVU5NblY1a3pkemdtSzg5TXBzb0J4cmdRbDhJUzRvUzl1aXdWbm5YRUpoZEpKUU9yYl94RXBJVjBWb25kYndjWE1sVmpmZHNCVERoQ2JCUFFHMVo5TXFjQWZWYmtNQUxBT0Z2TmMzai1uVjZCN1JiVmZBdFRn?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-08-17T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "6a864d6460ec",
+    "source": "Río Negro Ahora",
+    "title": "CONCURSO DE ASADORES: DOMINARON LOS ARGENTINOS.",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbk94MU5mLVd6UDV1ZVhqQnBvNjZuaHVpUmR0NE1MLTk4czVvSFJFcE9lTm1RZU1uNEtwNnZhd3hnS1VVeWRIb2gtdndDcGtnODFhYU1iQ09qX25wNWRXOE96czZLaGh1OFY2U1ltLWk3dENEQ0NmQUwwWGtCMFZhbnNDeTBGbURuUUMw?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-08-02T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-02"
+  },
+  {
+    "id": "e687b95e62d7",
+    "source": "스포츠동아",
+    "title": "“일론 머스크인 줄 알았네”… SNS 달군 中 ‘도플갱어’ 바비큐 사장",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aVUVRYmdQa2RMeVZ3cmdSY0JaQkJqQVJjWGRqX1MyUTJwMG5lWm1YQWxkUXVXcGVUbDhNSjdOY3AwWm03ZTA0TG4zcXJpS0UxM3pJZG9kbFptT3dGSWVjdzhjanRfQ0NNMWZmS2tjZ3M?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-08-01T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "e83ff19f3c4f",
+    "source": "WYMT",
+    "title": "Pitmasters compete for world barbecue championship in Knott County",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbDhFTUlla21tM0xfaGxlWS00S3c2TDY5eG5hSzZVbVZlZnp4UmM4My1aUjdZSGl3bXNvaGZSc3JpUDdDS2tKVHAwTHZOSUZiVUNqbU16TWlwNGtCUzlld2ZMVHg3a1lHVW5OdTBJdllmVmpPa0JXbklXdUwwRHRpcjlyOXItMzhBNm10TXIzUTBuN0dYTHhn0gGrAUFVX3lxTE5MZXJHdEdGSXNFbm9objBnVUR2LXdtMFI4OXo4TVFhWngyaGNVekVoNnlXZnBSN0lwWDdueEppdUFmeHV1MmktWEJEUS1vTlVGTi1EZDh5VExhRG4tU0xReEt2SGg5ajRmYUNOaEJIREJya1hEamR0NUpIcXdhTEFHdng5QUdZWXJtbVpBT1RQUDZFLWpKSGRtQWpGOWZuS3NzLUJUVkcxZXR2WQ?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-07-24T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "a74a77f18cc4",
+    "source": "latribuna.com.py",
+    "title": "Torneo nacional de asadores busca elevar nivel de la carne paraguaya",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcTBpbzBBY1Y2cGpUNF9tTkRySjZsakJCWEZwNWNhY3RIcE8walJuRG1WWGhoOGp3QlI4MERrbGtCbGIyZmh5NEFLYXJJT3k0WFlORDZLNXZpUHV1dnFUT2R3Q05XTUMwU2pZZjl0eEtSYXhQYjlDRkt0d1RTajNnS0NBd3RTZXZuaFdsV28zZkkyREZoVERmXzBIN05NTmZINjMwaG9pR1dmZXAtcG1feEdVbHVHcTM5cWk3XzBCcng1cllrT0FF?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-07-23T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "4ec5f101f5e0",
+    "source": "푸드투데이",
+    "title": "BBQ 윤홍근 회장, 메이저 2연승 유해란 격려…“든든한 동반자 될 것”",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wckV6ZU5sOFFfM3d4LWdXdFJQT3RaMVZfZHpsaERVT1k2aU9CNkE5dWFLSWJoYW51dFFWMEtIQ3BRN3hVdlJpeWk4UWlNU2Z6a2VWVlgybnNqNVp6Xy1DZnowYUk2QQ?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-07-23T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "0a87d505137d",
+    "source": "핀포인트뉴스",
+    "title": "유해란 메이저 2연승에 웃은 BBQ…미국 스포츠 마케팅 확대",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90NGk0cEdRLWhSVnMtRGdzeGVYTW16a3BhSE1TSm4tN3hmRE0xNXpWVmgzdlVvaHB6QVN2a1N4LWRoVzlkOW9iV0lrelZaTi03T015bmRaN3ZkMi1SUGdySlZZcnFCZmRNZGd5VHlTTVcyLVXSAXdBVV95cUxQTVZldGdreGVEVmp0NHNXajR5TFlOOGZzcTJTdVEzVldNWnFQZXc1SWItMlNNWWNfTDFLZ1ZQU1AtdnZNQk1zUjVFU0pSbDVJZW5vN2ZpOVFpSk1QVWlZeHpsV1lnbVdOd2hMU291YU81YTRXTGtRdw?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-07-23T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "833ecb5f81e7",
+    "source": "Chosunbiz",
+    "title": "BBQ의 글로벌 스포츠 마케팅… LPGA 메이저 대회에서 결실 - 조선비즈",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXpEMUJ4UTBhcWcyb052dWRtY0YzT3c0c2tvNzlOQzRZT2xWLTZwekxjQTBXRGtlMVMtaUc1U1hpMHBKMVdJRDdNUXBKQlNtOHVvU0YtSVJ5RTlpOVcySy1ZYW1GUkktQVAyS092T1F6NmduYTRkcHh4bXhsaDFDQlJpQUlDUdIBmgFBVV95cUxPUk45a0Zucmd0MHVETGU3b0pXT0xuR25DbnRVLXFkRUdjVXFLRk8yelVhNVJoNU5IeG9CUUM2alB1X3ZVOXZFSzhkZXhhUE5aYXgwSURPeVlmUXBUUXRuNmU0YURMdjdKMTRsSUllakg1dFZDNDAtbHZPV1pQeWhTNnh2MTdSZDdfNG5adDI4UmFONVo2STVQYXVn?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-07-21T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "400122faaabd",
+    "source": "Infobae",
+    "title": "“Este es el corte”: la intimidad del último asado de la selección argentina antes de la final del Mundial 2026 ante España",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaTlxOVlPWFZuYjJaaTdOejE4c0pha1V6M25sMER3RmkyZXJaY3B6UXNhNnZFNExqM3JCdmh6MUFYNVE1WkRFVVVwM2J4N1ZSd1ctajBmUjg3dzUyZ0NLMWZ4aTlFLXl4bjhMUHlrQ3V5SjRMT3AxdGhKZzI2dW1pZzY5Q2dHU0lOYmNPNjEyLTVwZU5KTklwUnc4NlNYLW9hd3U1QndYb0lKY3RHYzdsWHdJTUNmNlI3bk9NYjFIOGJNRmtZazNYUTl6RmFMbFktQW0wa1RkamZqcU9peFNsZVF1ZEtOdHBfNEctRXpnbnNSVzlYYldR0gGSAkFVX3lxTE1RZUExTHNKWWJkMVhLZEtZY3hIS2JSNGZrSVlFbTA0UXVSX3VUVkZZU0p2aWhDYlFzczVxN0x6ZlFWWjQ4OUlGak0waVFBNDdRUThBaGRyRmIyczhWX0JrQi1HdGZkVmdXNVBiMzAtc013Y1dOS2RJZXBGaTFJUWw4RmhpcFg3dG9WclJISkR0eUk2Q05fdEpMYmJjVGE3c3BCa24wczlwSkZnZFhacmNXenYzSXQya3ZjS2lWS3lINTlNZ2YyZXpJMG1aZUtJOVU4aUkzSGlLU25wbEp5SFZidkVpVHRPRkRpNW5NLTE3Z290eU5TeURIWUtUdlFJN3JLQ09oMUVzU3BBbmEtckZJVmc?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-07-18T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "d58345429817",
+    "source": "UAゼンセン",
+    "title": "各地協でコミュニケーション集会を開催～ボウリング大会やバーベキューで交流を促進～",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ucEZSdExTLUNOUDQtMGJWUXN6X2tmMzhaUVZlaG1KR0lpdFpLcnBBZFNMZVhxQ2Jyd0NSVXZFeGJkUGxRV0VUYmpOMDFTa1k?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-07-17T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "34af40b65c22",
+    "source": "Wichita By E.B.",
+    "title": "New KCBS-Sanctioned Flavor and Barbecue Fest coming to Gilley's in October | Wichita By E.B.",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWFNVmJ0dk5fUDEtNld6QjljZ3hnZDJIbUdyNmlTWHNxaGxnVHd4WHhhWWt0MzFiTmlJTWFPZzBpcktxSHJ4ZmlhaXBOWjVMaGdsSXI4VzZ6TWVtTVBvdlNJWWlrOWVzamw4cGxOZ04wVUQ5QXhLZThFbjlvR2cxTE5IUzRXdTg4VGNVYnZ2LTJaS2VtZEp0c1ZOc1E2ODJxdHRPQ09vNlMtVVFva01HTExkUkzSAboBQVVfeXFMTjVkRjlNVVJHczdmX21uRUpVRU5hTGUwR2lJZ3dObnRJNHc5cVFEWlpjWHpFQzVIWXhjWmhYZFdZUEJyb2N6aU5wNnVMVThwaHZlSV9DNmE2ODFOS25kTzcwWWs4cUctN3FUTzFZdUdJRVFyeTBOZzl6UEVPdnRBeURhYVVKUy1yME5raktESFVPcU5VZmJTVE80ZlpIOWNUTnlrWTM5c2tUUGVTM2ZmcHAzaDFfRVptRUpB?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-07-14T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-14"
+  },
+  {
+    "id": "01a194844e90",
+    "source": "Perfil",
+    "title": "Argentina despidió el búnker de Kansas City con otro asado Mundialista",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNG53ZlllWDFBOEx1WVl1a0NSWWFYdlFXTzEzX3pTOFdHYnNYUGxoRV9SWUVLQU5oZFR4T3RIVmtXUk1Zc2U1aVhtVFpnM0d0MnBJQ0d4UDJWZTFrT2tKMXpOY2NEOVowcmdwWk84LWhCSGwzcHpIdExoUHVWYkYzLWRPRnQ0c3ZFUmExdGd2RHdYWDF0T1psQlZaell6Y2c3bzdMRnVuLXh3ZU05UU4tWjVHNTFOV24xWW1SOFh6dWpqOVFUX0FUcHowRHJkVmV3b1FnTmk3VEFBRk9zd0VPNlpZczNsQ04wanU3ZXZQa0hCYzJxUGQtc9IB_gFBVV95cUxNWlZKQ3dPSVdOQWRoTUV3c0lZQVBGSHR1X014MjlCY2sxcjUwNDRZM18tdEpPeWZZdGV3NEpXb1hwQkVadFVlU1c5TEI5OTJmbUYydG9abWJqLUozSjA0Y1lURjZYSGxJMk9OMFBrdkJLcWl1R2ZWVlZVblVFSTAzbWNlSkRsRHlNdXhEeGlLTi0wVkFhZ1I4NEx3bWJMR01yY1Z5WkZJOWdBaG0wd3lFM0xIOVVyWWVMMGpWNmNldkFUOEdfcHF3UGdHNXFxdVYzeXBraFRRdGRQVlN3ekJtVldGTXFGOG9pQUdHdng5Tk5VajVfYlVka2I2VjlhQQ?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-07-13T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "43fdc45d972c",
+    "source": "0223.com.ar",
+    "title": "Asado y despedida de Kansas City: así fue el último rito sagrado de la Scaloneta antes de Inglaterra",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZDJiSEZrZ29oRTZDOEs0Z1VxODBDNklWT2lfWXJOZVNvWXZibWJTeHFvMXJtaE9sZXdORW50QnlxYXJmZ3NRVjhPdjE4allNM1NOQ3NnaHhXdG9KaGVTVmV5NmNLZERjS2VTdnp4UXNlZGdCUkx2blZzS0lCYzJTd3RnSmw1NHFDaV9pLUxiVkh6VHhHQ0p3eUJlaTFsbkRsX292Y1dpajVDZ1hUZFE2UDFvOTZkZG5qbnVXbzhKS25qdVRJaXlRcmFhZVV3M2hSZ29kS29CWmZYNUlvdUlR?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-07-13T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "c4f25c2097e1",
+    "source": "Radio Mitre",
+    "title": "Así vive la Selección Argentina la previa de cada partido del Mundial 2026: asado, provoleta y cumbia",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWnMzdmYxSGpUVWJqemh2RHJrRFZSekRYSVJPZmE3R2EzUEc3WnA4eC1oMEpJSWY5N0RuVF9MeHFTM0tkeERvTkxsX0IzRlBvUnJwY01Oa2c3YW5RakF6dFNlLU1qTy1adkxuaUQtNy02SC14WlBnc1p0NThlcDJUTEphVFNvRXFMMzJnbXNud1lwRGNqU0JwNkl2UXd2MjZfemY2aXhuYWh4bDZ2aEZqVlRrU1FLR0JzeEUwME1MYkVrdFdBSWdSX3ZEX3RFV1YxZ21wM2JIT2VGSkk?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-07-12T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-07-12"
+  },
+  {
+    "id": "0586286188bb",
+    "source": "아주경제",
+    "title": "LPGA 메이저 휩쓴 BBQ 후원 선수들…미국 시장 존재감 확대",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSaWF4MGhCSE9CTm5TTzZUeUlWMG9hZ3RjdzNSSEtRSDk2Zk5MQVE5RF9HUW9XTUxJUlVkRGpGbkItQWNsY0ZJMGJZaE1PVk4xVFRIZE95WjF0QdIBWEFVX3lxTFBkTnlyOWR3TlFxM0F5cW11Q1BXVHhMQ3RsRDVveG1GeHFDRkYtLV9kTG5kWTUwaUxwT0ZCZlNhZEY2c21yMExURVlUeFdEa0Z3cnJGQWpLb0s?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-06-30T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "94e73a1d9850",
+    "source": "sedaily.com",
+    "title": "BBQ, LPGA 선수 후원 효과 ‘톡톡’…유해란·윤이나 메이저 1·2위",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vWWt4MWIzLXptaHoyRlJKM2RiTXlCM0c3OW9fUXYwRG15TDV5bG9XTFZYV29rYnl5OV9JLWU0dDhBSE1LVENwZTBQWXg0dW05TkHSAVNBVV95cUxQN29VWHBOWTVxVmRuanJyXzljOEtuM3B2eVBBTFA3US14dmRLMWk2WmVWQUlfQjFlYm5UemRjOEtWZ2FGN2RfMF9Sb1R1UTl0ZlgtWQ?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-06-30T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "b0f102685c42",
+    "source": "뉴시스",
+    "title": "BBQ와 성장한 유해란, LPGA 메이저퀸 등극…글로벌 마케팅 결실",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkSlp3T2dWcEZPajVWX2tqOWpOTEIxY2tTUEx6SVpnLWZxR041NXRFdGRRVEh0YW1pZnJHNXpHYm9lU2ZwQWI1cGphVm5rcVlNZ2VPQU41NUxoQzR3Y21xRNIBeEFVX3lxTE1mMk53bjR5Z2p5emNjNkxpbm1YQi1LUjZKdkhTLVl3bUpMUzhYam9xTmZRMkhoMU9MLWtTd1BFajRaeTY3R3JTZ1lBN2FTSkVCM0JJWlBrWjBTWFRiWUhnYjFNYWhHVmZnbWhLa1VmdHVrcFFCTU5fdQ?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-06-30T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "6e538280b66a",
+    "source": "포쓰저널",
+    "title": "BBQ, LPGA 메이저서 1·2위 석권..美 스포츠 마케팅 탄력",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HN2c0M2ktNDRsaWpFazRWc2tudjR5UUM3ZDBnWG54azlTUkFmRHNsbG9leWR1aFQ4bnMxMm1reHluNTh5aWkyVlVQc2MwUmNLTEN6dFlMV0Z4SDNUQlh0SEo0OTM?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-06-30T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "53b11f8b52a6",
+    "source": "파이낸셜뉴스",
+    "title": "유해란·윤이나 LPGA 휩쓸어...BBQ, 글로벌 스포츠 마케팅 빛났다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4MHBOdzQ2S2JYM3ZwalRobTY5Q2NWb01fZGdoVUFaU2NCODFEQUNYZ2lxZmJMeUlCcEg5OXRNR3NtTnBKVG1FV2dOc3RiWHFVdmZFNC1BYTRoZw?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-06-30T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "4cdedefe54cc",
+    "source": "TN",
+    "title": "Asado y cumbia: así es la intimidad de la Selección argentina en Kansas durante el Mundial 2026",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd0JiU2RYM2ZZenJhOExxcmFWeEdMQnVTQ3VDazNkM3lIRlN1NUItbDBoX2hHb1ktTzRkQm9sNjVfMWxQa3FlQnJlc0Y1aXNCU1J5Mm14cEVrcXpPTDlROFFRaDVic01lcWVwMUJJMm4tU2xjeGdLSUd6a3lKcjN5cElVQnliTVFfUFZlblg4YkVhVmU2a3hDcmxkelNaZlhSUWhzLWRFMkxmR2NuNTRsWjZBZ2EweTQ2YWFsamZKWGpXV3JXdmtlQmNhUGdRaEJpQktCVm1nZFVEMTd4OXZj0gHzAUFVX3lxTE9RYXd3U0VDdDFLZXNIenplWERsNXBpenVzXzBRY3ZMRlRUZlowOXZwQTFaWGNHR2M4dmY2WU9HRHFaa25mcFZMZEw0SU03M2RHcWdrVmtRWkJobjRjOTdKWXNjTElFeHNZeVdHN1ZSbVJUdkZTWWN5eHpVcmExYkVKRUpqSXN3RThnV3ZuaG92bnAweWVJWUpSQm15M0FBMDE2eUdzczNXUHlQcFJqMWJVb0pJUGdOZGczMTBON2JyWW5jSWJVMlpmV21pZmNwWGY5LTMyX1FWMHpNejRneTdCNlZoOVZoZTc4MWdMQ01uejRCZw?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-06-26T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "06731f80b904",
+    "source": "관광레저신문",
+    "title": "[한 그릇의 여행] 캔자스시티 월드컵 경기장의 명물, 바비큐 브리스킷",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRmNCV2J5VmpWN09rQlRkWnA0eHVKRWVva1pDSnplN09QUk9BNmlMVWo5T1lmQTllT0pjZ0hyeGM0dlAxaTM3X0FiWU5oX21BMnRwUDBWSDB4TFc2M29hUzBhMzJ0YnFKNmc?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-06-26T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "0e214919019f",
+    "source": "Rural Radio Network",
+    "title": "Sandhills Smoke Show National BBQ Competition Coming to North Platte September 25-26, 2026",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXViWE1UbHd0dlBzdUNKSU1MeENEVXdIM1psSU5yX3hiNXNCZDIyU3BBdF96ZG4wT2Q0N0NLbVUxODBLc0FNLXNjeTA1SzUycDA3UHBRMWt3OG1idWtJa3JyNmpfeUVST1dXS0drclAzd0hiazcwRDhYVFhCOVJfQlBfa3doZm44TXB5cWtaYzREQjIwQVBnOE5FNHNPaEx3TklmT2p3Q3hWdnBMb2JMZU9DZk44bDc3SHFrSFNJcHFVNHE1eXF5WQ?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-06-24T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "6ca96a9bfb18",
+    "source": "radiko news",
+    "title": "イモト、イッテQ山男たちとジビエBBQ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1bzdmamNibGJBeHowYXpuNWkwZ0JMRHF6SktsR0NRVlZxQy1uUk9IczFuWFhUb0FrUVRQRVRObVp3bFFtMWxhbElzLVk3VkpaY3ZWNy1weUlLWWlIN3dV?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-06-24T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "7f31d9ade3cb",
+    "source": "Idaho State Journal",
+    "title": "Smoke-N-Wings BBQ Contest returning to Blackfoot this weekend",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0pQNGZOb1pGcl9wcGZ3NzdCTFVsRE5TalptaHhDY2QtV3M3S0NkTFQ3S2kyWWRsSWtyek5fb2dleS05eWFWWS1wOTk4aWxGZDZqQVlNQWoyckpoQUxlWmdFY05qb0dVbW5ZRTZodW9tODJ6U1R6S00xUmdaOUdXa1d3dEpOU3ZuY2ZJM21KQ3NuUGJOb2dlXzFXdjFFMnUtU3FEUUxWX25DUW51Z1hpbGRLRm52S3M4NUJKQ1kwN21yejd1N08zZElzcnZ0Z3dzR21iWXlqUDRPaE50WjBCZ0ZGN1N0cjlTRUlWeU9BUTBLQQ?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-06-23T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "a9e6e72cb6ce",
+    "source": "North Platte Post",
+    "title": "Sandhills Smoke Show BBQ Competition to Debut in North Platte This September",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aS3FTQkdIOUNZUmJFRGFZbTd1bFlicWVheWRnc2JDanRXbUdXbTlnY2ZscjNNYXNlaGZ3azE0a2J2Xy1OaUwwTTZ4T1RVZ3hpMHlWcnp1U2lLSk1sZGZheGJrXzZWVnlTN1dweXZKYWRiRllrVVptMTVR?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-06-23T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "32d771d5e5c3",
+    "source": "選挙ドットコム",
+    "title": "安城市 バーベキュー大会にお邪魔しました",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9USzVGZ2swUDRrbnF3U3JvNXV0VDk0eWlUS3c1aWRmWGRFWXZsZTJSZ3pyTUFJV0hEUHdqeWtJMTF5U3F4bkd1Z1ZLNmtKVzVCRERPWE04cXFUc2pmN0t3?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-06-22T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "8198291dae76",
+    "source": "beIN SPORTS",
+    "title": "Argentina trae el asado tradicional a la concentración llevando un sabor de casa a Estados Unidos",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZmcyT3hWWFFkbC1abi0teFNnbEVxcUlEZDZiZlRqM0p1dWR1SHotRlQ2WlJwZGwzaThNVUhLdzhWZ1F1MDZ1UHpCWGtBNlo0T0ZwYXhFcGVXa3dRSm1UeGI4WmI2Y2FkOHFQcnZjMkF1V240WUIzTkt2MlR4ZDQ4b2tXN1RvZ0drY2JXaktueFRCN1RtUEdha2t2eVNwcjhlUE5ReDVUVXd3OWEyTXlNYVN6eGJpMzYzNXkxQWg3a0JPeV9ndGIxM09hb1AxdUprbnR5dmN4amF5TXMzSGY5S1NSemhNMS10czdMNS03dXJIQThISlhwblhzSnV3aVdJUFRxcUF2cnBvRjU0LXhfZHEzcVFkdHQ1X2NxQjhEWUpPUVluS3c?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-06-21T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "a36ce86d002c",
+    "source": "La Gaceta",
+    "title": "Tres campeones del mundo comieron un asado preparado por una familia tucumana en Kansas City",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjZ0Q1ZvQ2tmYWZIZ3dVMUVndE1FbDRwdE81SFBqWThySnhrQklpem1nOU9oQWtlcjZkQU9BWmJQU2tReU0tR0lPRjBpZkdpazJhQ0tJSE1UWEZ4LTlCVEYtSzRqd3czYUJFWkxmQTVub1lub253WDMtSUo2WnNyRUpFMnRPR2l0bzJGT1NGczZvLVhyOGxhSlhXaVBHWk5CLThRWFctTGRLNDF2MUJONEhWal9Zbzg4bkx5cTZGQ0NkQW1PcHhicGc1YjhXd9IB0wFBVV95cUxOVEVWb1IxM3JqekFYd0JYX2pfRkgzRlZGQUFndVpxUGZUY0NNdHdEeHFaWHMwWVJDOGhveE5NOUl1Qm5CbHJaQmt4QTdOeTQ4V3pOWDMzVWdEUmJoVFQ3UkRjaFo0WHl3VXctb0RlY2ZCRlVuNEQ5b2g2TEVuUjJ2YXlYYkxwdUlEM0dUSGZLd1dYMl9UbVREeWU3NDRmOFpRQlhRaE9xbzFVSExoeVE3M0p1ZFJRSEVQT3NtOFpGR3VPTXV1eHZITzJ0UTZHNzMwZ2tF?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-06-19T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-19"
+  },
+  {
+    "id": "41436ccdd887",
+    "source": "The Ardmoreite",
+    "title": "BBQ champ: Ardmore resident headed to Jack Daniel’s World Championship Invitational Barbecue",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkdsdG80WE85aXFzdElzekpBbVRKNEpuZ3pBM0lOcW5TNUZZdUYzZW4tT1ZscFp3cWxLaFFIbHViUmtOVy1PODBVbGM0UjlMcWpqS1N6cWRmOS1OWHV2d1g5SXN5a05XV0hMVHF0TmJBVURDa25pUVpDU18xY2dGQlMyWlhjQXU2SC1mdU1WckRhRVR4YnpsMl9lUTYtcEF1X19VMFVkVmFOM3pPR2FUYkFIYWR3cWdyaEE?oc=5",
+    "query": "Jack Daniel's Invitational",
+    "published_at": "2026-06-08T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "a023a9f841a5",
+    "source": "Jackson Progress-Argus",
+    "title": "Caston named to American Royal Barbecue Hall of Fame",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM05jeDFoZGdPY3lFTVlKOFN6TEVtb2U2aTJ6VDBIMjh4RGRHSnBWZmNTRV9rbXhST1dENTZyaWNTYmYtLWk2VE9KTjJsNTR6dklQSC01VlYweV9KZXhJM3h3UE1FdUJJRHkyVG1OQnNjc1ZsbE1MaWFwWnRmNUtFNWQ2VEFWN2FUTTZqTVhPYUZfM3VVQ3R0aXZTVnhaNVdMMk52ZW9CSzFNUmhENG52eEQxTVpmTi1neWFnWkFySDVZUHhBYnVid0lyWlhQbGZzVEw1cmxhYWtJVFhpUEE?oc=5",
+    "query": "American Royal",
+    "published_at": "2026-05-30T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "967178955cee",
+    "source": "Diario Chaco",
+    "title": "Un asador saenzpeñense buscará clasificar al Mundial del Asado en Colombia",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1FYSTMzUW1BX3cwZWlsNGc4c1pfdER5d3NUOFNyWnk1UkRHVVY5aF9ReFdQMkpZektEMmN1Tmtqc1hYR0lwbmF1c29zVnZHbDJ0bVAwLW9ULWxsd3lMWEZoU0FXanNNZkhKbG1qcFRTQ01VUDFxOVpRaHV6RmFQLWVTRXFMNEJkdFRGUEpJZldZWWxNMVdweWY3ZkdYQ1NaQldjdTdSQTdRdVZ3b1E?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-05-21T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "0840c4035448",
+    "source": "IN Kansas City Magazine",
+    "title": "How Q39 Stands Out in America’s Barbecue Capital",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakZIOF96eUhiUjN5MEdtMEFFSjZ2TEhmUGpEZm9OSXVzV0VtcWpzZGpVT19NSGZGZ2lDbEJ4czNpeHlQWHAtZzlyby1HM25UVnAwcWVFTXVkWHRjRm9MN3c1Y3FOak91aG9LVFRUN25uTkRHTDBHYkJmUng0aXdpRThR?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-05-18T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "555c4eb2396c",
+    "source": "The Business Journals",
+    "title": "Photos from Memphis in May's BBQ fest",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRkFibEh4VnNBV2dKU0RCSWpkMVdJeEtRanB3dmdKVTJtQlJyY0Rqd000WkZaTnlNU0NkM3QwMUlDLXRfOHlBblppTmVtZVR3ZXdfTHpUVVZOZUh0eHZXTzFWWGhSMHNsUkgyU0RidDJzY1AzTUVzZlZpcTY4T3lrLXFOVmhLdTVRbnMzTUdmY0NiNkhLSEM0?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-05-18T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "cce86d8acf16",
+    "source": "WREG.com",
+    "title": "Winners crowned at 2026 World Championship Barbecue Cooking Contest",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcEZ6ZHkwQTVwcVh3Y1J6aFBibVgyT3pxVDRJZzRsTUZxR05KQmJ6SEExS1FJYmpWSGhmRTIyVUFRLUlsd0djOFJnbEVob1p5aUhPc3FtdnF5VzF3V0xMY3JaQUhoRnlWTlVvX3EyaGpWWTdBbkN0MXI3OEJDa1ZKdGEyUWs1M2EtT1lhWU0weXlod2dM0gGaAUFVX3lxTE1oeXlYSjVGSmMwWElYZ3g3LUxXQUFKdzNjSGwyVzlWQW1Lb2xQa2xTdVhVMW95VWd6U25yQmxqbFdVRzVfYVRrUXBEQXZTQm56aE5WNnZPOXVfTVFuWGlINHg2Um5IakRwdzFtS19KU25yQmRrSjJuM1B3dnlHMzVjYXA2dDItQnMxVktTU3lCem51Rl80eHdvNXc?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-05-17T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "d26fca6d0672",
+    "source": "The Commercial Appeal",
+    "title": "Meet the winners of the 2026 Memphis in May BBQ contest",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0IyY05DU281b2xqTlZPa1JKR3pCMHlSUDg5X190Zm5FbHpMWUtWdkgzRzR4eUo4VDVueUNqQ0xBaVBidjZoMGpocmJmZ1hpZ2FaZmZrX0ZzNDlLUGxiSGtaRkVCcTNaQ1JFclo2VjdhSjQ1UGgyNXJTRVVLd2wyZjA1eFp1ZkV2Q25JYUphYVZDcll5aGRBVF9PazUzdGIxRGRsMGh1LTlLSTdwa21hMlVGeXJacGRId2VsM3VfdE41Zk53UXlv?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-05-16T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-16"
+  },
+  {
+    "id": "fff313d33ce8",
+    "source": "WREG.com",
+    "title": "Global pitmasters showcase their skills at Memphis in May BBQ fest",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORy13QjlaN1p3RkcyY0VMVUNxV2lVQm5TNVZZLThWZllORHQ5VFkySXNwSUstVXo3SDFOeFN3Mk9YUlp5WUhjdk9TTWR5Mm5xUzJaWW5QbENpRGlERG5oa01rLWZfM01NOG9DMnI1bmpPcFhhXzR3Q0w4cTZZX1BNbEdVMTZOUnNTMTRtRFFpU1FwblHSAZgBQVVfeXFMT3ZtN1N4bjY1WHgxd1cxc041RjNXNWpPZno4QTd0RkROOG9zQUUwQlRkckpnYWtGWTVrUV9ybGIxem9KVWdpT2JIX1BIQkV6SkhsVW5tX0ZBLUh3T1hQMTFWZm1TRTVwbC1zN192V25GT0JxTXI0NHZIODE4V3U2V3BiUlFmbWRYWkdZTEc4eDVhTHJ4bURiZ0Y?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-05-15T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "b06641e8693b",
+    "source": "PR TIMES",
+    "title": "《入場無料》バーベキュー日本一決定戦 ～JAPAN BBQ CHAMPIONSHIP 2026～【優勝者は世界大会へ！】大会出場者のフードも食べられる！5月24⽇(日) 幕張豊砂公園",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IUHJ2NHFXOEdobHNveE1vSE5CY1pRaUhUblZRR0xnQ3V0cmVCb2w0RHZWbW01aGRHTmlyRFk4clIycUhLZkFlYzlUNzZ6LVNHekRKbUdmT3EyTGxDUFpOYnI0ckt5bVh5dUE?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-05-15T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "cdfa2879d74b",
+    "source": "Action News 5",
+    "title": "Memphis in May barbecue competition underway at Liberty Park",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnlsOU5halhaVm1SbmFKZC1mV1l5ZkNHNlRfZU9Zc3pBR2xveEZZOHVBeXUtUUNmdTc2YUR0SV9zenUwSEF0TW52NEtiRDNvSU85U1lhQkN0SDdDQWcydGJxRHRFTV9nMlRidFdfcUxZVzVPN3M0UzROSDliT3FVaWJOWUdsOWI4OHI0eDF2RXhCN2FIQzdKRjBR0gGuAUFVX3lxTE5CRVNKMkNmNW5QYy1kbVVqRThWTnFPNEE2MUJMWU1hdE4weFI2ZjBtTXQ4NC03blBocEg1VTV2NGtNbGdEWHVaaklGbFIydHlkRllzU3pvYTBQdTQtZkVxdE00UmZYZnhVN01NY09FcTBEREtLVFlzVjBsN0M5S3Q1MjBmTjN5cklCb2Y1b2JsYXJrUXJOaFBzTi05S2tBMFZCZ0x2RXltR1lyNTU1dw?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-05-13T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "28903a399101",
+    "source": "FOX13 Memphis",
+    "title": "World Championship Barbecue Contest returns to Memphis this week",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVEI4SnVReGJaand2ZGJRUFcyam1JMEFZMEZlb3lSekFWMWRmUk5LbXVVS2tCenhZb1V1RlhLRy14SFQ5VXBjRWpmWlBNVk8tS1dMOEh1YzJLSDNveUFJSHF0WGJ0Tk1JWWFCQUg4V2ZOdTBjUS1YTzUxblVpbEdrdHdtZTR6bnU2RWNmaHE3NHhoR19yOC1RU21FZzA1LUpJVFpUX01WS0VNNmxVOGszLWlOMXJ4UUVtbE9oTG1iZ2ZvNlRjc3RrWmpfbWEwZHpJdGN1U2NzZUdEQ0RKaEI2TlR3?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-05-13T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "2672cab7f3e1",
+    "source": "WZTV",
+    "title": "Nashville native, Peg Leg Porker owner Carey Bringle nominated for Barbecue Hall of Fame",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0Q3VUpnSTEwNjdQUVNuR0hMWGIxdVdtT2dRMFg5MFE4VEdxckF1NHNfU1BBU2pkRUZZWTVWeFRBRHA5RmpvNmJocWwtVDIwdlFyc2Y2MHUxanRPb3ZKNkh0dU9NM3BYaHFSMElDMlJLSDdVMjlDTkxEQzVpemxJWFpndnIzNTA4T1BLczV6Zk9INmQ4ZklOdkNJcklvbTVlNFBVdFdFNFhob182QVJSVkZUcHBIQ2s?oc=5",
+    "query": "American Royal",
+    "published_at": "2026-05-12T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "b6f1b4b4ba79",
+    "source": "Daily Memphian",
+    "title": "Pitmasters, start your smokers! Memphis in May’s barbecue contest is back this week.",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmxFMkc4aHd5QjhxeG9YcUQ1VWFKMjRXV1FXUU04U05ubkQ4MUk5MTVYQTNHdE9iTkN2ZmVXVHR2TmtoLTJSS080S3ZjLWdxcFJJYmFMc0lsWk5wYmVBLUVoaEJzdVl5eVNCOU9jWDhyNXZBVWxlTlVEWWp1RDdkVDFFRXpnZlU0RmMwTFhPaWRiT2dUOERZU0tfQ1JLVXN3TmppVHl5Q0E?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-05-11T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "0ba5f5d79728",
+    "source": "The Commercial Appeal",
+    "title": "Who are top contenders at Memphis in May BBQ contest? 7 teams to watch",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2lzY1pyR1FvcDR1TU5FUnluSHhLOXoySXBGSkRhR05pSzk1aUpBWG1uZGNxTmZyTHB6a2RuaVFGWk8tM2NsYnNwSnVzMmxwODNjU1BSWG5ZOFVXUVlPZ2hnVXoyUE4wSVhlZU5oQ1Y0N0Q4djJyNVBjMloybWxGRlBmQVRTeEN3NnhLY0tjMXhqdGtuZlJPX2JYUUJwMFRzeV80RHBKaGhBTzc5TDdzOWN0OW40QzMwaHBNcE9UYXRXMzg?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-05-11T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "4d83d2f9f7b1",
+    "source": "琉球新報デジタル",
+    "title": "墓前でバーベキュー、ビンゴ大会 ビーチパーティー？門中80人集結 7年ぶりシーミー開催【動画】",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VT2lCcFZLTml3N0tzekpTd2M1alNrV0lhS25OS3RyaW02ajBPS3BLdlpJNGs5Q2hIYURIcl9heDJVTm9iMDdIaHJrLVlUMVB6dFBBcWNEdkZ4cUk?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-05-07T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "6d087b23c6d8",
+    "source": "WSMV",
+    "title": "World Championship Barbecue Cooking Contest teams move into Liberty Park",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXI0UFZTMjBMakdnbFpvbnJjeG5vQVUxWnFRc3pTd0Rwd1VydTcxd0ZXZEpoaDIwYm9sSko3dXVhRGlzelJvb0JCZ2pSSWJYUEpQdWExZnhBWGFUTmNLdU5OR0E4UHZMaXBXdzZveE1rWU5hWi1raUVkNGRZOWtDb0Y1NG5hdjRBN2ZYekh5VGdTdVpfamt1VTNXNUpTVTM4aXY5a2cyVTnSAbwBQVVfeXFMT1BVNFBXdjRYSGM2Z1BYOGVNSDdNYUc0cU9wMUFsdkxZYTNCckp0WXJvT0Iyb1JVTHJqMS1sMlE1bjZIU2RPeExoSk9ZWXlVaTA0a3hXdUdkdmxzQXJNZlRweTZxMlRCLXQ1SEpuUUctZjdLeGRDVU9QcjU3WmdyQ1RSd1ZLNHhYVlllX1BzTnhGdXJFT000blhHTEJXM1Z4OEtLM0V0QzFLakRkMk5IZkFDRFRJeW1jUHhUUFM?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-05-04T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "04e28efd9c5e",
+    "source": "news.nate.com",
+    "title": "켄싱턴, 봄바람 타고 온 바비큐 냄새 '전국서 고기 파티'",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41NlFnVXcwZWxWcHl0V0lURFlXbXdwRXdUSXNuNTlKd0hELVUwSlRSS2ZMRjZ5UFJIVFU4YUh3TFdOZzdDaHplbjBCTHM4NFJMWEdz?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-04-17T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "6142919b7025",
+    "source": "Action News 5",
+    "title": "Memphis in May announces entertainment lineup for World Championship BBQ Cooking Contest",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0x4T2ZMdk1hX1RfMXgxWF9KWGtYSWhlXzdJaEdNSmR0NjFscGZ4ZGNsYW1OWEJrSzRDa21CRWV2U3NveWtUNTU5Uy1FbDZBTzc3SmF3a0RySlBqOU1EWlVwcGxhOVE0S19oYlpKVTVrVWYzS0Nwd0I1UDhGTFhZd25MQklGZV9TZG4xTllXVVhVX3BxRW4yTTF1QUdKbzhjdHItZi1rZWhndDVMZ1FMdzVDa3BlekFiUW5HR3NB?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-04-03T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "955e8a009547",
+    "source": "benews.co.kr",
+    "title": "[사카스칼럼] 미국이 바비큐 나라가 된 역사와 지역적 특성",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvUjB6Y0U2bEt1SWo5NjhvUTJ0bDFtRzhuQlBTVFM5UHBkMnNKa3RvSU1FZDNtWmJ0VWp1cE1HNDktdnFOUU1LR3lSTEU?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2025-12-16T08:00:00+00:00",
+    "time": "08:00",
+    "date": "2025-12-16"
+  }
+]
