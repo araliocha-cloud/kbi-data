@@ -3,6 +3,14 @@
 """
 collect_bbq_news.py
 professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
+
+동작 방식
+  1. feeds_config.json에 등록된 여러 검색 쿼리로 구글 뉴스 RSS를 훑는다.
+  2. 찾아온 기사 중, 제목에 실제 바비큐 핵심 단어가 있는 것만 통과시킨다.
+     (검색어에는 걸렸지만 제목에 핵심 단어가 없는 기사는 버린다.)
+  3. 통과한 기사는 전부 news.json에 바로 게시한다. 검수 대기열은 없다.
+  4. 이미 실려 있는 기사는 URL 해시로 중복 제거한다.
+  5. 게시 후 72시간이 지난 항목은 자동으로 걷어낸다.
 """
 
 import json
@@ -18,24 +26,10 @@ import requests
 BASE_DIR = Path(__file__).parent
 CONFIG_PATH = BASE_DIR / "feeds_config.json"
 NEWS_PATH = BASE_DIR / "news.json"
-QUEUE_PATH = BASE_DIR / "news_queue.json"
 
-MAX_LIVE_ITEMS = 40
-MAX_QUEUE_ITEMS = 100
+MAX_LIVE_ITEMS = 60
 LIVE_RETENTION_HOURS = 72
-QUEUE_RETENTION_HOURS = 240
 
-OFFICIAL_DOMAINS = {
-    "kcbs.us",
-    "memphisinmay.org",
-    "americanroyal.com",
-    "jackdanielsbbq.com",
-    "worldbbqassociation.com",
-    "grillstock.co.uk",
-    "professionalbarbecuer.com",
-}
-
-# 구글 뉴스가 자동화된 요청을 걸러내지 않도록, 일반 브라우저처럼 신원을 밝힌다.
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -43,6 +37,16 @@ HEADERS = {
     )
 }
 REQUEST_TIMEOUT = 10
+
+# 기사 제목에 이 중 하나라도 없으면, 검색어에 걸렸어도 버린다.
+# 대소문자 구분 없이 검사한다.
+CORE_BBQ_TERMS = [
+    "바비큐", "바베큐",
+    "barbecue", "bbq", "barbeque",
+    "asado", "barbacoa",
+    "バーベキュー",
+    "烧烤",
+]
 
 
 def load_json(path, default):
@@ -73,9 +77,13 @@ def extract_domain(url):
         return ""
 
 
+def is_relevant(title):
+    """제목에 바비큐 핵심 단어가 하나라도 있는지 검사한다."""
+    lowered = title.lower()
+    return any(term.lower() in lowered for term in CORE_BBQ_TERMS)
+
+
 def fetch_feed(url):
-    """requests로 먼저 받아온 뒤 feedparser로 해석한다.
-    실패해도 예외를 던지지 않고 빈 결과를 돌려준다."""
     try:
         resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
         print(f"  → HTTP {resp.status_code}, {len(resp.content)} bytes")
@@ -100,7 +108,11 @@ def parse_entry(entry, query_label):
         parts = entry.get("title", "").rsplit(" - ", 1)
         source_title = parts[-1] if len(parts) > 1 else query_label
 
-    headline = entry.get("title", "").rsplit(" - ", 1)[0]
+    headline = entry.get("title", "").rsplit(" - ", 1)[0].strip()
+
+    # 관문: 제목에 핵심 단어가 없으면 걸러낸다.
+    if not is_relevant(headline):
+        return None
 
     published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
     if published_struct:
@@ -108,17 +120,10 @@ def parse_entry(entry, query_label):
     else:
         published_at = datetime.now(timezone.utc)
 
-    source_href = ""
-    if isinstance(src, dict):
-        source_href = src.get("href", "")
-    domain = extract_domain(source_href) or extract_domain(url)
-    tier = "official" if domain in OFFICIAL_DOMAINS else "general"
-
     return {
         "id": make_id(url),
         "source": source_title,
-        "tier": tier,
-        "title": headline.strip(),
+        "title": headline,
         "url": url,
         "query": query_label,
         "published_at": published_at.isoformat(),
@@ -141,13 +146,15 @@ def fetch_all(config):
         )
         print(f"[검색어: {label}]")
         parsed = fetch_feed(rss_url)
-        found = 0
+        found, rejected = 0, 0
         for entry in parsed.entries[: feed.get("max_items", 8)]:
             item = parse_entry(entry, label)
             if item:
                 collected.append(item)
                 found += 1
-        print(f"  → {found}건 발견")
+            else:
+                rejected += 1
+        print(f"  → {found}건 게시 / {rejected}건 무관하여 제외")
 
     for feed in config.get("official_feeds", []):
         if not feed.get("url"):
@@ -157,7 +164,6 @@ def fetch_all(config):
         for entry in parsed.entries[: feed.get("max_items", 10)]:
             item = parse_entry(entry, feed.get("label", "OFFICIAL"))
             if item:
-                item["tier"] = "official"
                 item["source"] = feed.get("label", item["source"])
                 collected.append(item)
 
@@ -193,27 +199,18 @@ def main():
     print(f"등록된 검색어 수: {len(config.get('queries', []))}")
 
     live = load_json(NEWS_PATH, [])
-    queue = load_json(QUEUE_PATH, [])
-
     live = prune_expired(live, LIVE_RETENTION_HOURS)
-    queue = prune_expired(queue, QUEUE_RETENTION_HOURS)
 
-    seen_ids = {item["id"] for item in live} | {item["id"] for item in queue}
+    seen_ids = {item["id"] for item in live}
 
     collected = fetch_all(config)
-    official_new = [i for i in collected if i["tier"] == "official"]
-    general_new = [i for i in collected if i["tier"] == "general"]
-
-    live = merge(live, official_new, seen_ids, MAX_LIVE_ITEMS)
-    queue = merge(queue, general_new, seen_ids, MAX_QUEUE_ITEMS)
+    live = merge(live, collected, seen_ids, MAX_LIVE_ITEMS)
 
     save_json(NEWS_PATH, live)
-    save_json(QUEUE_PATH, queue)
 
     print(
         f"[{datetime.now(timezone.utc).isoformat()}] "
-        f"공식 {len(official_new)}건 게시 / 일반 {len(general_new)}건 대기열 적재 "
-        f"(현재 live={len(live)}, queue={len(queue)})"
+        f"{len(collected)}건 게시 (현재 live={len(live)})"
     )
 
 
