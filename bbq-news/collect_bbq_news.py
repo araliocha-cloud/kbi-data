@@ -26,6 +26,7 @@ from urllib.parse import urlparse
 
 import feedparser
 import requests
+from googlenewsdecoder import gnewsdecoder
 
 BASE_DIR = Path(__file__).parent
 CONFIG_PATH = BASE_DIR / "feeds_config.json"
