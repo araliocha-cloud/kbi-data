@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "bbq-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add bbq-news/news.json bbq-news/news_queue.json
+          git add bbq-news/news.json
           git diff --cached --quiet || git commit -m "chore: bbq news auto-update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
