@@ -3,19 +3,6 @@
 """
 collect_bbq_news.py
 professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
-
-동작 방식
-  1. feeds_config.json에 등록된 여러 검색 쿼리로 구글 뉴스 RSS를 훑는다.
-  2. 찾아온 기사 중, 제목에 실제 바비큐 핵심 단어(또는 관련 단체명)가
-     있는 것만 통과시킨다.
-  3. 구글 뉴스 RSS의 링크는 구글이 감싼 중계 주소라 googlenewsdecoder로
-     실제 도착지 주소를 풀어낸다.
-  4. 풀어낸 실제 주소가 "확실히 죽은 링크"(404, 410, 451)인지만
-     확인한다. 봇 차단(403 등)이나 응답 지연은 실제로는 살아있는
-     기사일 가능성이 높아 게시 목록에서 빼지 않는다.
-  5. 통과한 기사는 전부 news.json에 바로 게시한다.
-  6. 이미 실려 있는 기사는 URL 해시로 중복 제거한다.
-  7. 게시 후 72시간이 지난 항목은 자동으로 걷어낸다.
 """
 
 import json
@@ -46,9 +33,6 @@ REQUEST_TIMEOUT = 10
 RESOLVE_TIMEOUT = 8
 VALIDATE_TIMEOUT = 6
 
-# "페이지가 실제로 없다"는 확실한 신호로만 취급하는 상태 코드.
-# 403, 999, 429 같은 코드는 자동화 요청을 막는 봇 차단일 뿐,
-# 실제로는 살아있는 기사인 경우가 많아 게시 목록에서 빼지 않는다.
 DEFINITELY_DEAD = {404, 410, 451}
 
 CORE_BBQ_TERMS = [
@@ -106,8 +90,6 @@ def fetch_feed(url):
 
 
 def resolve_final_url(url):
-    """구글 뉴스가 감싼 중계 주소를 실제 기사 주소로 풀어낸다.
-    실패하면 원래 주소를 그대로 돌려준다."""
     if "news.google.com" not in url:
         return url
     try:
@@ -121,8 +103,6 @@ def resolve_final_url(url):
 
 
 def validate_url(url):
-    """실제 주소가 완전히 죽은 링크인지만 확인한다.
-    확실히 죽은 경우(404 등)만 걸러내고, 그 외(봇 차단 포함)는 살려둔다."""
     try:
         resp = requests.head(
             url, headers=HEADERS, timeout=VALIDATE_TIMEOUT, allow_redirects=True
@@ -136,7 +116,6 @@ def validate_url(url):
         )
         return resp.status_code not in DEFINITELY_DEAD
     except Exception:
-        # 요청 자체가 실패한 경우(시간 초과 등)는 판단 보류, 살려둔다.
         return True
 
 
@@ -180,3 +159,89 @@ def parse_entry(entry, query_label):
         "time": published_at.strftime("%H:%M"),
         "date": published_at.strftime("%Y-%m-%d"),
     }
+
+
+def fetch_all(config):
+    collected = []
+    for feed in config.get("queries", []):
+        query = feed["query"]
+        label = feed.get("label", query)
+        rss_url = (
+            "https://news.google.com/rss/search?q="
+            + query.replace(" ", "+")
+            + "&hl=" + feed.get("hl", "ko")
+            + "&gl=" + feed.get("gl", "KR")
+            + "&ceid=" + feed.get("ceid", "KR:ko")
+        )
+        print(f"[검색어: {label}]")
+        parsed = fetch_feed(rss_url)
+        found, rejected = 0, 0
+        for entry in parsed.entries[: feed.get("max_items", 8)]:
+            item = parse_entry(entry, label)
+            if item:
+                collected.append(item)
+                found += 1
+            else:
+                rejected += 1
+        print(f"  → {found}건 게시 / {rejected}건 제외")
+
+    for feed in config.get("official_feeds", []):
+        if not feed.get("url"):
+            continue
+        print(f"[공식 피드: {feed.get('label')}]")
+        parsed = fetch_feed(feed["url"])
+        for entry in parsed.entries[: feed.get("max_items", 10)]:
+            item = parse_entry(entry, feed.get("label", "OFFICIAL"))
+            if item:
+                item["source"] = feed.get("label", item["source"])
+                collected.append(item)
+
+    return collected
+
+
+def prune_expired(items, hours):
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+    kept = []
+    for item in items:
+        try:
+            ts = datetime.fromisoformat(item["published_at"])
+        except Exception:
+            kept.append(item)
+            continue
+        if ts >= cutoff:
+            kept.append(item)
+    return kept
+
+
+def merge(existing, new_items, seen_ids, max_len):
+    for item in new_items:
+        if item["id"] in seen_ids:
+            continue
+        seen_ids.add(item["id"])
+        existing.append(item)
+    existing.sort(key=lambda x: x["published_at"], reverse=True)
+    return existing[:max_len]
+
+
+def main():
+    config = load_json(CONFIG_PATH, {"queries": [], "official_feeds": []})
+    print(f"등록된 검색어 수: {len(config.get('queries', []))}")
+
+    live = load_json(NEWS_PATH, [])
+    live = prune_expired(live, LIVE_RETENTION_HOURS)
+
+    seen_ids = {item["id"] for item in live}
+
+    collected = fetch_all(config)
+    live = merge(live, collected, seen_ids, MAX_LIVE_ITEMS)
+
+    save_json(NEWS_PATH, live)
+
+    print(
+        f"[{datetime.now(timezone.utc).isoformat()}] "
+        f"{len(collected)}건 게시 (현재 live={len(live)})"
+    )
+
+
+if __name__ == "__main__":
+    main()
