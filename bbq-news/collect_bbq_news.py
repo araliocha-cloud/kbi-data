@@ -3,6 +3,17 @@
 """
 collect_bbq_news.py
 professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
+
+동작 방식
+  1. feeds_config.json에 등록된 여러 검색 쿼리로 구글 뉴스 RSS를 훑는다.
+  2. 제목에 실제 바비큐 핵심 단어가 있는 것만 통과시킨다.
+  3. 구글 뉴스 링크는 실제 도착지 주소로 풀어내고(googlenewsdecoder),
+     확실히 죽은 링크(404 등)만 걸러낸다.
+  4. 한 번 확인한 기사는 resolve_cache.json에 결과를 저장해두고,
+     다음 실행부터는 그 결과를 재사용해 반복 확인을 건너뛴다.
+  5. 통과한 기사는 전부 news.json에 게시한다.
+  6. 게시 후 72시간이 지난 항목은 자동으로 걷어낸다.
+  7. 캐시는 30일 넘은 항목을 자동으로 정리한다.
 """
 
 import json
@@ -19,9 +30,11 @@ from googlenewsdecoder import gnewsdecoder
 BASE_DIR = Path(__file__).parent
 CONFIG_PATH = BASE_DIR / "feeds_config.json"
 NEWS_PATH = BASE_DIR / "news.json"
+CACHE_PATH = BASE_DIR / "resolve_cache.json"
 
 MAX_LIVE_ITEMS = 80
 LIVE_RETENTION_HOURS = 72
+CACHE_RETENTION_DAYS = 30
 
 HEADERS = {
     "User-Agent": (
@@ -72,6 +85,10 @@ def make_id(url):
     return hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
 
 
+def raw_key(raw_url):
+    return hashlib.sha1(raw_url.encode("utf-8")).hexdigest()[:16]
+
+
 def is_relevant(title):
     lowered = title.lower()
     return any(term.lower() in lowered for term in CORE_BBQ_TERMS)
@@ -93,7 +110,7 @@ def resolve_final_url(url):
     if "news.google.com" not in url:
         return url
     try:
-        result = gnewsdecoder(url, interval=1)
+        result = gnewsdecoder(url, interval=0)
         if result.get("status") and result.get("decoded_url"):
             return result["decoded_url"]
         return url
@@ -119,7 +136,24 @@ def validate_url(url):
         return True
 
 
-def parse_entry(entry, query_label):
+def resolve_and_validate(raw_url, cache):
+    """캐시에 있으면 재사용하고, 없으면 새로 확인해서 캐시에 저장한다."""
+    key = raw_key(raw_url)
+    cached = cache.get(key)
+    if cached:
+        return cached.get("url"), cached.get("alive", True)
+
+    url = resolve_final_url(raw_url)
+    alive = validate_url(url)
+    cache[key] = {
+        "url": url,
+        "alive": alive,
+        "checked_at": datetime.now(timezone.utc).isoformat(),
+    }
+    return url, alive
+
+
+def parse_entry(entry, query_label, cache):
     raw_url = entry.get("link", "")
     if not raw_url:
         return None
@@ -137,10 +171,8 @@ def parse_entry(entry, query_label):
     if not is_relevant(headline):
         return None
 
-    url = resolve_final_url(raw_url)
-
-    if not validate_url(url):
-        print(f"    (확실히 죽은 링크, 게시 제외: {headline[:30]}...)")
+    url, alive = resolve_and_validate(raw_url, cache)
+    if not alive:
         return None
 
     published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
@@ -161,7 +193,7 @@ def parse_entry(entry, query_label):
     }
 
 
-def fetch_all(config):
+def fetch_all(config, cache):
     collected = []
     for feed in config.get("queries", []):
         query = feed["query"]
@@ -177,7 +209,7 @@ def fetch_all(config):
         parsed = fetch_feed(rss_url)
         found, rejected = 0, 0
         for entry in parsed.entries[: feed.get("max_items", 8)]:
-            item = parse_entry(entry, label)
+            item = parse_entry(entry, label, cache)
             if item:
                 collected.append(item)
                 found += 1
@@ -191,7 +223,7 @@ def fetch_all(config):
         print(f"[공식 피드: {feed.get('label')}]")
         parsed = fetch_feed(feed["url"])
         for entry in parsed.entries[: feed.get("max_items", 10)]:
-            item = parse_entry(entry, feed.get("label", "OFFICIAL"))
+            item = parse_entry(entry, feed.get("label", "OFFICIAL"), cache)
             if item:
                 item["source"] = feed.get("label", item["source"])
                 collected.append(item)
@@ -213,6 +245,19 @@ def prune_expired(items, hours):
     return kept
 
 
+def prune_cache(cache, days):
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    kept = {}
+    for key, entry in cache.items():
+        try:
+            ts = datetime.fromisoformat(entry.get("checked_at", ""))
+        except Exception:
+            continue
+        if ts >= cutoff:
+            kept[key] = entry
+    return kept
+
+
 def merge(existing, new_items, seen_ids, max_len):
     for item in new_items:
         if item["id"] in seen_ids:
@@ -230,16 +275,21 @@ def main():
     live = load_json(NEWS_PATH, [])
     live = prune_expired(live, LIVE_RETENTION_HOURS)
 
+    cache = load_json(CACHE_PATH, {})
+    cache = prune_cache(cache, CACHE_RETENTION_DAYS)
+    print(f"캐시된 링크 수: {len(cache)}")
+
     seen_ids = {item["id"] for item in live}
 
-    collected = fetch_all(config)
+    collected = fetch_all(config, cache)
     live = merge(live, collected, seen_ids, MAX_LIVE_ITEMS)
 
     save_json(NEWS_PATH, live)
+    save_json(CACHE_PATH, cache)
 
     print(
         f"[{datetime.now(timezone.utc).isoformat()}] "
-        f"{len(collected)}건 게시 (현재 live={len(live)})"
+        f"{len(collected)}건 게시 (현재 live={len(live)}, 캐시={len(cache)})"
     )
 
 
