@@ -1,5 +1,25 @@
 [
   {
+    "id": "9f972124a3dc",
+    "source": "충남내포뉴스",
+    "title": "월산상가 스몰 BBQ 축제와 홍보행사 성료",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxZVlGT0x4TlZ1LWZUcHQyNFA4aEt3NnprdFJqZy1va1lQYUtQNG5iQXRKcXhoQ0dFNzJwR1E3TFlmZ3VrNm1WbmxLNzR2XzNMUUYxSkIyRnZwVDB4WjlfeVVybWdHYkRVSVp6RFhn?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-21T02:02:00+00:00",
+    "time": "02:02",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "4b170f738e8f",
+    "source": "홍성신문",
+    "title": "스몰 BBQ 페스티벌···월산상가 북적북적",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90QU1zdjVoa1lESVBFTnNIU193dWh3NDZiYkxhVU5NX2xIdFc1NFlweUxVQUZyRlVNU0pzZ21sUms0QzZsNkdpX1c3anQ4dkl5RnJ0dmVPWkdTUHpOREF6T2h6TVFvTGtJRGxR?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-09-21T01:29:36+00:00",
+    "time": "01:29",
+    "date": "2026-09-21"
+  },
+  {
     "id": "1cd75a2cc31b",
     "source": "중도일보",
     "title": "홍성 월산상가, 바비큐 축제로 지역 상권에 활기",
@@ -291,7 +311,7 @@
   },
   {
     "id": "0c2fbe58c27f",
-    "source": "mk.co.kr",
+    "source": "매일경제",
     "title": "“캠핑용과는 다르다”…마당·테라스 전용 올인원 바베큐 그릴 ‘스테츠 프로 스테이션’",
     "url": "https://www.mk.co.kr/news/pick/12150643",
     "query": "프로바비큐",
@@ -328,6 +348,16 @@
     "published_at": "2026-09-06T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-09-06"
+  },
+  {
+    "id": "586c128e17db",
+    "source": "Hoodline",
+    "title": "Bartlett Fall Festival Returns to W.J. Freeman Park With BBQ, Cars and a 5K",
+    "url": "https://hoodline.com/2026/09/bartlett-fall-festival-returns-to-w-j-freeman-park-with-bbq-cars-and-a-5k/",
+    "query": "Memphis BBQ Network",
+    "published_at": "2026-09-04T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-09-04"
   },
   {
     "id": "19a961f79014",
@@ -431,7 +461,7 @@
   },
   {
     "id": "95f55f0592cc",
-    "source": "municipio.jaguariuna.sp.gov.br",
+    "source": "jaguariuna.sp.gov.br",
     "title": "JAGUARIÚNA RECEBE FESTIVAL DE CHURRASCO ‘BURNING FEST’ NESTE FIM DE SEMANA",
     "url": "https://www.municipio.jaguariuna.sp.gov.br/noticias/cultura/5614/jaguariuna-recebe-festival-de-churrasco-burning-fest-neste-fim-de-semana.html",
     "query": "Churrasco Brasil",
@@ -440,8 +470,18 @@
     "date": "2026-08-21"
   },
   {
+    "id": "d644a35ac9d3",
+    "source": "L'Ardennais",
+    "title": "Concours de pétanque, barbecue, jeux gonflables : quatre jours de fête dans ce village des Portes du Luxembourg",
+    "url": "https://www.lardennais.fr/id823249/article/2026-08-19/concours-de-petanque-barbecue-jeux-gonflables-quatre-jours-de-fete-dans-ce",
+    "query": "Barbecue France",
+    "published_at": "2026-08-19T07:00:00+00:00",
+    "time": "07:00",
+    "date": "2026-08-19"
+  },
+  {
     "id": "8fd78c780a56",
-    "source": "El Observador",
+    "source": "elobservador.com.uy",
     "title": "Los campeones en un torneo de asadores en Argentina fueron los uruguayos de Fogón Criollo",
     "url": "https://www.elobservador.com.uy/agro/los-campeones-un-torneo-asadores-argentina-fueron-los-uruguayos-fogon-criollo-n6054363",
     "query": "Asado Argentina",
@@ -491,7 +531,7 @@
   },
   {
     "id": "f60eb3d10240",
-    "source": "98FM",
+    "source": "98fm.com",
     "title": "Europe’s Biggest BBQ Festival Returns To Dublin Next Week!",
     "url": "https://www.98fm.com/lifestyle/europes-biggest-bbq-festival-returns-to-dublin-next-week-2285350",
     "query": "European BBQ Championship",
@@ -521,7 +561,7 @@
   },
   {
     "id": "a6bf862cb337",
-    "source": "Extra.ie",
+    "source": "extra.ie",
     "title": "Dublin set to host Europe’s largest BBQ festival next week",
     "url": "https://extra.ie/2026/08/06/entertainment/big-grill-dublin-2026",
     "query": "European BBQ Championship",
@@ -541,7 +581,7 @@
   },
   {
     "id": "885cb9f66070",
-    "source": "France 3 Régions",
+    "source": "france3-regions.franceinfo.fr",
     "title": "Des champions s’affrontent pour prouver que le barbecue peut être gastronomique, \"on veut quelque chose de goûtu, de noble\"",
     "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/colmar/on-veut-quelque-chose-de-noble-une-competition-nationale-de-barbecue-a-la-foire-aux-vins-pour-decouvrir-autrement-cette-cuisson-3396232.html",
     "query": "Barbecue France",
@@ -581,7 +621,7 @@
   },
   {
     "id": "4463c269c649",
-    "source": "El Rionegrense",
+    "source": "elrionegrense.com.uy",
     "title": "Argentina dominó el II Campeonato Binacional de Asadores disputado en Fray Bentos.",
     "url": "https://www.elrionegrense.com.uy/2026/08/03/argentina-domino-el-ii-campeonato-binacional-de-asadores-disputado-en-fray-bentos/",
     "query": "Asado Uruguay",
@@ -621,7 +661,7 @@
   },
   {
     "id": "ed6f1aef3dac",
-    "source": "El Rionegrense",
+    "source": "elrionegrense.com.uy",
     "title": "Fray Bentos volverá a ser la capital del asado con una nueva edición del Campeonato Binacional de Asadores.",
     "url": "https://www.elrionegrense.com.uy/2026/07/31/fray-bentos-volvera-a-ser-la-capital-del-asado-con-una-nueva-edicion-del-campeonato-binacional-de-asadores/",
     "query": "Asado Uruguay",
@@ -631,7 +671,7 @@
   },
   {
     "id": "d1458d6d8af6",
-    "source": "theweeklyadvertiser.com.au",
+    "source": "The Weekly Advertiser",
     "title": "Halls Gap barbecue festival a feast for the senses",
     "url": "https://theweeklyadvertiser.com.au/articles/halls-gap-barbecue-festival-a-feast-for-the-senses/?section=1107",
     "query": "Australian BBQ",
@@ -711,7 +751,7 @@
   },
   {
     "id": "ab3ecaae964c",
-    "source": "한국일보",
+    "source": "hankookilbo.com",
     "title": "세계 무대 누빈 유해란·미국 시장 넓힌 윤홍근 BBQ 회장…동반 성장 이어간다",
     "url": "https://www.hankookilbo.com/news/article/A2026072417190000964",
     "query": "바비큐 챔피언십",
@@ -735,16 +775,6 @@
     "title": "Torneo nacional de asadores busca elevar nivel de la carne paraguaya",
     "url": "https://www.latribuna.com.py/nacionales/locales/2026/07/23/torneo-nacional-de-asadores-busca-elevar-nivel-de-la-carne-paraguaya/",
     "query": "Asado Mundial",
-    "published_at": "2026-07-23T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-07-23"
-  },
-  {
-    "id": "c47b1f8f9858",
-    "source": "Directo al Paladar México",
-    "title": "Lánzate por al 2º Festival de la Barbacoa del Valle del Mezquital en honor a Santiago Apóstol y prueba el auténtico sabor hidalguense",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEQtUFVvcThFTjJFVFdSRWZIRFp2ZnNSWS12clFvZW9vUENxSFpFdk5pZ3BTOGtkZUtZajg1TVN0dHA0TFd6QnNGbC1CejVqY3M4OXZ3SnY2OU9scnFhc2xVSDBLZTlxMXgydlRGN0lHTDR5d2l1STQ5c3l6WWVma1RRODlrNkhpYy1sbmo5ek1MZ2plNG03Q0dYUmdqdWJ2eHBkQjQ5b0V6eHluWTV2X1hLOEduMDI5bmU5YXJlLUxWYUlmTXd4OUJYZnRKS0dzcHNCc1pNMkNra3lWY1ZxTmVHYlRsMDJDUEoyeVlIcVlmMGVPYm9vR9IB_gFBVV95cUxQSklJcTI5YzhHeEduOHdXcUhJdkcwbFg1LUdDLTRiZ2xSYVk0b2JBNXVDdlZaOTFtaXpqMVJCWXE0UWRzc3hHM1RTaWd4YzA0Q29mXzVaZWNlU3ZoOXprTVE0bkFyajRnSkhaMVlQSWhuQ0FHa0VmejJkMnBneExQWXk4MEdpVVlaaVJuQjhfeHlFdzVkZ0xmR0owT2tIOHFZYjNiSkl0S3oxcldQdkVBSUM0U0tub1pCRHZ3UGZKMTJsUURITGNqUlFGTFo1T1FGOXlBMkVxS2s3blc0cXFRYXNUenUxZU85Wmx1ODdaQWFyMU1ETnh6U3cySkp3UQ?oc=5",
-    "query": "Barbacoa México",
     "published_at": "2026-07-23T07:00:00+00:00",
     "time": "07:00",
     "date": "2026-07-23"
@@ -811,7 +841,7 @@
   },
   {
     "id": "4e2aec82579c",
-    "source": "ijmuidercourant.nl",
+    "source": "IJmuider Courant",
     "title": "Viking-bbq op het Homburgplantsoen in IJmuiden. ’Dit varken hebben we vanaf middernacht laten garen’",
     "url": "https://www.ijmuidercourant.nl/regio/ijmond/viking-bbq-op-het-homburgplantsoen-in-ijmuiden.-dit-varken-hebben-we-vanaf-middernacht-laten-garen/158912465.html",
     "query": "Barbecue Nederland",
@@ -881,7 +911,7 @@
   },
   {
     "id": "2bceaf676c03",
-    "source": "UAゼンセン",
+    "source": "uazensen.jp",
     "title": "各地協でコミュニケーション集会を開催～ボウリング大会やバーベキューで交流を促進～",
     "url": "https://uazensen.jp/2026/07/17/158768/",
     "query": "バーベキュー大会",
@@ -961,7 +991,7 @@
   },
   {
     "id": "f4974a5ace0b",
-    "source": "radiomitre.cienradios.com",
+    "source": "Radio Mitre",
     "title": "Así vive la Selección Argentina la previa de cada partido del Mundial 2026: asado, provoleta y cumbia",
     "url": "https://radiomitre.cienradios.com/deportes/asi-vive-la-seleccion-argentina-la-previa-de-cada-partido-del-mundial-2026-asado-provoleta-y-cumbia/",
     "query": "Asado Argentina",
@@ -1031,7 +1061,7 @@
   },
   {
     "id": "e40ca21c3bef",
-    "source": "MGR Online",
+    "source": "ผู้จัดการออนไลน์",
     "title": "CRG วางแผนรุก Hanam BBQ ตั้งเป้า 5 ปี 10 สาขา กวาด 300 ล.",
     "url": "https://mgronline.com/business/detail/9690000066718",
     "query": "Barbecue Thailand",
@@ -1160,40 +1190,10 @@
     "date": "2026-07-02"
   },
   {
-    "id": "0738676e43b9",
-    "source": "フーズチャネル",
-    "title": "フードスポーツで競う、バーベキュー日本一決定戦 名古屋「Yumaboy's BBQ」が激戦を制して優勝！世界大会への切符を掴む",
-    "url": "https://foods-ch.infomart.co.jp/news/303585",
-    "query": "バーベキュー大会",
-    "published_at": "2026-07-01T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-07-01"
-  },
-  {
     "id": "d3c41d1d5a4b",
     "source": "mt.co.kr",
     "title": "BBQ후원 유해란·윤이나 LPGA우승·준우승...\"3400억 美시장 홍보효과↑\" - 머니투데이",
     "url": "https://www.mt.co.kr/living/2026/06/30/2026063010330711193",
-    "query": "바비큐 대회",
-    "published_at": "2026-06-30T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-30"
-  },
-  {
-    "id": "75979aade13f",
-    "source": "아주경제",
-    "title": "LPGA 메이저 휩쓴 BBQ 후원 선수들…미국 시장 존재감 확대",
-    "url": "https://www.ajunews.com/view/20260630140909806",
-    "query": "바비큐 대회",
-    "published_at": "2026-06-30T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-06-30"
-  },
-  {
-    "id": "d62d198d2b6c",
-    "source": "서울경제",
-    "title": "BBQ, LPGA 선수 후원 효과 ‘톡톡’…유해란·윤이나 메이저 1·2위",
-    "url": "https://www.sedaily.com/article/20061915",
     "query": "바비큐 대회",
     "published_at": "2026-06-30T07:00:00+00:00",
     "time": "07:00",
