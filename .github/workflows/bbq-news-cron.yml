@@ -1,1 +1,35 @@
+name: BBQ World News Collector
 
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '*/15 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 의존성 설치
+        run: pip install -r bbq-news/requirements.txt
+
+      - name: 뉴스 수집 실행
+        run: python bbq-news/collect_bbq_news.py
+
+      - name: 변경사항 커밋
+        run: |
+          git config user.name "bbq-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add bbq-news/news.json bbq-news/resolve_cache.json
+          git diff --cached --quiet || git commit -m "chore: bbq news auto-update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
