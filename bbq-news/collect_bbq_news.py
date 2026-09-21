@@ -171,11 +171,11 @@ def parse_entry(entry, query_label, cache):
         return None
 
     url, alive = resolve_and_validate(raw_url, cache)
-if not alive:
-    return None
+    if not alive:
+        return None
 
-if "news.google.com" in url:
-    return None
+    if "news.google.com" in url:
+        return None
 
     published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
     if published_struct:
