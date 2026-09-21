@@ -3,6 +3,22 @@
 """
 collect_bbq_news.py
 professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
+
+동작 방식
+  1. feeds_config.json에 등록된 여러 검색 쿼리로 구글 뉴스 RSS를 훑는다.
+  2. 제목이나 요약에 실제 바비큐 핵심 단어(또는 관련 단체명)가
+     있는 것만 통과시킨다.
+  3. 구글 뉴스 링크는 실제 도착지 주소로 풀어내고(googlenewsdecoder),
+     실제 주소로 못 풀렸으면(여전히 구글 링크면) 죽은 것으로 취급해
+     캐시에도 그렇게 저장한다. 그래야 구글 링크가 "살아있는 링크"로
+     캐시에 영구 박제되는 일이 없다.
+  4. 확실히 죽은 링크(404, 410, 451)만 걸러내고, 봇 차단(403 등)이나
+     응답 지연은 실제로는 살아있는 기사일 가능성이 높아 살려둔다.
+  5. 한 번 확인한 기사는 resolve_cache.json에 결과를 저장해두고,
+     다음 실행부터는 그 결과를 재사용해 반복 확인을 건너뛴다.
+  6. 통과한 기사는 전부 news.json에 게시한다.
+  7. 게시 후 168시간(7일)이 지난 항목은 자동으로 걷어낸다.
+  8. 캐시는 30일 넘은 항목을 자동으로 정리한다.
 """
 
 import json
@@ -26,7 +42,6 @@ LIVE_RETENTION_HOURS = 168  # 7일
 CACHE_RETENTION_DAYS = 30
 
 # feeds_config.json에 적힌 max_items에 이 배율을 곱해서 실제로 가져온다.
-# 이 숫자 하나만 바꾸면 전체 검색어의 수집량이 한꺼번에 조절된다.
 MAX_ITEMS_MULTIPLIER = 2
 
 HEADERS = {
@@ -106,6 +121,8 @@ def fetch_feed(url):
 
 
 def resolve_final_url(url):
+    """구글 뉴스가 감싼 중계 주소를 실제 기사 주소로 풀어낸다.
+    실패하면 원래 주소를 그대로 돌려준다."""
     if "news.google.com" not in url:
         return url
     try:
@@ -119,6 +136,8 @@ def resolve_final_url(url):
 
 
 def validate_url(url):
+    """실제 주소가 완전히 죽은 링크인지만 확인한다.
+    확실히 죽은 경우(404 등)만 걸러내고, 그 외(봇 차단 포함)는 살려둔다."""
     try:
         resp = requests.head(
             url, headers=HEADERS, timeout=VALIDATE_TIMEOUT, allow_redirects=True
@@ -132,16 +151,29 @@ def validate_url(url):
         )
         return resp.status_code not in DEFINITELY_DEAD
     except Exception:
+        # 요청 자체가 실패한 경우(시간 초과 등)는 판단 보류, 살려둔다.
         return True
 
 
 def resolve_and_validate(raw_url, cache):
+    """캐시에 있으면 재사용하고, 없으면 새로 확인해서 캐시에 저장한다.
+    구글 링크로 남은 경우(실제 주소 해석 실패)는 캐시에도 '죽은 것'으로
+    저장해서, 다음 실행부터 자동으로 걸러지게 한다."""
     key = raw_key(raw_url)
     cached = cache.get(key)
     if cached:
         return cached.get("url"), cached.get("alive", True)
 
     url = resolve_final_url(raw_url)
+
+    if "news.google.com" in url:
+        cache[key] = {
+            "url": url,
+            "alive": False,
+            "checked_at": datetime.now(timezone.utc).isoformat(),
+        }
+        return url, False
+
     alive = validate_url(url)
     cache[key] = {
         "url": url,
@@ -172,9 +204,6 @@ def parse_entry(entry, query_label, cache):
 
     url, alive = resolve_and_validate(raw_url, cache)
     if not alive:
-        return None
-
-    if "news.google.com" in url:
         return None
 
     published_struct = entry.get("published_parsed") or entry.get("updated_parsed")
