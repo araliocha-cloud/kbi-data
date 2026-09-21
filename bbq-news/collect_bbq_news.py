@@ -150,8 +150,12 @@ def validate_url(url):
             url, headers=HEADERS, timeout=VALIDATE_TIMEOUT, allow_redirects=True, stream=True
         )
         return resp.status_code not in DEFINITELY_DEAD
+    except requests.exceptions.ConnectionError:
+        # 도메인이 없어졌거나 서버가 완전히 응답하지 않는 경우.
+        # 사이트 자체가 운영되지 않는다고 보고 죽은 것으로 처리한다.
+        return False
     except Exception:
-        # 요청 자체가 실패한 경우(시간 초과 등)는 판단 보류, 살려둔다.
+        # 시간 초과 등 일시적인 문제는 판단을 보류하고 살려둔다.
         return True
 
 
