@@ -109,7 +109,7 @@ def resolve_final_url(url):
     if "news.google.com" not in url:
         return url
     try:
-        result = gnewsdecoder(url, interval=0)
+        result = gnewsdecoder(url, interval=1)
         if result.get("status") and result.get("decoded_url"):
             return result["decoded_url"]
         return url
