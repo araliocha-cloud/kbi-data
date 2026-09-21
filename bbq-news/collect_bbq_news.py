@@ -38,8 +38,8 @@ NEWS_PATH = BASE_DIR / "news.json"
 CACHE_PATH = BASE_DIR / "resolve_cache.json"
 
 MAX_LIVE_ITEMS = 120
-LIVE_RETENTION_HOURS = 168  # 7일
-CACHE_RETENTION_DAYS = 30
+LIVE_RETENTION_HOURS = 48  # 이틀 — 최신 소식 위주로 유지
+CACHE_RETENTION_DAYS = 14  # 죽은 사이트 판정도 2주 지나면 다시 확인해본다
 
 # feeds_config.json에 적힌 max_items에 이 배율을 곱해서 실제로 가져온다.
 MAX_ITEMS_MULTIPLIER = 2
