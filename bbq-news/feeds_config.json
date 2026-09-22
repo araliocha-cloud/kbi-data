@@ -9,7 +9,7 @@
     { "label": "Houston Rodeo BBQ", "query": "Houston Livestock Show barbecue contest", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 6 },
     { "label": "Memphis BBQ Network", "query": "Memphis Barbecue Network MBN", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 6 },
     { "label": "Big Apple BBQ", "query": "Big Apple Barbecue Block Party", "hl": "en-US", "gl": "US", "ceid": "US:en", "max_items": 6 },
-    { "label": "Grillstock UK", "query": "Grillstock barbecue UK", "hl": "en-GB", "gl": "GB", "ceid": "GB:en", "max_items": 6 },
+    { "label": "UK BBQ Championship", "query": "British barbecue championship", "hl": "en-GB", "gl": "GB", "ceid": "GB:en", "max_items": 6 },
     { "label": "European BBQ Championship", "query": "European Barbecue Championship", "hl": "en-GB", "gl": "GB", "ceid": "GB:en", "max_items": 6 },
     { "label": "Grillweltmeisterschaft", "query": "Grillweltmeisterschaft", "hl": "de", "gl": "DE", "ceid": "DE:de", "max_items": 6 },
     { "label": "Barbecue France", "query": "concours de barbecue", "hl": "fr", "gl": "FR", "ceid": "FR:fr", "max_items": 6 },
