@@ -661,6 +661,10 @@ def gemini_translate_batch(titles):
         if resp.status_code == 404:
             print(f"    (Gemini {model} 모델 없음, 다음 모델 시도)")
             continue
+        if resp.status_code in (429, 500, 503):
+            # 사용량이 몰렸거나 한도에 걸린 모델은 건너뛰고 다음 모델을 쓴다.
+            print(f"    (Gemini {model} 일시 불가: HTTP {resp.status_code}, 다음 모델 시도)")
+            continue
         if resp.status_code != 200:
             print(f"    (Gemini {model} 번역 실패: HTTP {resp.status_code} {resp.text[:120]})")
             return None
