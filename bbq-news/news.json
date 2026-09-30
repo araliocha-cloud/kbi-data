@@ -10,6 +10,16 @@
     "date": "2026-09-30"
   },
   {
+    "id": "93e0e7b7bfef",
+    "source": "vocalesonline.com.mx",
+    "title": "Promueve Sebiso Festival Internacional de la Barbacoa y el Ximbo en California",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0RoeC1hSnM2VlNJbzZGei14UWYyVUpGVTZ5TE9GWFd0dWlLU0N0SjBvVkItSHZWc2hzcWgwdGp3cXVocWdCaXpHUlRyV2VwZERwZEJRRHQ2dmFuSC12UllCa25BMFRTU2ZRYVFYR2hjOTBPUDUzQTFKNjFES0d4UWpRZ3l2RjRlWlhoNzNGay1VMk81cFpFN0IzRVo3dTVEcnJfb3lZTjFnZzFSZmkyTHJaRGJkazRUNUZYTmRITzVPV0tlRHVzeFM3RlhkYVlXLV9MRFdpZw?oc=5",
+    "query": "Barbacoa México",
+    "published_at": "2026-09-30T02:55:22+00:00",
+    "time": "02:55",
+    "date": "2026-09-30"
+  },
+  {
     "id": "34d4d6cbf1bd",
     "source": "Jornalecão",
     "title": "Jardim Verde Shopping sedia campeonato de churrasco",
@@ -100,14 +110,24 @@
     "date": "2026-09-27"
   },
   {
-    "id": "ea4d79e9a386",
-    "source": "Ñanduti",
-    "title": "Paraguay será sede del Mundial del Asado Ancestral 2028: se impuso ante candidaturas de Brasil, Chile y Bolivia",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV3ljVmFxbElXUGZGWV9kUHh0dDg5U3oxa3BBcnBYMzlzQlFhU1hXWlk4blNRUkZlTEpENnBvekdNMzdpQUJockgzd01LanMyZW94V295d2JNczRvYWxHWW15QldQM0Y3Uk5SNDFwZURrVzVHQ1k5S1hMXzFKaFMtT3FKX1lwUllGZVVjR2lVZ29FOUtOSUFQRW1NcngwVWUyT3ZsbHZoSE1OTGRGS2ZNREJEMFVhNWpsQzVvRE5pUmU2UGdGQ1lQcHNZclc?oc=5",
+    "id": "0b89f4560661",
+    "source": "El Nacional - El diario de los lectores influyentes",
+    "title": "#Mundial del asado - El Nacional",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UdldESDcwX3lFQ1I1TGRqVTZqTU5oX2hMQ0JuUC1ibnhVNUZpOVhaaFpQbkdLVzExWWhyU3lWeFVmTklOcFItXzQ4SVY2ekxnNk5sTEE1aktRY3N0eE9tOA?oc=5",
     "query": "Asado Mundial",
-    "published_at": "2026-09-26T15:44:53+00:00",
-    "time": "15:44",
-    "date": "2026-09-26"
+    "published_at": "2026-09-27T13:38:36+00:00",
+    "time": "13:38",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "05836f33154f",
+    "source": "El Nacional - El diario de los lectores influyentes",
+    "title": "Paraguay obtiene la sede del Mundial de Asadores Ancestrales - El Nacional",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3lfY09YR1NEV0RsYlVzTV90Q2hmaEpPZ2IzLXc3MGtzc2J3dmRmTXlYQ0NHTEJHVTR2cWowYnowWmtCUFc1eHVDSE9VT0E4NEdrNXZoRVNsMWdXVURlczBfUjBGT0FKZXRwbnJyR3oyMW9RekJsdF90d0NvQUpNOWtVWUZEZ1o1ZE5QNEQ1aGc3U2hUZ3J1dDJVd9IBoAFBVV95cUxNMzFfUWd5aGpJWnVSbW8wc013RGFrSlowRDVjS0Y5OHJSdWVfTExocndXQ3psdFZ6Tl9XaHQyZjVxR3pUdWlCbHBEclBEQ1Z2NzJsOGZuVmFzV0JhSmMtRi02Vm1kSUdwcTZvSXVyMmdMU1FhTTVPSnBSZ29pbmhGYVlKNTUyME5vYVA1bjdwMXVtMnlWdDVMdWZmYlgxT1lN?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-09-27T12:20:00+00:00",
+    "time": "12:20",
+    "date": "2026-09-27"
   },
   {
     "id": "80da58785c61",
@@ -117,6 +137,16 @@
     "query": "KCBS",
     "published_at": "2026-09-26T22:36:00+00:00",
     "time": "22:36",
+    "date": "2026-09-26"
+  },
+  {
+    "id": "ea4d79e9a386",
+    "source": "Ñanduti",
+    "title": "Paraguay será sede del Mundial del Asado Ancestral 2028: se impuso ante candidaturas de Brasil, Chile y Bolivia",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV3ljVmFxbElXUGZGWV9kUHh0dDg5U3oxa3BBcnBYMzlzQlFhU1hXWlk4blNRUkZlTEpENnBvekdNMzdpQUJockgzd01LanMyZW94V295d2JNczRvYWxHWW15QldQM0Y3Uk5SNDFwZURrVzVHQ1k5S1hMXzFKaFMtT3FKX1lwUllGZVVjR2lVZ29FOUtOSUFQRW1NcngwVWUyT3ZsbHZoSE1OTGRGS2ZNREJEMFVhNWpsQzVvRE5pUmU2UGdGQ1lQcHNZclc?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-09-26T15:44:53+00:00",
+    "time": "15:44",
     "date": "2026-09-26"
   },
   {
@@ -168,35 +198,5 @@
     "published_at": "2026-09-25T02:32:00+00:00",
     "time": "02:32",
     "date": "2026-09-25"
-  },
-  {
-    "id": "a91b2061dc3c",
-    "source": "WVIA Public Media",
-    "title": "Thousands of people gather for a South African barbecue, aiming to set a world record",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVURNX0ZobzRPYTJNSWcxamY2Ylk5cTQ5M0RpRkF2SXVnVE9EWlRBY2UycTN5Znd3Y3dZX0NveENGWVpjVzRNRlFKMHVrd0ZIS1hza3ZqZlFtQ2tJRWQ0dTZjV1ZZRHlJdWVGUXRid19CTlJsTU9CY3VLbmdNYU1YNWMycXBXMTJ3NGpnVXo2Z1p2UXlXcmo1U3lHNGVNc2pIa2RTYjJhRkpPTld0OTloQXU3NkdtSXBtT0VlYkhR?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-09-24T22:58:00+00:00",
-    "time": "22:58",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "2df9e0d93a5d",
-    "source": "Community Impact",
-    "title": "BBQ festival, dog waterpark day: 5 events to attend in New Caney, Porter this weekend, Sept. 25-27",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRzF2dnBQWDVrTG01VGpNa0RuQ0Z3Q0FQTVg2elFDdjZKTExQYWgxSlh6OFRYUnhvR2tyTU5FUEdiTTdMaHZvQ3FFclZidHloczhxRHk4aEpsWFJRdHhCNGxTVWtPa1RHalk5aVhLVjA2TWF6WVhpYllONDRNYWZuSXFraXowWUpyS0dJZ0hzWkkxTkJ3LUFab0xpOWM5clV0VG1BRFliWVJycklfZWswOXc5STA3RlRZX3dacTNMLVVHYWdUVms5d2hIVGZSb09tWGRPb0FNUkxJT2VXZHZqc0tjbUd4YnFmdW9uZDJ5dw?oc=5",
-    "query": "Houston Rodeo BBQ",
-    "published_at": "2026-09-24T18:00:00+00:00",
-    "time": "18:00",
-    "date": "2026-09-24"
-  },
-  {
-    "id": "6d2d144ccd6b",
-    "source": "mainstreetnews.com",
-    "title": "Auburn’s Flames & Trains BBQ Competition returns Oct. 24",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb2g0MEhkRDB6VGJiVXFFVXZkekFHQVpWczdlbVh0eF9aaW5PZGR5VDZydkxWU3FyN0RVcUdFb1I4LTdhMXBzZHcwNklzbnVWN3l6Y3ZRSXRNNGVXOHUxSVdBUjR4bnVGWVRvQlN5SnVZQ1d1RWstSHlxamVlUDk5b1lJRHZrV0JLS2tlX2hrVGY1M3VsYllpSWJSSVIxY1NLTUxjUWQzZWViYVVORlJuOU9TaFZCNnZSWWhuR0plcTJUbkpPSzhBR1ZyTDlQWUtRazZTWmV2SGREWmNaMmFB?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-09-23T11:00:00+00:00",
-    "time": "11:00",
-    "date": "2026-09-23"
   }
 ]
