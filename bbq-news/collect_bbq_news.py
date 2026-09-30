@@ -19,12 +19,15 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
   7. 발행 후 48시간 안의 기사만 게시한다. 그런 기사가 20건이 안 되면
      7일 안의 최신 기사로 채운다. 7일이 지난 기사는 게시하지 않는다.
   8. 게시할 기사 제목을 한국어로 번역해 title_ko에 함께 저장한다.
-     MyMemory 번역을 먼저 쓰고, 막히면 구글 번역을 시도한다.
-     한국어 기사는 번역하지 않는다. 번역이 실패하면 원어 제목만 게시한다.
+     구글 Gemini가 바비큐 용어집에 맞춰 신문 제목 문체로 번역한다.
+     Gemini가 막히면 MyMemory, 구글 번역 순으로 예비 번역을 하고,
+     예비 번역된 제목은 다음 실행 때 Gemini로 다시 번역한다.
+     한국어 기사는 번역하지 않는다. 번역이 모두 실패하면 원어 제목만 게시한다.
   9. 캐시는 30일 넘은 항목을 자동으로 정리한다.
 """
 
 import json
+import os
 import hashlib
 import re
 import unicodedata
@@ -510,8 +513,8 @@ def prune_cache(cache, days):
     return kept
 
 
-# 번역 경로. MyMemory(무료, 하루 약 5,000자)를 먼저 쓰고, 막히면 구글 번역을 시도한다.
-# 둘 다 막히면 원어 제목만 게시하고 다음 실행 때 다시 시도한다.
+# 예비 번역 경로. Gemini가 막힐 때만 쓴다. MyMemory(무료, 하루 약 5,000자)를
+# 먼저 쓰고, 막히면 구글 번역을 시도한다. 둘 다 막히면 원어 제목만 게시한다.
 MYMEMORY_URL = "https://api.mymemory.translated.net/get"
 GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
 TRANSLATE_TIMEOUT = 10
@@ -595,27 +598,129 @@ def translate_to_korean(text):
     return ""
 
 
-def add_korean_titles(items):
-    """게시할 기사 가운데 한국어 제목이 없는 것만 번역한다.
-    한국어 기사는 원제목을 그대로 쓴다. 연속 실패하면 이번 실행은 멈춘다."""
-    done, fails = 0, 0
-    for item in items:
-        if item.get("title_ko"):
+# Gemini 번역 설정. 열쇠는 GitHub 비밀 보관함의 GEMINI_API_KEY에서 읽는다.
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+# 앞에서부터 시도하고, 없는 모델이면 다음 것을 쓴다.
+GEMINI_MODELS = [
+    "gemini-flash-latest",
+    "gemini-3.5-flash",
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+]
+GEMINI_TIMEOUT = 60
+GEMINI_BATCH = 40
+
+GEMINI_PROMPT = """너는 세계 바비큐 대회 소식을 한국어로 전하는 뉴스 자막 편집자다.
+아래 JSON 배열의 기사 제목을 하나씩 한국어 신문 제목으로 번역하라.
+
+[문체]
+- 한국 신문 제목처럼 간결하게 쓴다. 명사로 끝내거나 '~한다', '~했다'로 끝낸다.
+- 존댓말(~합니다, ~입니다)을 쓰지 않는다. 문장 끝에 마침표를 찍지 않는다.
+- 원문에 없는 내용을 더하지 않는다. 매체 이름은 번역하지 않고 뺀다.
+- 사람 이름, 도시 이름, 대회 이름은 한국어 표기로 옮긴다. 영어 괄호 병기는 하지 않는다.
+- 금액은 '3억 7500만 달러'처럼 한국식으로 쓴다.
+
+[용어집] 아래 표기를 반드시 따른다.
+- barbecue, BBQ, barbeque, barbacoa(바비큐 뜻일 때) → 바비큐 ('바베큐'로 쓰지 않는다)
+- asado → 아사도 / asador, asadores → 아사도르 / parrillero → 파리예로
+- Asado Ancestral, asado ancestral → 전통 아사도 / Mundial → 월드컵
+- churrasco → 슈하스코 / churrasqueiro → 슈하스케이루
+- braai → 브라이 / Heritage Day(남아공) → 헤리티지 데이
+- barbacoa(멕시코 요리) → 바르바코아 / mole(멕시코 소스) → 몰레 / pulque → 풀케
+- pitmaster → 피트마스터 / cook-off → 쿡오프 / brisket → 브리스킷 / grand champion → 그랜드 챔피언
+- competition → 대회 / championship → 챔피언십 / invitational → 인비테이셔널 / world championship → 세계 챔피언십
+- American Royal → 아메리칸 로열 / Memphis in May → 멤피스 인 메이 / Jack Daniel's → 잭 다니엘스 / KCBS → KCBS
+- Guinness World Record → 기네스 세계 기록
+- sports barbecue → 스포츠바비큐 / professional barbecuer → 프로바비큐어
+
+[출력]
+입력과 같은 순서, 같은 개수의 JSON 문자열 배열만 출력하라. 다른 말은 쓰지 않는다.
+
+입력:
+"""
+
+
+def gemini_translate_batch(titles):
+    """제목 목록을 Gemini로 한 번에 번역한다. 실패하면 None을 돌려준다."""
+    if not GEMINI_API_KEY or not titles:
+        return None
+    body = {
+        "contents": [{"parts": [{"text": GEMINI_PROMPT + json.dumps(titles, ensure_ascii=False)}]}],
+        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
+    }
+    headers = {"x-goog-api-key": GEMINI_API_KEY, "Content-Type": "application/json"}
+    for model in GEMINI_MODELS:
+        try:
+            resp = requests.post(
+                GEMINI_URL.format(model=model), headers=headers, json=body, timeout=GEMINI_TIMEOUT
+            )
+        except Exception as e:
+            print(f"    (Gemini {model} 요청 실패: {e})")
+            return None
+        if resp.status_code == 404:
+            print(f"    (Gemini {model} 모델 없음, 다음 모델 시도)")
             continue
+        if resp.status_code != 200:
+            print(f"    (Gemini {model} 번역 실패: HTTP {resp.status_code} {resp.text[:120]})")
+            return None
+        try:
+            text = resp.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+            text = re.sub(r"^```(?:json)?|```$", "", text).strip()
+            result = json.loads(text)
+        except Exception as e:
+            print(f"    (Gemini {model} 응답 해석 실패: {e})")
+            return None
+        if not isinstance(result, list) or len(result) != len(titles):
+            print(f"    (Gemini {model} 응답 개수 불일치: {len(titles)}건 요청)")
+            return None
+        print(f"    (Gemini {model}로 {len(titles)}건 번역)")
+        return [str(x).strip() for x in result]
+    return None
+
+
+def add_korean_titles(items):
+    """게시할 기사 가운데 Gemini 번역이 없는 것을 번역한다.
+    한국어 기사는 원제목을 그대로 쓴다. Gemini가 실패하면 번역이 없는
+    기사에 한해 MyMemory, 구글 번역으로 예비 번역을 한다."""
+    todo = []
+    for item in items:
         title = item.get("title", "")
         if HANGUL.search(title):
             item["title_ko"] = title
+            item["ko_by"] = "original"
             continue
-        if done >= MAX_TRANSLATIONS_PER_RUN or fails >= 3:
+        if item.get("ko_by") == "gemini" and item.get("title_ko"):
             continue
-        translated = translate_to_korean(title)
-        done += 1
-        if translated and translated != title:
+        todo.append(item)
+
+    gemini_done = 0
+    for start in range(0, len(todo), GEMINI_BATCH):
+        chunk = todo[start:start + GEMINI_BATCH]
+        result = gemini_translate_batch([item.get("title", "") for item in chunk])
+        if result is None:
+            break
+        for item, ko in zip(chunk, result):
+            if ko and HANGUL.search(ko):
+                item["title_ko"] = ko
+                item["ko_by"] = "gemini"
+                gemini_done += 1
+
+    fallback_done, fails = 0, 0
+    for item in todo:
+        if item.get("title_ko"):
+            continue
+        if fallback_done >= MAX_TRANSLATIONS_PER_RUN or fails >= 3:
+            break
+        translated = translate_to_korean(item.get("title", ""))
+        fallback_done += 1
+        if translated and translated != item.get("title"):
             item["title_ko"] = translated
+            item["ko_by"] = "fallback"
             fails = 0
         else:
             fails += 1
-    print(f"번역 시도 {done}건")
+    print(f"번역: Gemini {gemini_done}건, 예비 번역 시도 {fallback_done}건")
     return items
 
 
@@ -664,6 +769,7 @@ def main():
         if cleaned != item.get("title"):
             item["title"] = cleaned
             item.pop("title_ko", None)  # 제목이 바뀌었으니 다시 번역한다.
+            item.pop("ko_by", None)
     live = [item for item in live if is_relevant(item.get("title", ""))]
 
     cache = load_json(CACHE_PATH, {})
