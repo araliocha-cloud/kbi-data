@@ -143,6 +143,39 @@ UNFIT_PATTERN = re.compile(
 )
 
 
+# 대회, 축제, 단체 소식만 게시한다. 식당 개업, 친목 모임, 개인 블로그 같은
+# 가벼운 소식은 아래 단어가 하나도 없으면 뺀다.
+EVENT_TERMS_CJK = [
+    "대회", "챔피언십", "선수권", "페스티벌", "축제", "경연", "월드컵",
+    "스포츠바비큐", "프로바비큐어", "협회", "연맹",
+    "選手権", "コンテスト", "グランプリ", "フェスティバル",
+    "大赛", "比赛", "锦标赛", "烧烤节",
+    "مسابقة", "مهرجان", "بطولة",
+    "การแข่งขัน", "เทศกาล",
+]
+EVENT_PATTERN = re.compile(
+    r"\b("
+    r"competitions?|contests?|championships?|champions?|cook-?offs?|"
+    r"festivals?|fest|tournaments?|world cup|pitmasters?|judges?|bash|"
+    r"world records?|guinness|"
+    r"campeonatos?|concursos?|torneos?|torneios?|mundial|competencias?|"
+    r"parrilleros?|asadores?|churrasqueiros?|"
+    r"titles?|títulos?|campeão|campeões|campeã|campeón|campeones|"
+    r"meisterschaft|wettbewerb|kampioenschap|wedstrijd|"
+    r"championnat|concours|campionato|gara|"
+    r"iobsf|kooba|kbri|kcbs|wbqa|ibca|nbbqa|aobe|american royal|memphis in may"
+    r")\b",
+    re.IGNORECASE,
+)
+
+
+def is_event(text):
+    lowered = (text or "").lower()
+    if any(term in lowered for term in EVENT_TERMS_CJK):
+        return True
+    return bool(EVENT_PATTERN.search(lowered))
+
+
 def is_unfit(text):
     lowered = (text or "").lower()
     if any(term in lowered for term in UNFIT_TERMS_CJK):
@@ -153,12 +186,15 @@ def is_unfit(text):
 def is_relevant(title, summary=""):
     """제목이나 요약 중 하나라도 핵심 단어를 포함하면 통과시킨다.
     범죄, 사건사고, 추문처럼 격에 맞지 않는 기사는 뺀다.
+    대회, 축제, 단체와 관련 없는 가벼운 소식도 뺀다.
     한국어 기사는 치킨 프랜차이즈 BBQ를 가리키는 단어가 있으면 빼고,
     영문 'BBQ'만 있고 '바비큐'가 없으면 브랜드 기사로 보고 뺀다."""
     haystack = (title + " " + strip_html(summary)).lower()
     if not any(term.lower() in haystack for term in CORE_BBQ_TERMS):
         return False
     if is_unfit(haystack):
+        return False
+    if not is_event(haystack):
         return False
     if HANGUL.search(haystack):
         if any(term in haystack for term in KO_EXCLUDE_TERMS):
