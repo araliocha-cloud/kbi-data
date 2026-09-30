@@ -132,18 +132,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "80da58785c61",
-    "source": "K8 News | Jonesboro, Arkansas",
-    "title": "No competition, no problem for the Downtown Jonesboro BBQ Festival",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUtiZnN3NjJGY2JNSmNWR2l5S0g2YlNLZWZOVmJfMnlBOEpQV19DT1lsckIzMmwxS2JCU3pnNEkzMzNlN3BCWXdhRllMZHRRNUx4WENCYjlrVmVQRlpsaEJSMWtFOGdhS1NHeFpaSzV4Y1JvWGY4YWllRmYtWVUtM1dhLWVXdFhWR0h2THNxU2drM3kwYnfSAaoBQVVfeXFMTTRUbDR5NTU4Vk9EbmV6RXZmM3NkU2lpakZrZXA5ZjVZVUM2UExNNm92bkU5SFI2NFFlbHoxX2g5YW5BTWc5b2dUalZKZHdSS2tIaEQzVG9CU3Q2a2tZbWZhTnBHcVJfZXMwb3dMb3h3SG5wUGdqcmduNHdySWFDWDNPa0RVTmpzOHlfSFpTX1JfQndjb2swelBmRTFvR1pLUndweGlRZ2U4Unc?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-09-26T22:36:00+00:00",
-    "time": "22:36",
-    "date": "2026-09-26",
-    "title_ko": "대회 없어도 흥행 문제없다… 다운타운 존즈버러 바비큐 페스티벌",
-    "ko_by": "gemini"
-  },
-  {
     "id": "ea4d79e9a386",
     "source": "Ñanduti",
     "title": "Paraguay será sede del Mundial del Asado Ancestral 2028: se impuso ante candidaturas de Brasil, Chile y Bolivia",
@@ -153,6 +141,18 @@
     "time": "15:44",
     "date": "2026-09-26",
     "title_ko": "파라과이, 브라질·칠레·볼리비아 제치고 2028 전통 아사도 월드컵 개최지로 선정",
+    "ko_by": "gemini"
+  },
+  {
+    "id": "80da58785c61",
+    "source": "K8 News | Jonesboro, Arkansas",
+    "title": "No competition, no problem for the Downtown Jonesboro BBQ Festival",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUtiZnN3NjJGY2JNSmNWR2l5S0g2YlNLZWZOVmJfMnlBOEpQV19DT1lsckIzMmwxS2JCU3pnNEkzMzNlN3BCWXdhRllMZHRRNUx4WENCYjlrVmVQRlpsaEJSMWtFOGdhS1NHeFpaSzV4Y1JvWGY4YWllRmYtWVUtM1dhLWVXdFhWR0h2THNxU2drM3kwYnfSAaoBQVVfeXFMTTRUbDR5NTU4Vk9EbmV6RXZmM3NkU2lpakZrZXA5ZjVZVUM2UExNNm92bkU5SFI2NFFlbHoxX2g5YW5BTWc5b2dUalZKZHdSS2tIaEQzVG9CU3Q2a2tZbWZhTnBHcVJfZXMwb3dMb3h3SG5wUGdqcmduNHdySWFDWDNPa0RVTmpzOHlfSFpTX1JfQndjb2swelBmRTFvR1pLUndweGlRZ2U4Unc?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-09-26T22:36:00+00:00",
+    "time": "22:36",
+    "date": "2026-09-26",
+    "title_ko": "대회 없어도 흥행 문제없다… 다운타운 존즈버러 바비큐 페스티벌",
     "ko_by": "gemini"
   },
   {
