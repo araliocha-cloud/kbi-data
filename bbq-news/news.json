@@ -180,6 +180,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "162e75e0f9c1",
+    "source": "KOAM News Now",
+    "title": "Crawford State Park to host BBQ competition Sept. 26",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSDlMZnJDeEFlQ1UyYkY2UGpPUUpEQndpd0Vwd3JRY3pwbDh1OHpHZ29sRHhRTzVoLVFlZjhTV0d6SzJZSDFVcGVmWFZQVEYtRW5KR2pyVVNia2NVa0hKMWY0ei10NGxiblUzaFZBWlJ2OXRpdzRuOXBRQldqZGhDdEJpOGt0M1c3dHlwUjdrZUJ5S2UtTG1HUjRMdGhweEo3aEk5OUp4dENtbnQwMHlSSzJxMWUzTi0xSDM3amRlQkNZaW0xdFh6akNoUW1zTWV6SXN5NWgwQzduYXlZNVQw?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-09-25T19:09:00+00:00",
+    "time": "19:09",
+    "date": "2026-09-25",
+    "title_ko": "크로퍼드 주립공원, 9월 26일 바비큐 대회 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "020612c1f5cc",
     "source": "InfoBAN",
     "title": "Sigue abierta la inscripción para participar del Campeonato del Asado de Tira",
@@ -225,18 +237,6 @@
     "time": "22:58",
     "date": "2026-09-24",
     "title_ko": "세계 기록 도전 위해 남아공 바비큐 현장에 모인 수천 명의 인파",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "2df9e0d93a5d",
-    "source": "Community Impact",
-    "title": "BBQ festival, dog waterpark day: 5 events to attend in New Caney, Porter this weekend, Sept. 25-27",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRzF2dnBQWDVrTG01VGpNa0RuQ0Z3Q0FQTVg2elFDdjZKTExQYWgxSlh6OFRYUnhvR2tyTU5FUEdiTTdMaHZvQ3FFclZidHloczhxRHk4aEpsWFJRdHhCNGxTVWtPa1RHalk5aVhLVjA2TWF6WVhpYllONDRNYWZuSXFraXowWUpyS0dJZ0hzWkkxTkJ3LUFab0xpOWM5clV0VG1BRFliWVJycklfZWswOXc5STA3RlRZX3dacTNMLVVHYWdUVms5d2hIVGZSb09tWGRPb0FNUkxJT2VXZHZqc0tjbUd4YnFmdW9uZDJ5dw?oc=5",
-    "query": "Houston Rodeo BBQ",
-    "published_at": "2026-09-24T18:00:00+00:00",
-    "time": "18:00",
-    "date": "2026-09-24",
-    "title_ko": "바비큐 축제부터 반려견 워터파크까지… 이번 주말 뉴케이니·포터에서 즐길 행사 5선",
     "ko_by": "gemini"
   }
 ]
