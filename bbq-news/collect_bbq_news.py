@@ -15,7 +15,7 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
      응답 지연은 실제로는 살아있는 기사일 가능성이 높아 살려둔다.
   5. 한 번 확인한 기사는 resolve_cache.json에 결과를 저장해두고,
      다음 실행부터는 그 결과를 재사용해 반복 확인을 건너뛴다.
-  6. 통과한 기사는 전부 news.json에 게시한다.
+  6. 같은 사건을 여러 매체가 다룬 경우 한 줄만 남기고 news.json에 게시한다.
   7. 발행 후 48시간 안의 기사만 게시한다. 그런 기사가 20건이 안 되면
      7일 안의 최신 기사로 채운다. 7일이 지난 기사는 게시하지 않는다.
   8. 캐시는 30일 넘은 항목을 자동으로 정리한다.
@@ -24,6 +24,7 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
 import json
 import hashlib
 import re
+import unicodedata
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
@@ -388,11 +389,83 @@ def prune_expired(items, hours):
     return kept
 
 
+# 같은 사건을 다룬 기사를 가려내기 위한 설정.
+# 어느 기사에나 나오는 단어는 비교에서 뺀다.
+TITLE_STOPWORDS = {
+    "the", "and", "for", "with", "from", "this", "that", "will", "are", "was",
+    "has", "its", "into", "new", "first", "annual",
+    "del", "los", "las", "para", "por", "con", "una", "que", "como", "ser",
+    "sera", "fue", "ano", "anos",
+    "dos", "das", "nos", "nas", "pela", "pelo", "com", "sua", "seu",
+    "der", "die", "das", "und", "mit", "een", "het", "van", "voor",
+    "des", "les", "une", "sur", "aux",
+    "bbq", "barbe", "barbq", "grill",
+}
+CJK_RUN = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7a3]+")
+LATIN_WORD = re.compile(r"[a-z0-9]+")
+
+
+def title_tokens(title):
+    """제목을 비교용 낱말 묶음으로 바꾼다. 라틴 문자는 악센트를 지우고
+    앞 다섯 글자로 줄여 asado, asadores, asador를 한 낱말로 본다.
+    한중일 문자는 두 글자씩 끊어 비교한다."""
+    text = unicodedata.normalize("NFKD", (title or "").lower())
+    text = "".join(ch for ch in text if not ("\u0300" <= ch <= "\u036f"))
+    text = unicodedata.normalize("NFC", text)
+    tokens = set()
+    for run in CJK_RUN.findall(text):
+        if len(run) == 1:
+            continue
+        tokens.update(run[i:i + 2] for i in range(len(run) - 1))
+    for word in LATIN_WORD.findall(CJK_RUN.sub(" ", text)):
+        if len(word) < 3 or word.isdigit():
+            continue
+        stem = word[:5]
+        if word in TITLE_STOPWORDS or stem in TITLE_STOPWORDS:
+            continue
+        tokens.add(stem)
+    return tokens
+
+
+def same_story(a, b):
+    """두 제목이 같은 사건을 다루는지 판단한다.
+    두 제목의 낱말을 합친 것 가운데 60% 이상이 겹치고, 겹친 낱말이
+    세 개 이상이면 같은 기사로 본다. 같은 대회의 예고, 현장, 결과처럼
+    대회 이름만 같고 내용이 다른 기사는 따로 남는다.
+    '#Mundial del asado'처럼 낱말이 두 개 이하인 짧은 제목은 그 낱말이
+    전부 다른 제목에 들어 있으면 같은 기사로 본다."""
+    if not a or not b:
+        return False
+    shared = len(a & b)
+    if min(len(a), len(b)) <= 2 and shared >= 2 and shared == min(len(a), len(b)):
+        return True
+    return shared >= 3 and shared / len(a | b) >= 0.6
+
+
+def dedupe_stories(items):
+    """같은 사건의 기사는 한 줄만 남긴다. 겹치는 기사들은 한 묶음으로
+    모아, 묶음 안의 어느 기사와든 같으면 같은 사건으로 본다. 묶음마다
+    제목이 가장 자세한 기사 하나를 남기고, 최신 기사 먼저 순서를 유지한다."""
+    groups = []  # [대표 기사, 대표 낱말 수, 묶음 낱말 목록]
+    for item in items:
+        tokens = title_tokens(item.get("title", ""))
+        for group in groups:
+            if any(same_story(tokens, member) for member in group[2]):
+                group[2].append(tokens)
+                if len(tokens) > group[1]:
+                    group[0], group[1] = item, len(tokens)
+                break
+        else:
+            groups.append([item, len(tokens), [tokens]])
+    return [group[0] for group in groups]
+
+
 def select_live(items):
     """48시간 안의 기사를 우선 게시한다. 모자라면 7일 안의 최신 기사로
     MIN_LIVE_ITEMS까지 채운다. 7일이 넘은 기사는 게시하지 않는다."""
     pool = prune_expired(items, POOL_RETENTION_DAYS * 24)
     pool.sort(key=lambda x: x["published_at"], reverse=True)
+    pool = dedupe_stories(pool)
     fresh = prune_expired(pool, LIVE_RETENTION_HOURS)
     if len(fresh) >= MIN_LIVE_ITEMS:
         return fresh[:MAX_LIVE_ITEMS]
