@@ -109,10 +109,33 @@ def strip_html(text):
     return re.sub(r"<[^>]+>", " ", text or "")
 
 
+# 한국어 기사에서 치킨 프랜차이즈 'BBQ' 소식을 걸러내기 위한 단어들.
+KO_EXCLUDE_TERMS = [
+    "bbq치킨", "bbq 치킨", "제너시스", "비비큐", "황금올리브",
+]
+# 한국어 기사는 영문 'BBQ'만으로는 통과시키지 않는다.
+# 아래 단어 중 하나가 있어야 진짜 바비큐 기사로 본다.
+KO_REQUIRED_TERMS = [
+    "바비큐", "바베큐",
+    "iobsf", "kooba", "kbri", "kcbs",
+    "korea barbecue university", "aobe",
+]
+HANGUL = re.compile(r"[가-힣]")
+
+
 def is_relevant(title, summary=""):
-    """제목이나 요약 중 하나라도 핵심 단어를 포함하면 통과시킨다."""
+    """제목이나 요약 중 하나라도 핵심 단어를 포함하면 통과시킨다.
+    한국어 기사는 치킨 프랜차이즈 BBQ를 가리키는 단어가 있으면 빼고,
+    영문 'BBQ'만 있고 '바비큐'가 없으면 브랜드 기사로 보고 뺀다."""
     haystack = (title + " " + strip_html(summary)).lower()
-    return any(term.lower() in haystack for term in CORE_BBQ_TERMS)
+    if not any(term.lower() in haystack for term in CORE_BBQ_TERMS):
+        return False
+    if HANGUL.search(haystack):
+        if any(term in haystack for term in KO_EXCLUDE_TERMS):
+            return False
+        if not any(term in haystack for term in KO_REQUIRED_TERMS):
+            return False
+    return True
 
 
 def fetch_feed(url):
@@ -362,6 +385,8 @@ def main():
 
     live = load_json(NEWS_PATH, [])
     live = prune_expired(live, POOL_RETENTION_DAYS * 24)
+    # 이미 게시된 기사도 현재 기준으로 다시 걸러낸다.
+    live = [item for item in live if is_relevant(item.get("title", ""))]
 
     cache = load_json(CACHE_PATH, {})
     cache = prune_cache(cache, CACHE_RETENTION_DAYS)
