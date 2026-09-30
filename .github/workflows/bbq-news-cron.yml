@@ -29,6 +29,8 @@ jobs:
         run: pip install -r bbq-news/requirements.txt
 
       - name: 뉴스 수집 실행
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python bbq-news/collect_bbq_news.py
 
       - name: 변경사항 커밋
