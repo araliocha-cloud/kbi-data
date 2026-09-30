@@ -18,7 +18,9 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
   6. 같은 사건을 여러 매체가 다룬 경우 한 줄만 남기고 news.json에 게시한다.
   7. 발행 후 48시간 안의 기사만 게시한다. 그런 기사가 20건이 안 되면
      7일 안의 최신 기사로 채운다. 7일이 지난 기사는 게시하지 않는다.
-  8. 캐시는 30일 넘은 항목을 자동으로 정리한다.
+  8. 게시할 기사 제목을 한국어로 번역해 title_ko에 함께 저장한다.
+     한국어 기사는 번역하지 않는다. 번역이 실패하면 원어 제목만 게시한다.
+  9. 캐시는 30일 넘은 항목을 자동으로 정리한다.
 """
 
 import json
@@ -485,6 +487,56 @@ def prune_cache(cache, days):
     return kept
 
 
+# 구글 번역의 무료 경로. 막히면 원어 제목만 게시하고 다음 실행 때 다시 시도한다.
+TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
+TRANSLATE_TIMEOUT = 8
+MAX_TRANSLATIONS_PER_RUN = 60
+
+
+def translate_to_korean(text):
+    """제목을 한국어로 번역한다. 실패하면 빈 문자열을 돌려준다."""
+    try:
+        resp = requests.get(
+            TRANSLATE_URL,
+            params={"client": "gtx", "sl": "auto", "tl": "ko", "dt": "t", "q": text},
+            headers=HEADERS,
+            timeout=TRANSLATE_TIMEOUT,
+        )
+        if resp.status_code != 200:
+            print(f"    (번역 실패: HTTP {resp.status_code})")
+            return ""
+        data = resp.json()
+        translated = "".join(part[0] for part in data[0] if part and part[0])
+        return translated.strip()
+    except Exception as e:
+        print(f"    (번역 실패: {e})")
+        return ""
+
+
+def add_korean_titles(items):
+    """게시할 기사 가운데 한국어 제목이 없는 것만 번역한다.
+    한국어 기사는 원제목을 그대로 쓴다. 연속 실패하면 이번 실행은 멈춘다."""
+    done, fails = 0, 0
+    for item in items:
+        if item.get("title_ko"):
+            continue
+        title = item.get("title", "")
+        if HANGUL.search(title):
+            item["title_ko"] = title
+            continue
+        if done >= MAX_TRANSLATIONS_PER_RUN or fails >= 3:
+            continue
+        translated = translate_to_korean(title)
+        done += 1
+        if translated and translated != title:
+            item["title_ko"] = translated
+            fails = 0
+        else:
+            fails += 1
+    print(f"번역 시도 {done}건")
+    return items
+
+
 def normalize_title(title):
     return re.sub(r"\W+", "", (title or "").lower())
 
@@ -535,6 +587,7 @@ def main():
     collected = fetch_all(config, cache)
     live = merge(live, collected, 10000)
     live = select_live(live)
+    live = add_korean_titles(live)
 
     save_json(NEWS_PATH, live)
     save_json(CACHE_PATH, cache)
