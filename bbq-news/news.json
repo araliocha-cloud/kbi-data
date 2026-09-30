@@ -150,16 +150,6 @@
     "date": "2026-09-28"
   },
   {
-    "id": "0408bd144070",
-    "source": "xportsnews.com",
-    "title": "돈스파이크, 출소 후 달라진 행보…바비큐 팝업 수익금 일부 \"마약회복협회 기부\"",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fbkUwdWZnR1ZGdHpGV21xODFFbXViRWFZTVYyM3hBc1JSTnRmazJ3VVVpd3dBRmd0TlcwbC13MWJvSTRGQXBYRVRqNlQzb1dVWWY3bA?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-09-28T00:21:40+00:00",
-    "time": "00:21",
-    "date": "2026-09-28"
-  },
-  {
     "id": "767be69ce0a5",
     "source": "A Crítica de Campo Grande",
     "title": "Gledson Soares, o Mamutes BBQ, coleciona títulos em churrasco e defumados",
@@ -197,6 +187,16 @@
     "query": "バーベキュー大会",
     "published_at": "2026-09-27T13:50:30+00:00",
     "time": "13:50",
+    "date": "2026-09-27"
+  },
+  {
+    "id": "0b89f4560661",
+    "source": "elnacional.com.py",
+    "title": "#Mundial del asado",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UdldESDcwX3lFQ1I1TGRqVTZqTU5oX2hMQ0JuUC1ibnhVNUZpOVhaaFpQbkdLVzExWWhyU3lWeFVmTklOcFItXzQ4SVY2ekxnNk5sTEE1aktRY3N0eE9tOA?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-09-27T13:38:36+00:00",
+    "time": "13:38",
     "date": "2026-09-27"
   }
 ]
