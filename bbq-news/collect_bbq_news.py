@@ -16,7 +16,8 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
   5. 한 번 확인한 기사는 resolve_cache.json에 결과를 저장해두고,
      다음 실행부터는 그 결과를 재사용해 반복 확인을 건너뛴다.
   6. 통과한 기사는 전부 news.json에 게시한다.
-  7. 발행 후 48시간이 지난 항목은 자동으로 걷어낸다.
+  7. 발행 후 48시간 안의 기사만 게시한다. 그런 기사가 20건이 안 되면
+     7일 안의 최신 기사로 채운다. 7일이 지난 기사는 게시하지 않는다.
   8. 캐시는 30일 넘은 항목을 자동으로 정리한다.
 """
 
@@ -38,6 +39,9 @@ CACHE_PATH = BASE_DIR / "resolve_cache.json"
 
 MAX_LIVE_ITEMS = 120
 LIVE_RETENTION_HOURS = 48  # 이틀 — 최신 소식 위주로 유지
+# 48시간 안의 기사가 이 수보다 적으면, 7일 안의 최신 기사로 모자란 만큼 채운다.
+MIN_LIVE_ITEMS = 20
+POOL_RETENTION_DAYS = 7    # 이보다 오래된 기사는 어떤 경우에도 게시하지 않는다
 CACHE_RETENTION_DAYS = 14  # 죽은 사이트 판정도 2주 지나면 다시 확인해본다
 
 # feeds_config.json에 적힌 max_items에 이 배율을 곱해서 실제로 가져온다.
@@ -248,7 +252,7 @@ def fetch_all(config, cache):
         label = feed.get("label", query)
         rss_url = (
             "https://news.google.com/rss/search?q="
-            + query.replace(" ", "+")
+            + (query + f" when:{POOL_RETENTION_DAYS}d").replace(" ", "+")
             + "&hl=" + feed.get("hl", "ko")
             + "&gl=" + feed.get("gl", "KR")
             + "&ceid=" + feed.get("ceid", "KR:ko")
@@ -293,6 +297,17 @@ def prune_expired(items, hours):
         if ts >= cutoff:
             kept.append(item)
     return kept
+
+
+def select_live(items):
+    """48시간 안의 기사를 우선 게시한다. 모자라면 7일 안의 최신 기사로
+    MIN_LIVE_ITEMS까지 채운다. 7일이 넘은 기사는 게시하지 않는다."""
+    pool = prune_expired(items, POOL_RETENTION_DAYS * 24)
+    pool.sort(key=lambda x: x["published_at"], reverse=True)
+    fresh = prune_expired(pool, LIVE_RETENTION_HOURS)
+    if len(fresh) >= MIN_LIVE_ITEMS:
+        return fresh[:MAX_LIVE_ITEMS]
+    return pool[:MIN_LIVE_ITEMS]
 
 
 def prune_cache(cache, days):
@@ -346,7 +361,7 @@ def main():
     print(f"등록된 검색어 수: {len(config.get('queries', []))}")
 
     live = load_json(NEWS_PATH, [])
-    live = prune_expired(live, LIVE_RETENTION_HOURS)
+    live = prune_expired(live, POOL_RETENTION_DAYS * 24)
 
     cache = load_json(CACHE_PATH, {})
     cache = prune_cache(cache, CACHE_RETENTION_DAYS)
@@ -354,7 +369,8 @@ def main():
     print(f"캐시된 링크 수: {len(cache)}")
 
     collected = fetch_all(config, cache)
-    live = merge(live, collected, MAX_LIVE_ITEMS)
+    live = merge(live, collected, 10000)
+    live = select_live(live)
 
     save_json(NEWS_PATH, live)
     save_json(CACHE_PATH, cache)
