@@ -176,6 +176,24 @@ EVENT_PATTERN = re.compile(
 )
 
 
+def clean_headline(title, source):
+    """제목 끝에 붙은 ' - 매체명'을 떼어낸다. 구글 뉴스 제목에는
+    매체 이름이 한두 번 붙어 오는 경우가 있고, 'El Nacional'처럼
+    매체 이름의 앞부분만 붙기도 한다."""
+    title = (title or "").strip()
+    source = (source or "").strip().lower()
+    for _ in range(2):
+        if " - " not in title or not source:
+            break
+        head, tail = title.rsplit(" - ", 1)
+        tail_l = tail.strip().lower()
+        if tail_l and (tail_l in source or source in tail_l):
+            title = head.strip()
+        else:
+            break
+    return title
+
+
 def is_event(text):
     lowered = (text or "").lower()
     if any(term in lowered for term in EVENT_TERMS_CJK):
@@ -313,6 +331,7 @@ def parse_entry(entry, query_label, cache, budget):
         source_title = parts[-1] if len(parts) > 1 else query_label
 
     headline = entry.get("title", "").rsplit(" - ", 1)[0].strip()
+    headline = clean_headline(headline, source_title)
     summary = entry.get("summary", "")
 
     if not is_relevant(headline, summary):
@@ -639,7 +658,12 @@ def main():
 
     live = load_json(NEWS_PATH, [])
     live = prune_expired(live, POOL_RETENTION_DAYS * 24)
-    # 이미 게시된 기사도 현재 기준으로 다시 걸러낸다.
+    # 이미 게시된 기사도 현재 기준으로 다시 다듬고 걸러낸다.
+    for item in live:
+        cleaned = clean_headline(item.get("title", ""), item.get("source", ""))
+        if cleaned != item.get("title"):
+            item["title"] = cleaned
+            item.pop("title_ko", None)  # 제목이 바뀌었으니 다시 번역한다.
     live = [item for item in live if is_relevant(item.get("title", ""))]
 
     cache = load_json(CACHE_PATH, {})
