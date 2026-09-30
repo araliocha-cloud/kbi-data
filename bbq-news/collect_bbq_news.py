@@ -122,13 +122,43 @@ KO_REQUIRED_TERMS = [
 ]
 HANGUL = re.compile(r"[가-힣]")
 
+# 스포츠바비큐 소식으로서 격에 맞지 않는 기사(범죄, 사건사고, 추문)를 거른다.
+# 한국어, 일본어, 중국어는 글자가 들어 있으면 뺀다.
+UNFIT_TERMS_CJK = [
+    "마약", "출소", "복역", "구속", "체포", "기소", "징역", "실형", "집행유예",
+    "폭행", "성범죄", "성추행", "음주운전", "살인", "사망", "숨져", "사기", "횡령",
+    "逮捕", "容疑", "死亡", "麻薬", "被告",
+    "吸毒", "判刑",
+]
+# 라틴 문자 언어는 단어 단위로 찾는다.
+UNFIT_PATTERN = re.compile(
+    r"\b("
+    r"arrest(ed|s)?|charged with|convicted|sentenced|indicted|lawsuit|sued|"
+    r"murder(ed)?|homicide|shooting|stabbing|kill(s|ed)?|dies|died|fatal|overdose|"
+    r"detenid[oa]s?|asesinad[oa]s?|asesinato|homicidio|muert[oa]s?|"
+    r"prisão|assassinad[oa]s?|assassinato|mort[oa]s?|"
+    r"festgenommen|mord"
+    r")\b",
+    re.IGNORECASE,
+)
+
+
+def is_unfit(text):
+    lowered = (text or "").lower()
+    if any(term in lowered for term in UNFIT_TERMS_CJK):
+        return True
+    return bool(UNFIT_PATTERN.search(lowered))
+
 
 def is_relevant(title, summary=""):
     """제목이나 요약 중 하나라도 핵심 단어를 포함하면 통과시킨다.
+    범죄, 사건사고, 추문처럼 격에 맞지 않는 기사는 뺀다.
     한국어 기사는 치킨 프랜차이즈 BBQ를 가리키는 단어가 있으면 빼고,
     영문 'BBQ'만 있고 '바비큐'가 없으면 브랜드 기사로 보고 뺀다."""
     haystack = (title + " " + strip_html(summary)).lower()
     if not any(term.lower() in haystack for term in CORE_BBQ_TERMS):
+        return False
+    if is_unfit(haystack):
         return False
     if HANGUL.search(haystack):
         if any(term in haystack for term in KO_EXCLUDE_TERMS):
