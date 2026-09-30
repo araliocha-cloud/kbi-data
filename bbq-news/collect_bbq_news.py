@@ -8,16 +8,15 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
   1. feeds_config.json에 등록된 여러 검색 쿼리로 구글 뉴스 RSS를 훑는다.
   2. 제목이나 요약에 실제 바비큐 핵심 단어(또는 관련 단체명)가
      있는 것만 통과시킨다.
-  3. 구글 뉴스 링크는 실제 도착지 주소로 풀어내고(googlenewsdecoder),
-     실제 주소로 못 풀렸으면(여전히 구글 링크면) 죽은 것으로 취급해
-     캐시에도 그렇게 저장한다. 그래야 구글 링크가 "살아있는 링크"로
-     캐시에 영구 박제되는 일이 없다.
+  3. 구글 뉴스 링크는 실제 도착지 주소로 풀어낸다(googlenewsdecoder).
+     못 풀리면 구글 링크 그대로 게시한다. 누르면 원문으로 넘어간다.
+     실패는 캐시에 남기지 않아 다음 실행 때 다시 풀어본다.
   4. 확실히 죽은 링크(404, 410, 451)만 걸러내고, 봇 차단(403 등)이나
      응답 지연은 실제로는 살아있는 기사일 가능성이 높아 살려둔다.
   5. 한 번 확인한 기사는 resolve_cache.json에 결과를 저장해두고,
      다음 실행부터는 그 결과를 재사용해 반복 확인을 건너뛴다.
   6. 통과한 기사는 전부 news.json에 게시한다.
-  7. 게시 후 168시간(7일)이 지난 항목은 자동으로 걷어낸다.
+  7. 발행 후 48시간이 지난 항목은 자동으로 걷어낸다.
   8. 캐시는 30일 넘은 항목을 자동으로 정리한다.
 """
 
@@ -55,6 +54,10 @@ RESOLVE_TIMEOUT = 8
 VALIDATE_TIMEOUT = 6
 
 DEFINITELY_DEAD = {404, 410, 451}
+
+# 한 번 실행에 새로 해석할 구글 링크 수와, 연속 실패 허용 횟수.
+MAX_NEW_RESOLVES_PER_RUN = 40
+MAX_CONSECUTIVE_FAILS = 5
 
 CORE_BBQ_TERMS = [
     "바비큐", "바베큐",
@@ -159,24 +162,33 @@ def validate_url(url):
         return True
 
 
-def resolve_and_validate(raw_url, cache):
+def resolve_and_validate(raw_url, cache, budget):
     """캐시에 있으면 재사용하고, 없으면 새로 확인해서 캐시에 저장한다.
-    구글 링크로 남은 경우(실제 주소 해석 실패)는 캐시에도 '죽은 것'으로
-    저장해서, 다음 실행부터 자동으로 걸러지게 한다."""
+
+    실제 주소 해석에 실패해도 기사를 버리지 않는다. 구글 뉴스 링크는
+    브라우저에서 누르면 원문으로 넘어가므로, 그 링크를 그대로 게시한다.
+    해석 실패는 캐시에 남기지 않아서 다음 실행 때 다시 시도하게 한다.
+    한 번 실행에 새로 해석하는 개수는 budget으로 제한해 구글의 속도
+    제한에 걸리지 않게 한다."""
     key = raw_key(raw_url)
     cached = cache.get(key)
     if cached:
         return cached.get("url"), cached.get("alive", True)
 
+    if budget["left"] <= 0:
+        return raw_url, True
+    budget["left"] -= 1
+
     url = resolve_final_url(raw_url)
 
     if "news.google.com" in url:
-        cache[key] = {
-            "url": url,
-            "alive": False,
-            "checked_at": datetime.now(timezone.utc).isoformat(),
-        }
-        return url, False
+        budget["fails"] += 1
+        # 연속 실패가 쌓이면 속도 제한으로 보고 이번 실행의 해석을 멈춘다.
+        if budget["fails"] >= MAX_CONSECUTIVE_FAILS:
+            print("    (구글 링크 해석이 연속 실패 — 이번 실행은 원본 링크로 게시)")
+            budget["left"] = 0
+        return raw_url, True
+    budget["fails"] = 0
 
     alive = validate_url(url)
     cache[key] = {
@@ -187,7 +199,7 @@ def resolve_and_validate(raw_url, cache):
     return url, alive
 
 
-def parse_entry(entry, query_label, cache):
+def parse_entry(entry, query_label, cache, budget):
     raw_url = entry.get("link", "")
     if not raw_url:
         return None
@@ -206,7 +218,7 @@ def parse_entry(entry, query_label, cache):
     if not is_relevant(headline, summary):
         return None
 
-    url, alive = resolve_and_validate(raw_url, cache)
+    url, alive = resolve_and_validate(raw_url, cache, budget)
     if not alive:
         return None
 
@@ -217,7 +229,7 @@ def parse_entry(entry, query_label, cache):
         published_at = datetime.now(timezone.utc)
 
     return {
-        "id": make_id(url),
+        "id": make_id(raw_url),
         "source": source_title,
         "title": headline,
         "url": url,
@@ -230,6 +242,7 @@ def parse_entry(entry, query_label, cache):
 
 def fetch_all(config, cache):
     collected = []
+    budget = {"left": MAX_NEW_RESOLVES_PER_RUN, "fails": 0}
     for feed in config.get("queries", []):
         query = feed["query"]
         label = feed.get("label", query)
@@ -245,7 +258,7 @@ def fetch_all(config, cache):
         limit = feed.get("max_items", 8) * MAX_ITEMS_MULTIPLIER
         found, rejected = 0, 0
         for entry in parsed.entries[:limit]:
-            item = parse_entry(entry, label, cache)
+            item = parse_entry(entry, label, cache, budget)
             if item:
                 collected.append(item)
                 found += 1
@@ -260,7 +273,7 @@ def fetch_all(config, cache):
         parsed = fetch_feed(feed["url"])
         limit = feed.get("max_items", 10) * MAX_ITEMS_MULTIPLIER
         for entry in parsed.entries[:limit]:
-            item = parse_entry(entry, feed.get("label", "OFFICIAL"), cache)
+            item = parse_entry(entry, feed.get("label", "OFFICIAL"), cache, budget)
             if item:
                 item["source"] = feed.get("label", item["source"])
                 collected.append(item)
@@ -295,14 +308,37 @@ def prune_cache(cache, days):
     return kept
 
 
-def merge(existing, new_items, seen_ids, max_len):
+def normalize_title(title):
+    return re.sub(r"\W+", "", (title or "").lower())
+
+
+def merge(existing, new_items, max_len):
+    """id와 제목 두 기준으로 중복을 거른다. 같은 기사가 나중에 실제
+    주소로 해석되면 구글 링크를 실제 주소로 바꿔 끼운다."""
+    by_id = {item["id"]: item for item in existing}
+    titles = {normalize_title(item["title"]) for item in existing}
     for item in new_items:
-        if item["id"] in seen_ids:
+        old = by_id.get(item["id"])
+        if old:
+            if "news.google.com" in old["url"] and "news.google.com" not in item["url"]:
+                old["url"] = item["url"]
             continue
-        seen_ids.add(item["id"])
+        t = normalize_title(item["title"])
+        if t in titles:
+            continue
+        by_id[item["id"]] = item
+        titles.add(t)
         existing.append(item)
     existing.sort(key=lambda x: x["published_at"], reverse=True)
     return existing[:max_len]
+
+
+def drop_poisoned(cache):
+    """해석 실패한 구글 링크가 '죽은 링크'로 저장된 옛 캐시 항목을 지운다."""
+    return {
+        k: v for k, v in cache.items()
+        if not ("news.google.com" in v.get("url", "") and not v.get("alive", True))
+    }
 
 
 def main():
@@ -314,12 +350,11 @@ def main():
 
     cache = load_json(CACHE_PATH, {})
     cache = prune_cache(cache, CACHE_RETENTION_DAYS)
+    cache = drop_poisoned(cache)
     print(f"캐시된 링크 수: {len(cache)}")
 
-    seen_ids = {item["id"] for item in live}
-
     collected = fetch_all(config, cache)
-    live = merge(live, collected, seen_ids, MAX_LIVE_ITEMS)
+    live = merge(live, collected, MAX_LIVE_ITEMS)
 
     save_json(NEWS_PATH, live)
     save_json(CACHE_PATH, cache)
