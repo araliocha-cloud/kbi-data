@@ -60,6 +60,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "2d559871db67",
+    "source": "R7",
+    "title": "Burning Fest: Jaboticabal recebe festival de churrasco e música",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTQ3MDBRMFd6NElHVWtkcm45ajQxYWNjSFM4MEk4bU5KY3VjZjdzVVdRekdXdmdTaUFKOGJ5aHZZSGI0Q2NRRmd4blV0cVcxbWstdnB0TUZFUzMxTUhReHdpWGRhMzhjeGZEOXNtU29qLXY5eW1RRndsTGREVzNYd3pwU0hNMm1HMEZSX05MUk9uWlVMdk00cks3RnIyNGFyTGE0ejdGYU9qNWUzNFprMHFWTGRZdw?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-09-29T17:34:19+00:00",
+    "time": "17:34",
+    "date": "2026-09-29",
+    "title_ko": "버닝 페스트: 자보티카발, 슈하스코와 음악 축제 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "18ae8a35a928",
     "source": "Canal26",
     "title": "Parrilleros de todo Sudamérica llegan a Argentina para el 3° Torneo del Asado a la Estaca: entrada gratis, shows y tradición",
@@ -225,18 +237,6 @@
     "time": "19:09",
     "date": "2026-09-25",
     "title_ko": "크로퍼드 주립공원, 9월 26일 바비큐 대회 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "020612c1f5cc",
-    "source": "InfoBAN",
-    "title": "Sigue abierta la inscripción para participar del Campeonato del Asado de Tira",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd01McVRHV3JkWmljOTZRMlUtU21ELUdpSC1aU2NlelhoMWRlbUhoOUJBeHBlc2czRHhDd0t3UEwtdFg0QW4tbUhwTV9RY1U1VFpia3NQTHhxNmFLLUc0NDZscWtLMHdoSWZEVnFYa3FxSTdRNDQxZENZeWtjaUQtdUF5d2wwN2p5MUFZa25tOEtXU09fRDRQeldweW5vUEtqYXZBRGh5X2tuMEFCWjNiYV9GQ0NEZ2s?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-09-25T15:01:34+00:00",
-    "time": "15:01",
-    "date": "2026-09-25",
-    "title_ko": "아사도 데 티라 챔피언십 참가 신청 접수 중",
     "ko_by": "gemini"
   }
 ]
