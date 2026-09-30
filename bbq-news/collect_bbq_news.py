@@ -19,6 +19,7 @@ professionalbarbecuer.com — 세계 바비큐 뉴스 실시간 수집기
   7. 발행 후 48시간 안의 기사만 게시한다. 그런 기사가 20건이 안 되면
      7일 안의 최신 기사로 채운다. 7일이 지난 기사는 게시하지 않는다.
   8. 게시할 기사 제목을 한국어로 번역해 title_ko에 함께 저장한다.
+     MyMemory 번역을 먼저 쓰고, 막히면 구글 번역을 시도한다.
      한국어 기사는 번역하지 않는다. 번역이 실패하면 원어 제목만 게시한다.
   9. 캐시는 30일 넘은 항목을 자동으로 정리한다.
 """
@@ -34,6 +35,9 @@ from urllib.parse import urlparse
 import feedparser
 import requests
 from googlenewsdecoder import gnewsdecoder
+from langdetect import DetectorFactory, detect
+
+DetectorFactory.seed = 0  # 언어 판별 결과가 실행마다 달라지지 않게 고정한다.
 
 BASE_DIR = Path(__file__).parent
 CONFIG_PATH = BASE_DIR / "feeds_config.json"
@@ -487,30 +491,89 @@ def prune_cache(cache, days):
     return kept
 
 
-# 구글 번역의 무료 경로. 막히면 원어 제목만 게시하고 다음 실행 때 다시 시도한다.
-TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
-TRANSLATE_TIMEOUT = 8
+# 번역 경로. MyMemory(무료, 하루 약 5,000자)를 먼저 쓰고, 막히면 구글 번역을 시도한다.
+# 둘 다 막히면 원어 제목만 게시하고 다음 실행 때 다시 시도한다.
+MYMEMORY_URL = "https://api.mymemory.translated.net/get"
+GOOGLE_TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
+TRANSLATE_TIMEOUT = 10
 MAX_TRANSLATIONS_PER_RUN = 60
 
+# 언어 판별 결과를 MyMemory가 받는 언어 코드로 바꾼다.
+LANG_CODE_MAP = {"zh-cn": "zh-CN", "zh-tw": "zh-TW"}
 
-def translate_to_korean(text):
-    """제목을 한국어로 번역한다. 실패하면 빈 문자열을 돌려준다."""
+
+def detect_language(text):
+    """제목의 언어를 판별한다. 문자 모양으로 확실히 가려지는 언어는
+    먼저 정하고, 라틴 문자 언어만 언어 판별기에 맡긴다.
+    판별하지 못하면 영어로 본다."""
+    if re.search(r"[\u3040-\u30ff]", text):
+        return "ja"
+    if re.search(r"[\u4e00-\u9fff]", text):
+        return "zh-TW"
+    if re.search(r"[\u0600-\u06ff]", text):
+        return "ar"
+    if re.search(r"[\u0e00-\u0e7f]", text):
+        return "th"
+    try:
+        code = detect(text)
+    except Exception:
+        return "en"
+    return LANG_CODE_MAP.get(code, code)
+
+
+def translate_mymemory(text, source_lang):
     try:
         resp = requests.get(
-            TRANSLATE_URL,
+            MYMEMORY_URL,
+            params={"q": text, "langpair": f"{source_lang}|ko"},
+            headers=HEADERS,
+            timeout=TRANSLATE_TIMEOUT,
+        )
+        if resp.status_code != 200:
+            print(f"    (MyMemory 번역 실패: HTTP {resp.status_code})")
+            return ""
+        data = resp.json()
+        if str(data.get("responseStatus")) != "200" or data.get("quotaFinished"):
+            print(f"    (MyMemory 번역 실패: {data.get('responseDetails') or data.get('responseStatus')})")
+            return ""
+        translated = (data.get("responseData") or {}).get("translatedText") or ""
+        if translated.upper().startswith(("MYMEMORY WARNING", "QUERY LENGTH LIMIT", "INVALID")):
+            print(f"    (MyMemory 번역 실패: {translated[:60]})")
+            return ""
+        return translated.strip()
+    except Exception as e:
+        print(f"    (MyMemory 번역 실패: {e})")
+        return ""
+
+
+def translate_google(text):
+    try:
+        resp = requests.get(
+            GOOGLE_TRANSLATE_URL,
             params={"client": "gtx", "sl": "auto", "tl": "ko", "dt": "t", "q": text},
             headers=HEADERS,
             timeout=TRANSLATE_TIMEOUT,
         )
         if resp.status_code != 200:
-            print(f"    (번역 실패: HTTP {resp.status_code})")
+            print(f"    (구글 번역 실패: HTTP {resp.status_code})")
             return ""
         data = resp.json()
         translated = "".join(part[0] for part in data[0] if part and part[0])
         return translated.strip()
     except Exception as e:
-        print(f"    (번역 실패: {e})")
+        print(f"    (구글 번역 실패: {e})")
         return ""
+
+
+def translate_to_korean(text):
+    """제목을 한국어로 번역한다. 두 경로가 모두 실패하면 빈 문자열을 돌려준다."""
+    translated = translate_mymemory(text, detect_language(text))
+    if translated and HANGUL.search(translated):
+        return translated
+    translated = translate_google(text)
+    if translated and HANGUL.search(translated):
+        return translated
+    return ""
 
 
 def add_korean_titles(items):
