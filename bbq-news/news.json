@@ -1,5 +1,17 @@
 [
   {
+    "id": "fa7aa5f46fc1",
+    "source": "milenio.com",
+    "title": "Barbacoa hidalguense llegará a California con festival",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd05aTS13SkV5MzNESktjRHZkNGNRdC1wZTJ5dTd4akVYeGs1OHJNOGZVenZ1OTNuQU9taEtha1FlVmE1SmoycTFBZy1xT0JMV0hJMy1ieUFXN2lQX3htQVUtYjdOc1JnZ3VRWnhOeEl0WF8wYk1ucWZSdnZjTHpzc29rOS1PNndRMk5lQ2tuTdIBjwFBVV95cUxON3lWVXBiclQtTW1YSXo3UlZUSC1XdDRCZkJ5T1cxN1hSZDkwMjBOQWs5bXNybWd1cHIzNU01NEJFclJocHZfTGxWUTNyaVIxUW5ZYWVkMUVnbkFsV1duSlJBQTFLRTdlaDVySWlEWnNYWVBHWC16SmcxSUFUVHptYVlwU0VZdFY2QzNtZXdZcw?oc=5",
+    "query": "Barbacoa México",
+    "published_at": "2026-09-30T14:58:39+00:00",
+    "time": "14:58",
+    "date": "2026-09-30",
+    "title_ko": "이달고식 바르바코아, 페스티벌과 함께 캘리포니아로 향한다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "d3af8c53c582",
     "source": "Criterio Hidalgo",
     "title": "Migrantes hidalguenses se llevan el Festival Internacional de la Barbacoa y el Ximbo al “otro lado”",
@@ -225,18 +237,6 @@
     "time": "10:56",
     "date": "2026-09-25",
     "title_ko": "남아공, 기네스 세계 기록 도전 위해 세계 최대 브라이 불지펴",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "513bb75668b3",
-    "source": "Portal do Holanda",
-    "title": "BH tem festival gastronômico e mostra de churrasco neste sábado",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0o5SlNFampGY3AxXzZDdHB5ZG5nTlVwOFVrS0RpeldSZzZyWVgxdnYxM25YSTlROTNiSXJnVmpFQzlBLVZ6Q2xLZ1A2T3JHcTZRQ1A3cnBOclBPeFdWYkFGQVB6ZnlXN2s0VTV2bVpSM09pYUtRYjJlVk9wVVFBNTJjRGlIUXhQMGdNU1RzcnpvMjhGeXBKNTJSQjF2UmpkRWxINlN3eEVIcFhmX3NnazB1SQ?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-09-25T02:32:00+00:00",
-    "time": "02:32",
-    "date": "2026-09-25",
-    "title_ko": "벨루오리존치, 이번 주 토요일 미식 축제와 슈하스코 쇼 개최",
     "ko_by": "gemini"
   }
 ]
