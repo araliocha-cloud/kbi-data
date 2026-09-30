@@ -1,5 +1,17 @@
 [
   {
+    "id": "ef1f8480d03c",
+    "source": "jornalosemanario.com.br",
+    "title": "Sorocaba vira capital do churrasco de 01 a 04 de outubro com o Burning Fest",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTdCS1hjNkhIZ3pRZEdjelUwN3UtVTUxN0RqSE8tVGJTXy1CVlBTWlg0c2pIQVJRYUhJZDdHSVFqa3dudFRxZkRzWERZS25wbWhHYTJtUkxmTmlOU0VidXBfUWw2TUoyN2NTWnZxdUh6MHdBaWZDbFB3R3p5ZExFM3VHQlFPSEtsak1kcVpwalVDYkFGal9FRkxiWThkSjYxckJPSkxyLXZjcXcxMV81STZn?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-09-30T16:27:36+00:00",
+    "time": "16:27",
+    "date": "2026-09-30",
+    "title_ko": "소로카바, 10월 1~4일 버닝 페스트로 슈하스코 수도 된다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "fa7aa5f46fc1",
     "source": "milenio.com",
     "title": "Barbacoa hidalguense llegará a California con festival",
@@ -144,18 +156,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "80da58785c61",
-    "source": "K8 News | Jonesboro, Arkansas",
-    "title": "No competition, no problem for the Downtown Jonesboro BBQ Festival",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUtiZnN3NjJGY2JNSmNWR2l5S0g2YlNLZWZOVmJfMnlBOEpQV19DT1lsckIzMmwxS2JCU3pnNEkzMzNlN3BCWXdhRllMZHRRNUx4WENCYjlrVmVQRlpsaEJSMWtFOGdhS1NHeFpaSzV4Y1JvWGY4YWllRmYtWVUtM1dhLWVXdFhWR0h2THNxU2drM3kwYnfSAaoBQVVfeXFMTTRUbDR5NTU4Vk9EbmV6RXZmM3NkU2lpakZrZXA5ZjVZVUM2UExNNm92bkU5SFI2NFFlbHoxX2g5YW5BTWc5b2dUalZKZHdSS2tIaEQzVG9CU3Q2a2tZbWZhTnBHcVJfZXMwb3dMb3h3SG5wUGdqcmduNHdySWFDWDNPa0RVTmpzOHlfSFpTX1JfQndjb2swelBmRTFvR1pLUndweGlRZ2U4Unc?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-09-26T22:36:00+00:00",
-    "time": "22:36",
-    "date": "2026-09-26",
-    "title_ko": "대회 없어도 흥행 문제없다… 다운타운 존즈버러 바비큐 페스티벌",
-    "ko_by": "gemini"
-  },
-  {
     "id": "ea4d79e9a386",
     "source": "Ñanduti",
     "title": "Paraguay será sede del Mundial del Asado Ancestral 2028: se impuso ante candidaturas de Brasil, Chile y Bolivia",
@@ -165,6 +165,18 @@
     "time": "15:44",
     "date": "2026-09-26",
     "title_ko": "파라과이, 브라질·칠레·볼리비아 제치고 2028 전통 아사도 월드컵 개최지로 선정",
+    "ko_by": "gemini"
+  },
+  {
+    "id": "80da58785c61",
+    "source": "K8 News | Jonesboro, Arkansas",
+    "title": "No competition, no problem for the Downtown Jonesboro BBQ Festival",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUtiZnN3NjJGY2JNSmNWR2l5S0g2YlNLZWZOVmJfMnlBOEpQV19DT1lsckIzMmwxS2JCU3pnNEkzMzNlN3BCWXdhRllMZHRRNUx4WENCYjlrVmVQRlpsaEJSMWtFOGdhS1NHeFpaSzV4Y1JvWGY4YWllRmYtWVUtM1dhLWVXdFhWR0h2THNxU2drM3kwYnfSAaoBQVVfeXFMTTRUbDR5NTU4Vk9EbmV6RXZmM3NkU2lpakZrZXA5ZjVZVUM2UExNNm92bkU5SFI2NFFlbHoxX2g5YW5BTWc5b2dUalZKZHdSS2tIaEQzVG9CU3Q2a2tZbWZhTnBHcVJfZXMwb3dMb3h3SG5wUGdqcmduNHdySWFDWDNPa0RVTmpzOHlfSFpTX1JfQndjb2swelBmRTFvR1pLUndweGlRZ2U4Unc?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-09-26T22:36:00+00:00",
+    "time": "22:36",
+    "date": "2026-09-26",
+    "title_ko": "대회 없어도 흥행 문제없다… 다운타운 존즈버러 바비큐 페스티벌",
     "ko_by": "gemini"
   },
   {
@@ -225,18 +237,6 @@
     "time": "15:01",
     "date": "2026-09-25",
     "title_ko": "아사도 데 티라 챔피언십 참가 신청 접수 중",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "728161f99eb3",
-    "source": "AOL.ca",
-    "title": "South Africa fires up world’s biggest braai in bid for Guinness record",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXcxVHRKR2gxRXR3LUg1bmRDN2ZUUEw5a3I3Vm82WS1kQVR5Y2FBcWFFM2w0c1hlVmhrT1YwakllZm5aVU1adzE2dWNhOURTa3RnSHlMVmZIXzdPT1g4TEZOUjgyWHZ2bWkwUnNwT0RSb1Npb1JmWjBhNXJiYXUxYw?oc=5",
-    "query": "Braai South Africa",
-    "published_at": "2026-09-25T10:56:38+00:00",
-    "time": "10:56",
-    "date": "2026-09-25",
-    "title_ko": "남아공, 기네스 세계 기록 도전 위해 세계 최대 브라이 불지펴",
     "ko_by": "gemini"
   }
 ]
