@@ -192,6 +192,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "19b173e00e20",
+    "source": "YouTube",
+    "title": "JAPAN BBQ CHAMPIONSHIP 2026 本編映像公開！",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2VU4xVWdweUp4T2dWVUZGSW1fVThvMnl5OVZORjZOLU4yOXBucTEwcDNNVnFYMHI4ck55RWE5LWliaFB6OEFzVzlEU1pGT0pNOEo2MlFXRlp5VnNJ?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-09-27T06:16:13+00:00",
+    "time": "06:16",
+    "date": "2026-09-27",
+    "title_ko": "일본 바비큐 챔피언십 2026 본편 영상 공개",
+    "ko_by": "gemini"
+  },
+  {
     "id": "80da58785c61",
     "source": "K8 News | Jonesboro, Arkansas",
     "title": "No competition, no problem for the Downtown Jonesboro BBQ Festival",
@@ -225,18 +237,6 @@
     "time": "00:06",
     "date": "2026-09-26",
     "title_ko": "미들랜드 해외참전용사회, 연례 유방암 인식 개선 바비큐 및 칠리 쿡오프 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "6bf64c77be89",
-    "source": "KTXS",
-    "title": "Abilene’s Jay’s BBQ Shack tops USA Today’s Texas-style barbecue contest rankings",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUZrNWlOczY2bVJVY1Y1dmM2ekVYNVRJVnFMekRVQWp1UkI4WFVheW9ybi15NHBZbDRXc3NEcjdpSHg2UjhHQ0F1UHp3a2ZLWkNKQmlKcFZwTkNsUl9PUnNMam4yd0MxdlhVOHpqUnZyelU3REN2cm43S1QwZ2dvdXBOYmJYYXdOVjRZdlBRV1pJYkV1OWFmdExPamI4MkttdjI0STZ2dDU?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-09-25T22:36:37+00:00",
-    "time": "22:36",
-    "date": "2026-09-25",
-    "title_ko": "애빌린 제이스 바비큐 섀크, 텍사스식 바비큐 대회 순위 1위 차지",
     "ko_by": "gemini"
   }
 ]
