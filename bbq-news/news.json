@@ -1,5 +1,17 @@
 [
   {
+    "id": "190bc5eb821b",
+    "source": "FoodService Director",
+    "title": "A celebrity pitmaster brings her Southside BBQ concept to the University of Chicago",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObnZrNDl5V0xoUERYT1lkQTF0UkVCY1pJQW9NdUN0cWRCX2l5Qm1rUWh5TnFqdGo2NnBsQXRIcGhQR3pwWmpGWXN0Nms0LWFiSkdLbURfa0VsbHlONTFuWUhZN0liVG44TmtjVXNoOFdrOFp4NUdtRmZiNVJ0YktHNjlxcEtiZ2I0bFRfMHEwbkFGSkkwV3Z3TEhCcFZOS3B5RFJkUUxEVnpaSWNMQ3JlanFSbG91OGM2R3RlZ09qMTEzVkFEUVFhOU5OanI5WWY5UHQxTW1kcw?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-09-30T19:09:57+00:00",
+    "time": "19:09",
+    "date": "2026-09-30",
+    "title_ko": "유명 피트마스터, 시카고 대학교에 사우스사이드 바비큐 콘셉트 선보인다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "ef1f8480d03c",
     "source": "jornalosemanario.com.br",
     "title": "Sorocaba vira capital do churrasco de 01 a 04 de outubro com o Burning Fest",
@@ -225,18 +237,6 @@
     "time": "22:36",
     "date": "2026-09-25",
     "title_ko": "애빌린 제이스 바비큐 섀크, 텍사스식 바비큐 대회 순위 1위 차지",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "162e75e0f9c1",
-    "source": "KOAM News Now",
-    "title": "Crawford State Park to host BBQ competition Sept. 26",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSDlMZnJDeEFlQ1UyYkY2UGpPUUpEQndpd0Vwd3JRY3pwbDh1OHpHZ29sRHhRTzVoLVFlZjhTV0d6SzJZSDFVcGVmWFZQVEYtRW5KR2pyVVNia2NVa0hKMWY0ei10NGxiblUzaFZBWlJ2OXRpdzRuOXBRQldqZGhDdEJpOGt0M1c3dHlwUjdrZUJ5S2UtTG1HUjRMdGhweEo3aEk5OUp4dENtbnQwMHlSSzJxMWUzTi0xSDM3amRlQkNZaW0xdFh6akNoUW1zTWV6SXN5NWgwQzduYXlZNVQw?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-09-25T19:09:00+00:00",
-    "time": "19:09",
-    "date": "2026-09-25",
-    "title_ko": "크로퍼드 주립공원, 9월 26일 바비큐 대회 개최",
     "ko_by": "gemini"
   }
 ]
