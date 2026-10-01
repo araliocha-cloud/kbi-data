@@ -1,5 +1,29 @@
 [
   {
+    "id": "3ac8e897aa40",
+    "source": "LV12",
+    "title": "Tafí del Valle recibirá a más de 50 asadores en el Torneo de Asado a la Estaca",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVl3TFJXUzJqeDY5M1g3dmllODAyeXZTY0JYT0w0d2c0UkdjLTVNaTVhSXdnbjZ6TWVhNEZkR0owVUl1dmw0S1V3TmVqUVFzbVBsRE91UzVXQzlvZWg3Q2xwVlFkMzhCMWNLQnZ3dHhkX0lQN2tGdUFzU19jUkx2LTh5bjBxZ2EzdzNJZFk3LWVaNGNoZ0h2anY4MnhUelBGVklXY3p2MV9mTlJQMU81bTN30gGyAUFVX3lxTE95WXdMUldTMmp4NjkzWDd2aWU4MDJ5dlNjQlhPTDR3ZzRSR2MtNU1pNWFJd2duNnpNZWE0RmRHSjBVSXV2bDRLVXdOZWpRUXNtUGxET3VTNVdDOW9laDdDbHBWUWQzOEIxY0tCdnd0eGRfSVA3a0Z1QXNTX2NSTHYtOHluMHFnYTN3M0lkWTctZVo0Y2hnSHZqdjgyeFR6UEZWSVdjenYxX2ZOUlAxTzVtM3c?oc=5",
+    "query": "Asado Uruguay",
+    "published_at": "2026-10-01T14:01:00+00:00",
+    "time": "14:01",
+    "date": "2026-10-01",
+    "title_ko": "타피 델 바예, 아사도 아 라 에스타카 대회서 50명 이상의 아사도르 맞이한다",
+    "ko_by": "gemini"
+  },
+  {
+    "id": "59277f4aaa09",
+    "source": "발품뉴스",
+    "title": "\"캠핑장비 바리바리 챙길 필요 없습니다\"... 식재료·조리도구 준비해 주는 서울 도심 바비큐축제",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QRE14SjlGbm9Mb1FGeXB5aUdKdkhUNUszWU1qdDlnTFFsRnJEM2RLYjNKT2ZVNjdCbWpqM3hwdjE2cW9LUmY1cWtsMFVPUzRVLS04MTFRdEIwbEpHZENoNzdR0gFqQVVfeXFMTTJRcGtqa1ptQXZMWTlSWHI3VjZZUk5LX01TS0EyN0J3U2w4QVlvY2NXSkNhT2VER2gyeXdkZFREV0xpV09FS2tteUFycWxCeWEzSEVlNmpublQ2aVpad1Nsbk1XaWpXV25HZw?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-01T11:00:00+00:00",
+    "time": "11:00",
+    "date": "2026-10-01",
+    "title_ko": "\"캠핑장비 바리바리 챙길 필요 없습니다\"... 식재료·조리도구 준비해 주는 서울 도심 바비큐축제",
+    "ko_by": "original"
+  },
+  {
     "id": "190bc5eb821b",
     "source": "FoodService Director",
     "title": "A celebrity pitmaster brings her Southside BBQ concept to the University of Chicago",
@@ -213,30 +237,6 @@
     "time": "22:36",
     "date": "2026-09-26",
     "title_ko": "대회 없어도 흥행 문제없다… 다운타운 존즈버러 바비큐 페스티벌",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "21b7689788a7",
-    "source": "cecildaily.com",
-    "title": "Fitzkee Brothers Music: MD STATE BBQ BASH 2026",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmxzUWVLdjdwNHRtR3MwaFlwMnI4V1Q5NTZDd3kzTnJRVWdrREZfSUliX2xVclBXcjVsZzctcHQtaHJqRS1aY2syNU9HdVdaTE1wZWhNS3FETHA3bUlhRllUTlVyeFA1cHljVlp5SUh5YTB3S2xHSEo1bkVyWF9xZXFObWJnMkF4WEJ6eTRDQ3EtTE5nUURFMVV5aU0wT0FGaFEwazhpRnNlOUYzZlA2aXJrZmhpZWtjX2xpSmd3?oc=5",
-    "query": "Jack Daniel's Invitational",
-    "published_at": "2026-09-26T14:46:31+00:00",
-    "time": "14:46",
-    "date": "2026-09-26",
-    "title_ko": "피츠키 브라더스 음악 공연, 2026 메릴랜드 주 바비큐 배시에서 열려",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "e836ad2b60a8",
-    "source": "Permian Proud",
-    "title": "Midland VFW to host Annual Breast Cancer Awareness BBQ and Chili Cook-Off",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXM2ZkNvZ29IY1NZRnpuVUdaQmx5VFdjZDdTYkxsX095UDFqZnRoaVQ4SERGY1IxU2ZlbE56Qlc3Q0ZJbUdjWkJ3RmM2YTR6b2FNdWxxeC1aUEtJOWZfNEhIWkkyTTQ3R1hxX0xuc19BR2lDVWZzaThJVDlkd2dHRjdWdFJ2RFluVkJLWkl1YnlGY0xVOWN2YVI1bXFkRl91MWxQMXowYW1lZw?oc=5",
-    "query": "IBCA",
-    "published_at": "2026-09-26T00:06:38+00:00",
-    "time": "00:06",
-    "date": "2026-09-26",
-    "title_ko": "미들랜드 해외참전용사회, 연례 유방암 인식 개선 바비큐 및 칠리 쿡오프 개최",
     "ko_by": "gemini"
   }
 ]
