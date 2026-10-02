@@ -1,5 +1,17 @@
 [
   {
+    "id": "b727b6833cc2",
+    "source": "mocoshow.com",
+    "title": "New BBQ Festival and Competition MoCo Smoke Show Coming to Wheaton",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVNoNTFFOVZZTG43RVY5alZLd3BLYnBiQzNjaGRSUEF4TE5Hem9reXJIaERvMmV0bjhnYmlHendIT2ZsRFd0X0UzTENmZl92SGY5emZhcmFFV1JKdnBpVkdTTDQwbjJ0eTFqc2lWMWRuUFI3Y1R1V3FIQkJTY1lQNWlQZDFlQlJtdXFtNFBvWEdfMU9Ca29PYnVXb1Z4a1Zs?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-02T13:00:44+00:00",
+    "time": "13:00",
+    "date": "2026-10-02",
+    "title_ko": "새로운 바비큐 페스티벌 및 대회 모코 스모크 쇼 휘튼서 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "4c90e1bed180",
     "source": "Cipo360",
     "title": "Vuelve el Campeonato de Asadores a Cipolletti: cuándo será y cómo participar",
@@ -225,18 +237,6 @@
     "time": "11:00",
     "date": "2026-09-28",
     "title_ko": "잭 다니엘스, '더 할로'에서 바비큐 축제 연다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "767be69ce0a5",
-    "source": "A Crítica de Campo Grande",
-    "title": "Gledson Soares, o Mamutes BBQ, coleciona títulos em churrasco e defumados",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQk4wdUJlYS11SzRmUTR0ZngyU0dabU1LcnpET3dBa3h4dklfdm9pM1FycEd6ekpKWW9VVl9UOVY0MTB0d1p0dXp6eUljaTJLQWllQ0kxenlkdzVST3VhTldmQW1YQi04ZmhmSmNnZTVfNFZtU3R0S1ZZRllGOS1mN21SNGVOc2hFZ2ZaS1l5Mjk0V056c0VZMkZCbnV5ZUl2R0djZWVHX2VhRVZn?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-09-27T21:20:44+00:00",
-    "time": "21:20",
-    "date": "2026-09-27",
-    "title_ko": "마무치스 BBQ의 글레드시옹 소아리스, 슈하스코와 훈제 요리 타이틀 휩쓸어",
     "ko_by": "gemini"
   }
 ]
