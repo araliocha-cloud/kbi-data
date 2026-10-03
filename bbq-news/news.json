@@ -204,6 +204,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "439854f36d1d",
+    "source": "cecildaily.com",
+    "title": "Fitzkee Brothers Music: MD STATE BBQ BASH 2026",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0UxLTA0d1pfbW1WbDkzazcwenRjazVsSUZwc19JZ05SYlYxbkpZS09fQXFUTzhyQjNxUkp2UTNhM1ZwS3c1SjYySm1Dc0I5U2xPODMwZDF1dHpGbjZtczNKRldJcHdXZXFnQ210YzgwZnBEcXJIbzB0d01sR3lYVjliNHNJQnV0TGVtbWxFQ3pNQjJNVXprM00tdUNEeE0zYU5jTWpaWXJMTURLRm5KUkxEQ3JjR2ZUU3puTDQ4TQ?oc=5",
+    "query": "Jack Daniel's Invitational",
+    "published_at": "2026-09-29T09:33:34+00:00",
+    "time": "09:33",
+    "date": "2026-09-29",
+    "title_ko": "피츠키 브라더스 뮤직: 메릴랜드 주 바비큐 배시 2026",
+    "ko_by": "gemini"
+  },
+  {
     "id": "e1bd670527b0",
     "source": "Omaha World-Herald",
     "title": "Inaugural BBQ brings together competition, music",
@@ -225,18 +237,6 @@
     "time": "15:00",
     "date": "2026-09-28",
     "title_ko": "샌드힐스 스모크 쇼, 노스플랫에 챔피언십 바비큐와 음악으로 새로운 활력 더해",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "66cd0f9c02ec",
-    "source": "Nashville Scene",
-    "title": "Jack Daniel’s Is Throwing a 'BBQ Bash in the Hollow'",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcXRPY2VWNDI5V3NvOWRYN1FpTzFveTlyYmR4SDVMS21Qd3h6NG1TR19hcVI1akJPOVZlSVVzV3JZeElXaEVfS0F5UkliUmgxdE5XUERES083UmVydTl1WENGZnEtRmNjbEYzR1pxYjRiOUt4RUZQLVdNOFg3NnRFRTdGWVQwOUpyS2x2NE9OQThHcnE3cUpNZnhReGp3Q2hrTTQtRExwMGZ4bEp1LWlaZHEzS1d4T01KR3pPUUhRZER3YUIwaC00QXpydFFlWW1idW1rQg?oc=5",
-    "query": "Jack Daniel's Invitational",
-    "published_at": "2026-09-28T11:00:00+00:00",
-    "time": "11:00",
-    "date": "2026-09-28",
-    "title_ko": "잭 다니엘스, '더 할로'에서 바비큐 축제 연다",
     "ko_by": "gemini"
   }
 ]
