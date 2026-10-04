@@ -2,3 +2,6 @@ feedparser>=6.0.11
 requests>=2.31.0
 googlenewsdecoder>=0.1.7
 langdetect>=1.0.9
+# selectolax 1.0(2026년 10월)이 googlenewsdecoder가 쓰는 옛 방식을 막아 수집기가 멈췄다.
+# googlenewsdecoder가 새 방식으로 고쳐질 때까지 1.0 이전 판에 묶어 둔다.
+selectolax<1.0
