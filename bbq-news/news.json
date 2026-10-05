@@ -1,5 +1,17 @@
 [
   {
+    "id": "01aac8bdcc2a",
+    "source": "Patch",
+    "title": "23rd Annual MD State BBQ Bash Returns To Bel Air",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1NuN0h2bXhpV0dnQm1ucmFkU1ZOZ25YOTNDYlJzVVAwRlo4RmhyUF9KdERBMldMMVlhTUp4YUVnLWNiZzBpU0FNaWVOczdvSHM1cFg1SXZtY1kzcVI3dEs1MXFCNVlzNFd4dDNLLWtnVU9QQ2YyZzhQY3c3TGh5ZExvVk9KZ9IBmwFBVV95cUxPQ0Ftc2poVXNsUnFKWlBWanBRcENvLTdYYmlib21MVzR5c3AwM19aMElXN0IxRU9sLUNBd2pRN1VFUzV2MF9ULW9kS2N3WmdlSWJXWG9Nb3hJVnU4bU0yS0ZXelp5SE1UTzlmcXFqbDJXdTZ6ZjFsMklwYUxKeHdnc3pTNzdsZXMyUkRnNmluRS1GYWJoWjVxV2tscw?oc=5",
+    "query": "Jack Daniel's Invitational",
+    "published_at": "2026-10-05T21:10:37+00:00",
+    "time": "21:10",
+    "date": "2026-10-05",
+    "title_ko": "제23회 메릴랜드주 바비큐 배시 벨에어에서 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "3ca0f37db8e8",
     "source": "TV Pública",
     "title": "El último baile de Messi: asado, entrenamiento y un equipo campeón del mundo para despedir al capitán",
@@ -225,18 +237,6 @@
     "time": "14:58",
     "date": "2026-09-30",
     "title_ko": "이달고식 바르바코아, 페스티벌과 함께 캘리포니아로 향한다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "d3af8c53c582",
-    "source": "Criterio Hidalgo",
-    "title": "Migrantes hidalguenses se llevan el Festival Internacional de la Barbacoa y el Ximbo al “otro lado”",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObkN5c0pieUpYQ244N2ItM1k4V19ncjZEbEdvTVl4Z2Zhb0c1S2tzZW5XOEJJSHM4azIyQXUxVG9SSnRGTm94ZlhHUlQyR0NzODFhblRrZzdWZTRrMmRlUlMxS05xT0Frd2VKTVhEVEN2X2YzTEdEaEROOXBJU1lxMGxBQzk2Qk5ra1JIRGFfV21yUVE0V3YxckhNbGVwZk9fR2NUd0lyb1hDdmx5X25jOWg5bTNTMVZuSTFwV081WE5HS1dnREw5Y2pmbXhvVDVVWUp6RmJHX3g0Zw?oc=5",
-    "query": "Barbacoa México",
-    "published_at": "2026-09-30T05:26:19+00:00",
-    "time": "05:26",
-    "date": "2026-09-30",
-    "title_ko": "이달고 출신 이주민들, '국경 너머'서 바르바코아와 힘보 국제 축제 열어",
     "ko_by": "gemini"
   }
 ]
