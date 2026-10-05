@@ -1,5 +1,17 @@
 [
   {
+    "id": "3ca0f37db8e8",
+    "source": "TV Pública",
+    "title": "El último baile de Messi: asado, entrenamiento y un equipo campeón del mundo para despedir al capitán",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTE9wZXpOZjdsS2VWTXF5TjcwUDV1S05PWHVDMkd4ZnJJclpaWFpWY2NraXBwSTdNR3dScjFYRGpoY0lIZzJRV0swUU5mU3UweU5rR0dNOGhDcENDNHAtd2x2OUY2eUxaVU1nQ1NkUGJJNWJJTGEyZnNiWjdUbm9SSFZFRzZRVmtCT2V3aUkyX3pFSmVPNkFmaHVhaVlvUWhfclhQV2NyRjczWjJNNnJKWG5wTXNQU1AyREU4aVZJei12RE5hUlJXdTI4QVB5QQ?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-10-05T12:50:34+00:00",
+    "time": "12:50",
+    "date": "2026-10-05",
+    "title_ko": "메시의 라스트 댄스: 주장 배웅하는 아사도, 훈련, 세계 챔피언 팀",
+    "ko_by": "gemini"
+  },
+  {
     "id": "26eaad018dd5",
     "source": "UAゼンセン",
     "title": "参加者相互の創意工夫が光る逸品が並ぶ～2026県央地域協議会BBQ交流会＆焼きそば選手権を開催",
@@ -225,18 +237,6 @@
     "time": "05:26",
     "date": "2026-09-30",
     "title_ko": "이달고 출신 이주민들, '국경 너머'서 바르바코아와 힘보 국제 축제 열어",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "93e0e7b7bfef",
-    "source": "vocalesonline.com.mx",
-    "title": "Promueve Sebiso Festival Internacional de la Barbacoa y el Ximbo en California",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0RoeC1hSnM2VlNJbzZGei14UWYyVUpGVTZ5TE9GWFd0dWlLU0N0SjBvVkItSHZWc2hzcWgwdGp3cXVocWdCaXpHUlRyV2VwZERwZEJRRHQ2dmFuSC12UllCa25BMFRTU2ZRYVFYR2hjOTBPUDUzQTFKNjFES0d4UWpRZ3l2RjRlWlhoNzNGay1VMk81cFpFN0IzRVo3dTVEcnJfb3lZTjFnZzFSZmkyTHJaRGJkazRUNUZYTmRITzVPV0tlRHVzeFM3RlhkYVlXLV9MRFdpZw?oc=5",
-    "query": "Barbacoa México",
-    "published_at": "2026-09-30T02:55:22+00:00",
-    "time": "02:55",
-    "date": "2026-09-30",
-    "title_ko": "세비소, 캘리포니아에서 바르바코아와 힘보 국제 축제 홍보",
     "ko_by": "gemini"
   }
 ]
