@@ -156,6 +156,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "cb019d76cc5b",
+    "source": "The Business Journals",
+    "title": "L&L Hawaiian Barbecue hires national PR firm as plate lunch competition heats up on Mainland",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUF0anhwTTB0WmdMUDZLSTZtTUwtbE9EWnBDQU9wSWt1WUlzaThSNTNDYUZxc1MzQXlxZml5M3RUdFNWcHJ6ODBzbk1YeHotMHh3UlBLQ3ZUc0gzekszZ2pVb0Y1RlV6Z3lrRUROTGpaSFFLZTF3bmVmcWkzUjJLczlORVpsNnlpU1B0V0RJN2FmZWpCYk5hS0lB?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-10-02T10:00:00+00:00",
+    "time": "10:00",
+    "date": "2026-10-02",
+    "title_ko": "본토 플레이트 런치 경쟁 치열해지자 엘앤엘 하와이안 바비큐, 전국 홍보 대행사 영입",
+    "ko_by": "gemini"
+  },
+  {
     "id": "4c90e1bed180",
     "source": "Cipo360",
     "title": "Vuelve el Campeonato de Asadores a Cipolletti: cuándo será y cómo participar",
@@ -226,17 +238,5 @@
     "date": "2026-10-01",
     "title_ko": "\"캠핑장비 바리바리 챙길 필요 없습니다\"... 식재료·조리도구 준비해 주는 서울 도심 바비큐축제",
     "ko_by": "original"
-  },
-  {
-    "id": "190bc5eb821b",
-    "source": "FoodService Director",
-    "title": "A celebrity pitmaster brings her Southside BBQ concept to the University of Chicago",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObnZrNDl5V0xoUERYT1lkQTF0UkVCY1pJQW9NdUN0cWRCX2l5Qm1rUWh5TnFqdGo2NnBsQXRIcGhQR3pwWmpGWXN0Nms0LWFiSkdLbURfa0VsbHlONTFuWUhZN0liVG44TmtjVXNoOFdrOFp4NUdtRmZiNVJ0YktHNjlxcEtiZ2I0bFRfMHEwbkFGSkkwV3Z3TEhCcFZOS3B5RFJkUUxEVnpaSWNMQ3JlanFSbG91OGM2R3RlZ09qMTEzVkFEUVFhOU5OanI5WWY5UHQxTW1kcw?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-09-30T19:09:57+00:00",
-    "time": "19:09",
-    "date": "2026-09-30",
-    "title_ko": "유명 피트마스터, 시카고 대학교에 사우스사이드 바비큐 콘셉트 선보인다",
-    "ko_by": "gemini"
   }
 ]
