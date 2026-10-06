@@ -1,5 +1,17 @@
 [
   {
+    "id": "e94f3cc9819d",
+    "source": "www.abc.com.py",
+    "title": "Paraguay será sede del Mundial del asado ancestral 2028",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPckdXMTNReGE4VzYyTzlMbjQ2ZlFEMWxEOEx1SU15Qm5lVzZGZjhqU2ZNUXdxWVp3R2dwLW1kbHZyN2hEVnNsOUFtdUViLWkxZ28tdm1sSHh0S2lDaFhtc1RFWDRJZ19TQ1BkRlk5S3NIY2lCTW9VVFpvYV90VV9PWE1McDMtSWdwZVlxUGVHSjQ1QWVSdDNJNW51WTkyRFV5Z29EYVVHWHpueVd6OW9jM2tPRWlKQ0FZ?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-10-06T18:42:35+00:00",
+    "time": "18:42",
+    "date": "2026-10-06",
+    "title_ko": "파라과이, 2028 전통 아사도 월드컵 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "43ec5833a9a0",
     "source": "theleafchronicle.com",
     "title": "BBQ Fest returns to RichEllen Park with a new tournament Oct. 9-10",
@@ -225,18 +237,6 @@
     "time": "14:01",
     "date": "2026-10-01",
     "title_ko": "타피 델 바예, 아사도 아 라 에스타카 대회서 50명 이상의 아사도르 맞이한다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "49e55cb685e3",
-    "source": "LM Cipolletti",
-    "title": "Viene lindo el Campeonato de Asadores y ya quedan pocos días y cupos para inscribirse y competir",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1BQRVdPamNFbldfNWZmc004ZmtwRGN0TUZsWTdmYS12QnVWZFNFVkpwc1d6NmJ4eERUN0ZfTUFUdGNUTTMwdGZ2RDBvRmo2WEpRQTF0bDJLNGZaNG96RGFtb1pZLXdpbExDdVFTNXVOdVRnLW5uZVp5RlpXRHQ5ZkVMd1drTWFnUU5rWGNEYzUzYzNHak5pNVhtS2U2SlBzWURFbGVydy1WLWJoX2tTaS1faXhkUkl5TXljSlVyeml2Mk5JMmdhaGctbFhBUEMwYlRJ0gHYAUFVX3lxTE9kcjlPekdMaDVfUjZaVldiSmhvZnI1Wk5YTnU4MDhWYllmRWUyVGx1WHZJSWtUWGY2YXIwZ0h0a1Jad1IzY19ucmtvdlRsNnFxaFowZzBBWlhmVnZhcy14dFJoVUF0SU0zRm56UkwxUlpLTE9aZ0Z4c0N1eHJ5TG9hbmNtRVZsTzg4R0RQR1IzaHlfSFZIdGNyeHBWd3lkUXhjY3g5dm9UQVNvemIyQkhXYWtGWjJUbzdLNWp3LXQ1eHZpdFBYTkd4ZjBFMWE3QWpER3VEclNVSg?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-01T13:49:00+00:00",
-    "time": "13:49",
-    "date": "2026-10-01",
-    "title_ko": "아사도르 챔피언십 임박, 참가 접수 마감 임박",
     "ko_by": "gemini"
   }
 ]
