@@ -1,5 +1,17 @@
 [
   {
+    "id": "01443a100f46",
+    "source": "WCTI",
+    "title": "NC By Train adds special stops for State Fair, barbecue festival and Panthers game",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzd1M3NHa3BnX3dNMnZCeW9sa2pad2RwY0dQbl9DQkZBQXNrWEpIOGh3LXpfbzBBaGpNN2RDMjZBOTAyM1NKYjJLN3RlNXVHVkZ5MXREV2JIU0pXd2JqN0s3RnZWQ2p1X1lCUlExQXFlbGFPMXNVamswS2EwV2pqaEI0UjBEbkFyanlQVkdhaTFqaTIzQzRjeUNfZ1VSV3V0X29ReFdwQjFJS0VJRGI5Zw?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-10-06T07:09:15+00:00",
+    "time": "07:09",
+    "date": "2026-10-06",
+    "title_ko": "NC 바이 트레인, 주 박람회·바비큐 축제·팬서스 경기 위해 특별 정차한다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "01aac8bdcc2a",
     "source": "Patch",
     "title": "23rd Annual MD State BBQ Bash Returns To Bel Air",
@@ -225,18 +237,6 @@
     "time": "19:09",
     "date": "2026-09-30",
     "title_ko": "유명 피트마스터, 시카고 대학교에 사우스사이드 바비큐 콘셉트 선보인다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "ef1f8480d03c",
-    "source": "jornalosemanario.com.br",
-    "title": "Sorocaba vira capital do churrasco de 01 a 04 de outubro com o Burning Fest",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTdCS1hjNkhIZ3pRZEdjelUwN3UtVTUxN0RqSE8tVGJTXy1CVlBTWlg0c2pIQVJRYUhJZDdHSVFqa3dudFRxZkRzWERZS25wbWhHYTJtUkxmTmlOU0VidXBfUWw2TUoyN2NTWnZxdUh6MHdBaWZDbFB3R3p5ZExFM3VHQlFPSEtsak1kcVpwalVDYkFGal9FRkxiWThkSjYxckJPSkxyLXZjcXcxMV81STZn?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-09-30T16:27:36+00:00",
-    "time": "16:27",
-    "date": "2026-09-30",
-    "title_ko": "소로카바, 10월 1~4일 버닝 페스트로 슈하스코 수도 된다",
     "ko_by": "gemini"
   }
 ]
