@@ -1,5 +1,17 @@
 [
   {
+    "id": "ab04d058f3c9",
+    "source": "EIN News",
+    "title": "Inaugural BBQ World Cup & Expo with $1 Million Finals Comes to Las Vegas, Hosted by Caesars Entertainment",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSUt0TV8xUC1KbE1uOHp6OG5aWE5PLVp6eEozd3pkckdCdjE1OEkwaXZ0ZWZNd3h1bXZUWG5zVDZQNDBFdXZXVVYwdUxzd0tMdkFTdnc5ZGFXSVZGbXk5UEt0ZDIxN0Z3dkRpTUNXWnNneFZMbVhpUGVsTmk1TkFQaVdJbzRiX0hydDY1WUNpYWJwcUdxaWROZlFiYkV0M0xnZlVmMU1XLXFLR096V3dvempmaFZaUWxqb1RsV25LY0VNOUdHZjBvVjJUSlVFTXluQjhWb18tb3FhYkk?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-07T13:00:00+00:00",
+    "time": "13:00",
+    "date": "2026-10-07",
+    "title_ko": "시저스 엔터테인먼트 주최, 100만 달러 결승전 '제1회 바비큐 월드컵 및 엑스포' 라스베이거스 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "5fe26401ca34",
     "source": "발품뉴스",
     "title": "\"한우·한돈 굽는 냄새로 가득 찬다\"... 29일부터 나흘간 열리는 바비큐축제",
@@ -225,18 +237,6 @@
     "time": "13:00",
     "date": "2026-10-02",
     "title_ko": "새로운 바비큐 페스티벌 및 대회 모코 스모크 쇼 휘튼서 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "cb019d76cc5b",
-    "source": "The Business Journals",
-    "title": "L&L Hawaiian Barbecue hires national PR firm as plate lunch competition heats up on Mainland",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUF0anhwTTB0WmdMUDZLSTZtTUwtbE9EWnBDQU9wSWt1WUlzaThSNTNDYUZxc1MzQXlxZml5M3RUdFNWcHJ6ODBzbk1YeHotMHh3UlBLQ3ZUc0gzekszZ2pVb0Y1RlV6Z3lrRUROTGpaSFFLZTF3bmVmcWkzUjJLczlORVpsNnlpU1B0V0RJN2FmZWpCYk5hS0lB?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-02T10:00:00+00:00",
-    "time": "10:00",
-    "date": "2026-10-02",
-    "title_ko": "본토 플레이트 런치 경쟁 치열해지자 엘앤엘 하와이안 바비큐, 전국 홍보 대행사 영입",
     "ko_by": "gemini"
   }
 ]
