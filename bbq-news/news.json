@@ -12,6 +12,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "02c850d3d405",
+    "source": "KOTA Territory News",
+    "title": "Hill City Smoke, Spirits, and Suds BBQ Festival Serves Up Weekend Fun for a Good Cause",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmJVR21nRnJoSUFNbUN3MEpwMHVQVFoyanJYZE10UlJUcUc3THJldWo0ai1uemFZUkthNzZhdGlCVXYzWTF1UXN3UGItUE1lakF1bEdMY3NLZlJEa19LaTZkZXJpWUVRY3pmMElEeUM3UzltREZIQ05reTlnVWhwNkNDWU5LWk9Zc2hTVEcxMWpqM0VZR0JxY05rbGtFejIzMGlXcVVlWU9Tbmd0ekFpSG83YXJUbG9LM1VVd0c1MUpzd9IBwgFBVV95cUxNWmJVR21nRnJoSUFNbUN3MEpwMHVQVFoyanJYZE10UlJUcUc3THJldWo0ai1uemFZUkthNzZhdGlCVXYzWTF1UXN3UGItUE1lakF1bEdMY3NLZlJEa19LaTZkZXJpWUVRY3pmMElEeUM3UzltREZIQ05reTlnVWhwNkNDWU5LWk9Zc2hTVEcxMWpqM0VZR0JxY05rbGtFejIzMGlXcVVlWU9Tbmd0ekFpSG83YXJUbG9LM1VVd0c1MUpzdw?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-10-07T15:30:00+00:00",
+    "time": "15:30",
+    "date": "2026-10-07",
+    "title_ko": "Hill City Smoke, Spirits, and Suds BBQ Festival은 좋은 목적을 위해 주말 재미를 제공합니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "ab04d058f3c9",
     "source": "EIN News",
     "title": "Inaugural BBQ World Cup & Expo with $1 Million Finals Comes to Las Vegas, Hosted by Caesars Entertainment",
@@ -226,17 +238,5 @@
     "date": "2026-10-04",
     "title_ko": "로터리 다운타운 로저스, 바비큐 쿡오프 및 시식 행사 개최",
     "ko_by": "gemini"
-  },
-  {
-    "id": "d80fa8fadb80",
-    "source": "축산경제신문",
-    "title": "양주축협, 서울 바비큐축제 참여키로",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VazlLSklLNTVGcU93ekZ1ZzY5VXRzLVU3emd3RkJTV1l6dTNBR2ZRM0JJZjlKTVJRbklTNHhPZ05pdEhiUlRpLWMzajFub0RXT1ExRTJuYXhBMk9xenV5cmZLVGhxZVBqd2RLcFE5cG1DUdIBckFVX3lxTE9VazlLSklLNTVGcU93ekZ1ZzY5VXRzLVU3emd3RkJTV1l6dTNBR2ZRM0JJZjlKTVJRbklTNHhPZ05pdEhiUlRpLWMzajFub0RXT1ExRTJuYXhBMk9xenV5cmZLVGhxZVBqd2RLcFE5cG1DUQ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-03T04:51:53+00:00",
-    "time": "04:51",
-    "date": "2026-10-03",
-    "title_ko": "양주축협, 서울 바비큐축제 참여키로",
-    "ko_by": "original"
   }
 ]
