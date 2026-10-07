@@ -1,5 +1,17 @@
 [
   {
+    "id": "69601060dd70",
+    "source": "hannapub.com",
+    "title": "Annual BBQ competition set for Vidalia",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcERiQkZNVTBUeVZnM09IZnlYdDF6aHpVVEg5ZVBQQVdlWGhqSTRqc09JbTM4bWVnQUQzeTltQ0VmNmRfWVlBT0tJa3RKeTBrdV9LQmk2SDdEcTl2U2x1M1AydG9Wc3RZUk9fbkxrM2VIeXd0aDhvTWREcnI2bHJFVGhJT0s4eWlzUkYyRE1UMXZBdWh4ZWIySzhRZUl1anF2SnY4Q2gzN01TRm95a25IUEZNNV9zZ3N2NG5kLTJwWjlILU9RT2ZYaEFCNlBTMW5Dcm9NWVpmN20zbVBzazl3VUZST2cyS283NEF6VG5WOA?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-07T19:00:00+00:00",
+    "time": "19:00",
+    "date": "2026-10-07",
+    "title_ko": "비달리아 연례 바비큐 대회 개최 예정",
+    "ko_by": "gemini"
+  },
+  {
     "id": "bbe3be809596",
     "source": "Notistarz",
     "title": "El Campeonato del Asado Argentino celebra su cuarta edición en Miami",
@@ -225,18 +237,6 @@
     "time": "02:43",
     "date": "2026-10-04",
     "title_ko": "타피 델 바예, 제3회 아사도 아 라 에스타카 대회 챔피언 배출",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "a0b9f70f47d8",
-    "source": "agendahidalguense",
-    "title": "El próximo 11 de octubre, llegara el Festival Internacional de la Barbacoa y el Ximbo a California",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU1dKT2xHZndzVjI4Q0xxNDNUZ2RPRkFpVVB5WGRpaV9PNG5hLTZNeWM4Zmk2cEZaVXdkYU1VWUdBcEtTX0F5WS02WU9Lb25lZUJ0RTljVTBDM2ViZUhuZk8yWnVENnVfZ281Z0lWSFh6VWJZUWJSaWdlRS0wRWR1cHY4dV9HR1M4aC1qbkxzNWxRVXo5ZWpXdVdhcmZ0Q0NiYlJ4OGhlU0hOcThfd3RoWDVqOWNteWlTRFA2Vm1fNFZ3bjR6VXgtSVVvUUNlSUVoNEE?oc=5",
-    "query": "Barbacoa México",
-    "published_at": "2026-10-04T01:49:14+00:00",
-    "time": "01:49",
-    "date": "2026-10-04",
-    "title_ko": "오는 10월 11일, 국제 바르바코아·심보 축제 캘리포니아 상륙",
     "ko_by": "gemini"
   }
 ]
