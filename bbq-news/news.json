@@ -1,5 +1,17 @@
 [
   {
+    "id": "bbe3be809596",
+    "source": "Notistarz",
+    "title": "El Campeonato del Asado Argentino celebra su cuarta edición en Miami",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVpVLW1OOHk1U1Fkd2dZSEhPbGx3N0Z0LWpkNWluYUZKR2JCT0pJRlJiOEdhSzg3R055UHAwbVljM19nZzliamNfbUJSRk5UZm9wZkVnX05ZZWFOYzZ0NlJLZGxlVS1qN25xZzVLOTUtYW1jRDhrYlpCQmJpeXlJa1RqV0FTM3lkd2xiTWpvbGNjZjhxX1htQVN6UQ?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-10-07T18:38:35+00:00",
+    "time": "18:38",
+    "date": "2026-10-07",
+    "title_ko": "아르헨티나 아사도 챔피언십, 마이애미서 제4회 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "05966e3bc341",
     "source": "Clarksville Now",
     "title": "BBQ Fest Across the River set to serve up a weekend of BBQ, music and fun",
@@ -225,18 +237,6 @@
     "time": "01:49",
     "date": "2026-10-04",
     "title_ko": "오는 10월 11일, 국제 바르바코아·심보 축제 캘리포니아 상륙",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "bc48f5a569d8",
-    "source": "KNWA FOX24",
-    "title": "Rotary Downtown Rogers hosts barbecue cook-off and tasting",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMEtJSG1WN3N3T0RkNmlnREF4cHR3Y1lEczBSd01YZHhDZmFQWk1ibVVKb05GX08tdWNiUnpBSDlUcV9OS19fVzI5cndyNzRTRGI2TUU5ZGNmaXFMak5CVERwbVJwUnZpcWZlT1NUa1JMYlpQQ0oxOU9DbE5WRjg1OGdiNzBYaGYtT3kxQzlaZ1Z4dnhDM21Uc3VfaFpHLWxVRFhFdE9QelBSNXlUdUFv0gG0AUFVX3lxTFBSRHNlOG5TUU9fanFsT3lJTkNia0E5Qm45U2M3Vy1MNldsamVhOGV3TEMwMkxRbTVuVDB2b0hXZC1IN1RsbS1XcEdRUlZ5N3oyYkYwcU05Nk1hOVNQS0I1aFJNUmpoWlhBQWNJVEk4dG1qLUJjbU5YcFpkVlpTallrd1ZwVndDbEUyY2FvNWZQVTJQelJicU5xem5Dc0ZtcHpXRnZjY3ZQbGx1TF9pdVRwWDdScQ?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-04T00:46:16+00:00",
-    "time": "00:46",
-    "date": "2026-10-04",
-    "title_ko": "로터리 다운타운 로저스, 바비큐 쿡오프 및 시식 행사 개최",
     "ko_by": "gemini"
   }
 ]
