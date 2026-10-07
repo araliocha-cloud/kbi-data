@@ -1,5 +1,17 @@
 [
   {
+    "id": "a31fc35df81a",
+    "source": "www.theadvancenews.com",
+    "title": "Real Squeal BBQ Champions Crowned",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSldrWEthM2tvSERYMDNvSzF1OHA0bWNNOFZPSVpMazFyczNRR3FjMUpHOFRfZGVzRWV1TjRld2xvZXkwTHRRQnBEZzBxVEdRS0lBZFJ1LXp5anpBVWYtZ28wTVRndVdXbnFwSXlPLTJJR29IMmFMckhhLTJHN25ZQk93SXZIOEp5RDVZN0FkbDVoS2ZTVVE?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-07T04:04:57+00:00",
+    "time": "04:04",
+    "date": "2026-10-07",
+    "title_ko": "리얼 스퀼 바비큐 챔피언 탄생",
+    "ko_by": "gemini"
+  },
+  {
     "id": "b57996b4c373",
     "source": "덴 매거진",
     "title": "회사를 나와 바비큐만 26년, '프로바비큐어' 차영기 대표",
@@ -226,17 +238,5 @@
     "date": "2026-10-01",
     "title_ko": "\"고기 좋아한다면, 10월 마지막 주말은 비워둘 만하겠어요\"... 한우·한돈 앞세운 바비큐 페스티벌",
     "ko_by": "original"
-  },
-  {
-    "id": "bf1391e4848c",
-    "source": "Bergen Record",
-    "title": "Our food writer is judging a top BBQ competition. How to follow along",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0RRMGpKTDNzSzAtX2lDMXZFRUU3YkxaUzU3ZC1hbk5wYVRPQnBSN3JPb0lBVGQtWlhPOExYTjVocS1icDRVM2pLTnFuNDVOMTJzTktTYURKNWJySDRqN3RhUlJndDJwVFJsWExFS0p5SEY4Wmx5aDdzNEEtRENHVWdZUmc0Vk0zMTlhTGhZemJIVXFkekpaOVAzZHkxdVJJc1VuR1NhWVBlN3k3S0VjZnhVOGR5ZUd2R1FjeWtJOHNqM1JxUnlCdXJiMFZYUXVGaVNJcg?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-01T17:09:00+00:00",
-    "time": "17:09",
-    "date": "2026-10-01",
-    "title_ko": "최고 바비큐 대회 심사 맡은 음식 기자... 관전 방법은",
-    "ko_by": "gemini"
   }
 ]
