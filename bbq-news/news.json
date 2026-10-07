@@ -1,5 +1,17 @@
 [
   {
+    "id": "e7f3cfa86f57",
+    "source": "The BayNet",
+    "title": "Inaugural MoCo Smoke Show Brings Barbeque Culture and Competition to Downtown Wheaton on Saturday, Oct. 17",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVR2Wk1HTndkZWZuU013bzhIb2U4N0JZdWdXM19NakcxUldRMFV2MGN3cDA3VUxmS09JZnhrVzhIZEVicWtqQmliWHlGRHpiNW5NazdzX3N3eEdhZ2hVUkQ0OHhDSG9KRk40OUtnbkZ3M0hFVmppWTVBVDl6enFYSDFmam5SUXFHQm9SZHVhWFRBZDdrSXg5UWpUQ0Nvbm9FM0JXV0ZHbVVYcFgzUFc2VWhKTEluRHREemtlSUtCSnhlYnJ3Y2c?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-07T20:50:26+00:00",
+    "time": "20:50",
+    "date": "2026-10-07",
+    "title_ko": "제1회 모코 스모크 쇼, 10월 17일 토요일 휘턴 도심에 바비큐 문화와 대회 선보인다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "69601060dd70",
     "source": "hannapub.com",
     "title": "Annual BBQ competition set for Vidalia",
@@ -225,18 +237,6 @@
     "time": "04:35",
     "date": "2026-10-04",
     "title_ko": "콜로라도 유일 챔피언십 바비큐 식당이 전국적 주목을 받는 이유",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "3ad2248c75be",
-    "source": "LV12",
-    "title": "Tafí del Valle consagró a los campeones del 3° Torneo de Asado a la Estaca",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGxhLUNqS0VpUU9sNURiOEN2UFBnM3FkQXNvZkR0OGZFVjBkZ1czUW1YdHZSSUtsdHZnUHR1WFBpNUFNS2dlT0k0dWxRUkxnWTc2RGVCQXlINEdjb21TcExfMV9QeW11SHk3cWdlV2lYSUs0VXpQNGxjdUZyYjBSMDBEbmxWVFFhaHRBOWMxRUVyWTRQNFhFOHpBeTRjRGtBSTJKbWdkSmZYSmFTb2tNZ1lBNNIBswFBVV95cUxQTGxhLUNqS0VpUU9sNURiOEN2UFBnM3FkQXNvZkR0OGZFVjBkZ1czUW1YdHZSSUtsdHZnUHR1WFBpNUFNS2dlT0k0dWxRUkxnWTc2RGVCQXlINEdjb21TcExfMV9QeW11SHk3cWdlV2lYSUs0VXpQNGxjdUZyYjBSMDBEbmxWVFFhaHRBOWMxRUVyWTRQNFhFOHpBeTRjRGtBSTJKbWdkSmZYSmFTb2tNZ1lBNA?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-04T02:43:00+00:00",
-    "time": "02:43",
-    "date": "2026-10-04",
-    "title_ko": "타피 델 바예, 제3회 아사도 아 라 에스타카 대회 챔피언 배출",
     "ko_by": "gemini"
   }
 ]
