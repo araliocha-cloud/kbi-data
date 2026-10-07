@@ -1,5 +1,17 @@
 [
   {
+    "id": "05966e3bc341",
+    "source": "Clarksville Now",
+    "title": "BBQ Fest Across the River set to serve up a weekend of BBQ, music and fun",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXdHQmhhTTZEY2E4SnFGcTZTUEp5VmtIaDg1V0lhVjdyOFhZOG1sa0Fkd0ZLOUp3eWkzZjNHOFpnOUVoanZuQWI3RUJXc1FqOEdvaHRfUHBucjZaSjFWUEt2SmRFSFMtNnZfREd1LTJ2ZjJoVkNSZU50RFczRUQ3bTFTTFhrNHlPNWVvOU56QUhMMVZuSktWZEhWdjhHNXFVT3Q3T0hBWEFwdw?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-10-07T16:05:00+00:00",
+    "time": "16:05",
+    "date": "2026-10-07",
+    "title_ko": "강 건너 열리는 바비큐 페스트, 바비큐와 음악 즐기는 주말 예고",
+    "ko_by": "gemini"
+  },
+  {
     "id": "ab04d058f3c9",
     "source": "EIN News",
     "title": "Inaugural BBQ World Cup & Expo with $1 Million Finals Comes to Las Vegas, Hosted by Caesars Entertainment",
@@ -226,17 +238,5 @@
     "date": "2026-10-03",
     "title_ko": "양주축협, 서울 바비큐축제 참여키로",
     "ko_by": "original"
-  },
-  {
-    "id": "b727b6833cc2",
-    "source": "mocoshow.com",
-    "title": "New BBQ Festival and Competition MoCo Smoke Show Coming to Wheaton",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVNoNTFFOVZZTG43RVY5alZLd3BLYnBiQzNjaGRSUEF4TE5Hem9reXJIaERvMmV0bjhnYmlHendIT2ZsRFd0X0UzTENmZl92SGY5emZhcmFFV1JKdnBpVkdTTDQwbjJ0eTFqc2lWMWRuUFI3Y1R1V3FIQkJTY1lQNWlQZDFlQlJtdXFtNFBvWEdfMU9Ca29PYnVXb1Z4a1Zs?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-02T13:00:44+00:00",
-    "time": "13:00",
-    "date": "2026-10-02",
-    "title_ko": "새로운 바비큐 페스티벌 및 대회 모코 스모크 쇼 휘튼서 개최",
-    "ko_by": "gemini"
   }
 ]
