@@ -1,5 +1,17 @@
 [
   {
+    "id": "47bee08337e1",
+    "source": "263Chat",
+    "title": "Winky D Headlines Castle Lager Braai Festival",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wU2dWRFg2cnJ2WnF3bnYwSTFraGRqYnU1Zmo5cFIyMWdncW9SblhTWnNPQUo5SVEwaVlhUndndjc4eUhGOVlrVW5JNDhBTnVXYVp5YUpjdlFlZmpIWndvZm9JQ3JZVjdjd0pmZUNUa0RLMU8tMHlSMlJn?oc=5",
+    "query": "Braai South Africa",
+    "published_at": "2026-10-08T14:58:43+00:00",
+    "time": "14:58",
+    "date": "2026-10-08",
+    "title_ko": "윈키 디, 캐슬 라거 브라이 페스티벌 헤드라이너로 나선다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "71e9223186de",
     "source": "충남내포뉴스",
     "title": "한우·한돈 굽고 음악 즐기고…홍성 바비큐축제 29일 개막",
@@ -226,17 +238,5 @@
     "date": "2026-10-04",
     "title_ko": "투쿠만주 타피델바예서 고지대 아사도 대회 '코파 루나 투쿠마나' 개최",
     "ko_by": "gemini"
-  },
-  {
-    "id": "7dd6896b8722",
-    "source": "thepowernews.co.kr",
-    "title": "13개 읍·면 밥상부터 정육왕 바비큐까지…완주 와푸축제 사흘 일정 마무리",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Jb2ZvMWlLakxHTnhFZnozMm9GSTI1S3JYMUNfbnB3LW1yeGhCYUNUamdQV0tXM1JoVGJlbS1NYW00NTg2dFFJWGJvRXVuX3ZJeTM0T0w4N2xWbklSb2VxcC1OS1hkZTJRSVdJdWpvS3c0bk11TFpFdXdDWWprZw?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-04T23:22:47+00:00",
-    "time": "23:22",
-    "date": "2026-10-04",
-    "title_ko": "13개 읍·면 밥상부터 정육왕 바비큐까지…완주 와푸축제 사흘 일정 마무리",
-    "ko_by": "original"
   }
 ]
