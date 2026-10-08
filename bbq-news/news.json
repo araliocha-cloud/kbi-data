@@ -1,5 +1,17 @@
 [
   {
+    "id": "481b90c54553",
+    "source": "KIVI-TV",
+    "title": "Kuna High BBQ Team smokes the competition, taking home Reserve Grand Champion title",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWFUemY3TjJyQ19TMURHUlZzbDhrd0ZCNzRMUlNxZG1TSVpSbFI0TVdGYjNEZTRvR0JEV0tDOU9RUlQyY0xHeWl0V3dPTGpmNmhYNlduT2I1ZWpqVUNFeG1sN0kxbnlwbkJMTHl4aUphUGJGUjZtVjV4d3hsV0NJNTM1Tnk3dGZfbkotTXI4THg0RGhVQTY2RHRxUWhCbkRuOGZNYWFTb1ZpM3VPMjZv?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-10-08T17:52:24+00:00",
+    "time": "17:52",
+    "date": "2026-10-08",
+    "title_ko": "쿠나 고교 바비큐 팀, 대회 휩쓸며 리저브 그랜드 챔피언 차지",
+    "ko_by": "gemini"
+  },
+  {
     "id": "890c60570ccb",
     "source": "R7 Entretenimento",
     "title": "Brasil garante vaga na elite do churrasco mundial em competição nos EUA",
@@ -225,18 +237,6 @@
     "time": "05:04",
     "date": "2026-10-05",
     "title_ko": "참가자 창의성 빛난 일품 요리 즐비…2026 겐오지역협의회 바비큐 교류회 및 야키소바 챔피언십 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "01216d17cf50",
-    "source": "FOX4KC.com",
-    "title": "Pitmasters face off as World Series of Barbecue comes to an end",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZU5vdzFnWDVyMVFkbXptVE1KamxIZmVxWDB6VVpEY2xwVlBkVkFKZXlXNkZad2pHU01TanJMaEUwTExzM0NGUkp6bHpvV0RFOTJfalRRWnZCM2xWVUpBWU5ubmlwdldCTlEtc1NCN05DdGN2LWo1eGswYVhnMHUtWHRYUWN0Nmk0b3YzUXpWU1QzZ9IBlwFBVV95cUxPNTFzQkplTVdkcnlKaFRTdzl3c2pUYmxDZUhRTkZ6VnFKTHNfbmhmTU1hdmZGdE9UM1BWT0FFYVNpTmt3eVoxVmdQWDAtQ25FSjFZMHZuaXF6Z0MyRm1zNVdqMnhuYXVnT092WGVrdFdGR1JTYVE0SWJIWGFFNGdEM1M3RlF0aDYyUUdfTE9VS3VBYzk0NHBz?oc=5",
-    "query": "American Royal",
-    "published_at": "2026-10-05T02:38:51+00:00",
-    "time": "02:38",
-    "date": "2026-10-05",
-    "title_ko": "월드 시리즈 오브 바비큐 폐막… 피트마스터 맞대결",
     "ko_by": "gemini"
   }
 ]
