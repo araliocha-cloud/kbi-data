@@ -1,5 +1,17 @@
 [
   {
+    "id": "498c526127a3",
+    "source": "KMBC",
+    "title": "Legendary Kansas City barbecue judge Ardie Davis passes down legacy to grandson",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlM1ajhrbml4clc2and4UVdhMVE1MTVCVTI3ZHlkc3BvaEVLeU94R2t0ekg4N21Ea3hJLVFoZWp0b2NVMWZzNXMyRjQyZG0yZlpzX0xrR1FpLVZVaXdCUk51a3JSbEZQSEs0RVcxendtZE4wSmg3RUNRbVpaMTBEbURpNjViSVVHdjhwb0p1M0czVnFVbVZ0NDdzVHdQRFktN3BvOTE2VEpiU3M?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-09T03:00:00+00:00",
+    "time": "03:00",
+    "date": "2026-10-09",
+    "title_ko": "전설적인 캔자스시티 바비큐 심사위원 아디 데이비스, 손자에게 유산 물려줘",
+    "ko_by": "gemini"
+  },
+  {
     "id": "481b90c54553",
     "source": "KIVI-TV",
     "title": "Kuna High BBQ Team smokes the competition, taking home Reserve Grand Champion title",
@@ -225,18 +237,6 @@
     "time": "12:50",
     "date": "2026-10-05",
     "title_ko": "메시의 라스트 댄스: 주장 배웅하는 아사도, 훈련, 세계 챔피언 팀",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "26eaad018dd5",
-    "source": "UAゼンセン",
-    "title": "参加者相互の創意工夫が光る逸品が並ぶ～2026県央地域協議会BBQ交流会＆焼きそば選手権を開催",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IY056M3BLaWpwRmZoc1FycHdmRG10TG9FV3Y0QjY4cFg5TEsxWU10R0pCLVV3ZlFsNG1aaGpFTjFqYjFyR08xSUhLOW9FYlE?oc=5",
-    "query": "BBQ選手権",
-    "published_at": "2026-10-05T05:04:33+00:00",
-    "time": "05:04",
-    "date": "2026-10-05",
-    "title_ko": "참가자 창의성 빛난 일품 요리 즐비…2026 겐오지역협의회 바비큐 교류회 및 야키소바 챔피언십 개최",
     "ko_by": "gemini"
   }
 ]
