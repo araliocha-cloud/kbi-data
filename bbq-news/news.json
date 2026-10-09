@@ -1,5 +1,17 @@
 [
   {
+    "id": "acb186cd0850",
+    "source": "Kansas City Star",
+    "title": "An England soccer player’s favorite thing from the 2026 World Cup: KC barbecue",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFhLYXNhUGxfSkVJRmNDZDI1VjBVYnBBS25oUzVMbERCT0FUMmJ2VWhaekdMM09WQUtsYWhWQ3pCZFprU21lTjk1YTRHR2d4dkRZX1hFa0txbWVack1WSmhlVS0wOWRLampiU0tDRGxmZXBTbVFReEVvbEZXck9YNFRzRXNtRTN3OUVQLXpWOFRRZ9IBkgFBVV95cUxNbXVuOUxfR0U2MnFtTG42RUpPYVROa0NwdGJrRnlocEZ3XzZyZEhsMDNpX3pKZG91dUtVenpqOGxlQzhXeWV0OEpEbDlsYTJRVTBmbmUxbWVIQnJfZmxJUnd5Y1hVUUNFSzdwOEpkR2JVWTNhT3FkWTBYVjFuU2FWaXFvMGlWejh6ZV9jVmphcVMxZw?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-10-09T14:48:30+00:00",
+    "time": "14:48",
+    "date": "2026-10-09",
+    "title_ko": "잉글랜드 축구 선수가 2026 월드컵에서 가장 좋아하는 것, 'KC 바비큐'",
+    "ko_by": "gemini"
+  },
+  {
     "id": "8a8ccaf76466",
     "source": "WMAR 2 News Baltimore",
     "title": "Your weekend planner: MD State BBQ Bash, Fiesta Baltimore and ZooBOO!",
@@ -70,6 +82,18 @@
     "date": "2026-10-08",
     "title_ko": "한우·한돈 굽고 음악 즐기고…홍성 바비큐축제 29일 개막",
     "ko_by": "original"
+  },
+  {
+    "id": "25cfe9e669ba",
+    "source": "YouTube",
+    "title": "BBQ News with Erica Blaire | Grill Brush Recall, American Royal's New Era & New BBQ Hall of Famers",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpaWZWTG9leUNrYjIyWHBjcHlqRTVNbUpId1c0b0lMUkoyNmc4STJGSFAzS19ZdkpETUx4WkUxVHl5QQ?oc=5",
+    "query": "NBBQA",
+    "published_at": "2026-10-08T00:00:33+00:00",
+    "time": "00:00",
+    "date": "2026-10-08",
+    "title_ko": "에리카 블레어의 바비큐 뉴스... 그릴 브러시 리콜, 아메리칸 로열의 새 시대, 새로운 바비큐 명예의 전당 헌액자",
+    "ko_by": "gemini"
   },
   {
     "id": "e7f3cfa86f57",
@@ -213,30 +237,6 @@
     "time": "14:47",
     "date": "2026-10-06",
     "title_ko": "바비큐 페스트, 10월 9~10일 리첼렌 파크에서 새로운 토너먼트로 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "01443a100f46",
-    "source": "WCTI",
-    "title": "NC By Train adds special stops for State Fair, barbecue festival and Panthers game",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzd1M3NHa3BnX3dNMnZCeW9sa2pad2RwY0dQbl9DQkZBQXNrWEpIOGh3LXpfbzBBaGpNN2RDMjZBOTAyM1NKYjJLN3RlNXVHVkZ5MXREV2JIU0pXd2JqN0s3RnZWQ2p1X1lCUlExQXFlbGFPMXNVamswS2EwV2pqaEI0UjBEbkFyanlQVkdhaTFqaTIzQzRjeUNfZ1VSV3V0X29ReFdwQjFJS0VJRGI5Zw?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-06T07:09:15+00:00",
-    "time": "07:09",
-    "date": "2026-10-06",
-    "title_ko": "NC 바이 트레인, 주 박람회·바비큐 축제·팬서스 경기 위해 특별 정차한다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "3ca0f37db8e8",
-    "source": "TV Pública",
-    "title": "El último baile de Messi: asado, entrenamiento y un equipo campeón del mundo para despedir al capitán",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTE9wZXpOZjdsS2VWTXF5TjcwUDV1S05PWHVDMkd4ZnJJclpaWFpWY2NraXBwSTdNR3dScjFYRGpoY0lIZzJRV0swUU5mU3UweU5rR0dNOGhDcENDNHAtd2x2OUY2eUxaVU1nQ1NkUGJJNWJJTGEyZnNiWjdUbm9SSFZFRzZRVmtCT2V3aUkyX3pFSmVPNkFmaHVhaVlvUWhfclhQV2NyRjczWjJNNnJKWG5wTXNQU1AyREU4aVZJei12RE5hUlJXdTI4QVB5QQ?oc=5",
-    "query": "Asado Mundial",
-    "published_at": "2026-10-06T00:50:34+00:00",
-    "time": "00:50",
-    "date": "2026-10-06",
-    "title_ko": "메시의 마지막 춤: 아사도, 훈련, 그리고 주장을 배웅하는 세계 챔피언 팀",
     "ko_by": "gemini"
   }
 ]
