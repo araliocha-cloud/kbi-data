@@ -1,5 +1,17 @@
 [
   {
+    "id": "721a29e816fc",
+    "source": "Hville Blast",
+    "title": "WhistleStop BBQ Fest returns to MidCity Oct 16-17—get tickets NOW",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTNDNGJ4aGNMaUJjYUQ2c042cTMtZ0xBdmZ2VU1PSFNGRnlFR0VtUldKSTRYR3RPY1RaNVdZajdNSkt4NGJnd0lTTnZScHdyV0lFNzVMSVJFU0NZQ25jbzFmUmVEWjlqa1Z5cngzSmVMRXVlMzhheGFjNTNneEpJUE5Saldxd1Vrc2NKRFgtNXZqV0Yt?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-09T16:18:00+00:00",
+    "time": "16:18",
+    "date": "2026-10-09",
+    "title_ko": "휘슬스톱 바비큐 축제 10월 16~17일 미드시티 복귀... 티켓 예매 시작",
+    "ko_by": "gemini"
+  },
+  {
     "id": "acb186cd0850",
     "source": "Kansas City Star",
     "title": "An England soccer player’s favorite thing from the 2026 World Cup: KC barbecue",
@@ -225,18 +237,6 @@
     "time": "18:37",
     "date": "2026-10-06",
     "title_ko": "파라과이, 2028 전통 아사도 월드컵 개최지 선정",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "43ec5833a9a0",
-    "source": "theleafchronicle.com",
-    "title": "BBQ Fest returns to RichEllen Park with a new tournament Oct. 9-10",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWlpenBKaXNrLVZPRGE3N2dBZ2Z3ZXB3NldBMExJWlpYdjJDTVdGRnNpRGJqNkkwZDJvaTNPcEpNNE1ISDVrc3luWUVOSGY0MWVpNlFvT0tmd1oyRElPMzFmTWZncENReDZGeU9CWllCLWduX0poRjBwVElJT1V5TFg4SUFZNGtmY2tyQ2hkMElieVNMNkpBZDB5NFg3VE14ZDVEYjgtdUFEQm5zcVlDdzV1amJYZ2xvSHFQLXF6V1hoc19YaDVYTEV2VXNGeGM?oc=5",
-    "query": "Barbecue Kenya",
-    "published_at": "2026-10-06T14:47:00+00:00",
-    "time": "14:47",
-    "date": "2026-10-06",
-    "title_ko": "바비큐 페스트, 10월 9~10일 리첼렌 파크에서 새로운 토너먼트로 개최",
     "ko_by": "gemini"
   }
 ]
