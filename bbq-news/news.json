@@ -216,6 +216,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "3ca0f37db8e8",
+    "source": "TV Pública",
+    "title": "El último baile de Messi: asado, entrenamiento y un equipo campeón del mundo para despedir al capitán",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTE9wZXpOZjdsS2VWTXF5TjcwUDV1S05PWHVDMkd4ZnJJclpaWFpWY2NraXBwSTdNR3dScjFYRGpoY0lIZzJRV0swUU5mU3UweU5rR0dNOGhDcENDNHAtd2x2OUY2eUxaVU1nQ1NkUGJJNWJJTGEyZnNiWjdUbm9SSFZFRzZRVmtCT2V3aUkyX3pFSmVPNkFmaHVhaVlvUWhfclhQV2NyRjczWjJNNnJKWG5wTXNQU1AyREU4aVZJei12RE5hUlJXdTI4QVB5QQ?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-10-06T00:50:34+00:00",
+    "time": "00:50",
+    "date": "2026-10-06",
+    "title_ko": "메시의 마지막 춤: 아사도, 훈련, 그리고 주장을 배웅하는 세계 챔피언 팀",
+    "ko_by": "gemini"
+  },
+  {
     "id": "01aac8bdcc2a",
     "source": "Patch",
     "title": "23rd Annual MD State BBQ Bash Returns To Bel Air",
@@ -225,18 +237,6 @@
     "time": "21:10",
     "date": "2026-10-05",
     "title_ko": "제23회 메릴랜드주 바비큐 배시 벨에어에서 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "b7a9a183c0fb",
-    "source": "UAゼンセン",
-    "title": "参加者相互の創意工夫が光る逸品が並ぶ～2026県央地域協議会BBQ交流会＆焼きそば選手権を開催",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SUzVwd1NPb0duYzcwTWUwcTE0aGdhb3FTM2VTWDlYSlNsQk9xaGhaUl85ZXhHNGhYVFJObjFINEo5WGdyTThZLWNvbFpGaVE?oc=5",
-    "query": "BBQ選手権",
-    "published_at": "2026-10-05T18:51:14+00:00",
-    "time": "18:51",
-    "date": "2026-10-05",
-    "title_ko": "참가자들의 창의성 빛나는 요리 한자리에… 2026 켄오 지역 협의회 바비큐 교류회·야키소바 챔피언십 개최",
     "ko_by": "gemini"
   }
 ]
