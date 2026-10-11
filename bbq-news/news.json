@@ -1,5 +1,17 @@
 [
   {
+    "id": "4d945ff70d18",
+    "source": "Calgary Herald",
+    "title": "Calgary pitmaster named first non-American Jack Daniel's World Championship Invitational Barbecue grand champion",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2Z5MFZQd1lOeFFtLXJwS0k4SGUtS3d2SS1iRHRYNkRmdHdXbTdCSHBFeWE2bndZUk9Lb2ZDOXVtOTZmUlg0dnQyTUlyVWtjbWhPZ3lmb0FnNDV3X3FRUVhFWGluUGExQkRncnRQSktJM0x5TndjdG9qNVNBV2p0VGlKRFVvaVhkVGRzUWozY3M1ZkpzMkxUWG9Na3lYTlBtOERLd3Q0QU4ySTZDczJiRU1xMDZOQTVreHBzX3BiU2xqaExDWVhtVw?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-11T23:39:25+00:00",
+    "time": "23:39",
+    "date": "2026-10-11",
+    "title_ko": "캘거리 피트마스터, 비미국인 최초 잭 다니엘스 세계 챔피언십 인비테이셔널 바비큐 그랜드 챔피언 등극",
+    "ko_by": "gemini"
+  },
+  {
     "id": "afa4884f9cb5",
     "source": "뉴스체크",
     "title": "2026 홍성글로벌바비큐페스티벌, 이색 그릴 시연·시식회 현장",
@@ -225,18 +237,6 @@
     "time": "15:30",
     "date": "2026-10-07",
     "title_ko": "힐 시티 스모크 스피릿 앤드 서즈 바비큐 페스티벌, 주말 축제 성황리 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "ab04d058f3c9",
-    "source": "EIN News",
-    "title": "Inaugural BBQ World Cup & Expo with $1 Million Finals Comes to Las Vegas, Hosted by Caesars Entertainment",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSUt0TV8xUC1KbE1uOHp6OG5aWE5PLVp6eEozd3pkckdCdjE1OEkwaXZ0ZWZNd3h1bXZUWG5zVDZQNDBFdXZXVVYwdUxzd0tMdkFTdnc5ZGFXSVZGbXk5UEt0ZDIxN0Z3dkRpTUNXWnNneFZMbVhpUGVsTmk1TkFQaVdJbzRiX0hydDY1WUNpYWJwcUdxaWROZlFiYkV0M0xnZlVmMU1XLXFLR096V3dvempmaFZaUWxqb1RsV25LY0VNOUdHZjBvVjJUSlVFTXluQjhWb18tb3FhYkk?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-07T13:00:00+00:00",
-    "time": "13:00",
-    "date": "2026-10-07",
-    "title_ko": "시저스 엔터테인먼트 주최, 100만 달러 결승전 '제1회 바비큐 월드컵 및 엑스포' 라스베이거스 개최",
     "ko_by": "gemini"
   }
 ]
