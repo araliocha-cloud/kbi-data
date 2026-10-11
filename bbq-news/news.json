@@ -1,5 +1,17 @@
 [
   {
+    "id": "8e5c2b7208c5",
+    "source": "WIBW",
+    "title": "Pit masters compete for cash prizes at ‘Smoke on the Water’ barbecue competition",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelU1Nnl2b2s5cnBqZHRwLTBXU0MwWFRyTy1lWl9DaVpia1JFY1NTX3RhNEtROWxCR09VMlhZTVpQZTRqM3lwVy1LdUZNb1FKTDlUSUdtUjJQZHhCa2VETVlFYkJsQ0FHRTduX2RSal9RLVRCMkRlRHZMQmZERlc4YWxzbjBFaEEtR0QtUTFMdjQtTHZ1M3RDY2pqTUpaQdIBsgFBVV95cUxOMWNpM0lHUF9EbHdoQ0pORUxaMTRHUVp3RmtlNlpHREwydUhJYTdmSmNHTG9KSWRzZWhpZVc1MExFMUl5Y1ZvZDBTbTdJdHdQMXBfczdacDJxaG9aMlZUb1ZGU3UySkFuTHA3TlVjYUhPRUpmQ1lYOUJyUHFPOXA0ZnV5VW16YUVQcE1JNjBKVVZjTEk3ajR0LTM3SXA4LXA2cjZKTEdyLXk0S0Y2eGdNZ2dB?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-11T03:17:00+00:00",
+    "time": "03:17",
+    "date": "2026-10-11",
+    "title_ko": "피트 마스터는 ‘Smoke on the Water‘ 바비큐 대회에서 상금을 걸고 경쟁합니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "14702af379f9",
     "source": "Hawaii News Now",
     "title": "HI Barbeque grows Hawaii’s barbecue scene with local competition",
@@ -225,18 +237,6 @@
     "time": "09:50",
     "date": "2026-10-07",
     "title_ko": "파라과이, 2028 전통 아사도 세계 챔피언십 개최지로 선정",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "a31fc35df81a",
-    "source": "www.theadvancenews.com",
-    "title": "Real Squeal BBQ Champions Crowned",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSldrWEthM2tvSERYMDNvSzF1OHA0bWNNOFZPSVpMazFyczNRR3FjMUpHOFRfZGVzRWV1TjRld2xvZXkwTHRRQnBEZzBxVEdRS0lBZFJ1LXp5anpBVWYtZ28wTVRndVdXbnFwSXlPLTJJR29IMmFMckhhLTJHN25ZQk93SXZIOEp5RDVZN0FkbDVoS2ZTVVE?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-07T04:04:57+00:00",
-    "time": "04:04",
-    "date": "2026-10-07",
-    "title_ko": "리얼 스퀼 바비큐 챔피언 탄생",
     "ko_by": "gemini"
   }
 ]
