@@ -1,5 +1,17 @@
 [
   {
+    "id": "deac4b7b15a5",
+    "source": "LG헬로비전",
+    "title": "그릴 높이만 5.4미터…홍성 바비큐 페스티벌 미리보기",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TS1A3MnpfR0VXbHI2dWhhV2NIZDd4c2Q0Q0ptTWE3cmdYdDZlZlFlVER3dl9Ua2xBZ2lmQlRoRzAzV3ZhRUtfRkhnNnZiQi1ibVlBN0dvUk1wLVRpRkJzOTNwS2h6aEhpbDJES1ZJMGZzQdIBdkFVX3lxTE9PMUluQ0tTa0JpY0FsWnItcVhJdm8yNUp0MzVpM1hsVXpGbW5vcEd1OS1PMzJlS21ucUV4bWhoSlBSTzc4SUlmMDhOOHhyWlY1dXNSbHlHNFZ2YlJ2VWFWa1lwOWh5a0w1c1RIVHFLdURCZEI4QlE?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-12T07:49:37+00:00",
+    "time": "07:49",
+    "date": "2026-10-12",
+    "title_ko": "그릴 높이만 5.4미터…홍성 바비큐 페스티벌 미리보기",
+    "ko_by": "original"
+  },
+  {
     "id": "3e8af3c28c04",
     "source": "충남인터넷뉴스",
     "title": "홍주문화관광재단 2026 홍성글로벌바비큐페스티벌 프리뷰로 기대감 활활",
@@ -225,18 +237,6 @@
     "time": "00:00",
     "date": "2026-10-08",
     "title_ko": "에리카 블레어의 바비큐 뉴스... 그릴 브러시 리콜, 아메리칸 로열의 새 시대, 새로운 바비큐 명예의 전당 헌액자",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "137a979e70c6",
-    "source": "Montgomery County, MD (.gov)",
-    "title": "Inaugural MoCo Smoke Show Brings Barbeque Culture and Competition to Downtown Wheaton on Saturday, Oct. 17",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOEpYMm5WbXJ6SjhvbW00aTRtX0xZMnQxd2ZTaHRiWTN3dkFkOVJ1YVYtS2lfczNtVEJJMWd2RV9lTDZiWjNMbDI4aHBmd1ptZ2lnbDJ4c0hxNXNvVU9lTktUS2NFbDlGMEtqcEpWMHBBUHhPSms1bGc4MUlETHZMbHRYS0EwNVQzdlUtVzBveXBybDU1Z0tqY0JZSDlfWkd2bHhIc2JNN3dXWlRlSGZhbXBpdlVqWDF3Z1JuSGhialBWR2ZMQ2VWSDhKbWRiNms?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-07T21:17:45+00:00",
-    "time": "21:17",
-    "date": "2026-10-07",
-    "title_ko": "제1회 모코 스모크 쇼, 10월 17일 휘튼 도심서 바비큐 문화와 대회 선보인다",
     "ko_by": "gemini"
   }
 ]
