@@ -204,6 +204,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "d3b3dfc25d86",
+    "source": "MiamiHispano.com",
+    "title": "El Campeonato del Asado Argentino celebra su cuarta edición en Miami",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUNmRXkzXzdhTXhVX21oek5qbFFvbl9aX0tYOWZzdnh3SDNHYkpVTVhubElzV0E3eTliY2h2R2hvMDU1OWs0Z3ZvSldLME9CcnNBSHBYSU9mQ0JDN1BpRGFWSGJhLVkyRXB1SGJETjRCU1pMeW9WYVJmZWtXcVltVzZNc1BzbGFBekQtNFhUUm94R3lHX3hQTkFDc0RDRmJiLTlOVWxSbldQLUk3aTRv?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-10-08T09:45:45+00:00",
+    "time": "09:45",
+    "date": "2026-10-08",
+    "title_ko": "마이애미서 제4회 아르헨티나 아사도 챔피언십 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "5f9daa9b74da",
     "source": "Daily Memphian",
     "title": "This Tigers fan has cooked at every Battle for the Bones barbecue contest since 2006.",
@@ -226,17 +238,5 @@
     "date": "2026-10-08",
     "title_ko": "한우·한돈 굽고 음악 즐기고…홍성 바비큐축제 29일 개막",
     "ko_by": "original"
-  },
-  {
-    "id": "25cfe9e669ba",
-    "source": "YouTube",
-    "title": "BBQ News with Erica Blaire | Grill Brush Recall, American Royal's New Era & New BBQ Hall of Famers",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpaWZWTG9leUNrYjIyWHBjcHlqRTVNbUpId1c0b0lMUkoyNmc4STJGSFAzS19ZdkpETUx4WkUxVHl5QQ?oc=5",
-    "query": "NBBQA",
-    "published_at": "2026-10-08T00:00:33+00:00",
-    "time": "00:00",
-    "date": "2026-10-08",
-    "title_ko": "에리카 블레어의 바비큐 뉴스... 그릴 브러시 리콜, 아메리칸 로열의 새 시대, 새로운 바비큐 명예의 전당 헌액자",
-    "ko_by": "gemini"
   }
 ]
