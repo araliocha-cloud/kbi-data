@@ -120,6 +120,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "3c2a54825a16",
+    "source": "G1",
+    "title": "Festival de churrasco acontece em Praia Grande, SP",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm9QM2UxY25pLUlKbG0yZTNMUDdBNXFUQnlKLUpJZ2xFckpERDVZS3h2NzJTNjZyY2NnMVZUVVhKVHR5VllIbU9vSUJIR1dLQm84UG9XRzFCczNpSUpqWnRRaERKOE14ZlZpTl9ja09hV2pJdm9ON3ItcUUtTVpkUjAyQWFYbmMtY25QRWdLZTFaSjR6M2VhM0I4akxlb0poTTlqTHZpblVyQnBjYVVteUxQVEVwcVNjU2dFcV9Xd0p3cVlVS3JmQ2RDQ2tOQ05tTjIwSnF30gHkAUFVX3lxTE1ZWWdvMGJ2S0Iya3ZQdGhIV0ppSklpMDZ2b3JpT1I4dEFwM2pKUnhCdk4wSTZSSWp4NkVJUTZXVkw5aFFMWnJFblVJX0VoZl9Wc3ZNa2N1bEF0YTZPbXdILXQycktvbEJvLXJDTldzb201MHJjU28wQ0c5aElkSDRYMU8wYk5ocl9IdU5HNHpST2NMazdfS3g5WUp1N2p4Mm40d2lGWTFZZ3dqRjljUVVkRkZBZnJneklDRlhxVkpTUmZreS1KNWVpVHgtakZXTjZ2bDFqSkcwWXRtT0x1c29XRWxHXw?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-10-10T23:40:39+00:00",
+    "time": "23:40",
+    "date": "2026-10-10",
+    "title_ko": "스페인 프라이아 그란데에서 바베큐 축제가 열립니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "14702af379f9",
     "source": "Hawaii News Now",
     "title": "HI Barbeque grows Hawaii’s barbecue scene with local competition",
@@ -225,18 +237,6 @@
     "time": "09:45",
     "date": "2026-10-08",
     "title_ko": "마이애미서 제4회 아르헨티나 아사도 챔피언십 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "5f9daa9b74da",
-    "source": "Daily Memphian",
-    "title": "This Tigers fan has cooked at every Battle for the Bones barbecue contest since 2006.",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWRIbTR6Z0Y2dGZUVHpnTGNyZVB0enlvYnFlcUY5RGtEYUxrVmNIVFh5SUVMTkhnc29SLWdFNmc1S3EtaWdNejFiSXZBOXBuN1BTOWdHTXhaM1ZqWER5bkp5U2VfWGhDRzNsSENvWUhUcUV2TmNYWjgyaTRXTi1xVGhvR2NlRlFTUnlRRGRjUnVoSmc?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-08T09:00:00+00:00",
-    "time": "09:00",
-    "date": "2026-10-08",
-    "title_ko": "2006년부터 배틀 포 더 본스 바비큐 대회 매회 참가해 온 타이거스 팬",
     "ko_by": "gemini"
   }
 ]
