@@ -216,6 +216,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "3c6e8b4477c6",
+    "source": "Zeta",
+    "title": "El Campeonato del Asado Argentino celebra su cuarta edición en Miami",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUVEdWwyWXRTTjZXOGNQQjhwS05VSXgzNVZYb1RCSWt6QWJpVlJIai0tQU1WanhRaEZibDFqUVhxXy1udXVGX1pWcjBuZlVaMDZLdUFkVmNzODJ4blpUQVhZNlA1S0lrYUhDMmRqU2tiT3BSSXBHRnI0ODJVbkVDRzk3a2F5U1Q3ZTdhODRFQTlnT2pRMW80cW52dnM3WE9laGVIelMwOEE4cS12bWs0cENFaFdhSFV1T0I0NA?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-10-07T20:53:00+00:00",
+    "time": "20:53",
+    "date": "2026-10-07",
+    "title_ko": "아르헨티나 아사도 챔피언십, 마이애미에서 제4회 대회 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "e7f3cfa86f57",
     "source": "The BayNet",
     "title": "Inaugural MoCo Smoke Show Brings Barbeque Culture and Competition to Downtown Wheaton on Saturday, Oct. 17",
@@ -225,18 +237,6 @@
     "time": "20:50",
     "date": "2026-10-07",
     "title_ko": "제1회 모코 스모크 쇼, 10월 17일 토요일 휘턴 도심에 바비큐 문화와 대회 선보인다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "69601060dd70",
-    "source": "hannapub.com",
-    "title": "Annual BBQ competition set for Vidalia",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcERiQkZNVTBUeVZnM09IZnlYdDF6aHpVVEg5ZVBQQVdlWGhqSTRqc09JbTM4bWVnQUQzeTltQ0VmNmRfWVlBT0tJa3RKeTBrdV9LQmk2SDdEcTl2U2x1M1AydG9Wc3RZUk9fbkxrM2VIeXd0aDhvTWREcnI2bHJFVGhJT0s4eWlzUkYyRE1UMXZBdWh4ZWIySzhRZUl1anF2SnY4Q2gzN01TRm95a25IUEZNNV9zZ3N2NG5kLTJwWjlILU9RT2ZYaEFCNlBTMW5Dcm9NWVpmN20zbVBzazl3VUZST2cyS283NEF6VG5WOA?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-07T19:00:00+00:00",
-    "time": "19:00",
-    "date": "2026-10-07",
-    "title_ko": "비달리아 연례 바비큐 대회 개최 예정",
     "ko_by": "gemini"
   }
 ]
