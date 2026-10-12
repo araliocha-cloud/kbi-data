@@ -1,5 +1,17 @@
 [
   {
+    "id": "5cbea24411d3",
+    "source": "The Lynchburg Times",
+    "title": "SmellaQue Wins Jack Daniel’s World Championship Invitational Barbecue",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRU5IaG5SX1RwekdEMk5qX185NTdqVG9RTWlLaDdKZV96T182dkI2Y1h5YlN2bl9GWHJxU0xkckNGTHpxN1Y0RERGcEdlOHo4eE9xMGVZVUNKN3V2YjZLNw?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-12T20:13:56+00:00",
+    "time": "20:13",
+    "date": "2026-10-12",
+    "title_ko": "스멜라큐, 잭 다니엘스 세계 챔피언십 인비테이셔널 바비큐 우승",
+    "ko_by": "gemini"
+  },
+  {
     "id": "8db13eb79eed",
     "source": "웹이코노미",
     "title": "2026 홍성글로벌바비큐페스티벌 프리뷰 행사 개최",
@@ -225,18 +237,6 @@
     "time": "14:58",
     "date": "2026-10-08",
     "title_ko": "윈키 디, 캐슬 라거 브라이 페스티벌 헤드라이너로 나선다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "d3b3dfc25d86",
-    "source": "MiamiHispano.com",
-    "title": "El Campeonato del Asado Argentino celebra su cuarta edición en Miami",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUNmRXkzXzdhTXhVX21oek5qbFFvbl9aX0tYOWZzdnh3SDNHYkpVTVhubElzV0E3eTliY2h2R2hvMDU1OWs0Z3ZvSldLME9CcnNBSHBYSU9mQ0JDN1BpRGFWSGJhLVkyRXB1SGJETjRCU1pMeW9WYVJmZWtXcVltVzZNc1BzbGFBekQtNFhUUm94R3lHX3hQTkFDc0RDRmJiLTlOVWxSbldQLUk3aTRv?oc=5",
-    "query": "Asado Mundial",
-    "published_at": "2026-10-08T09:45:45+00:00",
-    "time": "09:45",
-    "date": "2026-10-08",
-    "title_ko": "마이애미서 제4회 아르헨티나 아사도 챔피언십 개최",
     "ko_by": "gemini"
   }
 ]
