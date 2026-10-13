@@ -1,5 +1,17 @@
 [
   {
+    "id": "9a83ee419f89",
+    "source": "WBFF",
+    "title": "MD State BBQ Bash in Bel Air brings good food and good times",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEpUUHdUSWFVT1A1QzVpSk5pM0NueFJrV1NLN0cxQTFYSUY2R2ZVbXRNbFBfRkNtWlJvbF85TUZiWnQtRVAweHJBNGZlQTYwdW5sbVUzdXd2WkVIbTlSQ3l3XzZuZFNWa2NPdHU5Y3Y3NkU0RV8zcHVkSzFWUUpwNjU2b28yOFB6bC1nd3RmckU0X1p3MklOUjc2SU1faGlNclVqTHRoc3Y1SU50Q3IyTXVyQzh5c2N3T0steFZPc1RTcGN4cGtQUjEtTWRkWWs?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-13T21:29:17+00:00",
+    "time": "21:29",
+    "date": "2026-10-13",
+    "title_ko": "벨에어에서 열린 메릴랜드 주 바비큐 배시, 훌륭한 음식과 즐거움 선사",
+    "ko_by": "gemini"
+  },
+  {
     "id": "9928a581df57",
     "source": "VeronaSera",
     "title": "La \"Gara di Barbecue\" alla Flover Farm di Bussolengo il 17 ottobre 2026",
@@ -225,18 +237,6 @@
     "time": "11:03",
     "date": "2026-10-09",
     "title_ko": "주말 나들이 계획: 메릴랜드주 바비큐 배시, 피에스타 볼티모어, 주부",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "498c526127a3",
-    "source": "KMBC",
-    "title": "Legendary Kansas City barbecue judge Ardie Davis passes down legacy to grandson",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlM1ajhrbml4clc2and4UVdhMVE1MTVCVTI3ZHlkc3BvaEVLeU94R2t0ekg4N21Ea3hJLVFoZWp0b2NVMWZzNXMyRjQyZG0yZlpzX0xrR1FpLVZVaXdCUk51a3JSbEZQSEs0RVcxendtZE4wSmg3RUNRbVpaMTBEbURpNjViSVVHdjhwb0p1M0czVnFVbVZ0NDdzVHdQRFktN3BvOTE2VEpiU3M?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-09T03:00:00+00:00",
-    "time": "03:00",
-    "date": "2026-10-09",
-    "title_ko": "전설적인 캔자스시티 바비큐 심사위원 아디 데이비스, 손자에게 유산 물려줘",
     "ko_by": "gemini"
   }
 ]
