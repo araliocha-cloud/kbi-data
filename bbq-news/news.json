@@ -1,5 +1,17 @@
 [
   {
+    "id": "de5805eddc31",
+    "source": "InfoBAN",
+    "title": "Atención parrilleros: todavía hay tiempo para inscribirse al Campeonato del Asado de Tira",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWRkaXY4UGNKVmlWMXM1cVN3S25DQ0dHcWV2SmhvTmJrdWRYZ2Nnd3BvSWRJMnZtbW9RbkI1dmk2SEhhOUdyeWltSmtlQnZROXd4M0drci1kaTlJWjFEOWVxaGFtYTJyT2VGUDFmV2xzdnA2ay1vTlFGREszcTJlalFSMkpLOUhTb01pSkJ4T3k0T0cwRTMzNkxiaExaZTg2WUNuRGNRYUxPRTFxRm5LLWViYWI4RVh4X3B5Z2NpNHhRRXhZMmc?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-10-14T14:13:58+00:00",
+    "time": "14:13",
+    "date": "2026-10-14",
+    "title_ko": "파리예로 주목: 립 아사도 챔피언십 참가 신청 시간 아직 남아 있어",
+    "ko_by": "gemini"
+  },
+  {
     "id": "688736df06a9",
     "source": "Agencia DIB",
     "title": "Fin de semana de Oktober Fest: cerveza, asado, Leonardo Favio y flores de primavera",
@@ -226,17 +238,5 @@
     "date": "2026-10-11",
     "title_ko": "홍성글로벌바비큐페스티벌 미리 맛보니… 이색 그릴·먹거리 ‘풍성’",
     "ko_by": "original"
-  },
-  {
-    "id": "8e5c2b7208c5",
-    "source": "WIBW",
-    "title": "Pit masters compete for cash prizes at ‘Smoke on the Water’ barbecue competition",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelU1Nnl2b2s5cnBqZHRwLTBXU0MwWFRyTy1lWl9DaVpia1JFY1NTX3RhNEtROWxCR09VMlhZTVpQZTRqM3lwVy1LdUZNb1FKTDlUSUdtUjJQZHhCa2VETVlFYkJsQ0FHRTduX2RSal9RLVRCMkRlRHZMQmZERlc4YWxzbjBFaEEtR0QtUTFMdjQtTHZ1M3RDY2pqTUpaQdIBsgFBVV95cUxOMWNpM0lHUF9EbHdoQ0pORUxaMTRHUVp3RmtlNlpHREwydUhJYTdmSmNHTG9KSWRzZWhpZVc1MExFMUl5Y1ZvZDBTbTdJdHdQMXBfczdacDJxaG9aMlZUb1ZGU3UySkFuTHA3TlVjYUhPRUpmQ1lYOUJyUHFPOXA0ZnV5VW16YUVQcE1JNjBKVVZjTEk3ajR0LTM3SXA4LXA2cjZKTEdyLXk0S0Y2eGdNZ2dB?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-11T03:17:00+00:00",
-    "time": "03:17",
-    "date": "2026-10-11",
-    "title_ko": "스모크 온 더 워터 바비큐 대회, 상금 걸고 피트마스터들 경쟁",
-    "ko_by": "gemini"
   }
 ]
