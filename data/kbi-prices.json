@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T06:37:33.532Z",
+  "updatedAt": "2026-10-14T04:38:57.749Z",
   "source": "축산물품질평가원 축산유통정보(다봄) - 일자별 축산물소비자가격 정보 (부위별 1kg 가격, 평균 아님)",
   "species": {
     "beef": {
@@ -8,20 +8,71 @@
         "sirloin": {
           "name": "등심",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=null: 알 수 없는 오류 / 원본응답: <br>\r\n<br>\r\n<center>\r\n<h2>\r\nThe request / response that are contrary to the Web firewall security policies have been blocked.\r\n</h2>\r\n<table>\r\n<tr>\r\n<td>Detect time</td>\r\n<td>2026-10-13 15:37:32</td>\r"
+          "regionPrices": {
+            "서울": 123060,
+            "부산": 109300,
+            "대구": 111610,
+            "인천": 113820,
+            "광주": 116070,
+            "대전": 118690,
+            "울산": 112060,
+            "세종": 112490,
+            "경기": 115940,
+            "강원": 115600,
+            "충북": 113950,
+            "충남": 107880,
+            "전북": 114870,
+            "전남": 110560,
+            "경북": 108500,
+            "경남": 108730,
+            "제주": 110540
+          }
         },
         "brisket": {
           "name": "양지",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=null: 알 수 없는 오류 / 원본응답: <br>\r\n<br>\r\n<center>\r\n<h2>\r\nThe request / response that are contrary to the Web firewall security policies have been blocked.\r\n</h2>\r\n<table>\r\n<tr>\r\n<td>Detect time</td>\r\n<td>2026-10-13 15:37:34</td>\r"
+          "regionPrices": {
+            "서울": 66680,
+            "부산": 64760,
+            "대구": 63200,
+            "인천": 68140,
+            "광주": 62840,
+            "대전": 59920,
+            "울산": 64740,
+            "세종": 67000,
+            "경기": 66220,
+            "강원": 63860,
+            "충북": 61620,
+            "충남": 60550,
+            "전북": 60540,
+            "전남": 57760,
+            "경북": 60760,
+            "경남": 63350,
+            "제주": 60550
+          }
         },
         "ribs": {
           "name": "갈비",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=null: 알 수 없는 오류 / 원본응답: <br>\r\n<br>\r\n<center>\r\n<h2>\r\nThe request / response that are contrary to the Web firewall security policies have been blocked.\r\n</h2>\r\n<table>\r\n<tr>\r\n<td>Detect time</td>\r\n<td>2026-10-13 15:37:35</td>\r"
+          "regionPrices": {
+            "서울": 73450,
+            "부산": 92940,
+            "대구": 74030,
+            "인천": 68680,
+            "광주": 74550,
+            "대전": 73460,
+            "울산": 89660,
+            "세종": 79340,
+            "경기": 69230,
+            "강원": 60570,
+            "충북": 70410,
+            "충남": 66370,
+            "전북": 72770,
+            "전남": 76160,
+            "경북": 63820,
+            "경남": 69450,
+            "제주": 62890
+          }
         }
       }
     },
@@ -31,14 +82,48 @@
         "belly": {
           "name": "삼겹살",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=null: 알 수 없는 오류 / 원본응답: <br>\r\n<br>\r\n<center>\r\n<h2>\r\nThe request / response that are contrary to the Web firewall security policies have been blocked.\r\n</h2>\r\n<table>\r\n<tr>\r\n<td>Detect time</td>\r\n<td>2026-10-13 15:37:37</td>\r"
+          "regionPrices": {
+            "서울": 28600,
+            "부산": 27970,
+            "대구": 27350,
+            "인천": 27520,
+            "광주": 26720,
+            "대전": 26690,
+            "울산": 28000,
+            "세종": 26490,
+            "경기": 27330,
+            "강원": 27590,
+            "충북": 27910,
+            "충남": 26610,
+            "전북": 27830,
+            "전남": 26540,
+            "경북": 27540,
+            "경남": 26960,
+            "제주": 29920
+          }
         },
         "neck": {
           "name": "목심",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=null: 알 수 없는 오류 / 원본응답: <br>\r\n<br>\r\n<center>\r\n<h2>\r\nThe request / response that are contrary to the Web firewall security policies have been blocked.\r\n</h2>\r\n<table>\r\n<tr>\r\n<td>Detect time</td>\r\n<td>2026-10-13 15:37:38</td>\r"
+          "regionPrices": {
+            "서울": 26610,
+            "부산": 26230,
+            "대구": 26150,
+            "인천": 25880,
+            "광주": 24410,
+            "대전": 24980,
+            "울산": 26360,
+            "세종": 25130,
+            "경기": 25730,
+            "강원": 25930,
+            "충북": 26320,
+            "충남": 24870,
+            "전북": 26070,
+            "전남": 24360,
+            "경북": 25910,
+            "경남": 24980,
+            "제주": 29010
+          }
         }
       }
     },
@@ -48,8 +133,25 @@
         "broiler": {
           "name": "육계",
           "unit": "원/1kg",
-          "regionPrices": null,
-          "error": "resultCode=null: 알 수 없는 오류 / 원본응답: <br>\r\n<br>\r\n<center>\r\n<h2>\r\nThe request / response that are contrary to the Web firewall security policies have been blocked.\r\n</h2>\r\n<table>\r\n<tr>\r\n<td>Detect time</td>\r\n<td>2026-10-13 15:37:40</td>\r"
+          "regionPrices": {
+            "서울": 5775,
+            "부산": 6313,
+            "대구": 5698,
+            "인천": 6342,
+            "광주": 5635,
+            "대전": 5690,
+            "울산": 5595,
+            "세종": 6173,
+            "경기": 5672,
+            "강원": 5634,
+            "충북": 6056,
+            "충남": 6204,
+            "전북": 5909,
+            "전남": 5669,
+            "경북": 5552,
+            "경남": 5567,
+            "제주": 6077
+          }
         }
       }
     }
