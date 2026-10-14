@@ -24,6 +24,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "48fcf1c178d7",
+    "source": "발품뉴스",
+    "title": "\"고기 좋아하는 사람이라면 이건 못 참겠는데요?\"... 10월 말 시작하는 대형 바비큐 축제",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBenJ5RVo2MUNUekZaRUNpRHBsOHpzNzZzRURUYW44bXVudUwyemNYbXZtUzdtWG9ZdGxMMnFuNkprWWRCeXU0VG9IQVgyYldqR01XYi1vaWN5aFMtMnlZbDRlWUVETWvSAW9BVV95cUxQN054WXVGLWtDMUtJYVhBMjFBcGE2d1hPeHYtUzJNdGtwckJYOTY2WjdSYVNTQmVBT2NoM1FpenZ4VzRMdFpmMWN5b0tJMEJPOFRTYWN3NEQ1Q0ZaOEYxRTJwem1hb2VmRXp4TFQ4ZHc?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-13T11:00:00+00:00",
+    "time": "11:00",
+    "date": "2026-10-13",
+    "title_ko": "\"고기 좋아하는 사람이라면 이건 못 참겠는데요?\"... 10월 말 시작하는 대형 바비큐 축제",
+    "ko_by": "original"
+  },
+  {
     "id": "9928a581df57",
     "source": "VeronaSera",
     "title": "La \"Gara di Barbecue\" alla Flover Farm di Bussolengo il 17 ottobre 2026",
@@ -225,18 +237,6 @@
     "time": "16:18",
     "date": "2026-10-09",
     "title_ko": "휘슬스톱 바비큐 축제 10월 16~17일 미드시티 복귀... 티켓 예매 시작",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "acb186cd0850",
-    "source": "Kansas City Star",
-    "title": "An England soccer player’s favorite thing from the 2026 World Cup: KC barbecue",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFhLYXNhUGxfSkVJRmNDZDI1VjBVYnBBS25oUzVMbERCT0FUMmJ2VWhaekdMM09WQUtsYWhWQ3pCZFprU21lTjk1YTRHR2d4dkRZX1hFa0txbWVack1WSmhlVS0wOWRLampiU0tDRGxmZXBTbVFReEVvbEZXck9YNFRzRXNtRTN3OUVQLXpWOFRRZ9IBkgFBVV95cUxNbXVuOUxfR0U2MnFtTG42RUpPYVROa0NwdGJrRnlocEZ3XzZyZEhsMDNpX3pKZG91dUtVenpqOGxlQzhXeWV0OEpEbDlsYTJRVTBmbmUxbWVIQnJfZmxJUnd5Y1hVUUNFSzdwOEpkR2JVWTNhT3FkWTBYVjFuU2FWaXFvMGlWejh6ZV9jVmphcVMxZw?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-10-09T14:48:30+00:00",
-    "time": "14:48",
-    "date": "2026-10-09",
-    "title_ko": "잉글랜드 축구 선수가 2026 월드컵에서 가장 좋아하는 것, 'KC 바비큐'",
     "ko_by": "gemini"
   }
 ]
