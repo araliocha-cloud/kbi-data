@@ -1,5 +1,17 @@
 [
   {
+    "id": "8ba21a33f280",
+    "source": "O POVO",
+    "title": "Festival de churrasco celebra dez anos com edição em Aquiraz",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkgtR3hQTUljaFFjVi04ZUl1cjNldE1EM2xSdl90aG1neGJ6OG16RUZwYjlvbmVqb2ZrX0hESU5FRzIwTWgybnppR0FaT2RaeC1ZSlZhdXpxUk1iUy1PWGhOdHV6RVoyZHpXaFNRUVFQSG9ScFpuQnZ1NUZRSm9Lajc1R2FtYkxtb3NmSF90RGhyN3BEbUN0ZVdJMXpsd191UmN3eFpLTHN1R0dRR3MyXw?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-10-15T17:04:25+00:00",
+    "time": "17:04",
+    "date": "2026-10-15",
+    "title_ko": "슈하스코 페스티벌, 아키라스 개최로 10주년 맞이",
+    "ko_by": "gemini"
+  },
+  {
     "id": "d40d9b56bc72",
     "source": "굿모닝충청",
     "title": "청운대, 홍성바비큐페스티벌 기간 '무료 캠핑장' 변신",
@@ -225,18 +237,6 @@
     "time": "21:08",
     "date": "2026-10-12",
     "title_ko": "힐시티 스모크, 스피리츠 앤 서즈 바비큐 페스티벌, 블랙힐스에 뒷마당 풍미와 자선 전해",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "5cbea24411d3",
-    "source": "The Lynchburg Times",
-    "title": "SmellaQue Wins Jack Daniel’s World Championship Invitational Barbecue",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRU5IaG5SX1RwekdEMk5qX185NTdqVG9RTWlLaDdKZV96T182dkI2Y1h5YlN2bl9GWHJxU0xkckNGTHpxN1Y0RERGcEdlOHo4eE9xMGVZVUNKN3V2YjZLNw?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-12T20:13:56+00:00",
-    "time": "20:13",
-    "date": "2026-10-12",
-    "title_ko": "스멜라큐, 잭 다니엘스 세계 챔피언십 인비테이셔널 바비큐 우승",
     "ko_by": "gemini"
   }
 ]
