@@ -1,5 +1,17 @@
 [
   {
+    "id": "d40d9b56bc72",
+    "source": "굿모닝충청",
+    "title": "청운대, 홍성바비큐페스티벌 기간 '무료 캠핑장' 변신",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ieDl2S1REOG9Mc0lVbDJhM1hfdXpZY2pjdnk2WjNpVTRfeDliZVJwSmxqdkZpTGRZaXFQRjU5Vm5PbjNJSVZlV19DYUJtNmpsaTN6R1BWRE9HVmRuQlJJeFJiNHF6aDVOUGZUSDB2SkFvdw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-15T06:20:32+00:00",
+    "time": "06:20",
+    "date": "2026-10-15",
+    "title_ko": "청운대, 홍성바비큐페스티벌 기간 '무료 캠핑장' 변신",
+    "ko_by": "original"
+  },
+  {
     "id": "56b7d5fd8737",
     "source": "InfoNegocios",
     "title": "El fuego argentino tiene tonada: el cordobés Maxi Arias representará a la Argentina en el primer Mundial de Asadores",
@@ -96,18 +108,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "ab748847de9a",
-    "source": "뉴스파고",
-    "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MdnFYSGV6YmZPRXhHWDFrLU8tNHpIMk5WcjJidXdVYmJvZWMzLXgzcVZ4NWg3M3B1V2swQlpnNkxaTkNK?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-14T00:10:00+00:00",
-    "time": "00:10",
-    "date": "2026-10-14",
-    "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
-    "ko_by": "original"
-  },
-  {
     "id": "2d1208efc723",
     "source": "뉴스프리존",
     "title": "홍성 바비큐축제 요리경연 참가자 모집",
@@ -117,6 +117,18 @@
     "time": "07:58",
     "date": "2026-10-14",
     "title_ko": "홍성 바비큐축제 요리경연 참가자 모집",
+    "ko_by": "original"
+  },
+  {
+    "id": "ab748847de9a",
+    "source": "뉴스파고",
+    "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MdnFYSGV6YmZPRXhHWDFrLU8tNHpIMk5WcjJidXdVYmJvZWMzLXgzcVZ4NWg3M3B1V2swQlpnNkxaTkNK?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-14T00:10:00+00:00",
+    "time": "00:10",
+    "date": "2026-10-14",
+    "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
     "ko_by": "original"
   },
   {
@@ -226,17 +238,5 @@
     "date": "2026-10-12",
     "title_ko": "홍주문화관광재단 2026 홍성글로벌바비큐페스티벌 프리뷰로 기대감 활활",
     "ko_by": "original"
-  },
-  {
-    "id": "4d945ff70d18",
-    "source": "Calgary Herald",
-    "title": "Calgary pitmaster first-non American champion in American BBQ contest",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2Z5MFZQd1lOeFFtLXJwS0k4SGUtS3d2SS1iRHRYNkRmdHdXbTdCSHBFeWE2bndZUk9Lb2ZDOXVtOTZmUlg0dnQyTUlyVWtjbWhPZ3lmb0FnNDV3X3FRUVhFWGluUGExQkRncnRQSktJM0x5TndjdG9qNVNBV2p0VGlKRFVvaVhkVGRzUWozY3M1ZkpzMkxUWG9Na3lYTlBtOERLd3Q0QU4ySTZDczJiRU1xMDZOQTVreHBzX3BiU2xqaExDWVhtVw?oc=5",
-    "query": "Memphis in May",
-    "published_at": "2026-10-12T00:05:50+00:00",
-    "time": "00:05",
-    "date": "2026-10-12",
-    "title_ko": "캘거리 피트마스터, 미국 바비큐 대회서 비미국인 최초 챔피언 차지",
-    "ko_by": "gemini"
   }
 ]
