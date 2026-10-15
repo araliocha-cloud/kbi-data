@@ -1,5 +1,17 @@
 [
   {
+    "id": "1b64a8efdac0",
+    "source": "Yahoo News Canada",
+    "title": "Canadian makes history at international barbecue championship | Hanomansing Live",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlZWaURpZHVDZWFnM2E4MFdFUjg2NHFOR25FNDZPdHpaQ3N0NFJheDZlRXFOaVNkN3FNMnVoeElra0lDaDVfdmpRVWtzUkRVdnZvTGt2d1pCZUhZZE51aDk2Tl9Td3VFeEE4OUxtbU4yS21Zck5aMXdUcVgxVE9kVjM2U1Z5SGZmUHBLdS1CZw?oc=5",
+    "query": "Jack Daniel's Invitational",
+    "published_at": "2026-10-15T01:58:00+00:00",
+    "time": "01:58",
+    "date": "2026-10-15",
+    "title_ko": "캐나다인, 국제 바비큐 챔피언십에서 역사 쓰다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "3ae39cd79810",
     "source": "당진신문",
     "title": "바비큐축제 즐기고 캠퍼스서 하룻밤..청운대, 3년째 캠핑장 개방",
@@ -225,18 +237,6 @@
     "time": "23:39",
     "date": "2026-10-11",
     "title_ko": "캘거리 피트마스터, 비미국인 최초 잭 다니엘스 세계 챔피언십 인비테이셔널 바비큐 그랜드 챔피언 등극",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "99efc9bd423f",
-    "source": "NOLA.com",
-    "title": "Photos: Twentieth Crescent City Blues and Barbecue Festival brings music to Lafayette Square",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPa1pERVRmdHVKdGRFSnB0ZGlqcVIyMnY3Wm1UeVV5NzZnUUFlMi14X3dwMFdrXzdvWFRta3NsNl91SExwWVd1QWc1eWM4aDloOHNNMDMxYmVGbEFhZFJ3ZHZqR3JqOG5SY2pETURSckNSOVJWMzZPTS0zTlR1WjVFOEpQOGxrd2JRclBBVUVVTS1QbW0waHdMZ0NSRnhsSEhYa0pXNEZ2d3JxdG1FUDUtZlRmRVlRdzZzYkhxSzR3OWMzOFZWZnhCYm04Um50aGxYdU91YzdoUnVuYk0yWkhENWY1N0NvM0ZZZno0SEVvSTdxY3Mzb0NIN3pVbF9nR2hJQlQ0R1FkWU91ZHYtejZNR0daRGNWZw?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-10-11T22:25:50+00:00",
-    "time": "22:25",
-    "date": "2026-10-11",
-    "title_ko": "제20회 크레센트 시티 블루스 앤드 바비큐 페스티벌, 라파예트 스퀘어에 음악 선사",
     "ko_by": "gemini"
   }
 ]
