@@ -1,5 +1,29 @@
 [
   {
+    "id": "3ae39cd79810",
+    "source": "당진신문",
+    "title": "바비큐축제 즐기고 캠퍼스서 하룻밤..청운대, 3년째 캠핑장 개방",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EeTRuREdKX3dCQnNZX3NWbVlyNnkwcXdZZGFEWU90clgxVk5fR1kwR1hFVmNlcHJyVVRfOW5taWJFMkU5c1NPZWxDMUdDOElqelRVTVlYZW0tMGxQdGVJcklDV0hIemlE?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-15T00:51:51+00:00",
+    "time": "00:51",
+    "date": "2026-10-15",
+    "title_ko": "바비큐축제 즐기고 캠퍼스서 하룻밤..청운대, 3년째 캠핑장 개방",
+    "ko_by": "original"
+  },
+  {
+    "id": "f183fec50bab",
+    "source": "베리타스알파",
+    "title": "청운대 홍성글로벌바비큐페스티벌 기간 캠퍼스 캠핑장 운영",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XU3pYSjRhQUNKdWFZQ2VjeXpTR19maXNnbUlITkdRNmduVEVDLVBTY0hrWVR5QktER1dEMWQyZTNaeW5LZnNPYVN4cDlubHEzSl96TlJMRlhoNDNidU95QUh2UWx2eW1CQXF3aQ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-15T00:37:47+00:00",
+    "time": "00:37",
+    "date": "2026-10-15",
+    "title_ko": "청운대 홍성글로벌바비큐페스티벌 기간 캠퍼스 캠핑장 운영",
+    "ko_by": "original"
+  },
+  {
     "id": "ed76ca85bf3e",
     "source": "투어코리아",
     "title": "홍성 한우·한돈의 무한 변신… 전국 요리 고수들, 바비큐 축제서 맞붙는다",
@@ -214,29 +238,5 @@
     "date": "2026-10-11",
     "title_ko": "제20회 크레센트 시티 블루스 앤드 바비큐 페스티벌, 라파예트 스퀘어에 음악 선사",
     "ko_by": "gemini"
-  },
-  {
-    "id": "afa4884f9cb5",
-    "source": "뉴스체크",
-    "title": "2026 홍성글로벌바비큐페스티벌, 이색 그릴 시연·시식회 현장",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hU3hkTHA3NmtiRm5nRUdQMTltM3BRMnRqaTVsTjBfYXFSaXF0S0lYUVlELVc5RTJFWmp4VUFpQnhId1NiWVh0NlRPaWxLQTkwZHRUYnF4LWRGVEZwc1FTbGgxV3BrSVU2bnk5bEtJTnfSAXBBVV95cUxOYVN4ZExwNzZrYkZuZ0VHUDE5bTNwUTJ0amk1bE4wX2FxUmlxdEtJWFFZRC1XOUUyRVpqeFVBaUJ4SHdTYllYdDZUT2lsS0E5MGR0VGJxeC1kRlRGcHNRU2xoMVdwa0lVNm55OWxLSU53?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-11T14:25:15+00:00",
-    "time": "14:25",
-    "date": "2026-10-11",
-    "title_ko": "2026 홍성글로벌바비큐페스티벌, 이색 그릴 시연·시식회 현장",
-    "ko_by": "original"
-  },
-  {
-    "id": "1f561fca663d",
-    "source": "뉴스피릿",
-    "title": "[현장]고기보다 그릴에 먼저 눈길…홍성 바비큐축제 미리 가보니",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xNVV2aUFGRWd0S0dsMVZUdDI0VVVVX0lWVGFXV0pCVmx0VlJwOGJzby1KTGRzMEFuNEJkaDhuZ0N4QmlzNWFqMG0wUTJLWmVYbWdMekNabDV2RWxNYkxhLTdndVpVZ1hFM0Y4?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-11T13:14:00+00:00",
-    "time": "13:14",
-    "date": "2026-10-11",
-    "title_ko": "[현장]고기보다 그릴에 먼저 눈길…홍성 바비큐축제 미리 가보니",
-    "ko_by": "original"
   }
 ]
