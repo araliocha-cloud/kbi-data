@@ -48,6 +48,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "ab0825273398",
+    "source": "홍성신문",
+    "title": "바비큐축제 청운대 캠핑장 19일부터 선착순 접수",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44c18wUXNlUzdhajRzZWN3TDZ2TjlUWXYwTkxLX05Zd0xaQU15Z0VuOWxabjd0bTI0dmZoMEZLWXR4LUJhUzd3aE5WbFlYak1xc250dTI3OURDVHQwelFyWEVfeTdsLVV0NDhB?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-15T01:15:53+00:00",
+    "time": "01:15",
+    "date": "2026-10-15",
+    "title_ko": "바비큐축제 청운대 캠핑장 19일부터 선착순 접수",
+    "ko_by": "original"
+  },
+  {
     "id": "3ae39cd79810",
     "source": "당진신문",
     "title": "바비큐축제 즐기고 캠퍼스서 하룻밤..청운대, 3년째 캠핑장 개방",
@@ -225,18 +237,6 @@
     "time": "07:49",
     "date": "2026-10-12",
     "title_ko": "그릴 높이만 5.4미터…홍성 바비큐 페스티벌 미리보기",
-    "ko_by": "original"
-  },
-  {
-    "id": "3e8af3c28c04",
-    "source": "충남인터넷뉴스",
-    "title": "홍주문화관광재단 2026 홍성글로벌바비큐페스티벌 프리뷰로 기대감 활활",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tbVc3aks4SXJwTGhYRUJIS3dDbjdnYWVjUFhQSGNxZXVzWmNPaE5wS1ZWNGttTGxueUo0bnlhVHBGZnBqVWt3eXhHNDVzTHZVazJJUlRENUNVeTZtN0ZUbEsyOWdHT2I4?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-12T04:17:40+00:00",
-    "time": "04:17",
-    "date": "2026-10-12",
-    "title_ko": "홍주문화관광재단 2026 홍성글로벌바비큐페스티벌 프리뷰로 기대감 활활",
     "ko_by": "original"
   }
 ]
