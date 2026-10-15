@@ -84,6 +84,18 @@
     "ko_by": "original"
   },
   {
+    "id": "48742f0e3f76",
+    "source": "Hoodline",
+    "title": "MD State BBQ Bash 2026: Bel Air Barbecue Festival Recap",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXZvS3ZKbU9aWXRiU2RxTVBXMkstM2k3bzZGX0VDNmE2dGYwRXVQMm52eFJaSmE2NnhTSDBQbTlvZ2xtQnZQRDBDZDVaSnB5eFNRMHRhNVBFT3lnZFZiYzdLdlZsVVJLaUV0bFlxTWlzZXNoVWVhTGJzUERuT1EtOG1tYUFraldydHlIbkxncU9LZWR0VjhGTXdRWlNoX0c0?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-14T19:39:13+00:00",
+    "time": "19:39",
+    "date": "2026-10-14",
+    "title_ko": "2026 메릴랜드주 바비큐 배시: 벨에어 바비큐 페스티벌 결산",
+    "ko_by": "gemini"
+  },
+  {
     "id": "de5805eddc31",
     "source": "InfoBAN",
     "title": "Atención parrilleros: todavía hay tiempo para inscribirse al Campeonato del Asado de Tira",
@@ -225,18 +237,6 @@
     "time": "10:21",
     "date": "2026-10-12",
     "title_ko": "2026 홍성글로벌바비큐페스티벌 프리뷰 행사 개최",
-    "ko_by": "original"
-  },
-  {
-    "id": "deac4b7b15a5",
-    "source": "LG헬로비전",
-    "title": "그릴 높이만 5.4미터…홍성 바비큐 페스티벌 미리보기",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TS1A3MnpfR0VXbHI2dWhhV2NIZDd4c2Q0Q0ptTWE3cmdYdDZlZlFlVER3dl9Ua2xBZ2lmQlRoRzAzV3ZhRUtfRkhnNnZiQi1ibVlBN0dvUk1wLVRpRkJzOTNwS2h6aEhpbDJES1ZJMGZzQdIBdkFVX3lxTE9PMUluQ0tTa0JpY0FsWnItcVhJdm8yNUp0MzVpM1hsVXpGbW5vcEd1OS1PMzJlS21ucUV4bWhoSlBSTzc4SUlmMDhOOHhyWlY1dXNSbHlHNFZ2YlJ2VWFWa1lwOWh5a0w1c1RIVHFLdURCZEI4QlE?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-12T07:49:37+00:00",
-    "time": "07:49",
-    "date": "2026-10-12",
-    "title_ko": "그릴 높이만 5.4미터…홍성 바비큐 페스티벌 미리보기",
     "ko_by": "original"
   }
 ]
