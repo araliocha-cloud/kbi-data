@@ -1,5 +1,17 @@
 [
   {
+    "id": "ab748847de9a",
+    "source": "뉴스파고",
+    "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MdnFYSGV6YmZPRXhHWDFrLU8tNHpIMk5WcjJidXdVYmJvZWMzLXgzcVZ4NWg3M3B1V2swQlpnNkxaTkNK?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-14T00:10:00+00:00",
+    "time": "00:10",
+    "date": "2026-10-14",
+    "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
+    "ko_by": "original"
+  },
+  {
     "id": "1ebefb3ddf13",
     "source": "BBC",
     "title": "West Country chefs heading to Las Vegas for the BBQ World cup",
@@ -166,18 +178,6 @@
     "date": "2026-10-14",
     "title_ko": "토요일 포트 피셔 백야드 바비큐 쿡오프에 참가자 20여 명 모인다",
     "ko_by": "gemini"
-  },
-  {
-    "id": "ab748847de9a",
-    "source": "뉴스파고",
-    "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MdnFYSGV6YmZPRXhHWDFrLU8tNHpIMk5WcjJidXdVYmJvZWMzLXgzcVZ4NWg3M3B1V2swQlpnNkxaTkNK?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-14T00:10:00+00:00",
-    "time": "00:10",
-    "date": "2026-10-14",
-    "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
-    "ko_by": "original"
   },
   {
     "id": "2d1208efc723",
