@@ -12,6 +12,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "a6bc416d0e94",
+    "source": "Municipalidad de Tandil",
+    "title": "ABRIÓ LA CONVOCATORIA PARA EL CONCURSO DE ASADORES EN LA KERMESE RURAL",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53LTdVZHdtVC1sLWZvalBUSlNxOE9VTEFEUjFCSEhVeDNOSVRqZ2ZRUTJHV2dpOXVTbWw2cXhWenN4dVVkT3pReHB3NXlLSks5LVE?oc=5",
+    "query": "Asado Chile",
+    "published_at": "2026-10-15T14:41:03+00:00",
+    "time": "14:41",
+    "date": "2026-10-15",
+    "title_ko": "케르메스 루랄 아사도르 대회 참가자 모집 시작",
+    "ko_by": "gemini"
+  },
+  {
     "id": "d40d9b56bc72",
     "source": "굿모닝충청",
     "title": "청운대, 홍성바비큐페스티벌 기간 '무료 캠핑장' 변신",
@@ -225,18 +237,6 @@
     "time": "21:24",
     "date": "2026-10-12",
     "title_ko": "휘슬스톱 바비큐 페스티벌, 헌츠빌로 돌아온다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "b7277a3ac265",
-    "source": "KOTA Territory News",
-    "title": "Hill City Smoke, Spirits & Suds BBQ Festival Brings Backyard Flavor and Charity to the Black Hills",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHp2NE5wNXdVUU5YM09GSVpiMTdxNDYteDQxT2U0cHBXYVpkbWxBc1hOelZlSFhRMy1aZnBhQnJJS1dmMzVXV3JReHJ2elBSejZ3YzQ5MzJ1enB0dDg4TnF4TG1GeEI5WkFGNS1NVmw5M002aGlKdnNlMmhIbjlhS1htOFFrNjBtUmkwVk8wTWRzQVhuRW40dkEtQVZmTFhXQ19DQ3dTMGd2N2wwUnE5bHpVcXdnSXJjNjRn0gHPAUFVX3lxTFAtS2RRUUxDTi1feXRaVVpHdkw1N1JETTlvVFVfaHZLYURSRElrQlVlUEwtNVFtZGpXbVlLUWEzejMzV28zR1NZdmdPSXVxcWtjTktVRjNzRTZMRG9PdXh5QVF3ZFVDMy1DRXo1elNrbUlrUjNJLU1HcTdoNWNyYlN3RkhhdXJUWWpxbE0tZU5xLVpYOE9oSDRqZEJKX254MUIzTUtXMm1fdXBlNFpXYmt5aW5tSTN3RUNzakFwWkhjZzZuZUVaRHdUMmlnSDZKWQ?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-12T21:08:00+00:00",
-    "time": "21:08",
-    "date": "2026-10-12",
-    "title_ko": "힐시티 스모크, 스피리츠 앤 서즈 바비큐 페스티벌, 블랙힐스에 뒷마당 풍미와 자선 전해",
     "ko_by": "gemini"
   }
 ]
