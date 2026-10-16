@@ -1,5 +1,17 @@
 [
   {
+    "id": "1ebefb3ddf13",
+    "source": "BBC",
+    "title": "West Country chefs heading to Las Vegas for the BBQ World cup",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WaGNyR1pmMlczY1IyWE9EZXNuWG9iOUdwLWhYbm9SclBUd29UZ002LW5ZckFVVmJwWk5PVk00RnJVTzJiWGlQY2pjbnNFR19OcG9GN1FyaF8?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-10-16T05:16:25+00:00",
+    "time": "05:16",
+    "date": "2026-10-16",
+    "title_ko": "웨스트컨트리 셰프들, 바비큐 월드컵 위해 라스베이거스로 향한다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "8ba21a33f280",
     "source": "O POVO",
     "title": "Festival de churrasco celebra dez anos com edição em Aquiraz",
@@ -225,18 +237,6 @@
     "time": "08:45",
     "date": "2026-10-13",
     "title_ko": "6개 무대, 하나의 축제: 바비큐 축제서 음악·가족 행사·인기 즐길거리 찾는 법",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "d9245c753199",
-    "source": "WHNT.com",
-    "title": "WhistleStop BBQ Festival returning to Huntsville",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUhnNFliUWtrMjI4NmpnUERZdGtBb3BVd1YxeXk4MXVpY2VVVU5LcnhhYjhITmg0MmY4WUNOb3U4QnpEQktaWndod2h6UHk0REYwVnJoVEZMUE5naTNpcHFBeTlCN1NtNW9BbmdTUjRLam1LT1BEQkhtbXk0M0liczR2N3BvNUlfdVHSAY8BQVVfeXFMTU5fMldvU29wdkgydGFOTy1RZWh5eXp3U2JvaUdDMUdvQkh6aG50eTlsd0JjRkdROGdNTmlPS1RVMi02ckRXS1FmTklyUzhSTWpHUjZ0TjhaU3k5R1RUOElpWnF6UzlwT2xQVWNkTUNIeXBZT3pySzR1eXY2VUpPaXZtbDU2Q2FPR2lMTTRFSTQ?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-12T21:24:46+00:00",
-    "time": "21:24",
-    "date": "2026-10-12",
-    "title_ko": "휘슬스톱 바비큐 페스티벌, 헌츠빌로 돌아온다",
     "ko_by": "gemini"
   }
 ]
