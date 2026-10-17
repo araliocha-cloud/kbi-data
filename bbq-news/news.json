@@ -168,6 +168,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "9928a581df57",
+    "source": "VeronaSera",
+    "title": "La \"Gara di Barbecue\" alla Flover Farm di Bussolengo il 17 ottobre 2026",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFcxckhCMEk4VElvZW9nZzdLVUlXNjYtSXcwWVVBV2QyUTJXc1lLTmJpWU1ieUJBTjdzNjgwNzl0YVhFU0F6czZEbTZFd2JFOU5YRjFKSkJUN0hJSmJyS2tCT2VwR2NqRFdIOWUzOXRHWEFsUzlJR2pwenhBcHB6SzBnOUd0Zw?oc=5",
+    "query": "Barbecue Italia",
+    "published_at": "2026-10-14T19:21:12+00:00",
+    "time": "19:21",
+    "date": "2026-10-14",
+    "title_ko": "2026년 10월 17일 부솔렝고의 플로버 농장에서 열리는 \"바베큐 경주\"",
+    "ko_by": "fallback"
+  },
+  {
     "id": "de5805eddc31",
     "source": "InfoBAN",
     "title": "Atención parrilleros: todavía hay tiempo para inscribirse al Campeonato del Asado de Tira",
@@ -226,17 +238,5 @@
     "date": "2026-10-13",
     "title_ko": "벨에어에서 열린 메릴랜드 주 바비큐 배시, 훌륭한 음식과 즐거움 선사",
     "ko_by": "gemini"
-  },
-  {
-    "id": "48fcf1c178d7",
-    "source": "발품뉴스",
-    "title": "\"고기 좋아하는 사람이라면 이건 못 참겠는데요?\"... 10월 말 시작하는 대형 바비큐 축제",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBenJ5RVo2MUNUekZaRUNpRHBsOHpzNzZzRURUYW44bXVudUwyemNYbXZtUzdtWG9ZdGxMMnFuNkprWWRCeXU0VG9IQVgyYldqR01XYi1vaWN5aFMtMnlZbDRlWUVETWvSAW9BVV95cUxQN054WXVGLWtDMUtJYVhBMjFBcGE2d1hPeHYtUzJNdGtwckJYOTY2WjdSYVNTQmVBT2NoM1FpenZ4VzRMdFpmMWN5b0tJMEJPOFRTYWN3NEQ1Q0ZaOEYxRTJwem1hb2VmRXp4TFQ4ZHc?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-13T11:00:00+00:00",
-    "time": "11:00",
-    "date": "2026-10-13",
-    "title_ko": "\"고기 좋아하는 사람이라면 이건 못 참겠는데요?\"... 10월 말 시작하는 대형 바비큐 축제",
-    "ko_by": "original"
   }
 ]
