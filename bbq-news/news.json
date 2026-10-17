@@ -60,6 +60,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "37fb1c6a0cf2",
+    "source": "rocketcitynow.com",
+    "title": "WhistleStop BBQ Festival brings barbecue, music to Huntsville Oct. 16-17",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLTVVZlRBbHF2OGR4Q3hrd1B4T0dCR3RSOTd1UnZ0S1p4ejI3U1R4eDJxa0pxUi1KUnRaTjQ1T3RFTWFPMXBsQlhBaFJiMEI1LUNHM3ZTUWlhMWJSWkZzQlRFcU9pSFNHbE9KV2ZqVWVGM1JPNHctMTBRNmhGQkFteXNVdXJ6d3JIUERBaXZiOC1vUVBnbk1xWk0xaTF1bDBzbG01dzRPTTFEQXg2WkJ2VjlNRjZfSjhVelNKLW5zc0VWZUFUd2d5T3BvUERHamlLWC1EZnUwYk5OVDVOT1E?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-15T11:42:00+00:00",
+    "time": "11:42",
+    "date": "2026-10-15",
+    "title_ko": "휘슬스톱 바비큐 페스티벌, 10월 16~17일 헌츠빌서 바비큐와 음악 선사",
+    "ko_by": "gemini"
+  },
+  {
     "id": "d40d9b56bc72",
     "source": "굿모닝충청",
     "title": "청운대, 홍성바비큐페스티벌 기간 '무료 캠핑장' 변신",
@@ -226,17 +238,5 @@
     "date": "2026-10-13",
     "title_ko": "\"고기 좋아하는 사람이라면 이건 못 참겠는데요?\"... 10월 말 시작하는 대형 바비큐 축제",
     "ko_by": "original"
-  },
-  {
-    "id": "9928a581df57",
-    "source": "VeronaSera",
-    "title": "La \"Gara di Barbecue\" alla Flover Farm di Bussolengo il 17 ottobre 2026",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFcxckhCMEk4VElvZW9nZzdLVUlXNjYtSXcwWVVBV2QyUTJXc1lLTmJpWU1ieUJBTjdzNjgwNzl0YVhFU0F6czZEbTZFd2JFOU5YRjFKSkJUN0hJSmJyS2tCT2VwR2NqRFdIOWUzOXRHWEFsUzlJR2pwenhBcHB6SzBnOUd0Zw?oc=5",
-    "query": "Barbecue Italia",
-    "published_at": "2026-10-13T10:46:44+00:00",
-    "time": "10:46",
-    "date": "2026-10-13",
-    "title_ko": "2026년 10월 17일 부솔렝고 플로버 팜서 '바비큐 대회' 열려",
-    "ko_by": "gemini"
   }
 ]
