@@ -1,5 +1,17 @@
 [
   {
+    "id": "6788414f5c0d",
+    "source": "LG헬로비전",
+    "title": "[자막뉴스] 그릴 높이만 5.4m…홍성 바비큐 축제 스케일",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UZDJZYUR2WjZWTnVlcDA3dm12clIxa2V1b01IY3JvbDVHcUVKdm9QNm12aERXYUxOZ0c4QU0zakNOUVo0OXJ6WmFLQS03LTlnTXQyY2NCcXdDdXlvZjdpN25CVHBwMDFFQ1U3V2h6Q1RGVG_SAXZBVV95cUxOdkNNN0JrdVJJN2NjT3NuQzdINFVzYjk2bTRKT2ZkWTU4SWNBYUx2ZGswWTU2ZWd4NkQtRDNOLXp2bU1ONHhzUDdnczZFbkJRVUFjSEpWQmZmVFA0eEZxQ2dTbmU3MWxkZ1l0dlZpT0xkZ0k0NGVn?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-17T01:00:00+00:00",
+    "time": "01:00",
+    "date": "2026-10-17",
+    "title_ko": "[자막뉴스] 그릴 높이만 5.4m…홍성 바비큐 축제 스케일",
+    "ko_by": "original"
+  },
+  {
     "id": "ab748847de9a",
     "source": "뉴스파고",
     "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
@@ -225,18 +237,6 @@
     "time": "10:46",
     "date": "2026-10-13",
     "title_ko": "2026년 10월 17일 부솔렝고 플로버 팜서 '바비큐 대회' 열려",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "d1902b9ef108",
-    "source": "Lexington Dispatch",
-    "title": "Six stages, one festival: Where to find music, family fun and festival favorites at the Barbecue Festival",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMlFpLW9lUzFDUFd3d0FidS0yaEFLRzdBMTZhOXppc0FKWlUySWJaOHNzai1RR1F2a05oUW5oZFZMNWp6aG12Y21DUTBQRTUzZlhYUDB4OS12dmVEZW9vOV9WOGhUOG00NkRCZ0JqejE2SlVQd3ZpdmtrMTA0cnVicl92dFFsQU5wWGJKeTdQajBmSzRCel9TZndiQXJHSGdDQm45QnZITklHdzRlZUc2Y3NJX3gwWVBJeGZhTEllTVZjZEJiYWVaaG9scWd5clFvUUpTaEFuZWhZR191M1hDd2Q3TS1LamZOSFVCNEpHT2hXYzNKQ1pjNjNsNUR5R2JkYU5BQXd1T3k?oc=5",
-    "query": "Barbecue Kenya",
-    "published_at": "2026-10-13T08:45:00+00:00",
-    "time": "08:45",
-    "date": "2026-10-13",
-    "title_ko": "6개 무대, 하나의 축제: 바비큐 축제서 음악·가족 행사·인기 즐길거리 찾는 법",
     "ko_by": "gemini"
   }
 ]
