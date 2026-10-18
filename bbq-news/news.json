@@ -1,5 +1,17 @@
 [
   {
+    "id": "7d0fe3a1df4c",
+    "source": "중도일보",
+    "title": "홍성바비큐페스티벌 기탁 잇따라",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yYXlQOGNCNWJKNnlRd3c3MktNclp0MlZqd0xsQzdMS1NqUkVDZGp6SndIallvUkxNOEZDUm1nbzk0dUpmSUotX1pqb3hmUWF4NUwtZng2Uk4yTkRlZ0hjekpnOEFzVmg0R1ZvTQ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-18T23:32:43+00:00",
+    "time": "23:32",
+    "date": "2026-10-18",
+    "title_ko": "홍성바비큐페스티벌 기탁 잇따라",
+    "ko_by": "original"
+  },
+  {
     "id": "a2d27d31c3d2",
     "source": "영남연합뉴스",
     "title": "2026 홍성글로벌바비큐페스티벌 성공 개최 위해 민·관 뭉쳤다",
@@ -225,18 +237,6 @@
     "time": "19:21",
     "date": "2026-10-14",
     "title_ko": "부솔렝고 플로베르 팜서 2026년 10월 17일 '바비큐 대회' 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "de5805eddc31",
-    "source": "InfoBAN",
-    "title": "Atención parrilleros: todavía hay tiempo para inscribirse al Campeonato del Asado de Tira",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWRkaXY4UGNKVmlWMXM1cVN3S25DQ0dHcWV2SmhvTmJrdWRYZ2Nnd3BvSWRJMnZtbW9RbkI1dmk2SEhhOUdyeWltSmtlQnZROXd4M0drci1kaTlJWjFEOWVxaGFtYTJyT2VGUDFmV2xzdnA2ay1vTlFGREszcTJlalFSMkpLOUhTb01pSkJ4T3k0T0cwRTMzNkxiaExaZTg2WUNuRGNRYUxPRTFxRm5LLWViYWI4RVh4X3B5Z2NpNHhRRXhZMmc?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-14T14:13:58+00:00",
-    "time": "14:13",
-    "date": "2026-10-14",
-    "title_ko": "파리예로 주목: 립 아사도 챔피언십 참가 신청 시간 아직 남아 있어",
     "ko_by": "gemini"
   }
 ]
