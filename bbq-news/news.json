@@ -12,6 +12,18 @@
     "ko_by": "original"
   },
   {
+    "id": "1f75eb2cbc23",
+    "source": "Outre-mer La 1ère",
+    "title": "À Païta, ruée sur la Fête du bœuf, ses animelles, son concours de barbecue et son grand rodéo",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeG1oUlZFS0FfNXBVSHlJNGRwYXc1eUVMN2x5aHJKajZBUEFUQzN3ZHdneEptbF9HcTFkZG1JREd0Nm81bGpPWjlPU2lOdzVQU2V5OUdlY2NpX1pRUjZXN0x1RXN6a09maFFTTk5EeTJFck5SQ1VJX1RlNmpZSVVCOWlRYk05TEk1WFJnZzNpWFJEQTBnUUl4SGhabFZoYlVhOUxFWDNsRkZxWEd2LVYtVWxOYzlpWVRULVYtS2NGUDM3R0dzeG9YMW1QZUNhLWp5enV1UHRfUXAtY2drR05TcldWSFY?oc=5",
+    "query": "Barbecue France",
+    "published_at": "2026-10-18T05:57:12+00:00",
+    "time": "05:57",
+    "date": "2026-10-18",
+    "title_ko": "파이타 소 축제에 인파 몰려…소 고환 요리와 바비큐 대회, 대형 로데오까지",
+    "ko_by": "gemini"
+  },
+  {
     "id": "6788414f5c0d",
     "source": "LG헬로비전",
     "title": "[자막뉴스] 그릴 높이만 5.4m…홍성 바비큐 축제 스케일",
@@ -225,18 +237,6 @@
     "time": "12:09",
     "date": "2026-10-14",
     "title_ko": "옥토버페스트 주말: 맥주와 아사도, 레오나르도 파비오 그리고 봄꽃",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "249ca9fc66ba",
-    "source": "WWAYTV3",
-    "title": "Backyard BBQ Cookoff to bring more than 20 competitors to Fort Fisher Saturday",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmJjWmhaUTRCQi1pd084bVhmS0NQNlM1cEFDSHczSGp0Y19icERTd3Z0bVd5TGlYNnVYSG05Z1ZLa3dkYjE1dnBSdlZBUzZKQ09oS2RoZUhTRlVmb3lFS3pQa1B0ODVzeUFidzlmbFA2eGNrMFdpaGdDWjJWZl9lU1pyQ1ZiMzVhVTNOWkRYYjZXUzRKQ2FsQmhSZUEwWXFZUUJvYmZ3?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-14T11:02:57+00:00",
-    "time": "11:02",
-    "date": "2026-10-14",
-    "title_ko": "토요일 포트 피셔 백야드 바비큐 쿡오프에 참가자 20여 명 모인다",
     "ko_by": "gemini"
   }
 ]
