@@ -24,6 +24,18 @@
     "ko_by": "original"
   },
   {
+    "id": "721a29e816fc",
+    "source": "Hville Blast",
+    "title": "WhistleStop BBQ Fest returns to MidCity Oct 16-17—get tickets NOW",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTNDNGJ4aGNMaUJjYUQ2c042cTMtZ0xBdmZ2VU1PSFNGRnlFR0VtUldKSTRYR3RPY1RaNVdZajdNSkt4NGJnd0lTTnZScHdyV0lFNzVMSVJFU0NZQ25jbzFmUmVEWjlqa1Z5cngzSmVMRXVlMzhheGFjNTNneEpJUE5Saldxd1Vrc2NKRFgtNXZqV0Yt?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-16T16:51:35+00:00",
+    "time": "16:51",
+    "date": "2026-10-16",
+    "title_ko": "휘슬스톱 바비큐 축제, 10월 16~17일 미드시티 복귀…티켓 예매 개시",
+    "ko_by": "gemini"
+  },
+  {
     "id": "1ebefb3ddf13",
     "source": "BBC",
     "title": "West Country chefs heading to Las Vegas for the BBQ World cup",
@@ -226,17 +238,5 @@
     "date": "2026-10-14",
     "title_ko": "홍성 바비큐축제 요리경연 참가자 모집",
     "ko_by": "original"
-  },
-  {
-    "id": "9a83ee419f89",
-    "source": "WBFF",
-    "title": "MD State BBQ Bash in Bel Air brings good food and good times",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEpUUHdUSWFVT1A1QzVpSk5pM0NueFJrV1NLN0cxQTFYSUY2R2ZVbXRNbFBfRkNtWlJvbF85TUZiWnQtRVAweHJBNGZlQTYwdW5sbVUzdXd2WkVIbTlSQ3l3XzZuZFNWa2NPdHU5Y3Y3NkU0RV8zcHVkSzFWUUpwNjU2b28yOFB6bC1nd3RmckU0X1p3MklOUjc2SU1faGlNclVqTHRoc3Y1SU50Q3IyTXVyQzh5c2N3T0steFZPc1RTcGN4cGtQUjEtTWRkWWs?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-13T21:29:17+00:00",
-    "time": "21:29",
-    "date": "2026-10-13",
-    "title_ko": "벨에어에서 열린 메릴랜드 주 바비큐 배시, 훌륭한 음식과 즐거움 선사",
-    "ko_by": "gemini"
   }
 ]
