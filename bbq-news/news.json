@@ -24,6 +24,18 @@
     "ko_by": "original"
   },
   {
+    "id": "09250f9cee7b",
+    "source": "뉴스1",
+    "title": "한강 캠핑장서 즐기는 바비큐 축제…24~25일 개최",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TdHRiRFFuS1pnSmFPLTFHZVRIQVBHY084SC1naF94ZUJKZ3pkTldkUVBpQ25ZZmliaURDT3dZcTJZaGVPUUQ0VU9rTlhhSnc?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T02:15:00+00:00",
+    "time": "02:15",
+    "date": "2026-10-19",
+    "title_ko": "한강 캠핑장서 즐기는 바비큐 축제…24~25일 개최",
+    "ko_by": "original"
+  },
+  {
     "id": "cc8364ddf9ab",
     "source": "매일일보",
     "title": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
@@ -226,17 +238,5 @@
     "date": "2026-10-15",
     "title_ko": "아르헨티나 불꽃에 사투리가 깃들다: 코르도바 출신 마시 아리아스, 첫 아사도르 월드컵에서 아르헨티나 대표로 출전",
     "ko_by": "gemini"
-  },
-  {
-    "id": "af46f7386356",
-    "source": "뉴데일리 충청세종",
-    "title": "청운대, 홍성글로벌바비큐페스티벌 기간 캠퍼스 캠핑장 개방",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pQVhsTkVPMW5INE9ER2VQNzFjbVhSTGx1b3RWVkRxaTUtRk9rMWhqeUxHRjR6aVNPZzlhb2kzc0lHRXFFWHVfSTFrZ0VFQWo0di11S0NMSDhHYVR6cWF6ZTAwWTNuZ2ZEbks0N1k0XzFTX3VPdWRxN2trUVkyY3PSAX9BVV95cUxNaUFYbE5FTzFuSDRPREdlUDcxY21YUkxsdW90VlZEcWk1LUZPazFoanlMR0Y0emlTT2c5YW9pM3NJR0VxRVh1X0kxa2dFRUFqNHYtdUtDTEg4R2FUenFhemUwMFkzbmdmRG5LNDdZNF8xU191T3VkcTdra1FZMmNz?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-15T04:14:26+00:00",
-    "time": "04:14",
-    "date": "2026-10-15",
-    "title_ko": "청운대, 홍성글로벌바비큐페스티벌 기간 캠퍼스 캠핑장 개방",
-    "ko_by": "original"
   }
 ]
