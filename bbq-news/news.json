@@ -192,18 +192,6 @@
     "ko_by": "original"
   },
   {
-    "id": "ab748847de9a",
-    "source": "뉴스파고",
-    "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MdnFYSGV6YmZPRXhHWDFrLU8tNHpIMk5WcjJidXdVYmJvZWMzLXgzcVZ4NWg3M3B1V2swQlpnNkxaTkNK?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-14T00:10:00+00:00",
-    "time": "00:10",
-    "date": "2026-10-14",
-    "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
-    "ko_by": "original"
-  },
-  {
     "id": "721a29e816fc",
     "source": "Hville Blast",
     "title": "WhistleStop BBQ Fest returns to MidCity Oct 16-17—get tickets NOW",
@@ -214,6 +202,18 @@
     "date": "2026-10-16",
     "title_ko": "휘슬스톱 바비큐 축제, 10월 16~17일 미드시티 복귀…티켓 예매 개시",
     "ko_by": "gemini"
+  },
+  {
+    "id": "ab748847de9a",
+    "source": "뉴스파고",
+    "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MdnFYSGV6YmZPRXhHWDFrLU8tNHpIMk5WcjJidXdVYmJvZWMzLXgzcVZ4NWg3M3B1V2swQlpnNkxaTkNK?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-14T00:10:00+00:00",
+    "time": "00:10",
+    "date": "2026-10-14",
+    "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
+    "ko_by": "original"
   },
   {
     "id": "1ebefb3ddf13",
