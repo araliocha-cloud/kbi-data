@@ -24,6 +24,18 @@
     "ko_by": "original"
   },
   {
+    "id": "71f901d419fd",
+    "source": "서울파이낸스",
+    "title": "홍성군, 글로벌바비큐페스티벌로 세계 미식 도시 도약",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53VkZLWUNNaTNFem8tQTBwZWNfckpWSzBfZFZRUEc4TlQ5TVFaT0swUWlobXRfd2FXQ2VRVHNHa3ptNHE4ZnB6ZF9GMGFkQURaY01WSVNGRGNJb3NxbmRsam5BeFRETGZuc1E?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T06:06:36+00:00",
+    "time": "06:06",
+    "date": "2026-10-19",
+    "title_ko": "홍성군, 글로벌바비큐페스티벌로 세계 미식 도시 도약",
+    "ko_by": "original"
+  },
+  {
     "id": "70c663908dc8",
     "source": "메가충청뉴스",
     "title": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
@@ -225,18 +237,6 @@
     "time": "17:04",
     "date": "2026-10-15",
     "title_ko": "슈하스코 페스티벌, 아키라스 개최로 10주년 맞이",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "a6bc416d0e94",
-    "source": "Municipalidad de Tandil",
-    "title": "ABRIÓ LA CONVOCATORIA PARA EL CONCURSO DE ASADORES EN LA KERMESE RURAL",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53LTdVZHdtVC1sLWZvalBUSlNxOE9VTEFEUjFCSEhVeDNOSVRqZ2ZRUTJHV2dpOXVTbWw2cXhWenN4dVVkT3pReHB3NXlLSks5LVE?oc=5",
-    "query": "Asado Chile",
-    "published_at": "2026-10-15T14:41:03+00:00",
-    "time": "14:41",
-    "date": "2026-10-15",
-    "title_ko": "케르메스 루랄 아사도르 대회 참가자 모집 시작",
     "ko_by": "gemini"
   }
 ]
