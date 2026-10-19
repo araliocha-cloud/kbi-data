@@ -1,17 +1,5 @@
 [
   {
-    "id": "5fe05463ec0f",
-    "source": "경인신문",
-    "title": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWEd6bFgyMVozN2RSa1lUSUp5Ul9KaERYdjNadWxsMm9hMU5qdHNfOHladXFXWTdzLTg4WjRJWTVxRGJJZVRndFJMcUhTX3RrbnNHV29XTHdLUXd1X3BlcS1INE5WTjQ?oc=5",
-    "query": "스포츠바비큐",
-    "published_at": "2026-10-19T03:22:25+00:00",
-    "time": "03:22",
-    "date": "2026-10-19",
-    "title_ko": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
-    "ko_by": "original"
-  },
-  {
     "id": "30436b4c7eb9",
     "source": "Appen Media",
     "title": "Kosher barbecue festival brings Jewish Atlanta together in Dunwoody",
@@ -22,18 +10,6 @@
     "date": "2026-10-19",
     "title_ko": "코셔 바비큐 축제, 던우디서 애틀랜타 유대인 한자리에 모아",
     "ko_by": "gemini"
-  },
-  {
-    "id": "cc8364ddf9ab",
-    "source": "매일일보",
-    "title": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tdXJaZFBSQWtzemI5UVZOZEszS1ZjTmdIeGtOd0dlMWJRVF9GQ3hHbzFUTWVFbE55cGh4UnFxTkNlN0c3VlprUlZ3dVlRWXB1RGdGV0tkLW1YdTNkTEpZNVhmTTE?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-19T01:59:56+00:00",
-    "time": "01:59",
-    "date": "2026-10-19",
-    "title_ko": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
-    "ko_by": "original"
   },
   {
     "id": "07f035078514",
@@ -72,6 +48,18 @@
     "ko_by": "original"
   },
   {
+    "id": "5fe05463ec0f",
+    "source": "경인신문",
+    "title": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWEd6bFgyMVozN2RSa1lUSUp5Ul9KaERYdjNadWxsMm9hMU5qdHNfOHladXFXWTdzLTg4WjRJWTVxRGJJZVRndFJMcUhTX3RrbnNHV29XTHdLUXd1X3BlcS1INE5WTjQ?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-10-19T03:22:25+00:00",
+    "time": "03:22",
+    "date": "2026-10-19",
+    "title_ko": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
+    "ko_by": "original"
+  },
+  {
     "id": "8904c3218c7a",
     "source": "연합뉴스",
     "title": "24일 한강 난지캠핑장서 '2026 서울바비큐페스티벌'",
@@ -93,6 +81,18 @@
     "time": "02:15",
     "date": "2026-10-19",
     "title_ko": "한강 캠핑장서 즐기는 바비큐 축제…24~25일 개최",
+    "ko_by": "original"
+  },
+  {
+    "id": "cc8364ddf9ab",
+    "source": "매일일보",
+    "title": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tdXJaZFBSQWtzemI5UVZOZEszS1ZjTmdIeGtOd0dlMWJRVF9GQ3hHbzFUTWVFbE55cGh4UnFxTkNlN0c3VlprUlZ3dVlRWXB1RGdGV0tkLW1YdTNkTEpZNVhmTTE?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T01:59:56+00:00",
+    "time": "01:59",
+    "date": "2026-10-19",
+    "title_ko": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
     "ko_by": "original"
   },
   {
@@ -216,18 +216,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "ab748847de9a",
-    "source": "뉴스파고",
-    "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MdnFYSGV6YmZPRXhHWDFrLU8tNHpIMk5WcjJidXdVYmJvZWMzLXgzcVZ4NWg3M3B1V2swQlpnNkxaTkNK?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-14T00:10:00+00:00",
-    "time": "00:10",
-    "date": "2026-10-14",
-    "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
-    "ko_by": "original"
-  },
-  {
     "id": "8ba21a33f280",
     "source": "O POVO",
     "title": "Festival de churrasco celebra dez anos com edição em Aquiraz",
@@ -238,5 +226,17 @@
     "date": "2026-10-15",
     "title_ko": "슈하스코 축제 10주년, 아키라스서 개최",
     "ko_by": "gemini"
+  },
+  {
+    "id": "ab748847de9a",
+    "source": "뉴스파고",
+    "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1MdnFYSGV6YmZPRXhHWDFrLU8tNHpIMk5WcjJidXdVYmJvZWMzLXgzcVZ4NWg3M3B1V2swQlpnNkxaTkNK?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-14T00:10:00+00:00",
+    "time": "00:10",
+    "date": "2026-10-14",
+    "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
+    "ko_by": "original"
   }
 ]
