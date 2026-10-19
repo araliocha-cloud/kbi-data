@@ -1,5 +1,17 @@
 [
   {
+    "id": "5fe05463ec0f",
+    "source": "경인신문",
+    "title": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWEd6bFgyMVozN2RSa1lUSUp5Ul9KaERYdjNadWxsMm9hMU5qdHNfOHladXFXWTdzLTg4WjRJWTVxRGJJZVRndFJMcUhTX3RrbnNHV29XTHdLUXd1X3BlcS1INE5WTjQ?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-10-19T03:22:25+00:00",
+    "time": "03:22",
+    "date": "2026-10-19",
+    "title_ko": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
+    "ko_by": "original"
+  },
+  {
     "id": "8904c3218c7a",
     "source": "연합뉴스",
     "title": "24일 한강 난지캠핑장서 '2026 서울바비큐페스티벌'",
@@ -226,17 +238,5 @@
     "date": "2026-10-15",
     "title_ko": "청운대, 홍성바비큐페스티벌 기간 '무료 캠핑장' 변신",
     "ko_by": "original"
-  },
-  {
-    "id": "56b7d5fd8737",
-    "source": "InfoNegocios",
-    "title": "El fuego argentino tiene tonada: el cordobés Maxi Arias representará a la Argentina en el primer Mundial de Asadores",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdzRhOVA1cHI4NE0wRVV3bFhlTDVVaEowZ0lGVjdTUDVXd0FFUEhtYW1Pa1NERWVlOTRMMjlhSW9JTXM2MW9EZVVUQWt3T0hFd2VnNUlpYnFwX1RXbm1JMzBNV2Z1NzMxWFpGYzV5WmI1VllWVmpvSjBqOUxKTzVkOGV0V3oxZTRkRFhsV3dQcEQtQW5adlZ5aElfa3I2UFVudEdveDJXX3RYY1JWM295Mlg1VVJXdE5xUXJiM1YyeFBCci11NngxQ0ZJZ0p1RWdlWV9uZHZoaHltTnhkMmJzTGtJamxGeVgxVnfSAeoBQVVfeXFMTXc0YTlQNXByODRNMEVVd2xYZUw1VWhKMGdJRlY3U1A1V3dBRVBIbWFtT2tTREVlZTk0TDI5YUlvSU1zNjFvRGVVVEFrd09IRXdlZzVJaWJxcF9UV25tSTMwTVdmdTczMVhaRmM1eVpiNVZZVlZqb0owajlMSk81ZDhldFd6MWU0ZERYbFd3UHBELUFuWnZWeWhJX2tyNlBVbnRHb3gyV190WGNSVjNveTJYNVVSV3ROcVFyYjNWMnhQQnItdTZ4MUNGSWdKdUVnZVlfbmR2aGh5bU54ZDJic0xrSWpsRnlYMVZ3?oc=5",
-    "query": "Asado Uruguay",
-    "published_at": "2026-10-15T04:42:04+00:00",
-    "time": "04:42",
-    "date": "2026-10-15",
-    "title_ko": "아르헨티나 불꽃에 사투리가 깃들다: 코르도바 출신 마시 아리아스, 첫 아사도르 월드컵에서 아르헨티나 대표로 출전",
-    "ko_by": "gemini"
   }
 ]
