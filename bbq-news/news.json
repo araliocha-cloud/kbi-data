@@ -1,5 +1,17 @@
 [
   {
+    "id": "5fe05463ec0f",
+    "source": "경인신문",
+    "title": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWEd6bFgyMVozN2RSa1lUSUp5Ul9KaERYdjNadWxsMm9hMU5qdHNfOHladXFXWTdzLTg4WjRJWTVxRGJJZVRndFJMcUhTX3RrbnNHV29XTHdLUXd1X3BlcS1INE5WTjQ?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-10-19T03:22:25+00:00",
+    "time": "03:22",
+    "date": "2026-10-19",
+    "title_ko": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
+    "ko_by": "original"
+  },
+  {
     "id": "30436b4c7eb9",
     "source": "Appen Media",
     "title": "Kosher barbecue festival brings Jewish Atlanta together in Dunwoody",
@@ -57,30 +69,6 @@
     "time": "05:16",
     "date": "2026-10-19",
     "title_ko": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
-    "ko_by": "original"
-  },
-  {
-    "id": "8e7f1b074afc",
-    "source": "천지일보",
-    "title": "한강 캠핑장에서 즐기는 K-바비큐… ‘2026 서울바비큐페스티벌’ 24일 개막",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cFphdmdSOFhqSGtudm9iYjZ4aVc3Y2w5SUx4ajhSMWNPemFRQTc2aEdSNjRLU3NRc0xrLWRZQmlab2JOeVVYUXAwYUwyRFItQW1kMFJ1d2JmaUhYdTlLTXVGYkV3OVhUYVE?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-19T05:13:59+00:00",
-    "time": "05:13",
-    "date": "2026-10-19",
-    "title_ko": "한강 캠핑장에서 즐기는 K-바비큐… ‘2026 서울바비큐페스티벌’ 24일 개막",
-    "ko_by": "original"
-  },
-  {
-    "id": "5fe05463ec0f",
-    "source": "경인신문",
-    "title": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWEd6bFgyMVozN2RSa1lUSUp5Ul9KaERYdjNadWxsMm9hMU5qdHNfOHladXFXWTdzLTg4WjRJWTVxRGJJZVRndFJMcUhTX3RrbnNHV29XTHdLUXd1X3BlcS1INE5WTjQ?oc=5",
-    "query": "스포츠바비큐",
-    "published_at": "2026-10-19T03:22:25+00:00",
-    "time": "03:22",
-    "date": "2026-10-19",
-    "title_ko": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
     "ko_by": "original"
   },
   {
@@ -238,5 +226,17 @@
     "date": "2026-10-14",
     "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
     "ko_by": "original"
+  },
+  {
+    "id": "8ba21a33f280",
+    "source": "O POVO",
+    "title": "Festival de churrasco celebra dez anos com edição em Aquiraz",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkgtR3hQTUljaFFjVi04ZUl1cjNldE1EM2xSdl90aG1neGJ6OG16RUZwYjlvbmVqb2ZrX0hESU5FRzIwTWgybnppR0FaT2RaeC1ZSlZhdXpxUk1iUy1PWGhOdHV6RVoyZHpXaFNRUVFQSG9ScFpuQnZ1NUZRSm9Lajc1R2FtYkxtb3NmSF90RGhyN3BEbUN0ZVdJMXpsd191UmN3eFpLTHN1R0dRR3MyXw?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-10-15T17:04:25+00:00",
+    "time": "17:04",
+    "date": "2026-10-15",
+    "title_ko": "슈하스코 축제 10주년, 아키라스서 개최",
+    "ko_by": "gemini"
   }
 ]
