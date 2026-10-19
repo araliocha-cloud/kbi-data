@@ -1,5 +1,17 @@
 [
   {
+    "id": "30436b4c7eb9",
+    "source": "Appen Media",
+    "title": "Kosher barbecue festival brings Jewish Atlanta together in Dunwoody",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkRnUnJqVFM1a1hfTV9SaHIwR3ZtQnU4NG02OXRUVUxNdWQ4WU5sRHMzckFVdlJjRlpoMl9GOVRobnNPRExIRzBpamtOcFZLcUU2U1Y0Wmw5TmxLcnh2NmhsMi1pNFgwU0RDeG5ILUY0Tm5IMnpFVXRuR2JQUVRUb1ZBS3dzUmRlM0ZUSG1tekRiSGYtU3lCTXJMZ3lzbmczek1QXzZOcnJNOUM3V1RLT1pYWDBNRnN5R0ZXZjc2N2VOUjhfQUs2OXRaV2c1QjdZcTNQTVdxbTdoWEpj?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-19T14:40:00+00:00",
+    "time": "14:40",
+    "date": "2026-10-19",
+    "title_ko": "코셔 바비큐 축제, 던우디서 애틀랜타 유대인 한자리에 모아",
+    "ko_by": "gemini"
+  },
+  {
     "id": "cc8364ddf9ab",
     "source": "매일일보",
     "title": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
@@ -168,6 +180,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "556ad2f51ffd",
+    "source": "WAFF",
+    "title": "WhistleStop BBQ Festival draws barbecue lovers to MidCity in Huntsville",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1lfVUQtaFlpUHpjdVZkOGpmSWNoT3o4RUNacTNTVVpnbS1zNFlZQ0IyUUxIR1QwS3BQSXVwdUZtZ1ktdldYZFBacV9lcUExZHNoVXN4MWRHM2J6c1BQNFYyRm1lWS1zMGxFdjRmTEtGd09leEhqYUsxanNsVVVrbDczV3FQcGZjWWw2SXMzRktUTlR0MEN4a19YZVVzbWVoN1p4RUVLLWxFbnIyal91Vk1yZ9IBswFBVV95cUxQY1lfVUQtaFlpUHpjdVZkOGpmSWNoT3o4RUNacTNTVVpnbS1zNFlZQ0IyUUxIR1QwS3BQSXVwdUZtZ1ktdldYZFBacV9lcUExZHNoVXN4MWRHM2J6c1BQNFYyRm1lWS1zMGxFdjRmTEtGd09leEhqYUsxanNsVVVrbDczV3FQcGZjWWw2SXMzRktUTlR0MEN4a19YZVVzbWVoN1p4RUVLLWxFbnIyal91Vk1yZw?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-10-18T01:29:00+00:00",
+    "time": "01:29",
+    "date": "2026-10-18",
+    "title_ko": "휘슬스톱 바비큐 축제, 헌츠빌 미드시티로 바비큐 애호가들 끌어모아",
+    "ko_by": "gemini"
+  },
+  {
     "id": "9928a581df57",
     "source": "VeronaSera",
     "title": "La \"Gara di Barbecue\" alla Flover Farm di Bussolengo il 17 ottobre 2026",
@@ -214,29 +238,5 @@
     "date": "2026-10-14",
     "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
     "ko_by": "original"
-  },
-  {
-    "id": "1ebefb3ddf13",
-    "source": "BBC",
-    "title": "West Country chefs heading to Las Vegas for the BBQ World cup",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WaGNyR1pmMlczY1IyWE9EZXNuWG9iOUdwLWhYbm9SclBUd29UZ002LW5ZckFVVmJwWk5PVk00RnJVTzJiWGlQY2pjbnNFR19OcG9GN1FyaF8?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-10-16T05:16:25+00:00",
-    "time": "05:16",
-    "date": "2026-10-16",
-    "title_ko": "웨스트컨트리 셰프들, 바비큐 월드컵 위해 라스베이거스로 향한다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "8ba21a33f280",
-    "source": "O POVO",
-    "title": "Festival de churrasco celebra dez anos com edição em Aquiraz",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkgtR3hQTUljaFFjVi04ZUl1cjNldE1EM2xSdl90aG1neGJ6OG16RUZwYjlvbmVqb2ZrX0hESU5FRzIwTWgybnppR0FaT2RaeC1ZSlZhdXpxUk1iUy1PWGhOdHV6RVoyZHpXaFNRUVFQSG9ScFpuQnZ1NUZRSm9Lajc1R2FtYkxtb3NmSF90RGhyN3BEbUN0ZVdJMXpsd191UmN3eFpLTHN1R0dRR3MyXw?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-10-15T17:04:25+00:00",
-    "time": "17:04",
-    "date": "2026-10-15",
-    "title_ko": "슈하스코 페스티벌, 아키라스 개최로 10주년 맞이",
-    "ko_by": "gemini"
   }
 ]
