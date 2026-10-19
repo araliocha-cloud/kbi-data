@@ -1,5 +1,29 @@
 [
   {
+    "id": "8affdbffa1e6",
+    "source": "홍성신문",
+    "title": "바비큐축제 ‘성공 기원’ 후원 잇따라",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41anRfbFFKejVyU01MRUJJdkFhSlFTaEpkY3BpQXg2ZDB0Q2pGN0NBLXZYcTBXODdUeVRKZ3JsRHExeGNHNXFKNUtRUUlCdnVORUdqcXBQcXJVODRoZ3dLLWhvWUpxNmpfNkow?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T00:26:42+00:00",
+    "time": "00:26",
+    "date": "2026-10-19",
+    "title_ko": "바비큐축제 ‘성공 기원’ 후원 잇따라",
+    "ko_by": "original"
+  },
+  {
+    "id": "9bb4281249c4",
+    "source": "신아일보",
+    "title": "홍성글로벌바비큐페스티벌, 지역 기업·단체 기탁 이어져",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vOEMwVEM1dFU5T1d0Z2RiNXJjNlhEcmpMNHhDSVRyYVk2YUk4am1aQ3JGSlBjY3NWQ2JPd1JvYVVFdHQ5R0JDYm5jcGtQVWxmY1hVSUpUckthc3Y2RFlZdEp0OVpEZ0lsRnlHbTFqVDE?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T00:23:43+00:00",
+    "time": "00:23",
+    "date": "2026-10-19",
+    "title_ko": "홍성글로벌바비큐페스티벌, 지역 기업·단체 기탁 이어져",
+    "ko_by": "original"
+  },
+  {
     "id": "a2d27d31c3d2",
     "source": "영남연합뉴스",
     "title": "2026 홍성글로벌바비큐페스티벌 성공 개최 위해 민·관 뭉쳤다",
@@ -214,29 +238,5 @@
     "date": "2026-10-14",
     "title_ko": "홍성 한우·한돈의 무한 변신… 전국 요리 고수들, 바비큐 축제서 맞붙는다",
     "ko_by": "original"
-  },
-  {
-    "id": "48742f0e3f76",
-    "source": "Hoodline",
-    "title": "MD State BBQ Bash 2026: Bel Air Barbecue Festival Recap",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXZvS3ZKbU9aWXRiU2RxTVBXMkstM2k3bzZGX0VDNmE2dGYwRXVQMm52eFJaSmE2NnhTSDBQbTlvZ2xtQnZQRDBDZDVaSnB5eFNRMHRhNVBFT3lnZFZiYzdLdlZsVVJLaUV0bFlxTWlzZXNoVWVhTGJzUERuT1EtOG1tYUFraldydHlIbkxncU9LZWR0VjhGTXdRWlNoX0c0?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-14T19:39:13+00:00",
-    "time": "19:39",
-    "date": "2026-10-14",
-    "title_ko": "2026 메릴랜드주 바비큐 배시: 벨에어 바비큐 페스티벌 결산",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "9928a581df57",
-    "source": "VeronaSera",
-    "title": "La \"Gara di Barbecue\" alla Flover Farm di Bussolengo il 17 ottobre 2026",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFcxckhCMEk4VElvZW9nZzdLVUlXNjYtSXcwWVVBV2QyUTJXc1lLTmJpWU1ieUJBTjdzNjgwNzl0YVhFU0F6czZEbTZFd2JFOU5YRjFKSkJUN0hJSmJyS2tCT2VwR2NqRFdIOWUzOXRHWEFsUzlJR2pwenhBcHB6SzBnOUd0Zw?oc=5",
-    "query": "Barbecue Italia",
-    "published_at": "2026-10-14T19:21:12+00:00",
-    "time": "19:21",
-    "date": "2026-10-14",
-    "title_ko": "부솔렝고 플로베르 팜서 2026년 10월 17일 '바비큐 대회' 개최",
-    "ko_by": "gemini"
   }
 ]
