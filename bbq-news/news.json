@@ -36,6 +36,18 @@
     "ko_by": "original"
   },
   {
+    "id": "a2d27d31c3d2",
+    "source": "영남연합뉴스",
+    "title": "2026 홍성글로벌바비큐페스티벌 성공 개최 위해 민·관 뭉쳤다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEbVZyMXpQc0VMYXhyaEozSjYtRXl2SXFfNnlGTks0akpHU3FxOE5DbkZEN2RfeWZYckRxNFhRbWc4ZTNGMGRUQ2xHQ2JCWXY2MFFNc1I4bTUwdHpSSXE1OHNOenZQUGNvZHFMdFVtMA?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-18T21:06:29+00:00",
+    "time": "21:06",
+    "date": "2026-10-18",
+    "title_ko": "2026 홍성글로벌바비큐페스티벌 성공 개최 위해 민·관 뭉쳤다",
+    "ko_by": "original"
+  },
+  {
     "id": "5fe05463ec0f",
     "source": "경인신문",
     "title": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
@@ -108,18 +120,6 @@
     "ko_by": "original"
   },
   {
-    "id": "a2d27d31c3d2",
-    "source": "영남연합뉴스",
-    "title": "2026 홍성글로벌바비큐페스티벌 성공 개최 위해 민·관 뭉쳤다",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEbVZyMXpQc0VMYXhyaEozSjYtRXl2SXFfNnlGTks0akpHU3FxOE5DbkZEN2RfeWZYckRxNFhRbWc4ZTNGMGRUQ2xHQ2JCWXY2MFFNc1I4bTUwdHpSSXE1OHNOenZQUGNvZHFMdFVtMA?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-18T21:06:29+00:00",
-    "time": "21:06",
-    "date": "2026-10-18",
-    "title_ko": "2026 홍성글로벌바비큐페스티벌 성공 개최 위해 민·관 뭉쳤다",
-    "ko_by": "original"
-  },
-  {
     "id": "baadd67125e7",
     "source": "여행레저신문",
     "title": "금호설악리조트 파크골프 대회 24일 개최…저녁엔 바비큐·버스킹 공연",
@@ -168,18 +168,6 @@
     "ko_by": "original"
   },
   {
-    "id": "721a29e816fc",
-    "source": "Hville Blast",
-    "title": "WhistleStop BBQ Fest returns to MidCity Oct 16-17—get tickets NOW",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTNDNGJ4aGNMaUJjYUQ2c042cTMtZ0xBdmZ2VU1PSFNGRnlFR0VtUldKSTRYR3RPY1RaNVdZajdNSkt4NGJnd0lTTnZScHdyV0lFNzVMSVJFU0NZQ25jbzFmUmVEWjlqa1Z5cngzSmVMRXVlMzhheGFjNTNneEpJUE5Saldxd1Vrc2NKRFgtNXZqV0Yt?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-16T16:51:35+00:00",
-    "time": "16:51",
-    "date": "2026-10-16",
-    "title_ko": "휘슬스톱 바비큐 축제, 10월 16~17일 미드시티 복귀…티켓 예매 개시",
-    "ko_by": "gemini"
-  },
-  {
     "id": "ab748847de9a",
     "source": "뉴스파고",
     "title": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
@@ -190,6 +178,18 @@
     "date": "2026-10-14",
     "title_ko": "홍성글로벌바비큐페스티벌 전국 요리경연대회 참가자 모집…총상금 660만 원",
     "ko_by": "original"
+  },
+  {
+    "id": "721a29e816fc",
+    "source": "Hville Blast",
+    "title": "WhistleStop BBQ Fest returns to MidCity Oct 16-17—get tickets NOW",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTNDNGJ4aGNMaUJjYUQ2c042cTMtZ0xBdmZ2VU1PSFNGRnlFR0VtUldKSTRYR3RPY1RaNVdZajdNSkt4NGJnd0lTTnZScHdyV0lFNzVMSVJFU0NZQ25jbzFmUmVEWjlqa1Z5cngzSmVMRXVlMzhheGFjNTNneEpJUE5Saldxd1Vrc2NKRFgtNXZqV0Yt?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-16T16:51:35+00:00",
+    "time": "16:51",
+    "date": "2026-10-16",
+    "title_ko": "휘슬스톱 바비큐 축제, 10월 16~17일 미드시티 복귀…티켓 예매 개시",
+    "ko_by": "gemini"
   },
   {
     "id": "1ebefb3ddf13",
