@@ -72,6 +72,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "9928a581df57",
+    "source": "VeronaSera",
+    "title": "La \"Gara di Barbecue\" alla Flover Farm di Bussolengo il 17 ottobre 2026",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFcxckhCMEk4VElvZW9nZzdLVUlXNjYtSXcwWVVBV2QyUTJXc1lLTmJpWU1ieUJBTjdzNjgwNzl0YVhFU0F6czZEbTZFd2JFOU5YRjFKSkJUN0hJSmJyS2tCT2VwR2NqRFdIOWUzOXRHWEFsUzlJR2pwenhBcHB6SzBnOUd0Zw?oc=5",
+    "query": "Barbecue Italia",
+    "published_at": "2026-10-17T18:53:30+00:00",
+    "time": "18:53",
+    "date": "2026-10-17",
+    "title_ko": "부솔렌고 플로베르 팜서 2026년 10월 17일 '바비큐 대회' 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "6788414f5c0d",
     "source": "LG헬로비전",
     "title": "[자막뉴스] 그릴 높이만 5.4m…홍성 바비큐 축제 스케일",
@@ -225,18 +237,6 @@
     "time": "00:51",
     "date": "2026-10-15",
     "title_ko": "바비큐축제 즐기고 캠퍼스서 하룻밤..청운대, 3년째 캠핑장 개방",
-    "ko_by": "original"
-  },
-  {
-    "id": "ed76ca85bf3e",
-    "source": "투어코리아",
-    "title": "홍성 한우·한돈의 무한 변신… 전국 요리 고수들, 바비큐 축제서 맞붙는다",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56aWlIQ1lBc0lpOWdoaHNvU1NTUTIwam9Ca0llWm40Nnp5QmNlN2FMWm83MWQ1VV81TVRpZDAtbEl5QVEwSTRyRHh5aklmRzJIYXhzZnVpNE9JZ1BnUl9Mc25UWWpFU19oVk10UUNR?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-14T20:02:48+00:00",
-    "time": "20:02",
-    "date": "2026-10-14",
-    "title_ko": "홍성 한우·한돈의 무한 변신… 전국 요리 고수들, 바비큐 축제서 맞붙는다",
     "ko_by": "original"
   }
 ]
