@@ -84,18 +84,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "70c663908dc8",
-    "source": "메가충청뉴스",
-    "title": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ua3ZPSWUxX0RXZlNHeEdCNDh5UTd1Vmc4Vi12WUdvRU9DdXAzN3dyLTdPNHprc3FMWUp4Rnk5dkJWWjY0Zk5jSDdpLUgyRk9hS29nZFYwZ3NQdlZkN3QyVXVZak01OElKY3ZZ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-19T05:16:09+00:00",
-    "time": "05:16",
-    "date": "2026-10-19",
-    "title_ko": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
-    "ko_by": "original"
-  },
-  {
     "id": "f3c6d0fc7cc9",
     "source": "문화일보",
     "title": "5m ‘스카이타워’ 바비큐서 굽는 한우 케밥… 올해 홍성 글로벌바비큐 축제 판 키운다",
@@ -153,6 +141,18 @@
     "time": "06:06",
     "date": "2026-10-19",
     "title_ko": "홍성군, 글로벌바비큐페스티벌로 세계 미식 도시 도약",
+    "ko_by": "original"
+  },
+  {
+    "id": "70c663908dc8",
+    "source": "메가충청뉴스",
+    "title": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ua3ZPSWUxX0RXZlNHeEdCNDh5UTd1Vmc4Vi12WUdvRU9DdXAzN3dyLTdPNHprc3FMWUp4Rnk5dkJWWjY0Zk5jSDdpLUgyRk9hS29nZFYwZ3NQdlZkN3QyVXVZak01OElKY3ZZ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T05:16:09+00:00",
+    "time": "05:16",
+    "date": "2026-10-19",
+    "title_ko": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
     "ko_by": "original"
   },
   {
@@ -237,6 +237,18 @@
     "time": "23:32",
     "date": "2026-10-18",
     "title_ko": "홍성바비큐페스티벌 기탁 잇따라",
+    "ko_by": "original"
+  },
+  {
+    "id": "b530c89c588f",
+    "source": "뉴데일리 충청세종",
+    "title": "홍성글로벌바비큐페스티벌 성공 개최 '민·관 한뜻'",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ENmJBekV6UnRiX3N5RUJreV9NaXprQ2NKRmc4NFUtYmt5SDYyNEFLV09KY0lobnFUcXRfd09ONDB6d0ktZ3FBaGpfV2tKNmNtZXIzWXRHMmVRM0RzZE1IMmFtZjJkSUZuS0V1bW5yS05iRU9mdGpVa2VB0gF_QVVfeXFMTWNUU1ZIdlJTaVdWS2dlYUJXNmg5X3d6a1R6TU9YOGl5YUtPX2thUVI4WXFOYklHR291OVNTRGJmdGhwWUNrZzk2cEdHekxDaGtqWFRyQ3BHdFBPQUlDWUp6S3dmUHJNSkM5bkI4bEhLUFZWcDhWWFB0VE5Xa2pyRQ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-18T22:38:06+00:00",
+    "time": "22:38",
+    "date": "2026-10-18",
+    "title_ko": "홍성글로벌바비큐페스티벌 성공 개최 '민·관 한뜻'",
     "ko_by": "original"
   }
 ]
