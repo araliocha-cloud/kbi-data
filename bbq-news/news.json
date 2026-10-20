@@ -60,6 +60,18 @@
     "ko_by": "original"
   },
   {
+    "id": "fd829fb8fc8a",
+    "source": "굿모닝충청",
+    "title": "더 넓어진 '홍성바비큐페스티벌'…'5m 바비큐 타워' 뜬다",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPejNjODZQUkh3eEtCRU1CZHhzUWRnMWxhaFVxckF1WHhrLU9LSU5uc2FzVGMwSEhjYVRsZVF1SzlLVl9uYllRaGY4bkdaWFZJYVRwUWpadVNVUlJ1aE9tb2ltYTItRmotdzZ4N3lXQmUwZw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-20T00:49:39+00:00",
+    "time": "00:49",
+    "date": "2026-10-20",
+    "title_ko": "더 넓어진 '홍성바비큐페스티벌'…'5m 바비큐 타워' 뜬다",
+    "ko_by": "original"
+  },
+  {
     "id": "e61e775362b2",
     "source": "decaturish.com",
     "title": "Smoke, sauce and sounds: BBQ Festival returns to Oakhurst",
@@ -70,18 +82,6 @@
     "date": "2026-10-20",
     "title_ko": "연기, 소스, 음악… 바비큐 축제 오크허스트로 돌아온다",
     "ko_by": "gemini"
-  },
-  {
-    "id": "70c663908dc8",
-    "source": "메가충청뉴스",
-    "title": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ua3ZPSWUxX0RXZlNHeEdCNDh5UTd1Vmc4Vi12WUdvRU9DdXAzN3dyLTdPNHprc3FMWUp4Rnk5dkJWWjY0Zk5jSDdpLUgyRk9hS29nZFYwZ3NQdlZkN3QyVXVZak01OElKY3ZZ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-19T05:16:09+00:00",
-    "time": "05:16",
-    "date": "2026-10-19",
-    "title_ko": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
-    "ko_by": "original"
   },
   {
     "id": "f3c6d0fc7cc9",
@@ -141,6 +141,18 @@
     "time": "06:06",
     "date": "2026-10-19",
     "title_ko": "홍성군, 글로벌바비큐페스티벌로 세계 미식 도시 도약",
+    "ko_by": "original"
+  },
+  {
+    "id": "70c663908dc8",
+    "source": "메가충청뉴스",
+    "title": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ua3ZPSWUxX0RXZlNHeEdCNDh5UTd1Vmc4Vi12WUdvRU9DdXAzN3dyLTdPNHprc3FMWUp4Rnk5dkJWWjY0Zk5jSDdpLUgyRk9hS29nZFYwZ3NQdlZkN3QyVXVZak01OElKY3ZZ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T05:16:09+00:00",
+    "time": "05:16",
+    "date": "2026-10-19",
+    "title_ko": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
     "ko_by": "original"
   },
   {
