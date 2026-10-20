@@ -1,5 +1,17 @@
 [
   {
+    "id": "b936a14188d5",
+    "source": "국토일보",
+    "title": "'홍성 글로벌바베큐축제', 29일부터 4일 간 열린다.",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PalREdHRWbXdSbDFsX1p1V1psd0loU1ZoeHZ1WjNfN3NodlpfMTZ5c25GRzdhWFl0dTdkMnlBX3I2QzV3ZnowVzlfcHNUSjBZVUVwYnBsYWhXeFNyV29WYk1Cbw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-20T01:59:00+00:00",
+    "time": "01:59",
+    "date": "2026-10-20",
+    "title_ko": "'홍성 글로벌바베큐축제', 29일부터 4일 간 열린다.",
+    "ko_by": "original"
+  },
+  {
     "id": "578a07f0604d",
     "source": "충청뉴스",
     "title": "'홍성글로벌바비큐페스티벌' 더 커진다…바비큐 늘리고 전통시장 연계",
@@ -225,18 +237,6 @@
     "time": "05:57",
     "date": "2026-10-18",
     "title_ko": "파이타 소 축제에 인파 몰려…소 고환 요리와 바비큐 대회, 대형 로데오까지",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "556ad2f51ffd",
-    "source": "WAFF",
-    "title": "WhistleStop BBQ Festival draws barbecue lovers to MidCity in Huntsville",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1lfVUQtaFlpUHpjdVZkOGpmSWNoT3o4RUNacTNTVVpnbS1zNFlZQ0IyUUxIR1QwS3BQSXVwdUZtZ1ktdldYZFBacV9lcUExZHNoVXN4MWRHM2J6c1BQNFYyRm1lWS1zMGxFdjRmTEtGd09leEhqYUsxanNsVVVrbDczV3FQcGZjWWw2SXMzRktUTlR0MEN4a19YZVVzbWVoN1p4RUVLLWxFbnIyal91Vk1yZ9IBswFBVV95cUxQY1lfVUQtaFlpUHpjdVZkOGpmSWNoT3o4RUNacTNTVVpnbS1zNFlZQ0IyUUxIR1QwS3BQSXVwdUZtZ1ktdldYZFBacV9lcUExZHNoVXN4MWRHM2J6c1BQNFYyRm1lWS1zMGxFdjRmTEtGd09leEhqYUsxanNsVVVrbDczV3FQcGZjWWw2SXMzRktUTlR0MEN4a19YZVVzbWVoN1p4RUVLLWxFbnIyal91Vk1yZw?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-10-18T01:29:00+00:00",
-    "time": "01:29",
-    "date": "2026-10-18",
-    "title_ko": "휘슬스톱 바비큐 축제, 헌츠빌 미드시티로 바비큐 애호가들 끌어모아",
     "ko_by": "gemini"
   }
 ]
