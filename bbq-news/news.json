@@ -1,5 +1,17 @@
 [
   {
+    "id": "578a07f0604d",
+    "source": "충청뉴스",
+    "title": "'홍성글로벌바비큐페스티벌' 더 커진다…바비큐 늘리고 전통시장 연계",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ONjdGbXpRVkRDbnBfSnYzS3hBdUYyTWN2UVYyVVNpbXFtRzBQbklhQTQzZkZVRkFmc2M5a29tOXMtYzFzcHFuc1JOSnhaZ005X1cwNDREQ3duaXR5WXdIY1NodW10WmthVzhpdw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-20T01:07:47+00:00",
+    "time": "01:07",
+    "date": "2026-10-20",
+    "title_ko": "'홍성글로벌바비큐페스티벌' 더 커진다…바비큐 늘리고 전통시장 연계",
+    "ko_by": "original"
+  },
+  {
     "id": "ea7da27cf963",
     "source": "경향신문",
     "title": "‘5m 바비큐 타워’까지 등장···홍성군, 올해는 ‘먹고 머무는 축제’로 승부",
@@ -60,18 +72,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "cc8364ddf9ab",
-    "source": "매일일보",
-    "title": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tdXJaZFBSQWtzemI5UVZOZEszS1ZjTmdIeGtOd0dlMWJRVF9GQ3hHbzFUTWVFbE55cGh4UnFxTkNlN0c3VlprUlZ3dVlRWXB1RGdGV0tkLW1YdTNkTEpZNVhmTTE?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-19T01:59:56+00:00",
-    "time": "01:59",
-    "date": "2026-10-19",
-    "title_ko": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
-    "ko_by": "original"
-  },
-  {
     "id": "07f035078514",
     "source": "에이티엔뉴스",
     "title": "홍성 바비큐축제에 기업·단체 기탁 이어져",
@@ -129,6 +129,18 @@
     "time": "02:15",
     "date": "2026-10-19",
     "title_ko": "한강 캠핑장서 즐기는 바비큐 축제…24~25일 개최",
+    "ko_by": "original"
+  },
+  {
+    "id": "cc8364ddf9ab",
+    "source": "매일일보",
+    "title": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tdXJaZFBSQWtzemI5UVZOZEszS1ZjTmdIeGtOd0dlMWJRVF9GQ3hHbzFUTWVFbE55cGh4UnFxTkNlN0c3VlprUlZ3dVlRWXB1RGdGV0tkLW1YdTNkTEpZNVhmTTE?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T01:59:56+00:00",
+    "time": "01:59",
+    "date": "2026-10-19",
+    "title_ko": "2026 홍성글로벌바비큐페스티벌에 지역 기업·기관 25곳 기탁 동참",
     "ko_by": "original"
   },
   {
@@ -225,18 +237,6 @@
     "time": "01:29",
     "date": "2026-10-18",
     "title_ko": "휘슬스톱 바비큐 축제, 헌츠빌 미드시티로 바비큐 애호가들 끌어모아",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "9928a581df57",
-    "source": "VeronaSera",
-    "title": "La \"Gara di Barbecue\" alla Flover Farm di Bussolengo il 17 ottobre 2026",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFcxckhCMEk4VElvZW9nZzdLVUlXNjYtSXcwWVVBV2QyUTJXc1lLTmJpWU1ieUJBTjdzNjgwNzl0YVhFU0F6czZEbTZFd2JFOU5YRjFKSkJUN0hJSmJyS2tCT2VwR2NqRFdIOWUzOXRHWEFsUzlJR2pwenhBcHB6SzBnOUd0Zw?oc=5",
-    "query": "Barbecue Italia",
-    "published_at": "2026-10-17T18:53:30+00:00",
-    "time": "18:53",
-    "date": "2026-10-17",
-    "title_ko": "부솔렌고 플로베르 팜서 2026년 10월 17일 '바비큐 대회' 개최",
     "ko_by": "gemini"
   }
 ]
