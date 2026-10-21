@@ -192,30 +192,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "f3c6d0fc7cc9",
-    "source": "문화일보",
-    "title": "5m ‘스카이타워’ 바비큐서 굽는 한우 케밥… 올해 홍성 글로벌바비큐 축제 판 키운다",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ub1NfOVdGMXpMQzVGLW95MUVmdkNRWjlnbnlUdmRvS0txSnRNLXZIQV9lazBFMW1RWEpmTG5pOTJBUHlGVXNGbFdDcnlTbjBY?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-19T23:49:32+00:00",
-    "time": "23:49",
-    "date": "2026-10-19",
-    "title_ko": "5m ‘스카이타워’ 바비큐서 굽는 한우 케밥… 올해 홍성 글로벌바비큐 축제 판 키운다",
-    "ko_by": "original"
-  },
-  {
-    "id": "30436b4c7eb9",
-    "source": "Appen Media",
-    "title": "Kosher barbecue festival brings Jewish Atlanta together in Dunwoody",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkRnUnJqVFM1a1hfTV9SaHIwR3ZtQnU4NG02OXRUVUxNdWQ4WU5sRHMzckFVdlJjRlpoMl9GOVRobnNPRExIRzBpamtOcFZLcUU2U1Y0Wmw5TmxLcnh2NmhsMi1pNFgwU0RDeG5ILUY0Tm5IMnpFVXRuR2JQUVRUb1ZBS3dzUmRlM0ZUSG1tekRiSGYtU3lCTXJMZ3lzbmczek1QXzZOcnJNOUM3V1RLT1pYWDBNRnN5R0ZXZjc2N2VOUjhfQUs2OXRaV2c1QjdZcTNQTVdxbTdoWEpj?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-19T14:40:00+00:00",
-    "time": "14:40",
-    "date": "2026-10-19",
-    "title_ko": "코셔 바비큐 축제, 던우디서 애틀랜타 유대인 한자리에 모아",
-    "ko_by": "gemini"
-  },
-  {
     "id": "70c663908dc8",
     "source": "메가충청뉴스",
     "title": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
@@ -225,6 +201,18 @@
     "time": "05:16",
     "date": "2026-10-19",
     "title_ko": "홍주문화관광재단, 여의도서 ‘홍성글로벌바비큐페스티벌’ 홍보",
+    "ko_by": "original"
+  },
+  {
+    "id": "f3c6d0fc7cc9",
+    "source": "문화일보",
+    "title": "5m ‘스카이타워’ 바비큐서 굽는 한우 케밥… 올해 홍성 글로벌바비큐 축제 판 키운다",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ub1NfOVdGMXpMQzVGLW95MUVmdkNRWjlnbnlUdmRvS0txSnRNLXZIQV9lazBFMW1RWEpmTG5pOTJBUHlGVXNGbFdDcnlTbjBY?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-19T23:49:32+00:00",
+    "time": "23:49",
+    "date": "2026-10-19",
+    "title_ko": "5m ‘스카이타워’ 바비큐서 굽는 한우 케밥… 올해 홍성 글로벌바비큐 축제 판 키운다",
     "ko_by": "original"
   },
   {
@@ -238,5 +226,17 @@
     "date": "2026-10-19",
     "title_ko": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
     "ko_by": "original"
+  },
+  {
+    "id": "30436b4c7eb9",
+    "source": "Appen Media",
+    "title": "Kosher barbecue festival brings Jewish Atlanta together in Dunwoody",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkRnUnJqVFM1a1hfTV9SaHIwR3ZtQnU4NG02OXRUVUxNdWQ4WU5sRHMzckFVdlJjRlpoMl9GOVRobnNPRExIRzBpamtOcFZLcUU2U1Y0Wmw5TmxLcnh2NmhsMi1pNFgwU0RDeG5ILUY0Tm5IMnpFVXRuR2JQUVRUb1ZBS3dzUmRlM0ZUSG1tekRiSGYtU3lCTXJMZ3lzbmczek1QXzZOcnJNOUM3V1RLT1pYWDBNRnN5R0ZXZjc2N2VOUjhfQUs2OXRaV2c1QjdZcTNQTVdxbTdoWEpj?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-19T14:40:00+00:00",
+    "time": "14:40",
+    "date": "2026-10-19",
+    "title_ko": "코셔 바비큐 축제, 던우디서 애틀랜타 유대인 한자리에 모아",
+    "ko_by": "gemini"
   }
 ]
