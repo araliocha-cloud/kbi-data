@@ -1,5 +1,17 @@
 [
   {
+    "id": "5469d9bceb8c",
+    "source": "Deadline",
+    "title": "Wheelhouse & Peyton Manning's Omaha Invest In BBQ World Cup & Expo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW1Bd3BQOWdzNG9URjVBT19jVWJ6UTg5UHFPT3ZRakRWWndadjg0U293VS14RGdpcGlSUnFTN09LUVdQMngyd2lQT0c1QXVDY2xXNFpRRmZRck5LOG8wRW01cGdGbWVYc2lvYzdieVo3Rm9IaFlybUdiUW1UQzkwbzdCajdBdmpWS3E0U08zS3dDZWNJMzFvX21kNU0?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-21T15:45:00+00:00",
+    "time": "15:45",
+    "date": "2026-10-21",
+    "title_ko": "휠하우스와 페이튼 매닝의 오마하, 바비큐 월드컵 앤 엑스포에 투자",
+    "ko_by": "gemini"
+  },
+  {
     "id": "b153fd116ecc",
     "source": "녹색경제신문",
     "title": "홍성 바비큐축제 ‘놀이공원 그릴’ 총출동… 한우 케밥 굽는 스카이타워 첫선",
@@ -226,17 +238,5 @@
     "date": "2026-10-19",
     "title_ko": "서울시, 가을 캠핑장에서의 K-바비큐 축제…‘2026 서울바비큐페스티벌’ 24일 개최",
     "ko_by": "original"
-  },
-  {
-    "id": "30436b4c7eb9",
-    "source": "Appen Media",
-    "title": "Kosher barbecue festival brings Jewish Atlanta together in Dunwoody",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkRnUnJqVFM1a1hfTV9SaHIwR3ZtQnU4NG02OXRUVUxNdWQ4WU5sRHMzckFVdlJjRlpoMl9GOVRobnNPRExIRzBpamtOcFZLcUU2U1Y0Wmw5TmxLcnh2NmhsMi1pNFgwU0RDeG5ILUY0Tm5IMnpFVXRuR2JQUVRUb1ZBS3dzUmRlM0ZUSG1tekRiSGYtU3lCTXJMZ3lzbmczek1QXzZOcnJNOUM3V1RLT1pYWDBNRnN5R0ZXZjc2N2VOUjhfQUs2OXRaV2c1QjdZcTNQTVdxbTdoWEpj?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-19T14:40:00+00:00",
-    "time": "14:40",
-    "date": "2026-10-19",
-    "title_ko": "코셔 바비큐 축제, 던우디서 애틀랜타 유대인 한자리에 모아",
-    "ko_by": "gemini"
   }
 ]
