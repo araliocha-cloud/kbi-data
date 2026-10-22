@@ -1,5 +1,17 @@
 [
   {
+    "id": "e84a99313a0d",
+    "source": "Statesman Journal",
+    "title": "Oregon barbecue team takes on world's best in cooking contest",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXE5UEw5dlhxRUJlNEg5TUx6ZGo1NVBWRUV6Q2hnUHdjYlRUWEVMal9Da2c4d1VuWFJXSzQ0RnE5bDFDQlVEQlhlektKLW8zRHBET1l6dFZlYmZqM0ZYYURhN2EzYWlxVjNxeDN6ajlSUzQxS19wZFg3SDVGaGM3OHFNTUIyVzBuYjNQM2FMR0JSaFYwZ2wxZXFIVXhIcjdTckVXRHk0UVpKcHUxRnpXaHM3MkJfd3JERTdleldZaHliQQ?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-22T11:46:00+00:00",
+    "time": "11:46",
+    "date": "2026-10-22",
+    "title_ko": "오리건 바비큐 팀, 요리 대회서 세계 최고들과 맞대결",
+    "ko_by": "gemini"
+  },
+  {
     "id": "b91a6e80080a",
     "source": "이코노미사이언스",
     "title": "오뚜기, 한강라면 앞세워 소비자 접점 확대...서울바비큐페스티벌 출격",
@@ -225,18 +237,6 @@
     "time": "07:51",
     "date": "2026-10-20",
     "title_ko": "K-바비큐 맛집 요리가 한자리에! 난지캠핑장 '바비큐페스티벌'",
-    "ko_by": "original"
-  },
-  {
-    "id": "316ffce49fd2",
-    "source": "매일일보",
-    "title": "홍성군, 29일 글로벌바비큐페스티벌 개최…지역상권 연계 강화",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MTWNuWVNpWG5LUk1JaXRKbDZFQkc5ZThOc1IyVWNnVVBDQW5iZm5DMnFadEVoa1Vmd1BrbmdjU1NtaU1ERzdJZF8yVUVBM0o5U3JHUkNNTnlpUTh0a1kxNmlCbWo?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-20T02:11:37+00:00",
-    "time": "02:11",
-    "date": "2026-10-20",
-    "title_ko": "홍성군, 29일 글로벌바비큐페스티벌 개최…지역상권 연계 강화",
     "ko_by": "original"
   }
 ]
