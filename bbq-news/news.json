@@ -1,5 +1,17 @@
 [
   {
+    "id": "43452b972b18",
+    "source": "InfoBAN",
+    "title": "Fiesta del Asado de Tira: ya están los equipos que participarán de la competencia de asadores",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGFKa3gtVm5lRS1DLTRKeVltVG5CSWVBS2U4TmRiTnZOclRWVjBva3g4WlJDQWZYems1MTJPOUJVUXQ2aTNYWHBrS0tvaXdsY2ZOTG5SQzlxUWpMTWIzN21pejZkX0hDQ1pIMHNObklZam10SURYZ0xHTkl5dDZyUHZOMHZtMk91UFlueXZpRWVnc0Y3bkltTzA1d1lwYzJ2REdTdld2NG5HeUt2OG5tM2oxdHFzZXgtckVibWJkaUlYMjhoWVVZS2U4UQ?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-10-22T13:51:53+00:00",
+    "time": "13:51",
+    "date": "2026-10-22",
+    "title_ko": "아사도 데 티라 축제: 아사도르 대회 참가 팀 확정",
+    "ko_by": "gemini"
+  },
+  {
     "id": "e84a99313a0d",
     "source": "Statesman Journal",
     "title": "Oregon barbecue team takes on world's best in cooking contest",
@@ -226,17 +238,5 @@
     "date": "2026-10-20",
     "title_ko": "세계 최대 바비큐 대회 2곳 심사한 소감과 배운 점",
     "ko_by": "gemini"
-  },
-  {
-    "id": "d85e7287f66e",
-    "source": "서울특별시",
-    "title": "K-바비큐 맛집 요리가 한자리에! 난지캠핑장 '바비큐페스티벌'",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ITW9rVEUtYUhENXk0N0ZSM0plUDZFTnBlbU5lQkNwVEVzOUVlVnA3cGtyWEh1OVpvN1F2U0R5allVWGhkMi1vTDhzc2RoVE0xdmVxanRGMWw?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-20T07:51:00+00:00",
-    "time": "07:51",
-    "date": "2026-10-20",
-    "title_ko": "K-바비큐 맛집 요리가 한자리에! 난지캠핑장 '바비큐페스티벌'",
-    "ko_by": "original"
   }
 ]
