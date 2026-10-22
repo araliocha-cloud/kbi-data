@@ -1,5 +1,17 @@
 [
   {
+    "id": "5f1498998f0d",
+    "source": "WREG.com",
+    "title": "MIM barbecue contest slated for Liberty Park in 2027",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDkycWlINjFzN05hX3d4eDhoeXd4dnJwUV9BZXZWY3VoZjZaR2JyLXE3M0VFSEZkSlotMHdmMmczWUNISXktd1N3SEE2TFNUbTJZejlwWkhVRU0wNVdJRVdUa0FKZEFQVXRIV2dvQUo0YUdpenJfTGFDMzRmZFlzejM3RVdUaGVB0gGOAUFVX3lxTE5mREhZMWdXS2s0bXo0ZS14dnNOdmU0U2ZpLXhWMEhZWFBaNTNSVXhja1dlU1hLakFlcC1ZUDZrZFZ1ZW1iM3REYkVxaE9aNHR2OW5XTEpiY1RGbFhtNVBkQ3FEcXV4UC04WlZMa2kyelp1eXdXTWNyV3I3VVlzcDFQcjJnQ3ZKV25Wc19iTEE?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-10-22T15:42:24+00:00",
+    "time": "15:42",
+    "date": "2026-10-22",
+    "title_ko": "2027년 리버티 파크에서 멤피스 인 메이 바비큐 대회 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "453a8aff173c",
     "source": "Action News 5",
     "title": "Memphis in May announces dates for 50th anniversary World Championship Barbecue Cooking Contest",
@@ -225,18 +237,6 @@
     "time": "17:00",
     "date": "2026-10-20",
     "title_ko": "인디애나폴리스, 고향 출신 월드 셰프·월드 바비큐 챔피언 축하",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "12d19e84ee6f",
-    "source": "Orange Actualités",
-    "title": "Comment réussir sa côte de bœuf au barbecue ? Les conseils d'un champion",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGt5SWlvRHhlT29LSEpXUmdTN3RNT1lvb1hoN2V1TUliMURjODVPQ3U3dko4WV9ka1ljY1AwOTFlNDRjN1F1eTRpMHAxbGJJWXhHNWJ2WXp5ZWxzTjlrRnJsNUk0ZzNIRGtiYjR5elVHMWc4azdpZ0FsWEE3bGdMc2ZOSzNtcXktVEFORldHQnF2Rl8tckt0QktZSGZMek9wUWdrbDQtdVVDbXRkMV9XRTlWTzVJaUFKVHZDMU1jdUVYLU1HbXc?oc=5",
-    "query": "Barbecue France",
-    "published_at": "2026-10-20T15:40:59+00:00",
-    "time": "15:40",
-    "date": "2026-10-20",
-    "title_ko": "바비큐 소고기 갈비 성공하는 법… 챔피언의 조언",
     "ko_by": "gemini"
   }
 ]
