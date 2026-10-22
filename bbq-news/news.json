@@ -12,6 +12,18 @@
     "ko_by": "original"
   },
   {
+    "id": "c3bdefa3b418",
+    "source": "hannapub.com",
+    "title": "Back the Blue: Car show, BBQ championship set",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLVhaRWdYeE5YYVN0MGpwNndTTXkybmFwRkZjSVI5Sm14VWtvS1dCaHBhYzdMMmwtSEh5N216aXhpZTFhZWdmTDdTWTBNb1FhOXk0QUw1YWloV3NFN0Npb2RTU09WTVNoc2hxRjhyX08zTFIwRWd0T1Y3Q3RKLVp3VXIxQ0ZtRF9MbE1vY2loZFFEQVVBOFV4ZFlmQi03Q1puLVllMnRRRkdsT0RMUUJSNTR5M0psY1NkbkN5OHJhUXh5aW1idHQ3ZWVUNGRqZ1ZLTWxORnV6dlExeWh4Wmoyckc4UkJna2llUFdRVEJZZzhOWVRTMVE?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-21T19:00:00+00:00",
+    "time": "19:00",
+    "date": "2026-10-21",
+    "title_ko": "경찰 지원 위한 자동차 전시 및 바비큐 챔피언십 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "5469d9bceb8c",
     "source": "Deadline",
     "title": "Wheelhouse & Peyton Manning's Omaha Invest In BBQ World Cup & Expo",
@@ -226,17 +238,5 @@
     "date": "2026-10-20",
     "title_ko": "연기, 소스, 음악… 바비큐 축제 오크허스트로 돌아온다",
     "ko_by": "gemini"
-  },
-  {
-    "id": "35c562d2b0c9",
-    "source": "헬로tv뉴스",
-    "title": "서울 여의도서 '홍성글로벌바비큐페스티벌' 홍보",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10UnNMNGNCUHc2TGR1T2V0YUtERXllVzlRM0JpRlFhTVFrNHNrWVVCM20xbUFBdkNTbHhWenVJNUhuRGVHNGJyWVBPVXFiZEl5TU1Ra3lIa2xmNFg1RTdNUTZoNzV0eEh3RDNDNVg1dzZUQ2puT1HSAXZBVV95cUxNdFJzTDRjQlB3NkxkdU9ldGFLREV5ZVc5UTNCaUZRYU1RazRza1lVQjNtMW1BQXZDU2x4Vnp1STVIbkRlRzRicllQT1VxYmRJeU1NUWt5SGtsZjRYNUU3TVE2aDc1dHhId0QzQzVYNXc2VENqbk9R?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-20T00:19:01+00:00",
-    "time": "00:19",
-    "date": "2026-10-20",
-    "title_ko": "서울 여의도서 '홍성글로벌바비큐페스티벌' 홍보",
-    "ko_by": "original"
   }
 ]
