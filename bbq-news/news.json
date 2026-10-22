@@ -1,5 +1,17 @@
 [
   {
+    "id": "05beb3f32989",
+    "source": "The Business Journals",
+    "title": "Memphis in May barbecue contest returns to Liberty Park",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWY0Tm0xeDlTY05SNnVsRFVOZVlPLU1XaHZ4V0ZMcEE2bVI0ZTk1bzZmaUVveDVuRm5kczRyUXhGMTdNelJnOU1GZnZ2R041bXdPcXZMOWtCYjlUdDRhS3VDVTBJYjFnZFpWY21Ic2RIVmxJQ3ZBVDlOZHJmWU9LZEN2RF82aVRPVUxxcVhkZlI3RmtVNER6T3F3Njlxalp5ajRzakcxa0k1UQ?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-10-22T18:52:00+00:00",
+    "time": "18:52",
+    "date": "2026-10-22",
+    "title_ko": "멤피스 인 메이 바비큐 대회, 리버티 파크로 돌아온다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "5f1498998f0d",
     "source": "WREG.com",
     "title": "MIM barbecue contest slated for Liberty Park in 2027",
@@ -226,17 +238,5 @@
     "date": "2026-10-20",
     "title_ko": "‘5m 바비큐 타워’ 등장… 홍성 고기 축제 더 크고 맛있어진다",
     "ko_by": "original"
-  },
-  {
-    "id": "e4dcdb4711f2",
-    "source": "Morning Ag Clips",
-    "title": "Indianapolis Celebrates Hometown World Chef Champion, World Barbecue Champion",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSU5IQjUzSFp1LXhxX1kzLUVXMmRGX0IzbGFxMy04Zy1xdjhYb1hOLTM2SFVKOXZDbVMtMDBqT3ViemNFX0o5MWU5dW1jOThJb2s3OENCVUtpeG9OZ2hvYXJhVHE1LTFiWVVtRVlyMWpkYkVoaS1lYzc5cTdOWDREaGVTekhxSlZoRVd1TU9kRmoxZFhERlBnVk8yM19Jb3dvTG9aNUJQSFp2T2I4?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-20T17:00:18+00:00",
-    "time": "17:00",
-    "date": "2026-10-20",
-    "title_ko": "인디애나폴리스, 고향 출신 월드 셰프·월드 바비큐 챔피언 축하",
-    "ko_by": "gemini"
   }
 ]
