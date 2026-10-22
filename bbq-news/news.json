@@ -1,5 +1,17 @@
 [
   {
+    "id": "453a8aff173c",
+    "source": "Action News 5",
+    "title": "Memphis in May announces dates for 50th anniversary World Championship Barbecue Cooking Contest",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUnZzZ3pVT1EyRmF4NmNBWjJFUFJIQzc3V2F6R2JLdFVHMG5xQXd0Y0ctX05Ga3ZXd3EydTIwN3FLcFBEMzRPS1BpRmcwX3c5ZUVqRXFhZWktSGh2bFZHbnhlYkgySnJaNG1Ra1hkdEJOOFRzaTZGUi05MWJKaUJ2S0ZrUGYzR085eXVWV3Jabl9qeHowY0czLWRyZlo1RmxzMFY5dkxqMTBEc1RXa1hZOFV5ZU1rWXcwaWNmcVlIYmQ4bzdPX3hn?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-10-22T14:36:00+00:00",
+    "time": "14:36",
+    "date": "2026-10-22",
+    "title_ko": "멤피스 인 메이, 50주년 세계 챔피언십 바비큐 쿡오프 대회 일정 발표",
+    "ko_by": "gemini"
+  },
+  {
     "id": "43452b972b18",
     "source": "InfoBAN",
     "title": "Fiesta del Asado de Tira: ya están los equipos que participarán de la competencia de asadores",
@@ -225,18 +237,6 @@
     "time": "14:39",
     "date": "2026-10-20",
     "title_ko": "식욕을 돋우는 더 부처스 스모크 앤드 플레임스 바비큐 쿡오프 10월 24일 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "60c7bcedf480",
-    "source": "Orange Actualités",
-    "title": "Comment réussir sa côte de bœuf au barbecue ? Les conseils d'un champion",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOFdkVDFXN1M1TEU4d2gwYXA5eUdBVG1QQUpLZHdyenNBOVJLM0g2ZnpqTGo2Y3M5WnROVHg5YkxQeXRfWm5WdWlEa2hTZ0ZvaS1WSzdnWktkODJ6T1dVYVBLczUzQlNPY1Q0enZKb0F1Yjdjdk93SzIyXzdzcXRwcUR2ZjRmTWVrQVBtV2hNRExmZnlLRUlMQVlUYzlFY0ZncmtsTHFKRk1CeVRoU0NYSFhZamE0Y3ZiTFFUT0xFb3pkcWs4MTQyNWcyZm8?oc=5",
-    "query": "Barbecue France",
-    "published_at": "2026-10-20T14:15:45+00:00",
-    "time": "14:15",
-    "date": "2026-10-20",
-    "title_ko": "바비큐 소고기 갈비 구이 성공 비법... 챔피언의 조언",
     "ko_by": "gemini"
   }
 ]
