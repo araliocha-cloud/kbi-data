@@ -24,6 +24,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "fb4b80b09d25",
+    "source": "The Hamilton County Reporter",
+    "title": "‘The Smoking Pastor’ claims barbecue title at World Food Championships",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckJILXFqcXB2azVOUnpGNko2NnpmVlZ2dUp5VE1xR0REV1R1UnVzZEx5N0l2VXhTamFSZGFDUXViOEdnUG1WWTlSM29BRTJRS0dyVFVGaW5sQjFfMDZiUUwtR0FLaUhVaUdyNk5oVWZ6Z25WeE5KRF9GSExqeXE1NWVZM3pNOGF3Nks2aVRaWlZPQzViZnVacG4tdDladw?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-22T10:08:06+00:00",
+    "time": "10:08",
+    "date": "2026-10-22",
+    "title_ko": "'스모킹 패스터', 월드 푸드 챔피언십 바비큐 부문 우승",
+    "ko_by": "gemini"
+  },
+  {
     "id": "b91a6e80080a",
     "source": "이코노미사이언스",
     "title": "오뚜기, 한강라면 앞세워 소비자 접점 확대...서울바비큐페스티벌 출격",
@@ -225,18 +237,6 @@
     "time": "14:15",
     "date": "2026-10-20",
     "title_ko": "바비큐 소고기 갈비 구이 성공 비법... 챔피언의 조언",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "5be5f4708bfc",
-    "source": "Bergen Record",
-    "title": "I judged the 2 biggest BBQ competitions. What I learned | Exclusive",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVF9HMWFYWXhwNkQxTVpIUmFZNzA2NEtxeEp3VmZiYkJDWjZVWFg5Vl9EQmMyOEIzWW1HbUdiUlpzSWN6MGdCU1pXMjAtNENhVjNkRVlNX0c3dEJLM2hhZ2ZXWUFVVk1QOHd2ODN4bVBKdjlQZHlzMW5JQTh0ei0zQnQ2eFBpTk93VHZIN1BtM1k4aHpnQjVZUGhrLVZTWldZWjFjMC1ZQ29UV0lXSlFhOVFibmd0WEdIS1d3T1BtVm1OTmNTakp5cTA4MXZYRW5fUlFLeWxzZ29EQnpWU25OVXdTWS0tdlRjTVE?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-20T09:54:00+00:00",
-    "time": "09:54",
-    "date": "2026-10-20",
-    "title_ko": "세계 최대 바비큐 대회 2곳 심사한 소감과 배운 점",
     "ko_by": "gemini"
   }
 ]
