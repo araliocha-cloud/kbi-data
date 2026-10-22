@@ -120,6 +120,18 @@
     "ko_by": "original"
   },
   {
+    "id": "220eb073b0c6",
+    "source": "FOX5 Vegas",
+    "title": "FIRST EVER World Cup of Barbecue with $1MILLION Prize - April 8-11, 2027",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3ZUTlgzZ2ZrMWZZWS1zQjNCZ0dUQ3JpNHpIWGs4cHgzRHFILVVaNEhCdVUtUG4tQk9sQnFaM1dsWjgtV1daZnFoNF9maHpXeUdlWGFDbG5QXzVVaWxINlF1VGZrckJoNlp2ZVhwWE51NUt1VFFGZkxrSHhUY2dyaVkzanFJWE5BS2VVaC1lUmZuaGhfR1JpdnJoRU1adnJIZVluWTNGMkxIX1VOT0E?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-22T01:32:49+00:00",
+    "time": "01:32",
+    "date": "2026-10-22",
+    "title_ko": "사상 첫 바비큐 월드컵 상금 $ 100만 - 2027년 4월 8일 ~ 11일",
+    "ko_by": "fallback"
+  },
+  {
     "id": "0aac5d97383f",
     "source": "매일일보",
     "title": "오뚜기, 서울바비큐페스티벌 참가…'해피냠냠 라면가게' 운영",
@@ -225,18 +237,6 @@
     "time": "22:21",
     "date": "2026-10-20",
     "title_ko": "해병대 체험에 서해 노을 바비큐까지…김포 지역상생 '대명항 축제' 열린다",
-    "ko_by": "original"
-  },
-  {
-    "id": "64df6a4d27e5",
-    "source": "동아일보",
-    "title": "‘5m 바비큐 타워’ 등장… 홍성 고기 축제 더 크고 맛있어진다",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRWHZGM28wVlZtS3Y3SEVLS3NCZ3FUM2lmckVvYng3ZGNkOThoUWdyd3JpZnB6SzNwdFgwWk9mZVZYQjdHMC1ya0IxU183bnpLYlNkbkk1bzk5VHdvV3ZBbWh6ZTNRWFA4MjJr0gFmQVVfeXFMTnhLeVJ1NGQ1NUdrNjNJOXNnODFfdlhsRmRBVTNqcXFOLXV0Zl84aWdVQVB5bHM5eDd0Wi1ENXFXcWVNMzJUSFU4Z3pWbmd5VkwxR1RINVhGanRDUm9uclN2QTRhTEpB?oc=5",
-    "query": "프로바비큐",
-    "published_at": "2026-10-20T19:30:00+00:00",
-    "time": "19:30",
-    "date": "2026-10-20",
-    "title_ko": "‘5m 바비큐 타워’ 등장… 홍성 고기 축제 더 크고 맛있어진다",
     "ko_by": "original"
   }
 ]
