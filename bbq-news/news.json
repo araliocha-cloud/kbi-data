@@ -1,5 +1,17 @@
 [
   {
+    "id": "314365f8cdca",
+    "source": "www.localm.kr",
+    "title": "김포 대명항서 해병대 문화축제…서해 노을 바비큐 체험도",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sRlQ1WENrU3ZYbzhOZ3JEaUdjTVp3VXlMZ0kzbDFlNFJYNjczVUNpYWxucTBlZkhwSGlrMGx2QklSUlhaNjhyQzNuMHdiNkZTeDVYUmxhb3NrQzN5UE9obFhpbkNYeVY3NWZ3aw?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-22T02:33:00+00:00",
+    "time": "02:33",
+    "date": "2026-10-22",
+    "title_ko": "김포 대명항서 해병대 문화축제…서해 노을 바비큐 체험도",
+    "ko_by": "original"
+  },
+  {
     "id": "bbcf16149995",
     "source": "한국시사경제",
     "title": "홍성군의사회·약사회, 홍성군과 글로벌바비큐페스티벌 의료지원 업무협약(MOU) 체결",
@@ -226,17 +238,5 @@
     "date": "2026-10-20",
     "title_ko": "더 넓어진 '홍성바비큐페스티벌'…'5m 바비큐 타워' 뜬다",
     "ko_by": "original"
-  },
-  {
-    "id": "e61e775362b2",
-    "source": "decaturish.com",
-    "title": "Smoke, sauce and sounds: BBQ Festival returns to Oakhurst",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWFUtZGdfRm5TNUwyRUpJbUszZXgwVEdMcGxVVmRXWjIyMERvejdsVlRGVGR5aUJUTWp0MkhZTEs1Wm5sSlNhU1ZESDJOeHp3ZEpENFhMWlJKcnJjVFZNQkFTZUlUaTNNbkVrMEdld1JWNEVPYkxZRHRsUTFoc3lmTTZUR1BXMHhPQmdHNEFwVnVfcV9ZaEJ2eXQ2M3ZCTEpCRFlLR2drSUxTemRyMENNVVVjY0RhMjhFbmRPNmM4OTItXzhsbU5zdjY0dDBxOHJ0SGJrUWloNW5lSjc0bkE?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-20T00:26:00+00:00",
-    "time": "00:26",
-    "date": "2026-10-20",
-    "title_ko": "연기, 소스, 음악… 바비큐 축제 오크허스트로 돌아온다",
-    "ko_by": "gemini"
   }
 ]
