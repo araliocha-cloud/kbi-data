@@ -72,6 +72,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "d5c8b510abd6",
+    "source": "Williamson Herald",
+    "title": "Judge Bean's BBQ to close Nov. 14, plans farewell celebration",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNamJuSjlBTHpsSEVBOGFpXy1sbjBOaDZkNE5waFVoalhnOVllNjRTSHFySXg0WXAtM3oyc01VTEZQZU5PNWs3SEtabmFqblRiR2cxR2NuTy1HNkFCWnNvS2RMOFNvV2VqZ0ZQRE5sdHlkdmFXV0s5a3pOSXJZTDZ3Mm5lcTBfVHVYeERGWVJ1Q1JkdlRQLWV6c1lKeno1Tll1ZVpDOFpoWWNoZDlHNjhfOGFBQjB4bzdUQ3lqbHliQWVjbTVCZHMyU1ludDlGSjRscG1vS3dPVXV6cEl1X2wwMEJFN2MzY19i?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-10-22T16:27:00+00:00",
+    "time": "16:27",
+    "date": "2026-10-22",
+    "title_ko": "판사 빈의 바비큐가 11월 14일 문을 닫고 작별 축하 행사를 계획합니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "5f1498998f0d",
     "source": "WREG.com",
     "title": "MIM barbecue contest slated for Liberty Park in 2027",
@@ -226,17 +238,5 @@
     "date": "2026-10-21",
     "title_ko": "홍성군의사회·약사회, 홍성군과 글로벌바비큐페스티벌 의료지원 업무협약(MOU) 체결",
     "ko_by": "original"
-  },
-  {
-    "id": "c3bdefa3b418",
-    "source": "hannapub.com",
-    "title": "Back the Blue: Car show, BBQ championship set",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLVhaRWdYeE5YYVN0MGpwNndTTXkybmFwRkZjSVI5Sm14VWtvS1dCaHBhYzdMMmwtSEh5N216aXhpZTFhZWdmTDdTWTBNb1FhOXk0QUw1YWloV3NFN0Npb2RTU09WTVNoc2hxRjhyX08zTFIwRWd0T1Y3Q3RKLVp3VXIxQ0ZtRF9MbE1vY2loZFFEQVVBOFV4ZFlmQi03Q1puLVllMnRRRkdsT0RMUUJSNTR5M0psY1NkbkN5OHJhUXh5aW1idHQ3ZWVUNGRqZ1ZLTWxORnV6dlExeWh4Wmoyckc4UkJna2llUFdRVEJZZzhOWVRTMVE?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-10-21T19:00:00+00:00",
-    "time": "19:00",
-    "date": "2026-10-21",
-    "title_ko": "경찰 지원 위한 자동차 전시 및 바비큐 챔피언십 개최",
-    "ko_by": "gemini"
   }
 ]
