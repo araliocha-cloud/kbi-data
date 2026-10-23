@@ -1,5 +1,17 @@
 [
   {
+    "id": "36932ce9eec9",
+    "source": "Memphis Flyer",
+    "title": "Food News Bites: MIM BBQ Contest Returns",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKZnRET2JqR2xVU2FGbUpqZk9tMjFkd0VsTWt2ampoYVA2V0t1dnhfa2UtbllscWdKUllZa3Q4dGhDUVdHdmV5bUI5cGEyUUMzS29vSEs4ZXBSa0pIU2tIRFNCRXVDWXFDT3h4Y0NLeGxUWDFQWUp6Yw?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-10-23T18:41:42+00:00",
+    "time": "18:41",
+    "date": "2026-10-23",
+    "title_ko": "푸드 뉴스 바이트: MIM 바비큐 대회 복귀",
+    "ko_by": "fallback"
+  },
+  {
     "id": "5469d9bceb8c",
     "source": "Deadline",
     "title": "Wheelhouse & Peyton Manning's Omaha Invest In BBQ World Cup & Expo",
@@ -226,17 +238,5 @@
     "date": "2026-10-21",
     "title_ko": "경찰 지원 위한 자동차 전시 및 바비큐 챔피언십 개최",
     "ko_by": "gemini"
-  },
-  {
-    "id": "b153fd116ecc",
-    "source": "녹색경제신문",
-    "title": "홍성 바비큐축제 ‘놀이공원 그릴’ 총출동… 한우 케밥 굽는 스카이타워 첫선",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16UVhwd3lsaERlMEtNUTJwRDgtNFZpeTdxd05vSFhYbW5Qd2NmRFNDQXdaSXJ0THdCTFF0SmhxSTFHSjVaTnhhMmRDR2xQRG1JUDI4aDF0NmpDVkJNbHA2UmVWSlhLVDI4?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-21T06:59:26+00:00",
-    "time": "06:59",
-    "date": "2026-10-21",
-    "title_ko": "홍성 바비큐축제 ‘놀이공원 그릴’ 총출동… 한우 케밥 굽는 스카이타워 첫선",
-    "ko_by": "original"
   }
 ]
