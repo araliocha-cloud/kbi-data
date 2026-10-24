@@ -216,6 +216,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "9126fa77c33e",
+    "source": "더트래커",
+    "title": "오뚜기, 서울바비큐페스티벌 참가…난지캠핑장서 ‘한강라면’ 선보인다",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4am54ajZJMTFQNy1CdjFWZDhvMURTYXluM3BabmpVSk4zb1p2N3loa3JzWkFQVzhnQ1ItQzM0T0JWNDViQUhzb2MyR3RJTDhrcm41T3pIdTg?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-22T01:06:06+00:00",
+    "time": "01:06",
+    "date": "2026-10-22",
+    "title_ko": "오뚜기, 서울바비큐페스티벌 참가…난지캠핑장서 ‘한강라면’ 선보인다",
+    "ko_by": "original"
+  },
+  {
     "id": "0aac5d97383f",
     "source": "매일일보",
     "title": "오뚜기, 서울바비큐페스티벌 참가…'해피냠냠 라면가게' 운영",
@@ -225,18 +237,6 @@
     "time": "23:37",
     "date": "2026-10-21",
     "title_ko": "오뚜기, 서울바비큐페스티벌 참가…'해피냠냠 라면가게' 운영",
-    "ko_by": "original"
-  },
-  {
-    "id": "9edb0da22728",
-    "source": "한국시사경제",
-    "title": "홍성군, 안전한 글로벌바비큐페스티벌 개최에 만전",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OZm5zeUFLM0QzeTJoTVlxclo5R3dkcjNaNHhMaWVSSWlNb0xwSE85TUJPSHNnaFBTbmdaVE05VzNHbGZhazl3VG9laGdSTFdjREZOVHRQU2pDUXplOElmWm84R2dSUnNqLWc?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-21T23:11:18+00:00",
-    "time": "23:11",
-    "date": "2026-10-21",
-    "title_ko": "홍성군, 안전한 글로벌바비큐페스티벌 개최에 만전",
     "ko_by": "original"
   }
 ]
