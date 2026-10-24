@@ -1,5 +1,17 @@
 [
   {
+    "id": "1249c6a4cadb",
+    "source": "wfmynews2.com",
+    "title": "2026 Lexington Barbecue Festival",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGhiOWRtcnIyR25sdmdCcGNUeW5POWpKaU9tTkN0c0RtbFdsTmV5Qm0xRjVaWEtkcndxQUpJa1A1ek5vWklvVEFHU3VLWkR2Z0V1RERIa3JEd3Jnc3lfLTI0RkRuZjQ1dGNqUVpiX2ptTm1IM1hWNFFxQ2FKal9ibW54MFRLVXpTSnYwaU11UTA1QnRRUXBIeEdYVjM5VUZ3cFE4bUZndXAwTnhRWVlHOGgwWGJCdWJ0?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-10-24T18:48:42+00:00",
+    "time": "18:48",
+    "date": "2026-10-24",
+    "title_ko": "2026년 렉싱턴 바비큐 페스티벌",
+    "ko_by": "fallback"
+  },
+  {
     "id": "742f69327f34",
     "source": "The Delta News",
     "title": "Lake Village Fall Fest starts Friday with BBQ chef teams already prepping for Saturday's festivities",
@@ -225,18 +237,6 @@
     "time": "01:06",
     "date": "2026-10-22",
     "title_ko": "오뚜기, 서울바비큐페스티벌 참가…난지캠핑장서 ‘한강라면’ 선보인다",
-    "ko_by": "original"
-  },
-  {
-    "id": "0aac5d97383f",
-    "source": "매일일보",
-    "title": "오뚜기, 서울바비큐페스티벌 참가…'해피냠냠 라면가게' 운영",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2eVduckt0aHVLMWlKeW5vQTFkcW9NZ2tDMm5zTm9Uc2tIaEJ5THlxc194ci12TjZZUGFoajlacXhGYjhJbVVRNHpnT18zbHVVQ2tKZ0FzQThVTGQ0T0RnZVozUm4?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-21T23:37:24+00:00",
-    "time": "23:37",
-    "date": "2026-10-21",
-    "title_ko": "오뚜기, 서울바비큐페스티벌 참가…'해피냠냠 라면가게' 운영",
     "ko_by": "original"
   }
 ]
