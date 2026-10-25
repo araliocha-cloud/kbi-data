@@ -84,6 +84,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "220eb073b0c6",
+    "source": "FOX5 Vegas",
+    "title": "FIRST EVER World Cup of Barbecue with $1MILLION Prize - April 8-11, 2027",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3ZUTlgzZ2ZrMWZZWS1zQjNCZ0dUQ3JpNHpIWGs4cHgzRHFILVVaNEhCdVUtUG4tQk9sQnFaM1dsWjgtV1daZnFoNF9maHpXeUdlWGFDbG5QXzVVaWxINlF1VGZrckJoNlp2ZVhwWE51NUt1VFFGZkxrSHhUY2dyaVkzanFJWE5BS2VVaC1lUmZuaGhfR1JpdnJoRU1adnJIZVluWTNGMkxIX1VOT0E?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-22T18:12:00+00:00",
+    "time": "18:12",
+    "date": "2026-10-22",
+    "title_ko": "사상 첫 바비큐 월드컵 상금 $ 100만 - 2027년 4월 8일 ~ 11일",
+    "ko_by": "fallback"
+  },
+  {
     "id": "72ff639ca763",
     "source": "Colorado County Citizen",
     "title": "Beer Daddy’s BBQ takes top honors at Sheridan VFD cook-off",
@@ -225,18 +237,6 @@
     "time": "02:20",
     "date": "2026-10-22",
     "title_ko": "오뚜기, ‘서울 바비큐 페스티벌’에 라면가게 연다",
-    "ko_by": "original"
-  },
-  {
-    "id": "b876defc9189",
-    "source": "메트로신문",
-    "title": "오뚜기, 서울바비큐페스티벌서 한강라면 판매 부스 운영",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMLUdIeHYzRWVmSWs4MlNQWXFrajZhdlZaUVdoUWtYbUwxMDNVYkZ5VWdlLUN0eWJFOG5lNTUxSkc4eFpxVUJSNTFKeEYyU2JDNzhITFFfOHdFT3ZxZm5GYQ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-22T02:06:43+00:00",
-    "time": "02:06",
-    "date": "2026-10-22",
-    "title_ko": "오뚜기, 서울바비큐페스티벌서 한강라면 판매 부스 운영",
     "ko_by": "original"
   }
 ]
