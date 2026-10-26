@@ -12,18 +12,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "09a33c34c9ee",
-    "source": "파이낸셜신문",
-    "title": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RV0ZEbWF4ZWF0RGtHWHF4TUwtX3lycjFRVlp0N25SN3FKdmxmbWNSWUk4MDJWQUJWbnIzRUlHSUNQdGtYV1JSeDNzSmlVa002a2xaWXZGU1M5TzN5dm56dEdIWm9YN3A5X0U0?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-26T02:15:21+00:00",
-    "time": "02:15",
-    "date": "2026-10-26",
-    "title_ko": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
-    "ko_by": "original"
-  },
-  {
     "id": "88c0a6c98c12",
     "source": "데일리안",
     "title": "캠핑요리로 만난 국산 돼지고기…한돈자조금, 바비큐축제 성료",
@@ -33,6 +21,18 @@
     "time": "06:31",
     "date": "2026-10-26",
     "title_ko": "캠핑요리로 만난 국산 돼지고기…한돈자조금, 바비큐축제 성료",
+    "ko_by": "original"
+  },
+  {
+    "id": "09a33c34c9ee",
+    "source": "파이낸셜신문",
+    "title": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RV0ZEbWF4ZWF0RGtHWHF4TUwtX3lycjFRVlp0N25SN3FKdmxmbWNSWUk4MDJWQUJWbnIzRUlHSUNQdGtYV1JSeDNzSmlVa002a2xaWXZGU1M5TzN5dm56dEdIWm9YN3A5X0U0?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-26T02:15:21+00:00",
+    "time": "02:15",
+    "date": "2026-10-26",
+    "title_ko": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
     "ko_by": "original"
   },
   {
@@ -69,18 +69,6 @@
     "time": "18:41",
     "date": "2026-10-23",
     "title_ko": "멤피스 인 메이 바비큐 대회 돌아온다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "5469d9bceb8c",
-    "source": "Deadline",
-    "title": "Wheelhouse & Peyton Manning's Omaha Invest In BBQ World Cup & Expo",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW1Bd3BQOWdzNG9URjVBT19jVWJ6UTg5UHFPT3ZRakRWWndadjg0U293VS14RGdpcGlSUnFTN09LUVdQMngyd2lQT0c1QXVDY2xXNFpRRmZRck5LOG8wRW01cGdGbWVYc2lvYzdieVo3Rm9IaFlybUdiUW1UQzkwbzdCajdBdmpWS3E0U08zS3dDZWNJMzFvX21kNU0?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-21T15:45:00+00:00",
-    "time": "15:45",
-    "date": "2026-10-21",
-    "title_ko": "휠하우스와 페이튼 매닝의 오마하, 바비큐 월드컵 앤 엑스포에 투자",
     "ko_by": "gemini"
   },
   {
@@ -238,5 +226,17 @@
     "date": "2026-10-22",
     "title_ko": "밀양 영남알프스서 숯불 바비큐 캠핑 축제 ‘불의 향연’ 열린다",
     "ko_by": "original"
+  },
+  {
+    "id": "5469d9bceb8c",
+    "source": "Deadline",
+    "title": "Wheelhouse & Peyton Manning's Omaha Invest In BBQ World Cup & Expo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW1Bd3BQOWdzNG9URjVBT19jVWJ6UTg5UHFPT3ZRakRWWndadjg0U293VS14RGdpcGlSUnFTN09LUVdQMngyd2lQT0c1QXVDY2xXNFpRRmZRck5LOG8wRW01cGdGbWVYc2lvYzdieVo3Rm9IaFlybUdiUW1UQzkwbzdCajdBdmpWS3E0U08zS3dDZWNJMzFvX21kNU0?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-21T15:45:00+00:00",
+    "time": "15:45",
+    "date": "2026-10-21",
+    "title_ko": "휠하우스와 페이튼 매닝의 오마하, 바비큐 월드컵 앤 엑스포에 투자",
+    "ko_by": "gemini"
   }
 ]
