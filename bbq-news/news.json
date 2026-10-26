@@ -12,18 +12,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "88c0a6c98c12",
-    "source": "데일리안",
-    "title": "캠핑요리로 만난 국산 돼지고기…한돈자조금, 바비큐축제 성료",
-    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxObTJCdkY0UjFwVmVnMGZfQ19CM1JrcHR3ejVPdlRUWjFTLTZnSFN1N0pmeEw5TUF2aU1lVUh0ZzIyTzgtQWFNbE03V1k1aHRqbUZscnR3Tk9aY2xzSm5aRm9vRHFSanhOYjI2c0MxbHRFT2Jzd1RTYk5SZjdSelRjZjZ3VVpCRWU1YmVTS2JxQzQwM0ZkMFdzUUlTbHBOc0l3cUh0TlZtbTFOLWFwdXljS0ktbTlUVElHb3hEMWRLQWlwYzZvZHdpanhqNnh0UmdndjBDcVE5NzRPRldQOVFIeENJNFYyZGdJc2JtclpOaTNxa3pITFNqYzFhbm5IeXRqOEw1S1l3TXp2dl92MVhjbEdwQ3lKOHhrUzlZV01fYkxKZGtqT1RFVS1FUzZIdw?oc=5",
-    "query": "프로바비큐",
-    "published_at": "2026-10-26T06:31:00+00:00",
-    "time": "06:31",
-    "date": "2026-10-26",
-    "title_ko": "캠핑요리로 만난 국산 돼지고기…한돈자조금, 바비큐축제 성료",
-    "ko_by": "original"
-  },
-  {
     "id": "09a33c34c9ee",
     "source": "파이낸셜신문",
     "title": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
@@ -33,6 +21,18 @@
     "time": "02:15",
     "date": "2026-10-26",
     "title_ko": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
+    "ko_by": "original"
+  },
+  {
+    "id": "88c0a6c98c12",
+    "source": "데일리안",
+    "title": "캠핑요리로 만난 국산 돼지고기…한돈자조금, 바비큐축제 성료",
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxObTJCdkY0UjFwVmVnMGZfQ19CM1JrcHR3ejVPdlRUWjFTLTZnSFN1N0pmeEw5TUF2aU1lVUh0ZzIyTzgtQWFNbE03V1k1aHRqbUZscnR3Tk9aY2xzSm5aRm9vRHFSanhOYjI2c0MxbHRFT2Jzd1RTYk5SZjdSelRjZjZ3VVpCRWU1YmVTS2JxQzQwM0ZkMFdzUUlTbHBOc0l3cUh0TlZtbTFOLWFwdXljS0ktbTlUVElHb3hEMWRLQWlwYzZvZHdpanhqNnh0UmdndjBDcVE5NzRPRldQOVFIeENJNFYyZGdJc2JtclpOaTNxa3pITFNqYzFhbm5IeXRqOEw1S1l3TXp2dl92MVhjbEdwQ3lKOHhrUzlZV01fYkxKZGtqT1RFVS1FUzZIdw?oc=5",
+    "query": "프로바비큐",
+    "published_at": "2026-10-26T06:31:00+00:00",
+    "time": "06:31",
+    "date": "2026-10-26",
+    "title_ko": "캠핑요리로 만난 국산 돼지고기…한돈자조금, 바비큐축제 성료",
     "ko_by": "original"
   },
   {
@@ -69,6 +69,18 @@
     "time": "18:41",
     "date": "2026-10-23",
     "title_ko": "멤피스 인 메이 바비큐 대회 돌아온다",
+    "ko_by": "gemini"
+  },
+  {
+    "id": "5469d9bceb8c",
+    "source": "Deadline",
+    "title": "Wheelhouse & Peyton Manning's Omaha Invest In BBQ World Cup & Expo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW1Bd3BQOWdzNG9URjVBT19jVWJ6UTg5UHFPT3ZRakRWWndadjg0U293VS14RGdpcGlSUnFTN09LUVdQMngyd2lQT0c1QXVDY2xXNFpRRmZRck5LOG8wRW01cGdGbWVYc2lvYzdieVo3Rm9IaFlybUdiUW1UQzkwbzdCajdBdmpWS3E0U08zS3dDZWNJMzFvX21kNU0?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-21T15:45:00+00:00",
+    "time": "15:45",
+    "date": "2026-10-21",
+    "title_ko": "휠하우스와 페이튼 매닝의 오마하, 바비큐 월드컵 앤 엑스포에 투자",
     "ko_by": "gemini"
   },
   {
@@ -226,17 +238,5 @@
     "date": "2026-10-22",
     "title_ko": "오뚜기, 서울바비큐페스티벌서 한강라면 체험 부스 운영",
     "ko_by": "original"
-  },
-  {
-    "id": "5469d9bceb8c",
-    "source": "Deadline",
-    "title": "Wheelhouse & Peyton Manning's Omaha Invest In BBQ World Cup & Expo",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW1Bd3BQOWdzNG9URjVBT19jVWJ6UTg5UHFPT3ZRakRWWndadjg0U293VS14RGdpcGlSUnFTN09LUVdQMngyd2lQT0c1QXVDY2xXNFpRRmZRck5LOG8wRW01cGdGbWVYc2lvYzdieVo3Rm9IaFlybUdiUW1UQzkwbzdCajdBdmpWS3E0U08zS3dDZWNJMzFvX21kNU0?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-21T15:45:00+00:00",
-    "time": "15:45",
-    "date": "2026-10-21",
-    "title_ko": "휠하우스와 페이튼 매닝의 오마하, 바비큐 월드컵 앤 엑스포에 투자",
-    "ko_by": "gemini"
   }
 ]
