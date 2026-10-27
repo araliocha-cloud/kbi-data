@@ -1,5 +1,17 @@
 [
   {
+    "id": "5436f5c195d1",
+    "source": "타임뉴스",
+    "title": "2026 홍성글로벌바비큐페스티벌, AI 챗봇 운영으로 편의 'UP'",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pc0ZJQXFtNHlWRzlTOU1wb3o1ZGpTOHlfdVNCU0QwSVh6SXdrOERtaW1uOFJwUEgwRHJxbEJ5RDBxdEhjM2dkZmJxakpFaW9mS3pRNQ?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-26T23:32:01+00:00",
+    "time": "23:32",
+    "date": "2026-10-26",
+    "title_ko": "2026 홍성글로벌바비큐페스티벌, AI 챗봇 운영으로 편의 'UP'",
+    "ko_by": "original"
+  },
+  {
     "id": "b25e665b34f2",
     "source": "Southern Living",
     "title": "I Judged The 37th Annual Jack Daniel’s BBQ Competition—And It Felt Like A Family Reunion",
@@ -226,17 +238,5 @@
     "date": "2026-10-22",
     "title_ko": "'스모킹 패스터', 월드 푸드 챔피언십 바비큐 부문 우승",
     "ko_by": "gemini"
-  },
-  {
-    "id": "e9122e271bab",
-    "source": "서울경제TV",
-    "title": "오뚜기, 서울바비큐페스티벌서 한강라면 체험 부스 운영",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51X19acWpLbXoxWENEZGVoOWV3bnpaekN5WXExcjFBR0ZxdnlmQUxEXzNCTHBtblRPVmJtaUxFcWw1WGRQT0ExejBucjVWM0tueThyZUh3Ull6SjZWRksxR2xLYTM?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-22T05:26:52+00:00",
-    "time": "05:26",
-    "date": "2026-10-22",
-    "title_ko": "오뚜기, 서울바비큐페스티벌서 한강라면 체험 부스 운영",
-    "ko_by": "original"
   }
 ]
