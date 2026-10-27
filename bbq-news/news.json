@@ -144,6 +144,18 @@
     "ko_by": "original"
   },
   {
+    "id": "e84a99313a0d",
+    "source": "Statesman Journal",
+    "title": "Oregon barbecue team takes on world's best in cooking contest",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXE5UEw5dlhxRUJlNEg5TUx6ZGo1NVBWRUV6Q2hnUHdjYlRUWEVMal9Da2c4d1VuWFJXSzQ0RnE5bDFDQlVEQlhlektKLW8zRHBET1l6dFZlYmZqM0ZYYURhN2EzYWlxVjNxeDN6ajlSUzQxS19wZFg3SDVGaGM3OHFNTUIyVzBuYjNQM2FMR0JSaFYwZ2wxZXFIVXhIcjdTckVXRHk0UVpKcHUxRnpXaHM3MkJfd3JERTdleldZaHliQQ?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-22T19:37:00+00:00",
+    "time": "19:37",
+    "date": "2026-10-22",
+    "title_ko": "세계 최고의 요리 경연대회에 참가하는 오리건주 바비큐 팀",
+    "ko_by": "fallback"
+  },
+  {
     "id": "12daedca923e",
     "source": "Daily Memphian",
     "title": "Barbecue fest coming in 2027, but not SmokeSlam",
@@ -225,18 +237,6 @@
     "time": "15:42",
     "date": "2026-10-22",
     "title_ko": "2027년 리버티 파크에서 멤피스 인 메이 바비큐 대회 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "453a8aff173c",
-    "source": "Action News 5",
-    "title": "Memphis in May announces dates for 50th anniversary World Championship Barbecue Cooking Contest",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUnZzZ3pVT1EyRmF4NmNBWjJFUFJIQzc3V2F6R2JLdFVHMG5xQXd0Y0ctX05Ga3ZXd3EydTIwN3FLcFBEMzRPS1BpRmcwX3c5ZUVqRXFhZWktSGh2bFZHbnhlYkgySnJaNG1Ra1hkdEJOOFRzaTZGUi05MWJKaUJ2S0ZrUGYzR085eXVWV3Jabl9qeHowY0czLWRyZlo1RmxzMFY5dkxqMTBEc1RXa1hZOFV5ZU1rWXcwaWNmcVlIYmQ4bzdPX3hn?oc=5",
-    "query": "Memphis in May",
-    "published_at": "2026-10-22T14:36:00+00:00",
-    "time": "14:36",
-    "date": "2026-10-22",
-    "title_ko": "멤피스 인 메이, 50주년 세계 챔피언십 바비큐 쿡오프 대회 일정 발표",
     "ko_by": "gemini"
   }
 ]
