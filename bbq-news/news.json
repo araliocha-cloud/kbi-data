@@ -60,6 +60,18 @@
     "ko_by": "original"
   },
   {
+    "id": "2ad55f8ea409",
+    "source": "한돈뉴스",
+    "title": "서울 바비큐 축제 달군 우리돼지 한돈의 매력",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rR05PY3BiZ0tCemZMSWNyYnJNMXdqYnpOeHhnTEhERjMwMlAyQmxZMTQtbXFqVVRkbjY5TWRqM3JHWmhsX2paSEhtZ3k0UkJoNHpldGZQa1lCR0VvZWFLR0dIYVpvaU9IdzU2UNIBbEFVX3lxTE9rR05PY3BiZ0tCemZMSWNyYnJNMXdqYnpOeHhnTEhERjMwMlAyQmxZMTQtbXFqVVRkbjY5TWRqM3JHWmhsX2paSEhtZ3k0UkJoNHpldGZQa1lCR0VvZWFLR0dIYVpvaU9IdzU2UA?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-26T21:30:17+00:00",
+    "time": "21:30",
+    "date": "2026-10-26",
+    "title_ko": "서울 바비큐 축제 달군 우리돼지 한돈의 매력",
+    "ko_by": "original"
+  },
+  {
     "id": "b25e665b34f2",
     "source": "Southern Living",
     "title": "I Judged The 37th Annual Jack Daniel’s BBQ Competition—And It Felt Like A Family Reunion",
@@ -152,8 +164,8 @@
     "published_at": "2026-10-22T19:37:00+00:00",
     "time": "19:37",
     "date": "2026-10-22",
-    "title_ko": "세계 최고의 요리 경연대회에 참가하는 오리건주 바비큐 팀",
-    "ko_by": "fallback"
+    "title_ko": "오리건 바비큐 팀, 세계 최고들과 요리 대회서 격돌",
+    "ko_by": "gemini"
   },
   {
     "id": "12daedca923e",
@@ -225,18 +237,6 @@
     "time": "16:27",
     "date": "2026-10-22",
     "title_ko": "저지 빈스 바비큐 11월 14일 영업 종료... 작별 행사 계획",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "5f1498998f0d",
-    "source": "WREG.com",
-    "title": "MIM barbecue contest slated for Liberty Park in 2027",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDkycWlINjFzN05hX3d4eDhoeXd4dnJwUV9BZXZWY3VoZjZaR2JyLXE3M0VFSEZkSlotMHdmMmczWUNISXktd1N3SEE2TFNUbTJZejlwWkhVRU0wNVdJRVdUa0FKZEFQVXRIV2dvQUo0YUdpenJfTGFDMzRmZFlzejM3RVdUaGVB0gGOAUFVX3lxTE5mREhZMWdXS2s0bXo0ZS14dnNOdmU0U2ZpLXhWMEhZWFBaNTNSVXhja1dlU1hLakFlcC1ZUDZrZFZ1ZW1iM3REYkVxaE9aNHR2OW5XTEpiY1RGbFhtNVBkQ3FEcXV4UC04WlZMa2kyelp1eXdXTWNyV3I3VVlzcDFQcjJnQ3ZKV25Wc19iTEE?oc=5",
-    "query": "Memphis in May",
-    "published_at": "2026-10-22T15:42:24+00:00",
-    "time": "15:42",
-    "date": "2026-10-22",
-    "title_ko": "2027년 리버티 파크에서 멤피스 인 메이 바비큐 대회 개최",
     "ko_by": "gemini"
   }
 ]
