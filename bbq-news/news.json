@@ -24,6 +24,30 @@
     "ko_by": "original"
   },
   {
+    "id": "6ad0522cc7d1",
+    "source": "아주경제",
+    "title": "홍성 바비큐축제 29일 개막…70만 명 방문 기대",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwbzY1Rm5oMGpibVhFSnN3SUhMcnFKMU9EZ0lBeWViYVBpVkJfNFpxcURHY2xYY1UtYU10MEMtOFVxckFPVlNSZVY0dkNLQy1sbEZETjlXZznSAVhBVV95cUxQcG82NUZuaDBqYm1YRUpzd0lITHJxSjFPRGdJQXllYmFQaVZCXzRacXFER2NsWGNVLWFNdDBDLThVcXJBT1ZTUmVWNHZDS0MtbGxGRE45V2c5?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-27T02:05:51+00:00",
+    "time": "02:05",
+    "date": "2026-10-27",
+    "title_ko": "홍성 바비큐축제 29일 개막…70만 명 방문 기대",
+    "ko_by": "original"
+  },
+  {
+    "id": "a84e5cf178a8",
+    "source": "LG헬로비전",
+    "title": "최대 32% 할인…홍성 바비큐축제 판촉 행사 '풍성'",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmXzlQN0YzRW1OX0VfQzgwNk85ZmdJXzhLbEdleHNWaUdjMHlHOUJfZGp4a2RfdHExc1Z5N0FYV0F5Ul8wQjFRT244djl0bE1vbDZodVlyaFRlZmx5eXQ3UmJ4M1ZpLVp5bW5saXB1MmZURGw4MlHSAXZBVV95cUxQZl85UDdGM0VtTl9FX0M4MDZPOWZnSV84S2xHZXhzVmlHYzB5RzlCX2RqeGtkX3RxMXNWeTdBWFdBeVJfMEIxUU9uOHY5dGxNb2w2aHVZcmhUZWZseXl0N1JieDNWaS1aeW1ubGlwdTJmVERsODJR?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-27T01:58:13+00:00",
+    "time": "01:58",
+    "date": "2026-10-27",
+    "title_ko": "최대 32% 할인…홍성 바비큐축제 판촉 행사 '풍성'",
+    "ko_by": "original"
+  },
+  {
     "id": "3bf8d4940905",
     "source": "국제뉴스",
     "title": "홍성글로벌바비큐페스티벌, 놀이기구 테마 바비큐 시설 '눈길'",
@@ -213,30 +237,6 @@
     "time": "14:36",
     "date": "2026-10-22",
     "title_ko": "멤피스 인 메이, 50주년 세계 챔피언십 바비큐 쿡오프 대회 일정 발표",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "43452b972b18",
-    "source": "InfoBAN",
-    "title": "Fiesta del Asado de Tira: ya están los equipos que participarán de la competencia de asadores",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGFKa3gtVm5lRS1DLTRKeVltVG5CSWVBS2U4TmRiTnZOclRWVjBva3g4WlJDQWZYems1MTJPOUJVUXQ2aTNYWHBrS0tvaXdsY2ZOTG5SQzlxUWpMTWIzN21pejZkX0hDQ1pIMHNObklZam10SURYZ0xHTkl5dDZyUHZOMHZtMk91UFlueXZpRWVnc0Y3bkltTzA1d1lwYzJ2REdTdld2NG5HeUt2OG5tM2oxdHFzZXgtckVibWJkaUlYMjhoWVVZS2U4UQ?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-22T13:51:53+00:00",
-    "time": "13:51",
-    "date": "2026-10-22",
-    "title_ko": "아사도 데 티라 축제: 아사도르 대회 참가 팀 확정",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "e84a99313a0d",
-    "source": "Statesman Journal",
-    "title": "Oregon barbecue team takes on world's best in cooking contest",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXE5UEw5dlhxRUJlNEg5TUx6ZGo1NVBWRUV6Q2hnUHdjYlRUWEVMal9Da2c4d1VuWFJXSzQ0RnE5bDFDQlVEQlhlektKLW8zRHBET1l6dFZlYmZqM0ZYYURhN2EzYWlxVjNxeDN6ajlSUzQxS19wZFg3SDVGaGM3OHFNTUIyVzBuYjNQM2FMR0JSaFYwZ2wxZXFIVXhIcjdTckVXRHk0UVpKcHUxRnpXaHM3MkJfd3JERTdleldZaHliQQ?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-22T11:46:00+00:00",
-    "time": "11:46",
-    "date": "2026-10-22",
-    "title_ko": "오리건 바비큐 팀, 요리 대회서 세계 최고들과 맞대결",
     "ko_by": "gemini"
   }
 ]
