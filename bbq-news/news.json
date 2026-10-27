@@ -1,5 +1,29 @@
 [
   {
+    "id": "748d54db20b1",
+    "source": "충청시사신문",
+    "title": "[홍성] 홍성 바비큐축제, 골목상권까지 온기 전할까…전통시장·야시장 동참",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YR3lYRGljSlE5eVlzNGtsNGNuS09YMk9sek5SX196cEhVQnhkNE5NNzZYTFp6MGJDTU9KOFMteUhvYVZZZFhkb2VXZm41aHd1Q0FxaGNtZGllbDYtbWViTHBBaWlteHFIbm84?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-10-27T02:52:13+00:00",
+    "time": "02:52",
+    "date": "2026-10-27",
+    "title_ko": "[홍성] 홍성 바비큐축제, 골목상권까지 온기 전할까…전통시장·야시장 동참",
+    "ko_by": "original"
+  },
+  {
+    "id": "09a33c34c9ee",
+    "source": "파이낸셜신문",
+    "title": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RV0ZEbWF4ZWF0RGtHWHF4TUwtX3lycjFRVlp0N25SN3FKdmxmbWNSWUk4MDJWQUJWbnIzRUlHSUNQdGtYV1JSeDNzSmlVa002a2xaWXZGU1M5TzN5dm56dEdIWm9YN3A5X0U0?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-26T02:15:21+00:00",
+    "time": "02:15",
+    "date": "2026-10-26",
+    "title_ko": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
+    "ko_by": "original"
+  },
+  {
     "id": "3bf8d4940905",
     "source": "국제뉴스",
     "title": "홍성글로벌바비큐페스티벌, 놀이기구 테마 바비큐 시설 '눈길'",
@@ -22,18 +46,6 @@
     "date": "2026-10-26",
     "title_ko": "제37회 잭 다니엘스 바비큐 대회 심사평... 가족 상봉 같았다",
     "ko_by": "gemini"
-  },
-  {
-    "id": "09a33c34c9ee",
-    "source": "파이낸셜신문",
-    "title": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RV0ZEbWF4ZWF0RGtHWHF4TUwtX3lycjFRVlp0N25SN3FKdmxmbWNSWUk4MDJWQUJWbnIzRUlHSUNQdGtYV1JSeDNzSmlVa002a2xaWXZGU1M5TzN5dm56dEdIWm9YN3A5X0U0?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-26T02:15:21+00:00",
-    "time": "02:15",
-    "date": "2026-10-26",
-    "title_ko": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
-    "ko_by": "original"
   },
   {
     "id": "88c0a6c98c12",
@@ -225,18 +237,6 @@
     "time": "11:46",
     "date": "2026-10-22",
     "title_ko": "오리건 바비큐 팀, 요리 대회서 세계 최고들과 맞대결",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "fb4b80b09d25",
-    "source": "The Hamilton County Reporter",
-    "title": "‘The Smoking Pastor’ claims barbecue title at World Food Championships",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckJILXFqcXB2azVOUnpGNko2NnpmVlZ2dUp5VE1xR0REV1R1UnVzZEx5N0l2VXhTamFSZGFDUXViOEdnUG1WWTlSM29BRTJRS0dyVFVGaW5sQjFfMDZiUUwtR0FLaUhVaUdyNk5oVWZ6Z25WeE5KRF9GSExqeXE1NWVZM3pNOGF3Nks2aVRaWlZPQzViZnVacG4tdDladw?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-22T10:08:06+00:00",
-    "time": "10:08",
-    "date": "2026-10-22",
-    "title_ko": "'스모킹 패스터', 월드 푸드 챔피언십 바비큐 부문 우승",
     "ko_by": "gemini"
   }
 ]
