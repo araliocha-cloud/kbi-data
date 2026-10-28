@@ -108,6 +108,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "25b3c44c8f8e",
+    "source": "뉴스드림",
+    "title": "한돈자조금, ‘2026 서울 바비큐 페스티벌’서 체험·할인 부스 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KbHFZcU82VVZhNVVVeTJMUEtUWkNxUTV0YVhlRnozdjI4YThNakZHZV83WXEzN3RZOEJFeTd4UEtKYmRDOFpoNjc5eHRJT0RtbmVVM1Vyd1VLQmU2SkF0NXpSZnhqTFgyWHfSAW5BVV95cUxPWnZCdDVMMEZrd2FocnlhRmpwSVlURnNfVzBWYUMyMy1wWlo5T29Sekl2S3lXbDRMT1hhbVJpMTB5U2xnYV9mX2RfYnBFbEVHOWdQNVZPQ2FOcHJLMnFvNHBac21kYk0yV3U5bUhGQQ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-26T07:58:47+00:00",
+    "time": "07:58",
+    "date": "2026-10-26",
+    "title_ko": "한돈자조금, ‘2026 서울 바비큐 페스티벌’서 체험·할인 부스 운영",
+    "ko_by": "original"
+  },
+  {
     "id": "88c0a6c98c12",
     "source": "데일리안",
     "title": "캠핑요리로 만난 국산 돼지고기…한돈자조금, 바비큐축제 성료",
@@ -225,18 +237,6 @@
     "time": "18:12",
     "date": "2026-10-22",
     "title_ko": "상금 100만 달러 걸린 사상 첫 바비큐 월드컵, 2027년 4월 8~11일 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "72ff639ca763",
-    "source": "Colorado County Citizen",
-    "title": "Beer Daddy’s BBQ takes top honors at Sheridan VFD cook-off",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONE9uUTlRTjBrRHVNOFRHbF9nYWFCSzA0cVFPQU9NaWphUGY0UzRnY3JUSGhyTlBqdDNZb2JhT25kSFBtWDdqY0JpZWR5UW9KZWlNMzBjSVA1LVpoV3k4WVpOMWtWS1BXZGt5aFpMQzdPc1JmTG9tTmpZV25rdzNCWmx1SC1nWndnRF9YSm9jbUNFbThia2cyRXNVbmJsMnE1aGhncVVUSmlWaVJLaHc?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-22T17:18:08+00:00",
-    "time": "17:18",
-    "date": "2026-10-22",
-    "title_ko": "비어 대디스 바비큐, 셰리든 VFD 쿡오프서 최고 영예 안아",
     "ko_by": "gemini"
   }
 ]
