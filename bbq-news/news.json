@@ -216,6 +216,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "5469d9bceb8c",
+    "source": "Deadline",
+    "title": "Wheelhouse & Peyton Manning's Omaha Invest In BBQ World Cup & Expo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW1Bd3BQOWdzNG9URjVBT19jVWJ6UTg5UHFPT3ZRakRWWndadjg0U293VS14RGdpcGlSUnFTN09LUVdQMngyd2lQT0c1QXVDY2xXNFpRRmZRck5LOG8wRW01cGdGbWVYc2lvYzdieVo3Rm9IaFlybUdiUW1UQzkwbzdCajdBdmpWS3E0U08zS3dDZWNJMzFvX21kNU0?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-10-21T15:45:00+00:00",
+    "time": "15:45",
+    "date": "2026-10-21",
+    "title_ko": "휠하우스와 페이튼 매닝의 오마하, 바비큐 월드컵 앤 엑스포에 투자",
+    "ko_by": "gemini"
+  },
+  {
     "id": "09b6272204aa",
     "source": "판다랭크",
     "title": "홍성 바비큐 축제 방문 꿀팁",
@@ -226,17 +238,5 @@
     "date": "2026-10-23",
     "title_ko": "홍성 바비큐 축제 방문 꿀팁",
     "ko_by": "original"
-  },
-  {
-    "id": "e84a99313a0d",
-    "source": "Statesman Journal",
-    "title": "Oregon barbecue team takes on world's best in cooking contest",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXE5UEw5dlhxRUJlNEg5TUx6ZGo1NVBWRUV6Q2hnUHdjYlRUWEVMal9Da2c4d1VuWFJXSzQ0RnE5bDFDQlVEQlhlektKLW8zRHBET1l6dFZlYmZqM0ZYYURhN2EzYWlxVjNxeDN6ajlSUzQxS19wZFg3SDVGaGM3OHFNTUIyVzBuYjNQM2FMR0JSaFYwZ2wxZXFIVXhIcjdTckVXRHk0UVpKcHUxRnpXaHM3MkJfd3JERTdleldZaHliQQ?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-22T19:37:00+00:00",
-    "time": "19:37",
-    "date": "2026-10-22",
-    "title_ko": "오리건 바비큐 팀, 요리 대회서 세계 최고에 도전한다",
-    "ko_by": "gemini"
   }
 ]
