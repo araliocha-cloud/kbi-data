@@ -12,6 +12,18 @@
     "ko_by": "original"
   },
   {
+    "id": "786a0e0c4bd8",
+    "source": "매일신문",
+    "title": "\"바베큐 축제가 산불로 이어진다면?\"…군위군, 재난대응 안전한국훈련 실시",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lTW1Pbl9iZllQcHFwSXdrMy1MSW5CS2FuUEpGdlpZSEVEWTUtYnE0cC1vdk93VWdLT0lMUUdtRkh3NTdxTlFUTWp3TjdzemlIZ3NDVTVIeHJzamNIS0xiVW5B?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-28T00:09:36+00:00",
+    "time": "00:09",
+    "date": "2026-10-28",
+    "title_ko": "\"바베큐 축제가 산불로 이어진다면?\"…군위군, 재난대응 안전한국훈련 실시",
+    "ko_by": "original"
+  },
+  {
     "id": "740e899972af",
     "source": "신아일보",
     "title": "홍성바비큐페스티벌 70만명 방문 전망…지역 상권 활성화 기대",
@@ -225,18 +237,6 @@
     "time": "19:32",
     "date": "2026-10-22",
     "title_ko": "2027년 바비큐 축제 개최… 스모크슬램은 제외",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "05beb3f32989",
-    "source": "The Business Journals",
-    "title": "Memphis in May barbecue contest returns to Liberty Park",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWY0Tm0xeDlTY05SNnVsRFVOZVlPLU1XaHZ4V0ZMcEE2bVI0ZTk1bzZmaUVveDVuRm5kczRyUXhGMTdNelJnOU1GZnZ2R041bXdPcXZMOWtCYjlUdDRhS3VDVTBJYjFnZFpWY21Ic2RIVmxJQ3ZBVDlOZHJmWU9LZEN2RF82aVRPVUxxcVhkZlI3RmtVNER6T3F3Njlxalp5ajRzakcxa0k1UQ?oc=5",
-    "query": "Memphis in May",
-    "published_at": "2026-10-22T18:52:00+00:00",
-    "time": "18:52",
-    "date": "2026-10-22",
-    "title_ko": "멤피스 인 메이 바비큐 대회, 리버티 파크로 돌아온다",
     "ko_by": "gemini"
   }
 ]
