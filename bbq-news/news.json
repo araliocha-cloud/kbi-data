@@ -1,5 +1,17 @@
 [
   {
+    "id": "3bf6c8e5619a",
+    "source": "연합뉴스",
+    "title": "홍성 글로벌바비큐페스티벌서는 한우·한돈 최대 34.6% 할인",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jUHQwaE5vMWNIRnVZbndOc3B2R3JLbE0zNzZSRklvcFlLeTVHYUxnWVpMUEt6ZE1LckZEbkptaXk4aFVxdzJGeC01MnlvMzZpd3dVRmRuY1hoZ3fSAWBBVV95cUxQRGxJUDM3UDFKdnZHa0lXc0RSNDlsQlVXdHRwY2d2cFVQVmdUaGIyRVhRLXhnV0d5MzJOZTFUSXZZLUUwdlpURzZUSlFZckw4NDdTaUpnaXluS1VqTW9nMnU?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-28T01:28:30+00:00",
+    "time": "01:28",
+    "date": "2026-10-28",
+    "title_ko": "홍성 글로벌바비큐페스티벌서는 한우·한돈 최대 34.6% 할인",
+    "ko_by": "original"
+  },
+  {
     "id": "740e899972af",
     "source": "신아일보",
     "title": "홍성바비큐페스티벌 70만명 방문 전망…지역 상권 활성화 기대",
@@ -225,18 +237,6 @@
     "time": "17:18",
     "date": "2026-10-22",
     "title_ko": "비어 대디스 바비큐, 셰리든 VFD 쿡오프서 최고 영예 안아",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "dacb159ce34e",
-    "source": "KSDK",
-    "title": "Sponsored: Smokin' for Veterans BBQ Bash Returns to Ellisville, Aims to Raise $100,000 for Local Veterans",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcW5kZ0lYWVBNelZYZU5XWG5IaHZtRlREV3VPU2UxTWNjaDhMSnVZNnc0elZqeTIwNy03ZlJMTFFpX21ad2g2aUtmb0FuNjFGTGpSNWVkLWFDR1VGSUFfZkVCUVFuWWlPdExFckhqbUR0cnd6VU5fOEhWc3pOdVhwaXJlakdaRFlTVXZ3LTA0Y05WdkNneFFaRHpvcklWZ1pRWExYSXdpUjBYTkxRX1gyOTJIaXRXSGg4X3hLaDZJMEh2MzU2cUxPVmZ0V283azBENEl1aTRjUlg4WkxHaTRZTDB5b01rZDBqdW4wcUlhLWgxRWljbVc3SExxQ3p0SlA4bmdMRGM1dFBqb3pNX01CSmV3?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-22T16:51:00+00:00",
-    "time": "16:51",
-    "date": "2026-10-22",
-    "title_ko": "엘리스빌로 돌아온 '스모킨 포 베테랑스' 바비큐 배시, 지역 참전용사 위해 10만 달러 모금 목표",
     "ko_by": "gemini"
   }
 ]
