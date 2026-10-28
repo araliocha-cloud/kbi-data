@@ -168,6 +168,16 @@
     "ko_by": "gemini"
   },
   {
+    "id": "12daedca923e",
+    "source": "Daily Memphian",
+    "title": "Barbecue fest coming in 2027, but not SmokeSlam",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDhoVUJfRnZFX3h3eU40WWJEcm44M2VKSVNVc0hiQXpGWVlJWERobWF2LUJwVlctRDdBelRuTUVVandrSGNkLVVZQk5aZGdZajhOYnJXT0VGbm5qLWxpdEY5N2UxamoxVnFTVVdDeVBRLTZBelFnendZQkN5SEFVcmdWVlZjdlZqeU1LZ2p2NkZRc0d0akFFbQ?oc=5",
+    "query": "Memphis in May",
+    "published_at": "2026-10-24T06:47:00+00:00",
+    "time": "06:47",
+    "date": "2026-10-24"
+  },
+  {
     "id": "742f69327f34",
     "source": "The Delta News",
     "title": "Lake Village Fall Fest starts Friday with BBQ chef teams already prepping for Saturday's festivities",
@@ -226,17 +236,5 @@
     "date": "2026-10-22",
     "title_ko": "오뚜기, 서울바비큐페스티벌서 한강라면 체험 부스 운영",
     "ko_by": "original"
-  },
-  {
-    "id": "e84a99313a0d",
-    "source": "Statesman Journal",
-    "title": "Oregon barbecue team takes on world's best in cooking contest",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTXE5UEw5dlhxRUJlNEg5TUx6ZGo1NVBWRUV6Q2hnUHdjYlRUWEVMal9Da2c4d1VuWFJXSzQ0RnE5bDFDQlVEQlhlektKLW8zRHBET1l6dFZlYmZqM0ZYYURhN2EzYWlxVjNxeDN6ajlSUzQxS19wZFg3SDVGaGM3OHFNTUIyVzBuYjNQM2FMR0JSaFYwZ2wxZXFIVXhIcjdTckVXRHk0UVpKcHUxRnpXaHM3MkJfd3JERTdleldZaHliQQ?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-10-22T19:37:00+00:00",
-    "time": "19:37",
-    "date": "2026-10-22",
-    "title_ko": "오리건 바비큐 팀, 세계 최고들과 요리 대회서 격돌",
-    "ko_by": "gemini"
   }
 ]
