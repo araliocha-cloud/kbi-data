@@ -1,5 +1,17 @@
 [
   {
+    "id": "740e899972af",
+    "source": "신아일보",
+    "title": "홍성바비큐페스티벌 70만명 방문 전망…지역 상권 활성화 기대",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1maVdvTXREakJBQkZKd2hPZDVJVEg2S2xlODlQLWYzeDdPSVZFYVFCcW1XRGhtNXF0MHhkaEZlQnM1eFBPYkkzSUhJUEZadDdoUE1ERkRnMUhRVXdDQ2JoX3preWpJMDhuaktxakVUMUQ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-27T04:50:46+00:00",
+    "time": "04:50",
+    "date": "2026-10-27",
+    "title_ko": "홍성바비큐페스티벌 70만명 방문 전망…지역 상권 활성화 기대",
+    "ko_by": "original"
+  },
+  {
     "id": "748d54db20b1",
     "source": "충청시사신문",
     "title": "[홍성] 홍성 바비큐축제, 골목상권까지 온기 전할까…전통시장·야시장 동참",
@@ -48,15 +60,15 @@
     "ko_by": "original"
   },
   {
-    "id": "3bf8d4940905",
-    "source": "국제뉴스",
-    "title": "홍성글로벌바비큐페스티벌, 놀이기구 테마 바비큐 시설 '눈길'",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRmZwWVh4VmNCT0lvT3oxWEJOWDNJRnRmQS1zTTJCNkQyeGZzVkFuN3lRZGdNWVg4YTQ3Y0pSR3A4NUMtVE5fNmhKdGkxb1g0cjZCUF9BQ09tVjdISkZuaFBobUZLd0JvT0w4eVhB?oc=5",
-    "query": "스포츠바비큐",
-    "published_at": "2026-10-21T01:29:39+00:00",
-    "time": "01:29",
-    "date": "2026-10-21",
-    "title_ko": "홍성글로벌바비큐페스티벌, 놀이기구 테마 바비큐 시설 '눈길'",
+    "id": "5436f5c195d1",
+    "source": "타임뉴스",
+    "title": "2026 홍성글로벌바비큐페스티벌, AI 챗봇 운영으로 편의 'UP'",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pc0ZJQXFtNHlWRzlTOU1wb3o1ZGpTOHlfdVNCU0QwSVh6SXdrOERtaW1uOFJwUEgwRHJxbEJ5RDBxdEhjM2dkZmJxakpFaW9mS3pRNQ?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-26T23:32:01+00:00",
+    "time": "23:32",
+    "date": "2026-10-26",
+    "title_ko": "2026 홍성글로벌바비큐페스티벌, AI 챗봇 운영으로 편의 'UP'",
     "ko_by": "original"
   },
   {
@@ -225,18 +237,6 @@
     "time": "16:51",
     "date": "2026-10-22",
     "title_ko": "엘리스빌로 돌아온 '스모킨 포 베테랑스' 바비큐 배시, 지역 참전용사 위해 10만 달러 모금 목표",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "d5c8b510abd6",
-    "source": "Williamson Herald",
-    "title": "Judge Bean's BBQ to close Nov. 14, plans farewell celebration",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNamJuSjlBTHpsSEVBOGFpXy1sbjBOaDZkNE5waFVoalhnOVllNjRTSHFySXg0WXAtM3oyc01VTEZQZU5PNWs3SEtabmFqblRiR2cxR2NuTy1HNkFCWnNvS2RMOFNvV2VqZ0ZQRE5sdHlkdmFXV0s5a3pOSXJZTDZ3Mm5lcTBfVHVYeERGWVJ1Q1JkdlRQLWV6c1lKeno1Tll1ZVpDOFpoWWNoZDlHNjhfOGFBQjB4bzdUQ3lqbHliQWVjbTVCZHMyU1ludDlGSjRscG1vS3dPVXV6cEl1X2wwMEJFN2MzY19i?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-10-22T16:27:00+00:00",
-    "time": "16:27",
-    "date": "2026-10-22",
-    "title_ko": "저지 빈스 바비큐 11월 14일 영업 종료... 작별 행사 계획",
     "ko_by": "gemini"
   }
 ]
