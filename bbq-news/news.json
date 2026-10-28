@@ -12,6 +12,18 @@
     "ko_by": "original"
   },
   {
+    "id": "f63348816b28",
+    "source": "경향신문",
+    "title": "“삼겹살 1㎏ 1만7000원”···홍성 바비큐축제, 최대 34.6% 할인",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93akJpX19oOVZ0ak9mdFdzRDVqelJfWjdnM1BzenZ5My1OX3N3QnBCTzJEQ3FZYjFlcHRNUWJ2SWVZVkVVeU4zSG0td01tbTFMTFZVQ05USFduUdIBX0FVX3lxTE05aVZIalg1NFNLU25VY0VCc0RtQlU3R2VMb1FtR0hQZG5NS19Cc1Y3U25JNTJ5eUFOZjhXRmJuR2hxcjRjNVN2a0lHZGp3NzVmaVBrMExCSi03ckM4NlRn?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-28T01:56:00+00:00",
+    "time": "01:56",
+    "date": "2026-10-28",
+    "title_ko": "“삼겹살 1㎏ 1만7000원”···홍성 바비큐축제, 최대 34.6% 할인",
+    "ko_by": "original"
+  },
+  {
     "id": "3bf6c8e5619a",
     "source": "연합뉴스",
     "title": "홍성 글로벌바비큐페스티벌서는 한우·한돈 최대 34.6% 할인",
@@ -226,17 +238,5 @@
     "date": "2026-10-23",
     "title_ko": "휠하우스와 오마하 프로덕션, 바비큐 월드컵 및 엑스포에 투자",
     "ko_by": "gemini"
-  },
-  {
-    "id": "09b6272204aa",
-    "source": "판다랭크",
-    "title": "홍성 바비큐 축제 방문 꿀팁",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzQ0l2aVZnMlpZc09EbjhIVkRLeEFDeG5EQm5aRzJRM1JDaTQ5ZXZCWHVwLUFRNzFjaEVzbERsY3FVcHliVVFF?oc=5",
-    "query": "프로바비큐",
-    "published_at": "2026-10-23T10:52:45+00:00",
-    "time": "10:52",
-    "date": "2026-10-23",
-    "title_ko": "홍성 바비큐 축제 방문 꿀팁",
-    "ko_by": "original"
   }
 ]
