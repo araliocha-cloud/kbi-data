@@ -216,6 +216,18 @@
     "ko_by": "original"
   },
   {
+    "id": "e9122e271bab",
+    "source": "서울경제TV",
+    "title": "오뚜기, 서울바비큐페스티벌서 한강라면 체험 부스 운영",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51X19acWpLbXoxWENEZGVoOWV3bnpaekN5WXExcjFBR0ZxdnlmQUxEXzNCTHBtblRPVmJtaUxFcWw1WGRQT0ExejBucjVWM0tueThyZUh3Ull6SjZWRksxR2xLYTM?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-22T05:26:52+00:00",
+    "time": "05:26",
+    "date": "2026-10-22",
+    "title_ko": "오뚜기, 서울바비큐페스티벌서 한강라면 체험 부스 운영",
+    "ko_by": "original"
+  },
+  {
     "id": "e84a99313a0d",
     "source": "Statesman Journal",
     "title": "Oregon barbecue team takes on world's best in cooking contest",
@@ -225,18 +237,6 @@
     "time": "19:37",
     "date": "2026-10-22",
     "title_ko": "오리건 바비큐 팀, 세계 최고들과 요리 대회서 격돌",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "12daedca923e",
-    "source": "Daily Memphian",
-    "title": "Barbecue fest coming in 2027, but not SmokeSlam",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDhoVUJfRnZFX3h3eU40WWJEcm44M2VKSVNVc0hiQXpGWVlJWERobWF2LUJwVlctRDdBelRuTUVVandrSGNkLVVZQk5aZGdZajhOYnJXT0VGbm5qLWxpdEY5N2UxamoxVnFTVVdDeVBRLTZBelFnendZQkN5SEFVcmdWVlZjdlZqeU1LZ2p2NkZRc0d0akFFbQ?oc=5",
-    "query": "Memphis in May",
-    "published_at": "2026-10-22T19:32:00+00:00",
-    "time": "19:32",
-    "date": "2026-10-22",
-    "title_ko": "2027년 바비큐 축제 개최… 스모크슬램은 제외",
     "ko_by": "gemini"
   }
 ]
