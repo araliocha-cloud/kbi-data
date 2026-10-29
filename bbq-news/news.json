@@ -1,5 +1,17 @@
 [
   {
+    "id": "f665cb112a87",
+    "source": "신아일보",
+    "title": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTkVYT2dKN0RhdTVWTmxZd0JINzQ5UndnMUF3anRpN20yaXFLU3BzaVNmZ180U1paZW5iZmEzT1R0ekFOeGloTTduOXFUcjhGenZuS3dhMDRrMzFadkJuTmZZb1VSX25tbEoxSXEzX2I?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-29T04:02:22+00:00",
+    "time": "04:02",
+    "date": "2026-10-29",
+    "title_ko": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
+    "ko_by": "original"
+  },
+  {
     "id": "c229c3bd4c5e",
     "source": "매일일보",
     "title": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
@@ -226,17 +238,5 @@
     "date": "2026-10-26",
     "title_ko": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
     "ko_by": "original"
-  },
-  {
-    "id": "12daedca923e",
-    "source": "Daily Memphian",
-    "title": "Barbecue fest coming in 2027, but not SmokeSlam",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDhoVUJfRnZFX3h3eU40WWJEcm44M2VKSVNVc0hiQXpGWVlJWERobWF2LUJwVlctRDdBelRuTUVVandrSGNkLVVZQk5aZGdZajhOYnJXT0VGbm5qLWxpdEY5N2UxamoxVnFTVVdDeVBRLTZBelFnendZQkN5SEFVcmdWVlZjdlZqeU1LZ2p2NkZRc0d0akFFbQ?oc=5",
-    "query": "Memphis in May",
-    "published_at": "2026-10-24T06:47:00+00:00",
-    "time": "06:47",
-    "date": "2026-10-24",
-    "title_ko": "2027년 바비큐 축제 개최... 스모크슬램은 제외",
-    "ko_by": "gemini"
   }
 ]
