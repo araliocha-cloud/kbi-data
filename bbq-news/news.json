@@ -24,18 +24,6 @@
     "ko_by": "original"
   },
   {
-    "id": "552729e05343",
-    "source": "메가충청뉴스",
-    "title": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMEU4N2ZLUGhNNXBGSXNyci13NEpwY3V2a1djNEdpM2pxckNxaW1VcE5rSldQeFlaTkRKN19RR2tmbF9ObXJhVnU3RE8wNDNrOHQwTV9PakxTMWtiMUcweGcwS0JPNmdPMWwxdw?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-28T23:31:02+00:00",
-    "time": "23:31",
-    "date": "2026-10-28",
-    "title_ko": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
-    "ko_by": "original"
-  },
-  {
     "id": "3de9981571ef",
     "source": "충청뉴스",
     "title": "한우·한돈에 세계 바비큐까지…홍성글로벌바비큐페스티벌 개막",
@@ -144,6 +132,18 @@
     "ko_by": "original"
   },
   {
+    "id": "c229c3bd4c5e",
+    "source": "매일일보",
+    "title": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUF9JS19ZNmxEeVBORnpLb0ZLVmc3VkdlQW9aVXlsaS0tR0RwMGZfaWs5WF9BVEhWOWJwWWw3aXJrNDNyN2xRa0tjY1dkNWMwb0JscWZEQlc2bGhmZFJvY0VySko?oc=5",
+    "query": "프로바비큐",
+    "published_at": "2026-10-29T02:17:33+00:00",
+    "time": "02:17",
+    "date": "2026-10-29",
+    "title_ko": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
+    "ko_by": "original"
+  },
+  {
     "id": "dcca808bec98",
     "source": "충청시사신문",
     "title": "[홍성] 홍성의 맛과 세계의 음식이 만났다…바비큐축제, 지역 상권과 함께하는 나흘",
@@ -153,6 +153,18 @@
     "time": "04:17",
     "date": "2026-10-29",
     "title_ko": "[홍성] 홍성의 맛과 세계의 음식이 만났다…바비큐축제, 지역 상권과 함께하는 나흘",
+    "ko_by": "original"
+  },
+  {
+    "id": "552729e05343",
+    "source": "메가충청뉴스",
+    "title": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMEU4N2ZLUGhNNXBGSXNyci13NEpwY3V2a1djNEdpM2pxckNxaW1VcE5rSldQeFlaTkRKN19RR2tmbF9ObXJhVnU3RE8wNDNrOHQwTV9PakxTMWtiMUcweGcwS0JPNmdPMWwxdw?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-28T23:31:02+00:00",
+    "time": "23:31",
+    "date": "2026-10-28",
+    "title_ko": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
     "ko_by": "original"
   },
   {
@@ -225,18 +237,6 @@
     "time": "04:50",
     "date": "2026-10-27",
     "title_ko": "홍성바비큐페스티벌 70만명 방문 전망…지역 상권 활성화 기대",
-    "ko_by": "original"
-  },
-  {
-    "id": "748d54db20b1",
-    "source": "충청시사신문",
-    "title": "[홍성] 홍성 바비큐축제, 골목상권까지 온기 전할까…전통시장·야시장 동참",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YR3lYRGljSlE5eVlzNGtsNGNuS09YMk9sek5SX196cEhVQnhkNE5NNzZYTFp6MGJDTU9KOFMteUhvYVZZZFhkb2VXZm41aHd1Q0FxaGNtZGllbDYtbWViTHBBaWlteHFIbm84?oc=5",
-    "query": "스포츠바비큐",
-    "published_at": "2026-10-27T02:52:13+00:00",
-    "time": "02:52",
-    "date": "2026-10-27",
-    "title_ko": "[홍성] 홍성 바비큐축제, 골목상권까지 온기 전할까…전통시장·야시장 동참",
     "ko_by": "original"
   }
 ]
