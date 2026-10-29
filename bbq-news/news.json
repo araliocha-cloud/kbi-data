@@ -1,5 +1,17 @@
 [
   {
+    "id": "ffaa6f3d38fd",
+    "source": "팜인사이트",
+    "title": "한돈자조금, ‘서울 바비큐 페스티벌’서 홍보·할인판매 부스 운영",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EV3JuR2xVdGdvdnNnSUpYWHVEX3RNOWxBb2dNQ2hsaTQ1NHVCZDUzOXJxZVdHdjJFc1NVM25jekFFN3pwSUtfT0lyenV0MXN4cFZfRTZ5SWQ0S2pxUjdyMmp6Tkw2djBiZHg1Szd3?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-29T09:43:54+00:00",
+    "time": "09:43",
+    "date": "2026-10-29",
+    "title_ko": "한돈자조금, ‘서울 바비큐 페스티벌’서 홍보·할인판매 부스 운영",
+    "ko_by": "original"
+  },
+  {
     "id": "351ae69b47b3",
     "source": "뉴데일리 충청세종",
     "title": "홍성글로벌바비큐페스티벌 개막… 먹거리 풍성, 지역경제 활력",
@@ -9,6 +21,18 @@
     "time": "22:10",
     "date": "2026-10-28",
     "title_ko": "홍성글로벌바비큐페스티벌 개막… 먹거리 풍성, 지역경제 활력",
+    "ko_by": "original"
+  },
+  {
+    "id": "552729e05343",
+    "source": "메가충청뉴스",
+    "title": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMEU4N2ZLUGhNNXBGSXNyci13NEpwY3V2a1djNEdpM2pxckNxaW1VcE5rSldQeFlaTkRKN19RR2tmbF9ObXJhVnU3RE8wNDNrOHQwTV9PakxTMWtiMUcweGcwS0JPNmdPMWwxdw?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-28T23:31:02+00:00",
+    "time": "23:31",
+    "date": "2026-10-28",
+    "title_ko": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
     "ko_by": "original"
   },
   {
@@ -120,18 +144,6 @@
     "ko_by": "original"
   },
   {
-    "id": "c229c3bd4c5e",
-    "source": "매일일보",
-    "title": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUF9JS19ZNmxEeVBORnpLb0ZLVmc3VkdlQW9aVXlsaS0tR0RwMGZfaWs5WF9BVEhWOWJwWWw3aXJrNDNyN2xRa0tjY1dkNWMwb0JscWZEQlc2bGhmZFJvY0VySko?oc=5",
-    "query": "프로바비큐",
-    "published_at": "2026-10-29T02:17:33+00:00",
-    "time": "02:17",
-    "date": "2026-10-29",
-    "title_ko": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
-    "ko_by": "original"
-  },
-  {
     "id": "dcca808bec98",
     "source": "충청시사신문",
     "title": "[홍성] 홍성의 맛과 세계의 음식이 만났다…바비큐축제, 지역 상권과 함께하는 나흘",
@@ -141,18 +153,6 @@
     "time": "04:17",
     "date": "2026-10-29",
     "title_ko": "[홍성] 홍성의 맛과 세계의 음식이 만났다…바비큐축제, 지역 상권과 함께하는 나흘",
-    "ko_by": "original"
-  },
-  {
-    "id": "552729e05343",
-    "source": "메가충청뉴스",
-    "title": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMEU4N2ZLUGhNNXBGSXNyci13NEpwY3V2a1djNEdpM2pxckNxaW1VcE5rSldQeFlaTkRKN19RR2tmbF9ObXJhVnU3RE8wNDNrOHQwTV9PakxTMWtiMUcweGcwS0JPNmdPMWwxdw?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-28T23:31:02+00:00",
-    "time": "23:31",
-    "date": "2026-10-28",
-    "title_ko": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
     "ko_by": "original"
   },
   {
