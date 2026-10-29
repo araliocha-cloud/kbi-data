@@ -12,6 +12,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "249d998bd980",
+    "source": "Alô Alô Bahia",
+    "title": "Salvador ganhará festival de churrasco premium a céu aberto com show de Alexandre Peixe",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNekhhZF9FTElBOWkxaE5FUk9oejJoWUZDTzJ0V05NdDV2R2xRSFlwZEEtQzRDV2JtSHVIUnByZl9kelZPZjVxZl91T2tCSXllYXk0QUl0V01xTl9iR1ltMFJYNU1vVHhZamRQeEJLVG12akNicWkxQmZUT1o5RVo5MGdHa0JoMDA2LXhGWWVYNmx4Q2wza1BMSlhWckNOeGhrVWJzbFZlZVczUjgxV2ZWbkNMR3lnNGR3Y1RMcDJQVHVKbWlSRFZiQWllYmQ?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-10-29T16:53:12+00:00",
+    "time": "16:53",
+    "date": "2026-10-29",
+    "title_ko": "살바도르에서는 Alexandre Peixe의 쇼와 함께 프리미엄 야외 바베큐 축제가 열립니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "43d7c4ded66b",
     "source": "누리일보",
     "title": "충남자치경찰위원회, 홍성 글로벌바비큐축제서 교통안전 캠페인 전개",
@@ -225,18 +237,6 @@
     "time": "00:09",
     "date": "2026-10-28",
     "title_ko": "\"바베큐 축제가 산불로 이어진다면?\"…군위군, 재난대응 안전한국훈련 실시",
-    "ko_by": "original"
-  },
-  {
-    "id": "748d54db20b1",
-    "source": "충청시사신문",
-    "title": "[홍성] 홍성 바비큐축제, 골목상권까지 온기 전할까…전통시장·야시장 동참",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YR3lYRGljSlE5eVlzNGtsNGNuS09YMk9sek5SX196cEhVQnhkNE5NNzZYTFp6MGJDTU9KOFMteUhvYVZZZFhkb2VXZm41aHd1Q0FxaGNtZGllbDYtbWViTHBBaWlteHFIbm84?oc=5",
-    "query": "스포츠바비큐",
-    "published_at": "2026-10-27T02:52:13+00:00",
-    "time": "02:52",
-    "date": "2026-10-27",
-    "title_ko": "[홍성] 홍성 바비큐축제, 골목상권까지 온기 전할까…전통시장·야시장 동참",
     "ko_by": "original"
   }
 ]
