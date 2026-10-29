@@ -1,5 +1,17 @@
 [
   {
+    "id": "0af4af61b6af",
+    "source": "투데이충남",
+    "title": "홍성글로벌바비큐페스티벌 개막…상권까지 축제 열기 확산",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BRWlMTkFqRmIzeTd0WG1IMW5mWC1La19IdzU0LUY5cEx2VWt6MkFVcnlsNGw5R014VlZFQVJ6MWdCRUNWY1BlNzVQdUctZUxOOUU5VjBEOU1OeW1JQmVRRlhQSGRaYVM0NEJtdTQwcHlLdw?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-29T01:07:12+00:00",
+    "time": "01:07",
+    "date": "2026-10-29",
+    "title_ko": "홍성글로벌바비큐페스티벌 개막…상권까지 축제 열기 확산",
+    "ko_by": "original"
+  },
+  {
     "id": "9ebcf37db7df",
     "source": "뉴스홈(newshome)",
     "title": "홍성글로벌바비큐페스티벌 개막…산해진미 즐기고 지역상권 살린다",
@@ -9,6 +21,18 @@
     "time": "04:31",
     "date": "2026-10-29",
     "title_ko": "홍성글로벌바비큐페스티벌 개막…산해진미 즐기고 지역상권 살린다",
+    "ko_by": "original"
+  },
+  {
+    "id": "c229c3bd4c5e",
+    "source": "매일일보",
+    "title": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUF9JS19ZNmxEeVBORnpLb0ZLVmc3VkdlQW9aVXlsaS0tR0RwMGZfaWs5WF9BVEhWOWJwWWw3aXJrNDNyN2xRa0tjY1dkNWMwb0JscWZEQlc2bGhmZFJvY0VySko?oc=5",
+    "query": "프로바비큐",
+    "published_at": "2026-10-29T02:17:33+00:00",
+    "time": "02:17",
+    "date": "2026-10-29",
+    "title_ko": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
     "ko_by": "original"
   },
   {
@@ -214,29 +238,5 @@
     "date": "2026-10-26",
     "title_ko": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
     "ko_by": "original"
-  },
-  {
-    "id": "12daedca923e",
-    "source": "Daily Memphian",
-    "title": "Barbecue fest coming in 2027, but not SmokeSlam",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDhoVUJfRnZFX3h3eU40WWJEcm44M2VKSVNVc0hiQXpGWVlJWERobWF2LUJwVlctRDdBelRuTUVVandrSGNkLVVZQk5aZGdZajhOYnJXT0VGbm5qLWxpdEY5N2UxamoxVnFTVVdDeVBRLTZBelFnendZQkN5SEFVcmdWVlZjdlZqeU1LZ2p2NkZRc0d0akFFbQ?oc=5",
-    "query": "Memphis in May",
-    "published_at": "2026-10-24T06:47:00+00:00",
-    "time": "06:47",
-    "date": "2026-10-24",
-    "title_ko": "2027년 바비큐 축제 개최, 스모크슬램은 제외",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "742f69327f34",
-    "source": "The Delta News",
-    "title": "Lake Village Fall Fest starts Friday with BBQ chef teams already prepping for Saturday's festivities",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOGdmcG9ZUEhXdGtNSmYxU3RxendPZzBPa3A3YUxWSDQ1LXhGZ0dJODlaQUZ2UUNLMlBCODM0YXpiWEtadzcwVF90ODh3Nk14c3IwalRPU1g3aWRFVE4xam5XZWphcXQ4R2xiX3hKSU8xWXc0SkhaQUZheTlCWjFpaTM3eVBhUnZmMmtVV2doZHZZLThHaFRMeGkwQTFid1hvbGNPWlVpR216d19iWFJfZnBpa1NMcU04ZDZfb2VJS3ZTdUxiLWo0dGxkNGhJMHhLajVpRWV4MjRrNEFxZXlnRThaZWZZVnlrdzJkQ0hLZTM5a0lndXlDcW5uMXpLVW42a2RDb1ROa1YtaDA?oc=5",
-    "query": "Memphis BBQ Network",
-    "published_at": "2026-10-23T22:02:00+00:00",
-    "time": "22:02",
-    "date": "2026-10-23",
-    "title_ko": "레이크빌리지 가을 축제 금요일 시작… 바비큐 셰프 팀 토요일 행사 준비 한창",
-    "ko_by": "gemini"
   }
 ]
