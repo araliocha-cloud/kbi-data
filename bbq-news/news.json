@@ -24,18 +24,6 @@
     "ko_by": "original"
   },
   {
-    "id": "f665cb112a87",
-    "source": "신아일보",
-    "title": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTkVYT2dKN0RhdTVWTmxZd0JINzQ5UndnMUF3anRpN20yaXFLU3BzaVNmZ180U1paZW5iZmEzT1R0ekFOeGloTTduOXFUcjhGenZuS3dhMDRrMzFadkJuTmZZb1VSX25tbEoxSXEzX2I?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-29T04:02:22+00:00",
-    "time": "04:02",
-    "date": "2026-10-29",
-    "title_ko": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
-    "ko_by": "original"
-  },
-  {
     "id": "3d0009f439e9",
     "source": "LG헬로비전",
     "title": "[홍성 바비큐축제 특집③] 박정주 홍성군수 \"바비큐 축제, 지역 상생 모델로\" |",
@@ -108,18 +96,6 @@
     "ko_by": "original"
   },
   {
-    "id": "c229c3bd4c5e",
-    "source": "매일일보",
-    "title": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUF9JS19ZNmxEeVBORnpLb0ZLVmc3VkdlQW9aVXlsaS0tR0RwMGZfaWs5WF9BVEhWOWJwWWw3aXJrNDNyN2xRa0tjY1dkNWMwb0JscWZEQlc2bGhmZFJvY0VySko?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-29T02:17:33+00:00",
-    "time": "02:17",
-    "date": "2026-10-29",
-    "title_ko": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
-    "ko_by": "original"
-  },
-  {
     "id": "dcca808bec98",
     "source": "충청시사신문",
     "title": "[홍성] 홍성의 맛과 세계의 음식이 만났다…바비큐축제, 지역 상권과 함께하는 나흘",
@@ -129,6 +105,18 @@
     "time": "04:17",
     "date": "2026-10-29",
     "title_ko": "[홍성] 홍성의 맛과 세계의 음식이 만났다…바비큐축제, 지역 상권과 함께하는 나흘",
+    "ko_by": "original"
+  },
+  {
+    "id": "f665cb112a87",
+    "source": "신아일보",
+    "title": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTkVYT2dKN0RhdTVWTmxZd0JINzQ5UndnMUF3anRpN20yaXFLU3BzaVNmZ180U1paZW5iZmEzT1R0ekFOeGloTTduOXFUcjhGenZuS3dhMDRrMzFadkJuTmZZb1VSX25tbEoxSXEzX2I?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-29T04:02:22+00:00",
+    "time": "04:02",
+    "date": "2026-10-29",
+    "title_ko": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
     "ko_by": "original"
   },
   {
@@ -238,5 +226,17 @@
     "date": "2026-10-26",
     "title_ko": "한돈자조금, '서울바비큐페스티벌'서 한돈 매력 알리기 나서",
     "ko_by": "original"
+  },
+  {
+    "id": "039bd85883bf",
+    "source": "Yahoo",
+    "title": "I Judged The 37th Annual Jack Daniel’s BBQ Competition—And It Felt Like A Family Reunion",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORlI2REVwRWJMZXFjQkNqaDZjc0JjRTFQa3VRV1B0cnBESjZGRzNaS2VudHpWa3RUWmJMQjdUem9jVkVMOEtyQjRsNzNjdm1vczBHTHg0ZnBCODMxSkZwTmJwSXplRVRMem1ZSVRhSXBObWhoQ0oxQVdDQUp4cEZSTlVGUklGakJpaFVweW82Zw?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-10-26T12:23:00+00:00",
+    "time": "12:23",
+    "date": "2026-10-26",
+    "title_ko": "나는 제37회 잭 다니엘의 바비큐 대회를 심사했는데, 마치 가족 모임처럼 느껴졌다.",
+    "ko_by": "fallback"
   }
 ]
