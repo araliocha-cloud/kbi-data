@@ -12,15 +12,15 @@
     "ko_by": "gemini"
   },
   {
-    "id": "2b1261cce5ed",
-    "source": "뉴스워커",
-    "title": "[포토] 박수현 충남도지사, 홍성글로벌바비큐페스티벌 현장 찾아 소통",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15RUhDM09UOHhVSzFFM3NValR4UkxmeVVqektLQzdYVzctZjFDY1RCSmljczJBM3EwYWtJYWZaRXBCam1LNEJIY2h2TXAwb0xuRnh6MGE0a1lwX2RjdTM4cFFoMWlxenJOQ21FZkhuTErSAXRBVV95cUxQaDAtaVZ6ajZ4QmFNVG84ZXNvZk0yRC1KZXJqREJlZDhhZW5wUzgtOC1QSXVVTU5YTVBPRVBfNk55NkZnUU84WEdXQTY1NmdEcnlacmo1bzBVY0xyV1c2ZzBYSnkzdkV3SEZZbzdrTERHOWRPQw?oc=5",
+    "id": "a7924bc3b471",
+    "source": "아산데일리",
+    "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRjE3WHAzUHBtbTJ4UGl0Ukw0dVFsUGhnUU40eHFDcWhzQVBpZW5kMUEtb2VYUDBXd1gtamdCS2RFSFdabEhLQlRoa3AwNU5wd3BV?oc=5",
     "query": "바비큐 대회",
-    "published_at": "2026-10-30T10:16:00+00:00",
-    "time": "10:16",
+    "published_at": "2026-10-30T12:27:13+00:00",
+    "time": "12:27",
     "date": "2026-10-30",
-    "title_ko": "[포토] 박수현 충남도지사, 홍성글로벌바비큐페스티벌 현장 찾아 소통",
+    "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
     "ko_by": "original"
   },
   {
@@ -168,6 +168,18 @@
     "ko_by": "original"
   },
   {
+    "id": "552729e05343",
+    "source": "메가충청뉴스",
+    "title": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMEU4N2ZLUGhNNXBGSXNyci13NEpwY3V2a1djNEdpM2pxckNxaW1VcE5rSldQeFlaTkRKN19RR2tmbF9ObXJhVnU3RE8wNDNrOHQwTV9PakxTMWtiMUcweGcwS0JPNmdPMWwxdw?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-28T23:31:02+00:00",
+    "time": "23:31",
+    "date": "2026-10-28",
+    "title_ko": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
+    "ko_by": "original"
+  },
+  {
     "id": "3de9981571ef",
     "source": "충청뉴스",
     "title": "한우·한돈에 세계 바비큐까지…홍성글로벌바비큐페스티벌 개막",
@@ -273,18 +285,6 @@
     "time": "02:17",
     "date": "2026-10-29",
     "title_ko": "홍성군, '2026 홍성글로벌바비큐페스티벌' 앞두고 합동 안전점검",
-    "ko_by": "original"
-  },
-  {
-    "id": "552729e05343",
-    "source": "메가충청뉴스",
-    "title": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMEU4N2ZLUGhNNXBGSXNyci13NEpwY3V2a1djNEdpM2pxckNxaW1VcE5rSldQeFlaTkRKN19RR2tmbF9ObXJhVnU3RE8wNDNrOHQwTV9PakxTMWtiMUcweGcwS0JPNmdPMWwxdw?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-28T23:31:02+00:00",
-    "time": "23:31",
-    "date": "2026-10-28",
-    "title_ko": "홍성글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고 상권에 활력 더하고",
     "ko_by": "original"
   }
 ]
