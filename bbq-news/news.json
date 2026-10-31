@@ -1,5 +1,17 @@
 [
   {
+    "id": "1a60f120e961",
+    "source": "국제뉴스",
+    "title": "[GJ포토] 5m 스카이타워 그릴 등장…홍성 바비큐 축제 관광객 눈길",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xU19QYnZzemhfMVVYcS1Mbl9nS3J5TEtUUWQ0aGJNME1uYWh0bVVxMHloSHVyWGkwanRoSzZfTTZvN29vSFdSSDh5T3l1eC10aG9LQUdocS1GNC1KWEg5VjlRbkxqQWJ0NHN0RVhR?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-10-31T14:19:28+00:00",
+    "time": "14:19",
+    "date": "2026-10-31",
+    "title_ko": "[GJ포토] 5m 스카이타워 그릴 등장…홍성 바비큐 축제 관광객 눈길",
+    "ko_by": "original"
+  },
+  {
     "id": "d2a9732db65d",
     "source": "국제뉴스",
     "title": "\"숯불은 쉴 틈 없다\"…홍성 글로벌 바비큐 축제 열기 후끈",
@@ -57,6 +69,18 @@
     "time": "04:33",
     "date": "2026-10-30",
     "title_ko": "[홍성 글로벌 바비큐 페스티벌②]\"눈도 귀도 즐거운 홍성 글바페\"…요리 대회·공연 마련",
+    "ko_by": "original"
+  },
+  {
+    "id": "a56311ff5c8a",
+    "source": "농수축산신문",
+    "title": "바비큐 페스티벌과 시너지… 국화 전시·농특산물·농업 힐링존 다채",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BOGc2cUxzUXVHRXJzVGw2dl9CcUVUaVQ1czVhcjByTGZDN0hheUw0RHpZekJndkdxN1E3eWY1LUotZWF4RnZSc2o3ZzVyb0kwX0lIVjhPWFJQVlplcUVoMHBiejB2T3lPbEpuaw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-10-30T04:18:32+00:00",
+    "time": "04:18",
+    "date": "2026-10-30",
+    "title_ko": "바비큐 페스티벌과 시너지… 국화 전시·농특산물·농업 힐링존 다채",
     "ko_by": "original"
   },
   {
@@ -213,30 +237,6 @@
     "time": "08:22",
     "date": "2026-10-29",
     "title_ko": "홍성글로벌바비큐페스티벌, 산해진미 입맛 잡고 상권에 활력 더하고",
-    "ko_by": "original"
-  },
-  {
-    "id": "3de9981571ef",
-    "source": "충청뉴스",
-    "title": "한우·한돈에 세계 바비큐까지…홍성글로벌바비큐페스티벌 개막",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FRjc4Xzl2Z2FLd2dPMnpTZ3hPTEktZ00yVVBXZFBsUFZoVGE3YkpKU2MzOXZCc2QwcmhuYk1lRWRpTV9KUWFBdnBZcm5nTkRKd0FLNS1rdGV6aDdPNWRrSHZteXdhT2NXZ2huRw?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-29T07:42:16+00:00",
-    "time": "07:42",
-    "date": "2026-10-29",
-    "title_ko": "한우·한돈에 세계 바비큐까지…홍성글로벌바비큐페스티벌 개막",
-    "ko_by": "original"
-  },
-  {
-    "id": "3d0009f439e9",
-    "source": "LG헬로비전",
-    "title": "[홍성 바비큐축제 특집③] 박정주 홍성군수 \"바비큐 축제, 지역 상생 모델로\" |",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84VU51WXVTdUpTdFlrVEdQRFBOd3RndHFjVUpwalN5bER2MjJwNzdaYjVkTDFCNmRsT3FiV05jc05ySFNrWER6aW9hX0dlaHo0LWFzY1RuZFFUdDlzQ3A5M1RraWtuQXN4a0o4UVVjZ0dpXzJreUE?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-29T06:17:06+00:00",
-    "time": "06:17",
-    "date": "2026-10-29",
-    "title_ko": "[홍성 바비큐축제 특집③] 박정주 홍성군수 \"바비큐 축제, 지역 상생 모델로\" |",
     "ko_by": "original"
   }
 ]
