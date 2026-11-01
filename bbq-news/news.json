@@ -1,5 +1,17 @@
 [
   {
+    "id": "9f09393e2a24",
+    "source": "문화일보",
+    "title": "수산 바비큐 즐기며 ‘무적해병’ 매력에 푹…김포시, 해병대 문화축제",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zVm1OdGYySkRjUjNLRE92NV9WbHB1Tkx5dWpRMkVoVUk1MVFHOHlRMXNKdjlNeV80QlAzQ0VJOHNMeDk5QW5sdWhNYUxYUXlT?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-11-01T21:25:30+00:00",
+    "time": "21:25",
+    "date": "2026-11-01",
+    "title_ko": "수산 바비큐 즐기며 ‘무적해병’ 매력에 푹…김포시, 해병대 문화축제",
+    "ko_by": "original"
+  },
+  {
     "id": "32e619b93b55",
     "source": "공뉴스",
     "title": "홍성 바비큐축제 성공…진입차주·주차요원 곳곳서 실랑이, 넓은 동선 혼란",
@@ -226,17 +238,5 @@
     "date": "2026-10-29",
     "title_ko": "살바도르, 알렉상드르 페이시 공연 곁들인 야외 프리미엄 슈하스코 축제 개최",
     "ko_by": "gemini"
-  },
-  {
-    "id": "43d7c4ded66b",
-    "source": "누리일보",
-    "title": "충남자치경찰위원회, 홍성 글로벌바비큐축제서 교통안전 캠페인 전개",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yQ0xhMExCMmE5NkE1djhrWGxJc0NkN3RwcFBZa2xkcHlab2NJc19PZmhvUnVYS1FLdmRLcEZaWndzQXpuY1l1VWs5ZjgxNFBINFQ1QmlzZ0ZnRGVZ?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-29T09:50:24+00:00",
-    "time": "09:50",
-    "date": "2026-10-29",
-    "title_ko": "충남자치경찰위원회, 홍성 글로벌바비큐축제서 교통안전 캠페인 전개",
-    "ko_by": "original"
   }
 ]
