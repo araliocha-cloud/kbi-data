@@ -1,5 +1,17 @@
 [
   {
+    "id": "6f7fb9794d8e",
+    "source": "공뉴스",
+    "title": "청운대, 홍성 바비큐축제서 ‘전공 체험·국제공연’",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSmdGUkw0Wm5UaUc3U0d4ODJ5cmg5a0N1WHBXLXl5ZTVvdzJiNG1zcV9PNnBVaFUyNGdGTTd0aWRMYW1vQU84TlBNM2duMThIT2NIRXkyV25wcVhqTnZTQ2gwYXVGWXVkQ3p3Xw?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-11-01T22:48:31+00:00",
+    "time": "22:48",
+    "date": "2026-11-01",
+    "title_ko": "청운대, 홍성 바비큐축제서 ‘전공 체험·국제공연’",
+    "ko_by": "original"
+  },
+  {
     "id": "9f09393e2a24",
     "source": "문화일보",
     "title": "수산 바비큐 즐기며 ‘무적해병’ 매력에 푹…김포시, 해병대 문화축제",
@@ -225,18 +237,6 @@
     "time": "16:58",
     "date": "2026-10-29",
     "title_ko": "맙소사! 카멜 목사, 세계 바비큐 챔피언십 우승",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "249d998bd980",
-    "source": "Alô Alô Bahia",
-    "title": "Salvador ganhará festival de churrasco premium a céu aberto com show de Alexandre Peixe",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNekhhZF9FTElBOWkxaE5FUk9oejJoWUZDTzJ0V05NdDV2R2xRSFlwZEEtQzRDV2JtSHVIUnByZl9kelZPZjVxZl91T2tCSXllYXk0QUl0V01xTl9iR1ltMFJYNU1vVHhZamRQeEJLVG12akNicWkxQmZUT1o5RVo5MGdHa0JoMDA2LXhGWWVYNmx4Q2wza1BMSlhWckNOeGhrVWJzbFZlZVczUjgxV2ZWbkNMR3lnNGR3Y1RMcDJQVHVKbWlSRFZiQWllYmQ?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-10-29T16:53:12+00:00",
-    "time": "16:53",
-    "date": "2026-10-29",
-    "title_ko": "살바도르, 알렉상드르 페이시 공연 곁들인 야외 프리미엄 슈하스코 축제 개최",
     "ko_by": "gemini"
   }
 ]
