@@ -156,18 +156,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "a7924bc3b471",
-    "source": "아산데일리",
-    "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRjE3WHAzUHBtbTJ4UGl0Ukw0dVFsUGhnUU40eHFDcWhzQVBpZW5kMUEtb2VYUDBXd1gtamdCS2RFSFdabEhLQlRoa3AwNU5wd3BV?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-30T12:27:13+00:00",
-    "time": "12:27",
-    "date": "2026-10-30",
-    "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
-    "ko_by": "original"
-  },
-  {
     "id": "56e73e712d6f",
     "source": "Los Andes",
     "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
@@ -178,6 +166,18 @@
     "date": "2026-10-30",
     "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
     "ko_by": "gemini"
+  },
+  {
+    "id": "a7924bc3b471",
+    "source": "아산데일리",
+    "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRjE3WHAzUHBtbTJ4UGl0Ukw0dVFsUGhnUU40eHFDcWhzQVBpZW5kMUEtb2VYUDBXd1gtamdCS2RFSFdabEhLQlRoa3AwNU5wd3BV?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-30T12:27:13+00:00",
+    "time": "12:27",
+    "date": "2026-10-30",
+    "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
+    "ko_by": "original"
   },
   {
     "id": "5fbd8149404f",
