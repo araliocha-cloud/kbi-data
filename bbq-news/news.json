@@ -1,17 +1,5 @@
 [
   {
-    "id": "ffaa6f3d38fd",
-    "source": "팜인사이트",
-    "title": "한돈자조금, ‘서울 바비큐 페스티벌’서 홍보·할인판매 부스 운영",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EV3JuR2xVdGdvdnNnSUpYWHVEX3RNOWxBb2dNQ2hsaTQ1NHVCZDUzOXJxZVdHdjJFc1NVM25jekFFN3pwSUtfT0lyenV0MXN4cFZfRTZ5SWQ0S2pxUjdyMmp6Tkw2djBiZHg1Szd3?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-29T09:43:54+00:00",
-    "time": "09:43",
-    "date": "2026-10-29",
-    "title_ko": "한돈자조금, ‘서울 바비큐 페스티벌’서 홍보·할인판매 부스 운영",
-    "ko_by": "original"
-  },
-  {
     "id": "9ba4a3689211",
     "source": "충청뉴스",
     "title": "23만4천명 찾은 홍성 글로벌바비큐페스티벌 성료",
@@ -72,6 +60,18 @@
     "ko_by": "original"
   },
   {
+    "id": "de1b66a567a3",
+    "source": "글로컬타임스",
+    "title": "홍성글로벌바비큐페스티벌, 실시간 1만 8,629명 최고 기록… 공식 집계는 7만 7,168명",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WGtEd1VEbE00eUxiMlcyaFhVb3NQeFFkZG42LVNWejV3SElZaWYteEEtMVZqajhZSHlJaENucUJmNG05eFNmaVgwbGw1czRXU2kyZlJ3NldNY0VSOFhJM0JKOGVmU0F10gFsQVVfeXFMUDc0QTFaTUM1V3hVUld4Y3IxMXlHX204QWo4eUpPV00zcW9aOUJCNzdiTW5qZ0Z5YkI4b2M0VjA3dUcxSVFfMHR0OGQzQmtGX0pSZmswdjhlajg1SjdCTnhQaTVGYXBpS2hWcS1h?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-11-01T12:10:38+00:00",
+    "time": "12:10",
+    "date": "2026-11-01",
+    "title_ko": "홍성글로벌바비큐페스티벌, 실시간 1만 8,629명 최고 기록… 공식 집계는 7만 7,168명",
+    "ko_by": "original"
+  },
+  {
     "id": "c591110173ea",
     "source": "국제뉴스",
     "title": "홍성바비큐축제 방문객 집계 주목…실시간 최고 1만8629명, 공식 7만7168명",
@@ -120,18 +120,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "a7924bc3b471",
-    "source": "아산데일리",
-    "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRjE3WHAzUHBtbTJ4UGl0Ukw0dVFsUGhnUU40eHFDcWhzQVBpZW5kMUEtb2VYUDBXd1gtamdCS2RFSFdabEhLQlRoa3AwNU5wd3BV?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-30T12:27:13+00:00",
-    "time": "12:27",
-    "date": "2026-10-30",
-    "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
-    "ko_by": "original"
-  },
-  {
     "id": "56e73e712d6f",
     "source": "Los Andes",
     "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
@@ -142,6 +130,18 @@
     "date": "2026-10-30",
     "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
     "ko_by": "gemini"
+  },
+  {
+    "id": "a7924bc3b471",
+    "source": "아산데일리",
+    "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRjE3WHAzUHBtbTJ4UGl0Ukw0dVFsUGhnUU40eHFDcWhzQVBpZW5kMUEtb2VYUDBXd1gtamdCS2RFSFdabEhLQlRoa3AwNU5wd3BV?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-30T12:27:13+00:00",
+    "time": "12:27",
+    "date": "2026-10-30",
+    "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
+    "ko_by": "original"
   },
   {
     "id": "5fbd8149404f",
