@@ -1,5 +1,17 @@
 [
   {
+    "id": "6585079cd625",
+    "source": "WJHG",
+    "title": "Bring on the BBQ! 30A BBQ Festival returns with 18 local restaurants, live music and more",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkZ6TUcyRlVmZjhzYmptQzFoS0Qtem8zcmlnSXpjMnUxU0J0X1JxclI0MlBScnpkMk50SHkySEhJODMtWlQ4cFJ3d1MzbTJOdkF0T0R2Y2g2NHBYOVpubDI3MGtzZ3MzTmVzQXZHYkhEMklkLWVBRTc3M0RJazRsOXVXUmlzWGI2dUx4TVRmWkdhQ0d5UFQ5bkVSejM2YkloczZacUFvdFI5bHVqVVdPc1ZfUE4wTzU2M1BObXU3b1BGQdIBwgFBVV95cUxQUkZ6TUcyRlVmZjhzYmptQzFoS0Qtem8zcmlnSXpjMnUxU0J0X1JxclI0MlBScnpkMk50SHkySEhJODMtWlQ4cFJ3d1MzbTJOdkF0T0R2Y2g2NHBYOVpubDI3MGtzZ3MzTmVzQXZHYkhEMklkLWVBRTc3M0RJazRsOXVXUmlzWGI2dUx4TVRmWkdhQ0d5UFQ5bkVSejM2YkloczZacUFvdFI5bHVqVVdPc1ZfUE4wTzU2M1BObXU3b1BGQQ?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-11-02T19:57:19+00:00",
+    "time": "19:57",
+    "date": "2026-11-02",
+    "title_ko": "바비큐를 즐겨보세요! 18개의 현지 레스토랑, 라이브 음악 등이 있는 30A 바비큐 페스티벌이 돌아옵니다",
+    "ko_by": "fallback"
+  },
+  {
     "id": "b19e5367eda5",
     "source": "한국대학신문",
     "title": "혜전대, ‘2026 홍성 글로벌 바비큐 페스티벌’서 바비큐·건강서비스 운영",
@@ -21,18 +33,6 @@
     "time": "06:54",
     "date": "2026-11-02",
     "title_ko": "청운대, 홍성바비큐페스티벌서 23만 명 유치…영아트·캠핑장·특산물 음식 제공",
-    "ko_by": "original"
-  },
-  {
-    "id": "ffaa6f3d38fd",
-    "source": "팜인사이트",
-    "title": "한돈자조금, ‘서울 바비큐 페스티벌’서 홍보·할인판매 부스 운영",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EV3JuR2xVdGdvdnNnSUpYWHVEX3RNOWxBb2dNQ2hsaTQ1NHVCZDUzOXJxZVdHdjJFc1NVM25jekFFN3pwSUtfT0lyenV0MXN4cFZfRTZ5SWQ0S2pxUjdyMmp6Tkw2djBiZHg1Szd3?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-29T09:43:54+00:00",
-    "time": "09:43",
-    "date": "2026-10-29",
-    "title_ko": "한돈자조금, ‘서울 바비큐 페스티벌’서 홍보·할인판매 부스 운영",
     "ko_by": "original"
   },
   {
@@ -156,18 +156,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "56e73e712d6f",
-    "source": "Los Andes",
-    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-30T17:39:00+00:00",
-    "time": "17:39",
-    "date": "2026-10-30",
-    "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
-    "ko_by": "gemini"
-  },
-  {
     "id": "a7924bc3b471",
     "source": "아산데일리",
     "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
@@ -178,6 +166,18 @@
     "date": "2026-10-30",
     "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
     "ko_by": "original"
+  },
+  {
+    "id": "56e73e712d6f",
+    "source": "Los Andes",
+    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-10-30T17:39:00+00:00",
+    "time": "17:39",
+    "date": "2026-10-30",
+    "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
+    "ko_by": "gemini"
   },
   {
     "id": "5fbd8149404f",
