@@ -1,5 +1,17 @@
 [
   {
+    "id": "a3ce47fbeca1",
+    "source": "팜인사이트",
+    "title": "한돈자조금, 홍성 바비큐페스티벌서 한돈 할인판매",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BZndvY2N1Tzg1eE9tRVhqREM3SE51OS1VRDBKRXJxRGdyOEdvR2hmOENyZWNHOXNLdFNJS0t1NFJyV3p0TEtGaWRnWmxHUGN3TmV0NG9CczFaeTFzZDdWZmloejZJY1R1RTNjbU1R?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-02T04:08:00+00:00",
+    "time": "04:08",
+    "date": "2026-11-02",
+    "title_ko": "한돈자조금, 홍성 바비큐페스티벌서 한돈 할인판매",
+    "ko_by": "original"
+  },
+  {
     "id": "9ba4a3689211",
     "source": "충청뉴스",
     "title": "23만4천명 찾은 홍성 글로벌바비큐페스티벌 성료",
@@ -120,18 +132,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "56e73e712d6f",
-    "source": "Los Andes",
-    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-30T17:39:00+00:00",
-    "time": "17:39",
-    "date": "2026-10-30",
-    "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
-    "ko_by": "gemini"
-  },
-  {
     "id": "a7924bc3b471",
     "source": "아산데일리",
     "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
@@ -142,6 +142,18 @@
     "date": "2026-10-30",
     "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
     "ko_by": "original"
+  },
+  {
+    "id": "56e73e712d6f",
+    "source": "Los Andes",
+    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-10-30T17:39:00+00:00",
+    "time": "17:39",
+    "date": "2026-10-30",
+    "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
+    "ko_by": "gemini"
   },
   {
     "id": "5fbd8149404f",
@@ -225,18 +237,6 @@
     "time": "01:26",
     "date": "2026-10-30",
     "title_ko": "홍성군, 가을비에도 바비큐 열기 후끈… 홍성글로벌바비큐페스티벌 개막",
-    "ko_by": "original"
-  },
-  {
-    "id": "aacb7973cce6",
-    "source": "굿모닝충청",
-    "title": "\"가을밤 수놓은 숯불 향기\"…홍성 글로벌 바비큐 페스티벌 개막",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfRFVZNWZVTEtHMDMwd0ktQ214eG5HcFlZaXRzMnJNbXFxM3lLLVNhMl9LU3hHeXhNTU1ySnpMZkxhTndBX195eXdhVW45amxLcGFNSjlKMG9USHB5NHRSeU02UTlYX1dScElZY1RvX2JJQQ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-30T01:21:05+00:00",
-    "time": "01:21",
-    "date": "2026-10-30",
-    "title_ko": "\"가을밤 수놓은 숯불 향기\"…홍성 글로벌 바비큐 페스티벌 개막",
     "ko_by": "original"
   }
 ]
