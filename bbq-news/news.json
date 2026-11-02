@@ -84,15 +84,15 @@
     "ko_by": "original"
   },
   {
-    "id": "56e73e712d6f",
-    "source": "Los Andes",
-    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-30T17:39:00+00:00",
-    "time": "17:39",
-    "date": "2026-10-30",
-    "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
+    "id": "a8367efa1b57",
+    "source": "Omaha World-Herald",
+    "title": "Inaugural Sandhills Smoke Show BBQ Competition starts Friday",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDdZSEZCNGVBTDItM0pSSXVvUHlIdW83Y0xka1ZKS2x5Z1M2ZDc4SUZxSWhkUHNyS1VVUHdKTVFwMkRPemJJcmtPc1NwUUotbGdNZEoyMzhNc1daZ01vT2g4UFcwal9kbFpNVjhENldwSTlUQ1JLUkRwV3lTcVB0aTNsV1dVMnhZZ3E1cnRYOEUzYkg1VjJjQ0dDVHE?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-10-31T11:29:13+00:00",
+    "time": "11:29",
+    "date": "2026-10-31",
+    "title_ko": "제1회 샌드힐스 스모크 쇼 바비큐 대회 금요일 시작",
     "ko_by": "gemini"
   },
   {
@@ -106,6 +106,18 @@
     "date": "2026-10-30",
     "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
     "ko_by": "original"
+  },
+  {
+    "id": "56e73e712d6f",
+    "source": "Los Andes",
+    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-10-30T17:39:00+00:00",
+    "time": "17:39",
+    "date": "2026-10-30",
+    "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
+    "ko_by": "gemini"
   },
   {
     "id": "02bfc9e3ad7b",
@@ -226,17 +238,5 @@
     "date": "2026-10-29",
     "title_ko": "홍성군, ‘2026 홍성글로벌바비큐페스티벌 전국요리경연대회’ 성료",
     "ko_by": "original"
-  },
-  {
-    "id": "d1893f2ad5e3",
-    "source": "Prensa Libre",
-    "title": "¡Al estilo vaquero! Competencia de barbacoa ahumada ofrecerá actividades para toda la familia",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbVZ4NHZlY3VhUkh1ZXc4TmhPV0JlYVk3Q25ESzhzUFFPNGZOYkZWS01BMXU0TjU3MFRFSVJFeFFRbW5XeHJVQi1HVHVOcHQ0WDkwZzNjUFZfRU1heWNIMmVQb2NqV1BWRERYNnRQeVFKanZiNHhIVmlmaFZCbzZ5Z2xlaXJYRUoxOW9Fb3lkR3NCR2liYjd5bmNEb05GS056ZVI1ZnVTcWF2WHJGS1FaYjBUX1N1VWQwYWVnWHFrWjRwQWZRZ3VJeXZVLXV3ZjZQ?oc=5",
-    "query": "Barbacoa México",
-    "published_at": "2026-10-29T20:00:00+00:00",
-    "time": "20:00",
-    "date": "2026-10-29",
-    "title_ko": "카우보이 스타일! 훈제 바비큐 대회, 온 가족 위한 즐길거리 제공",
-    "ko_by": "gemini"
   }
 ]
