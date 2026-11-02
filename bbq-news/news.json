@@ -1,5 +1,29 @@
 [
   {
+    "id": "91b005f27d65",
+    "source": "한국대학신문",
+    "title": "청운대, 홍성바비큐페스티벌서 23만 명 유치…영아트·캠핑장·특산물 음식 제공",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96cW1oeGhBV1VLMUV3V0ZQay1xanE5STlNWVVtdVpJTjlpbEdUTHYxczdMRVJZZ084SUpUX1pfNThaejNjUWtNTE83d19nbHFOb2RPMWtmUUM5RGYzOGJLVnMzdjNJUQ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-02T06:54:10+00:00",
+    "time": "06:54",
+    "date": "2026-11-02",
+    "title_ko": "청운대, 홍성바비큐페스티벌서 23만 명 유치…영아트·캠핑장·특산물 음식 제공",
+    "ko_by": "original"
+  },
+  {
+    "id": "a3ce47fbeca1",
+    "source": "팜인사이트",
+    "title": "한돈자조금, 홍성 바비큐페스티벌서 한돈 할인판매",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BZndvY2N1Tzg1eE9tRVhqREM3SE51OS1VRDBKRXJxRGdyOEdvR2hmOENyZWNHOXNLdFNJS0t1NFJyV3p0TEtGaWRnWmxHUGN3TmV0NG9CczFaeTFzZDdWZmloejZJY1R1RTNjbU1R?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-02T04:08:00+00:00",
+    "time": "04:08",
+    "date": "2026-11-02",
+    "title_ko": "한돈자조금, 홍성 바비큐페스티벌서 한돈 할인판매",
+    "ko_by": "original"
+  },
+  {
     "id": "9ba4a3689211",
     "source": "충청뉴스",
     "title": "23만4천명 찾은 홍성 글로벌바비큐페스티벌 성료",
@@ -213,30 +237,6 @@
     "time": "02:23",
     "date": "2026-10-30",
     "title_ko": "[홍성 글로벌 바비큐 페스티벌①] \"5m 대형 그릴에 불향 가득\"…'홍성 바비큐'",
-    "ko_by": "original"
-  },
-  {
-    "id": "944a253f6b77",
-    "source": "아주경제",
-    "title": "홍성군, 가을비에도 바비큐 열기 후끈… 홍성글로벌바비큐페스티벌 개막",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VNklSSXhzVmM4UENSMms2STFBc01XajVDTFpMS2lQVnZVWHlFYWcxZHlQdzAzVGtjbk5vZldadmRtUVprNUxIeV9VcHRDd1JkQ29pV19zcGjSAVhBVV95cUxOVTZJUkl4c1ZjOFBDUjJrNkkxQXNNV2o1Q0xaTEtpUFZ2VVh5RWFnMWR5UHcwM1RrY25Ob2ZXWnZkbVFaazVMSHlfVXB0Q3dSZENvaVdfc3Bo?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-30T01:26:46+00:00",
-    "time": "01:26",
-    "date": "2026-10-30",
-    "title_ko": "홍성군, 가을비에도 바비큐 열기 후끈… 홍성글로벌바비큐페스티벌 개막",
-    "ko_by": "original"
-  },
-  {
-    "id": "aacb7973cce6",
-    "source": "굿모닝충청",
-    "title": "\"가을밤 수놓은 숯불 향기\"…홍성 글로벌 바비큐 페스티벌 개막",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfRFVZNWZVTEtHMDMwd0ktQ214eG5HcFlZaXRzMnJNbXFxM3lLLVNhMl9LU3hHeXhNTU1ySnpMZkxhTndBX195eXdhVW45amxLcGFNSjlKMG9USHB5NHRSeU02UTlYX1dScElZY1RvX2JJQQ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-10-30T01:21:05+00:00",
-    "time": "01:21",
-    "date": "2026-10-30",
-    "title_ko": "\"가을밤 수놓은 숯불 향기\"…홍성 글로벌 바비큐 페스티벌 개막",
     "ko_by": "original"
   }
 ]
