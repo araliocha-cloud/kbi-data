@@ -1,5 +1,17 @@
 [
   {
+    "id": "f4e166f40460",
+    "source": "Kansas City Magazine",
+    "title": "Big barns, bigger ambitions and plenty of barbecue mark a new era for the American Royal and one of Kansas City’s most beloved traditions",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTHdlM09ONW5XN0pqaTJLWnBpbmJZdnVnUWE1OGhUbWtYZVpXS0E5YWlJUEoxZ0JtSlE5aUk2aElld3p1YllBeHdNZEkwaEZidHczRzNfdnJ6VHdHTUlPd2Uyblo5RllLWEI1dmVDRkJhZWItbkliLUJKM0RIRGRTRFg3N0dFckFVNkY3czJpeEszWlVnN253RXMzX3VmWHM5S1J6UTlzZXFRa1JlOXJDNEFZbU1SRm5LNjNuVnhmZWM5RUhUSWtZVjc5TVR4M19jZmx0U3E1RDBjam5mMmVBOEstdGE5d2IzelNicFVHVVNYVC1r?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-11-03T20:42:17+00:00",
+    "time": "20:42",
+    "date": "2026-11-03",
+    "title_ko": "거대한 헛고간과 야망, 풍성한 바비큐가 아메리칸 로열과 캔자스시티 전통의 새시대를 열었다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "53bf50a05014",
     "source": "스포츠월드",
     "title": "홍성 바비큐 축제 23만명 방문…악천우 뚫고 ′맛난 축제′로 자리매김",
@@ -225,18 +237,6 @@
     "time": "12:27",
     "date": "2026-10-30",
     "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
-    "ko_by": "original"
-  },
-  {
-    "id": "5fbd8149404f",
-    "source": "엠뉴스",
-    "title": "홍성군, 글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고, 상권에 활력 더하고",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6SjFReldhMWFSU09RQ2trbEhPNkFJYUhEaWUwVjA5TGFDN2N0SVp1dllZLUhLdTVjM1FhUGpyNmdrZkE3UnNFWXBxYVhqbFg2QnRkS3hPc3h6MVlWcUZrekRoTQ?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-30T12:04:06+00:00",
-    "time": "12:04",
-    "date": "2026-10-30",
-    "title_ko": "홍성군, 글로벌바비큐페스티벌 개막… 산해진미로 입맛 잡고, 상권에 활력 더하고",
     "ko_by": "original"
   }
 ]
