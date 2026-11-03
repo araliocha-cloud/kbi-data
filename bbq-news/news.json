@@ -1,5 +1,17 @@
 [
   {
+    "id": "a38edb05134a",
+    "source": "한국대학신문",
+    "title": "대구과학대, 군위 바베큐 축제서 ‘사과 호두과자·사과대추 뱅쇼’ 선보여",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zR3lQamUxREdNTkhqLWhaTk9fSFRuaUR0YnQ1SktXa1pDckVkNnVXaXQ4MzZhcUNpVmFrZFN3WmlEX2ZjU2d4YnJxVTNiczJ3Nms3Z3p5X2pCMlNvOEpsMUNIbGdIZw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-03T05:20:42+00:00",
+    "time": "05:20",
+    "date": "2026-11-03",
+    "title_ko": "대구과학대, 군위 바베큐 축제서 ‘사과 호두과자·사과대추 뱅쇼’ 선보여",
+    "ko_by": "original"
+  },
+  {
     "id": "6fffb029b438",
     "source": "농민신문",
     "title": "농협 홍성군지부, 바비큐페스티벌서 ‘농심천심’ 전파",
@@ -48,27 +60,15 @@
     "ko_by": "original"
   },
   {
-    "id": "a3ce47fbeca1",
+    "id": "ffaa6f3d38fd",
     "source": "팜인사이트",
-    "title": "한돈자조금, 홍성 바비큐페스티벌서 한돈 할인판매",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BZndvY2N1Tzg1eE9tRVhqREM3SE51OS1VRDBKRXJxRGdyOEdvR2hmOENyZWNHOXNLdFNJS0t1NFJyV3p0TEtGaWRnWmxHUGN3TmV0NG9CczFaeTFzZDdWZmloejZJY1R1RTNjbU1R?oc=5",
+    "title": "한돈자조금, ‘서울 바비큐 페스티벌’서 홍보·할인판매 부스 운영",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EV3JuR2xVdGdvdnNnSUpYWHVEX3RNOWxBb2dNQ2hsaTQ1NHVCZDUzOXJxZVdHdjJFc1NVM25jekFFN3pwSUtfT0lyenV0MXN4cFZfRTZ5SWQ0S2pxUjdyMmp6Tkw2djBiZHg1Szd3?oc=5",
     "query": "바베큐 페스티벌",
-    "published_at": "2026-11-02T04:08:00+00:00",
-    "time": "04:08",
-    "date": "2026-11-02",
-    "title_ko": "한돈자조금, 홍성 바비큐페스티벌서 한돈 할인판매",
-    "ko_by": "original"
-  },
-  {
-    "id": "d9a0e26f301c",
-    "source": "한돈뉴스",
-    "title": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q091NDZseGg3czhNV1Z6cEpwaW5lYVFoMndERWdoaVRQazNZRGd5elhNZkdvWG5hamY5al84VTRPWXJrV3Y2aElENGJRQkwxMU5wckgwOW1tdjFpSFZkdE5FSW9MeUZh?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-01T21:06:00+00:00",
-    "time": "21:06",
-    "date": "2026-11-01",
-    "title_ko": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
+    "published_at": "2026-10-29T09:43:54+00:00",
+    "time": "09:43",
+    "date": "2026-10-29",
+    "title_ko": "한돈자조금, ‘서울 바비큐 페스티벌’서 홍보·할인판매 부스 운영",
     "ko_by": "original"
   },
   {
@@ -105,6 +105,18 @@
     "time": "21:25",
     "date": "2026-11-01",
     "title_ko": "수산 바비큐 즐기며 ‘무적해병’ 매력에 푹…김포시, 해병대 문화축제",
+    "ko_by": "original"
+  },
+  {
+    "id": "d9a0e26f301c",
+    "source": "한돈뉴스",
+    "title": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q091NDZseGg3czhNV1Z6cEpwaW5lYVFoMndERWdoaVRQazNZRGd5elhNZkdvWG5hamY5al84VTRPWXJrV3Y2aElENGJRQkwxMU5wckgwOW1tdjFpSFZkdE5FSW9MeUZh?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-01T21:06:00+00:00",
+    "time": "21:06",
+    "date": "2026-11-01",
+    "title_ko": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
     "ko_by": "original"
   },
   {
@@ -180,18 +192,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "56e73e712d6f",
-    "source": "Los Andes",
-    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-30T17:39:00+00:00",
-    "time": "17:39",
-    "date": "2026-10-30",
-    "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
-    "ko_by": "gemini"
-  },
-  {
     "id": "a7924bc3b471",
     "source": "아산데일리",
     "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
@@ -202,6 +202,18 @@
     "date": "2026-10-30",
     "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 방문…지역 먹거리 현장 소통",
     "ko_by": "original"
+  },
+  {
+    "id": "56e73e712d6f",
+    "source": "Los Andes",
+    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-10-30T17:39:00+00:00",
+    "time": "17:39",
+    "date": "2026-10-30",
+    "title_ko": "미국 아사도 월드컵서 준우승 차지한 멘도사 출신 파리예로",
+    "ko_by": "gemini"
   },
   {
     "id": "5fbd8149404f",
@@ -225,18 +237,6 @@
     "time": "06:37",
     "date": "2026-10-30",
     "title_ko": "박정주 홍성군수, 글로벌바비큐페스티벌 방문객 통계 확 바꿨다!",
-    "ko_by": "original"
-  },
-  {
-    "id": "3fb7f41dfe8d",
-    "source": "LG헬로비전",
-    "title": "[홍성 글로벌 바비큐 페스티벌②]\"눈도 귀도 즐거운 홍성 글바페\"…요리 대회·공연 마련",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jR21Fa1FGd3JBaG5KeDJOclMyTi1EOVhzNFVtRng2anY1ODhwUE5KYzVFN0hfRHA0Nk5zWHE2UVRHelpLT25aVW9VTy1hR0syWFVKUVZsUjRsdnBnQjRpWWZvUWdST1M1bUZxdG81NExpZ0U?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-10-30T04:33:26+00:00",
-    "time": "04:33",
-    "date": "2026-10-30",
-    "title_ko": "[홍성 글로벌 바비큐 페스티벌②]\"눈도 귀도 즐거운 홍성 글바페\"…요리 대회·공연 마련",
     "ko_by": "original"
   }
 ]
