@@ -12,6 +12,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "73075a5e63b1",
+    "source": "OBS경인TV",
+    "title": "[오늘의 세계] 조지아, 추수감사절 축제서 드론 타고 나른 바비큐",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvM0ZNcUNqWWs3V0tyYzZieFdwZWp5dFlkT1lzcnJkQUxyUFVWU3FjT0hPa1lHNlhsdElTR2JUbmgyMDFKbWxmZmEtV2xheUxkVGZBRVdYcFNMamg2RjNSRDRGcllzUlppcm9MLVlR?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-11-03T11:46:47+00:00",
+    "time": "11:46",
+    "date": "2026-11-03",
+    "title_ko": "[오늘의 세계] 조지아, 추수감사절 축제서 드론 타고 나른 바비큐",
+    "ko_by": "original"
+  },
+  {
     "id": "53bf50a05014",
     "source": "스포츠월드",
     "title": "홍성 바비큐 축제 23만명 방문…악천우 뚫고 ′맛난 축제′로 자리매김",
@@ -48,15 +60,15 @@
     "ko_by": "original"
   },
   {
-    "id": "6fffb029b438",
-    "source": "농민신문",
-    "title": "농협 홍성군지부, 바비큐페스티벌서 ‘농심천심’ 전파",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEQjFuLW1YR2ZOc2p2VFVnSGtfMjFKU0FYZkxzVXBRUHF6N1VjczVYN3VFdEFiTlN2WFhmQndVdW5scGZ1d251NlJPcVdrM0pIMGdXUnZoZzR5QQ?oc=5",
+    "id": "fe6b7e906507",
+    "source": "농수축산신문",
+    "title": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbTNfbU0zZnRTeW5lWkd6ZXE0eDI1UzNfcEctX0lZRjl1UUM5OU1nSzBXcml3UmRiZVlOOGFJNWdCTWRRNzE2YlZOeTFGWkI4NXk2S1hjN0ZDcjZrQ2V5MGZXZEJiTFQ4MW5jTA?oc=5",
     "query": "바베큐 페스티벌",
-    "published_at": "2026-11-03T00:58:36+00:00",
-    "time": "00:58",
-    "date": "2026-11-03",
-    "title_ko": "농협 홍성군지부, 바비큐페스티벌서 ‘농심천심’ 전파",
+    "published_at": "2026-11-02T08:00:00+00:00",
+    "time": "08:00",
+    "date": "2026-11-02",
+    "title_ko": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
     "ko_by": "original"
   },
   {
@@ -226,17 +238,5 @@
     "date": "2026-10-31",
     "title_ko": "\"숯불은 쉴 틈 없다\"…홍성 글로벌 바비큐 축제 열기 후끈",
     "ko_by": "original"
-  },
-  {
-    "id": "a8367efa1b57",
-    "source": "Omaha World-Herald",
-    "title": "Inaugural Sandhills Smoke Show BBQ Competition starts Friday",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDdZSEZCNGVBTDItM0pSSXVvUHlIdW83Y0xka1ZKS2x5Z1M2ZDc4SUZxSWhkUHNyS1VVUHdKTVFwMkRPemJJcmtPc1NwUUotbGdNZEoyMzhNc1daZ01vT2g4UFcwal9kbFpNVjhENldwSTlUQ1JLUkRwV3lTcVB0aTNsV1dVMnhZZ3E1cnRYOEUzYkg1VjJjQ0dDVHE?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-10-31T11:29:13+00:00",
-    "time": "11:29",
-    "date": "2026-10-31",
-    "title_ko": "제1회 샌드힐스 스모크 쇼 바비큐 대회 금요일 시작",
-    "ko_by": "gemini"
   }
 ]
