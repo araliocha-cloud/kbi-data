@@ -1,5 +1,17 @@
 [
   {
+    "id": "518515c55fc5",
+    "source": "The Globe and Mail",
+    "title": "How a Calgary family became World Champions of southern barbecue",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRXF6TEZUa0dqbGhlbW5Da2JyV1hPRVRuRFQ2eWRJOWJuZ3E0YXd0R1gtLUxNN0diS0M5Tm90X0dhTnk2Ry1samZpSGo2eVpEdHBfM1N0bWU0NThoNFYwLVBNQ3NWU2NXTDJFLWRoeFpodWNFSThrbmxsQjA4WU1aSmdMTTk5WWtQbl9XT0NUdk55YUdUNGdaSVluRGRvZ2lTSS16RGVKM0h2SEhQNE5TWW8zd3BBQQ?oc=5",
+    "query": "Jack Daniel's Invitational",
+    "published_at": "2026-11-04T12:00:00+00:00",
+    "time": "12:00",
+    "date": "2026-11-04",
+    "title_ko": "캘거리 가족, 남부 바비큐 세계 챔피언에 올라",
+    "ko_by": "gemini"
+  },
+  {
     "id": "f4e166f40460",
     "source": "Kansas City Magazine",
     "title": "Big barns, bigger ambitions and plenty of barbecue mark a new era for the American Royal and one of Kansas City’s most beloved traditions",
@@ -225,18 +237,6 @@
     "time": "14:19",
     "date": "2026-10-31",
     "title_ko": "[GJ포토] 5m 스카이타워 그릴 등장…홍성 바비큐 축제 관광객 눈길",
-    "ko_by": "original"
-  },
-  {
-    "id": "d2a9732db65d",
-    "source": "국제뉴스",
-    "title": "\"숯불은 쉴 틈 없다\"…홍성 글로벌 바비큐 축제 열기 후끈",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYcXhuZmljVlhKSHJhMktfVFVWTDNkRFA2b0JyVTVndGN5V0FZQVlLOWoyRGp1X0VaNnpUelp4czB3d3BldmtYcTMwM09iWkp2bTQ0RWFuaWc4Ml9Cb3pyOHVadXZBUlNqdWNORW5n?oc=5",
-    "query": "스포츠바비큐",
-    "published_at": "2026-10-31T14:18:46+00:00",
-    "time": "14:18",
-    "date": "2026-10-31",
-    "title_ko": "\"숯불은 쉴 틈 없다\"…홍성 글로벌 바비큐 축제 열기 후끈",
     "ko_by": "original"
   }
 ]
