@@ -1,5 +1,17 @@
 [
   {
+    "id": "c45e1f87d895",
+    "source": "Oregon Coast Beach Connection",
+    "title": "South Oregon Coast's BBQ, Blues, Brews and Bourbon Fest Hits Coos Bay Area Soon",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUZYMGM3N3lSQV83Y21nY1lIb3R1YXdaREQ3WUtENXV4N0txSWY5NXVEQ29kQ2RFblU0TVBCRGdHZEUyeXIya2R4NmpSVHkyeXlxM0p0eUVhSUI5YVVjdUVIT2NIYTVUcVhXZzVLUTMyZktQdGkzZGdGUlVQX2NfRk1SYkZMaHU4Ylk0eWR1cmZ3dw?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-11-04T19:04:44+00:00",
+    "time": "19:04",
+    "date": "2026-11-04",
+    "title_ko": "사우스 오리건 코스트의 바비큐, 블루스, 양조주, 버번 페스트가 곧 쿠스 베이 지역을 강타합니다",
+    "ko_by": "fallback"
+  },
+  {
     "id": "518515c55fc5",
     "source": "The Globe and Mail",
     "title": "How a Calgary family became World Champions of southern barbecue",
@@ -225,18 +237,6 @@
     "time": "06:43",
     "date": "2026-11-01",
     "title_ko": "홍성글로벌바비큐페스티벌, 통계 신뢰도 높이고 지역경제 연계",
-    "ko_by": "original"
-  },
-  {
-    "id": "1a60f120e961",
-    "source": "국제뉴스",
-    "title": "[GJ포토] 5m 스카이타워 그릴 등장…홍성 바비큐 축제 관광객 눈길",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xU19QYnZzemhfMVVYcS1Mbl9nS3J5TEtUUWQ0aGJNME1uYWh0bVVxMHloSHVyWGkwanRoSzZfTTZvN29vSFdSSDh5T3l1eC10aG9LQUdocS1GNC1KWEg5VjlRbkxqQWJ0NHN0RVhR?oc=5",
-    "query": "스포츠바비큐",
-    "published_at": "2026-10-31T14:19:28+00:00",
-    "time": "14:19",
-    "date": "2026-10-31",
-    "title_ko": "[GJ포토] 5m 스카이타워 그릴 등장…홍성 바비큐 축제 관광객 눈길",
     "ko_by": "original"
   }
 ]
