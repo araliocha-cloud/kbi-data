@@ -108,18 +108,6 @@
     "ko_by": "original"
   },
   {
-    "id": "d9a0e26f301c",
-    "source": "한돈뉴스",
-    "title": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q091NDZseGg3czhNV1Z6cEpwaW5lYVFoMndERWdoaVRQazNZRGd5elhNZkdvWG5hamY5al84VTRPWXJrV3Y2aElENGJRQkwxMU5wckgwOW1tdjFpSFZkdE5FSW9MeUZh?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-01T21:06:00+00:00",
-    "time": "21:06",
-    "date": "2026-11-01",
-    "title_ko": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
-    "ko_by": "original"
-  },
-  {
     "id": "f665cb112a87",
     "source": "신아일보",
     "title": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
@@ -153,6 +141,18 @@
     "time": "21:25",
     "date": "2026-11-01",
     "title_ko": "수산 바비큐 즐기며 ‘무적해병’ 매력에 푹…김포시, 해병대 문화축제",
+    "ko_by": "original"
+  },
+  {
+    "id": "d9a0e26f301c",
+    "source": "한돈뉴스",
+    "title": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q091NDZseGg3czhNV1Z6cEpwaW5lYVFoMndERWdoaVRQazNZRGd5elhNZkdvWG5hamY5al84VTRPWXJrV3Y2aElENGJRQkwxMU5wckgwOW1tdjFpSFZkdE5FSW9MeUZh?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-01T21:06:00+00:00",
+    "time": "21:06",
+    "date": "2026-11-01",
+    "title_ko": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
     "ko_by": "original"
   },
   {
@@ -228,15 +228,15 @@
     "ko_by": "gemini"
   },
   {
-    "id": "56e73e712d6f",
-    "source": "Los Andes",
-    "title": "Quién es el mendocino subcampeón del \"mundial de asado\" en Estados Unidos",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3NUdlFocjJtQmZSSXlpTnlqVUpPOFZMbTlfbGU5MW10eUtYeFVMcmFDXzFHYW4xN1JjbThodWhKMFBYVHNFOGlHQ2tyLXh5WlhKaHlwVFJBeDN6UnpITExSbUZoVFlPX2gzSEVudWVWUUFuRVc1RE9fVUZZVjUzeklidUVJSFozQjlSUDY3U1lWQWtvWF9neVAzVnE0VGNWcmkwTXQ2bkdTbWJYcGtoUA?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-10-30T17:39:00+00:00",
-    "time": "17:39",
+    "id": "e3678478a271",
+    "source": "글로컬타임스",
+    "title": "박수현 충남지사, 홍성글로벌바비큐페스티벌 현장 방문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XTnR1S1pDQ3U1YzFWcWhLQ2QzUC1DbTRBeWZJRzFaN0EzYVNaTTBYS2dWb2xwVENhcXhIREFORWFsZU9pQl9MbFJySlJHZ3VrYkU3bURaNjkzNEVHN3F4ejBDMjI1Vmg10gFsQVVfeXFMUHNzS2o3cDFMTEkyeGFMd01SX1dKOUJUdDdpYjh0TkRaS29CMHVOdWYzdnFtZjBDNnQtc0s0ekNTaWUzUF9OMUM0b3ZJbjh1NzhxdldzZW1HaTZuZlN3UGlfR0NEem9QVjVqbFM2?oc=5",
+    "query": "바비큐 대회",
+    "published_at": "2026-10-30T21:29:29+00:00",
+    "time": "21:29",
     "date": "2026-10-30",
-    "title_ko": "미국 '아사도 월드컵' 준우승 차지한 멘도사 출신은 누구",
-    "ko_by": "gemini"
+    "title_ko": "박수현 충남지사, 홍성글로벌바비큐페스티벌 현장 방문",
+    "ko_by": "original"
   }
 ]
