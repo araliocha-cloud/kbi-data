@@ -108,6 +108,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "95978c5df331",
+    "source": "La Nación",
+    "title": "Cuándo es la Olimpiada de Asadores en Núñez, qué se podrá comer y cuánto cuestan las entradas",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSmx2SkRSc1RRSnpteERnNFFBclVNNjVwc2ctZ19jWERoblNEY3M0eXM3b3hmZVZxOEtIcGdNaWtZZkpRN1MzQThZVnVmd3BQeTVZaUN6U3hKSWhBcm1TSlBlQ1ZlUnBKdENEYXgyUHJBQlUwdklnRl9CNVVhQ3JIQVlVTmpDeEZfVkFpWmVmOXYtam9sV21EdTFVSkt6N1JSaU9JWHVmU1VhbEFuaE44YmlvUnYzU2o2Q0c3a3N4LWoyMmRXMEgtYnYxUm9wcjllUHgzcDNHMWhQdw?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-11-02T15:52:00+00:00",
+    "time": "15:52",
+    "date": "2026-11-02",
+    "title_ko": "누네즈 그릴 올림피아드는 언제, 어떤 음식을 먹을 수 있으며 티켓 가격은 얼마인가요?",
+    "ko_by": "fallback"
+  },
+  {
     "id": "b19e5367eda5",
     "source": "한국대학신문",
     "title": "혜전대, ‘2026 홍성 글로벌 바비큐 페스티벌’서 바비큐·건강서비스 운영",
@@ -225,18 +237,6 @@
     "time": "08:10",
     "date": "2026-11-01",
     "title_ko": "홍성바비큐축제 방문객 집계 주목…실시간 최고 1만8629명, 공식 7만7168명",
-    "ko_by": "original"
-  },
-  {
-    "id": "f9ef43aeba70",
-    "source": "신아일보",
-    "title": "홍성글로벌바비큐페스티벌, 통계 신뢰도 높이고 지역경제 연계",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRkJTVlFXZXJyY3dwejdnOUNRM1pNNWFXN2J6Ym9OampfM1M2MFhwZ2dyc2JTLUFfSGt2cFFVcmtONmhDOGxDQnhHNUxlUDY5WjdKMWgzUGp4Nk9QUFRxaFQwTEJWX3FqV1FoOUtNVGg?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-01T06:43:35+00:00",
-    "time": "06:43",
-    "date": "2026-11-01",
-    "title_ko": "홍성글로벌바비큐페스티벌, 통계 신뢰도 높이고 지역경제 연계",
     "ko_by": "original"
   }
 ]
