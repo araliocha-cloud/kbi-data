@@ -144,6 +144,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "537a8a5e89a0",
+    "source": "Yahoo",
+    "title": "30A hosts BBQ Festival: Barbecue, Live Music & Local Flavor!",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSm1SZXBWTGs1WEtNb2xEZjZ2cTFKWU1idlJZd3BzMktuaFNtOGVmY01UMTNDSUVEVVd4M1o2Vy1FVy1qZVZvWVlWeGpvckRfM2dTaDE2OXdLaHY1WmhpYWVEajlPQ1ExZXlPRXVZQk4xc3IzdFdPWWhjTGdxN0lSeWI1VGlYVnc?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-11-02T12:36:37+00:00",
+    "time": "12:36",
+    "date": "2026-11-02",
+    "title_ko": "30A, 바비큐 페스티벌 개최… 바비큐·라이브 음악·지역의 맛",
+    "ko_by": "gemini"
+  },
+  {
     "id": "b19e5367eda5",
     "source": "한국대학신문",
     "title": "혜전대, ‘2026 홍성 글로벌 바비큐 페스티벌’서 바비큐·건강서비스 운영",
@@ -225,18 +237,6 @@
     "time": "00:45",
     "date": "2026-11-02",
     "title_ko": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
-    "ko_by": "original"
-  },
-  {
-    "id": "6f7fb9794d8e",
-    "source": "공뉴스",
-    "title": "청운대, 홍성 바비큐축제서 ‘전공 체험·국제공연’",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSmdGUkw0Wm5UaUc3U0d4ODJ5cmg5a0N1WHBXLXl5ZTVvdzJiNG1zcV9PNnBVaFUyNGdGTTd0aWRMYW1vQU84TlBNM2duMThIT2NIRXkyV25wcVhqTnZTQ2gwYXVGWXVkQ3p3Xw?oc=5",
-    "query": "스포츠바비큐",
-    "published_at": "2026-11-01T22:48:31+00:00",
-    "time": "22:48",
-    "date": "2026-11-01",
-    "title_ko": "청운대, 홍성 바비큐축제서 ‘전공 체험·국제공연’",
     "ko_by": "original"
   }
 ]
