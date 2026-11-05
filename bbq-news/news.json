@@ -96,18 +96,6 @@
     "ko_by": "original"
   },
   {
-    "id": "fe6b7e906507",
-    "source": "농수축산신문",
-    "title": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbTNfbU0zZnRTeW5lWkd6ZXE0eDI1UzNfcEctX0lZRjl1UUM5OU1nSzBXcml3UmRiZVlOOGFJNWdCTWRRNzE2YlZOeTFGWkI4NXk2S1hjN0ZDcjZrQ2V5MGZXZEJiTFQ4MW5jTA?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-02T08:00:00+00:00",
-    "time": "08:00",
-    "date": "2026-11-02",
-    "title_ko": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
-    "ko_by": "original"
-  },
-  {
     "id": "6585079cd625",
     "source": "WJHG",
     "title": "Bring on the BBQ! 30A BBQ Festival returns with 18 local restaurants, live music and more",
@@ -141,6 +129,18 @@
     "time": "09:03",
     "date": "2026-11-02",
     "title_ko": "혜전대, ‘2026 홍성 글로벌 바비큐 페스티벌’서 바비큐·건강서비스 운영",
+    "ko_by": "original"
+  },
+  {
+    "id": "fe6b7e906507",
+    "source": "농수축산신문",
+    "title": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbTNfbU0zZnRTeW5lWkd6ZXE0eDI1UzNfcEctX0lZRjl1UUM5OU1nSzBXcml3UmRiZVlOOGFJNWdCTWRRNzE2YlZOeTFGWkI4NXk2S1hjN0ZDcjZrQ2V5MGZXZEJiTFQ4MW5jTA?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-02T08:00:00+00:00",
+    "time": "08:00",
+    "date": "2026-11-02",
+    "title_ko": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
     "ko_by": "original"
   },
   {
@@ -180,18 +180,6 @@
     "ko_by": "original"
   },
   {
-    "id": "d9a0e26f301c",
-    "source": "한돈뉴스",
-    "title": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q091NDZseGg3czhNV1Z6cEpwaW5lYVFoMndERWdoaVRQazNZRGd5elhNZkdvWG5hamY5al84VTRPWXJrV3Y2aElENGJRQkwxMU5wckgwOW1tdjFpSFZkdE5FSW9MeUZh?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-01T21:06:00+00:00",
-    "time": "21:06",
-    "date": "2026-11-01",
-    "title_ko": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
-    "ko_by": "original"
-  },
-  {
     "id": "f665cb112a87",
     "source": "신아일보",
     "title": "홍성글로벌바비큐페스티벌 개막…세계 바비큐·문화예술 한자리에",
@@ -225,6 +213,18 @@
     "time": "21:25",
     "date": "2026-11-01",
     "title_ko": "수산 바비큐 즐기며 ‘무적해병’ 매력에 푹…김포시, 해병대 문화축제",
+    "ko_by": "original"
+  },
+  {
+    "id": "d9a0e26f301c",
+    "source": "한돈뉴스",
+    "title": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Q091NDZseGg3czhNV1Z6cEpwaW5lYVFoMndERWdoaVRQazNZRGd5elhNZkdvWG5hamY5al84VTRPWXJrV3Y2aElENGJRQkwxMU5wckgwOW1tdjFpSFZkdE5FSW9MeUZh?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-01T21:06:00+00:00",
+    "time": "21:06",
+    "date": "2026-11-01",
+    "title_ko": "홍성의 맛과 멋 한자리에… 글로벌바비큐페스티벌 성료",
     "ko_by": "original"
   },
   {
