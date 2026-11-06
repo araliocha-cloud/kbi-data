@@ -1,5 +1,17 @@
 [
   {
+    "id": "b82f622d2ea2",
+    "source": "Radio 3 Cadena Patagonia",
+    "title": "Trelew realizará un concurso de asadores con premios de hasta 500 mil pesos",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU192aVVNTnFKV3l5NDgxM1pWUFRTTUxHdldpRnNyVDZ1d0dmbGRLaUhQcUJadFAwdVc2c2t2RFpOOVZlWGtSZ3RrMWF4V0k5TUZpY19lVndDYnNvWWJQdVpKcTZ4eDIxT3FkSDk4b0tfMGxzNjR6OTd0Q3VXczNvU09tRTlBRGx6SzFnbUdrUWZWTUEtMm9BN0JIRlFTZ3U0WUJGQ1doaTZlX1ctcmg0aTR6SQ?oc=5",
+    "query": "Asado Chile",
+    "published_at": "2026-11-06T12:11:52+00:00",
+    "time": "12:11",
+    "date": "2026-11-06",
+    "title_ko": "트렐레우, 상금 최대 50만 페소 걸고 아사도르 대회 개최한다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "d66a54f5a924",
     "source": "Diário de Goiás",
     "title": "Pirenópolis recebe curso de defumação e churrasco com campeões mundiais",
@@ -225,18 +237,6 @@
     "time": "06:29",
     "date": "2026-11-02",
     "title_ko": "홍성 글로벌 바베큐 축제서 화재·폭발 예방 캠페인 전개",
-    "ko_by": "original"
-  },
-  {
-    "id": "a3ce47fbeca1",
-    "source": "팜인사이트",
-    "title": "한돈자조금, 홍성 바비큐페스티벌서 한돈 할인판매",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BZndvY2N1Tzg1eE9tRVhqREM3SE51OS1VRDBKRXJxRGdyOEdvR2hmOENyZWNHOXNLdFNJS0t1NFJyV3p0TEtGaWRnWmxHUGN3TmV0NG9CczFaeTFzZDdWZmloejZJY1R1RTNjbU1R?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-02T04:08:00+00:00",
-    "time": "04:08",
-    "date": "2026-11-02",
-    "title_ko": "한돈자조금, 홍성 바비큐페스티벌서 한돈 할인판매",
     "ko_by": "original"
   }
 ]
