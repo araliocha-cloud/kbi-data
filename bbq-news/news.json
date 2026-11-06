@@ -1,5 +1,17 @@
 [
   {
+    "id": "5c615eb1fb6d",
+    "source": "WVIR",
+    "title": "Ruckersville barbecue cook-off to support free programs for Greene County kids",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmFuc3VVbUw0VS1JQ1FyUm1FNEJMYnFYbFR2aWxZOGZyZlJoVktuMmxNOUd3OFo4RVhoamtoTnBEbkhBRkFxZkxmZ253MnR1Q1A5LWd1NVRSSVo5MTc5Q3pueGVPRmNvNXFfSlpWUUstUWdJQjdNbmdlbEtsblNDYWFCZ2ZzYnBWbDZHZGVjUnVhY1c2ZlF1ZTdWb2xwa2stN254UXJUcWhjQQ?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-11-06T22:18:00+00:00",
+    "time": "22:18",
+    "date": "2026-11-06",
+    "title_ko": "그린 카운티 아이들을 위한 무료 프로그램을 지원하기 위한 러커스빌 바비큐 쿡오프",
+    "ko_by": "fallback"
+  },
+  {
     "id": "9038ef7c7899",
     "source": "WTKR",
     "title": "New reality competition series \"Barbecue Country\" will make you hungry on Coast Live",
@@ -180,6 +192,18 @@
     "ko_by": "original"
   },
   {
+    "id": "fe6b7e906507",
+    "source": "농수축산신문",
+    "title": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbTNfbU0zZnRTeW5lWkd6ZXE0eDI1UzNfcEctX0lZRjl1UUM5OU1nSzBXcml3UmRiZVlOOGFJNWdCTWRRNzE2YlZOeTFGWkI4NXk2S1hjN0ZDcjZrQ2V5MGZXZEJiTFQ4MW5jTA?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-02T08:00:00+00:00",
+    "time": "08:00",
+    "date": "2026-11-02",
+    "title_ko": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
+    "ko_by": "original"
+  },
+  {
     "id": "02a818b8d44f",
     "source": "Canal26",
     "title": "Vuelve la Olimpiada de Asadores a Núñez: cuándo será el festival con los mejores parrilleros, folklore y torneo de truco",
@@ -214,29 +238,5 @@
     "date": "2026-11-02",
     "title_ko": "누녜스 아사도르 올림피아드 일정부터 먹거리·입장료까지",
     "ko_by": "gemini"
-  },
-  {
-    "id": "537a8a5e89a0",
-    "source": "Yahoo",
-    "title": "30A hosts BBQ Festival: Barbecue, Live Music & Local Flavor!",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSm1SZXBWTGs1WEtNb2xEZjZ2cTFKWU1idlJZd3BzMktuaFNtOGVmY01UMTNDSUVEVVd4M1o2Vy1FVy1qZVZvWVlWeGpvckRfM2dTaDE2OXdLaHY1WmhpYWVEajlPQ1ExZXlPRXVZQk4xc3IzdFdPWWhjTGdxN0lSeWI1VGlYVnc?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-11-02T12:36:37+00:00",
-    "time": "12:36",
-    "date": "2026-11-02",
-    "title_ko": "30A, 바비큐 페스티벌 개최… 바비큐·라이브 음악·지역의 맛",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "fe6b7e906507",
-    "source": "농수축산신문",
-    "title": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbTNfbU0zZnRTeW5lWkd6ZXE0eDI1UzNfcEctX0lZRjl1UUM5OU1nSzBXcml3UmRiZVlOOGFJNWdCTWRRNzE2YlZOeTFGWkI4NXk2S1hjN0ZDcjZrQ2V5MGZXZEJiTFQ4MW5jTA?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-02T08:00:00+00:00",
-    "time": "08:00",
-    "date": "2026-11-02",
-    "title_ko": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
-    "ko_by": "original"
   }
 ]
