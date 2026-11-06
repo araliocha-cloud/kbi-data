@@ -96,6 +96,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "fb9fc53b3687",
+    "source": "Agencia DIB",
+    "title": "Fin de semana con embutidos, asado, carreras, cerveza artesanal y hasta un Medieval Fest",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdU1QV1g3MF83TjNTeEpQaHhtNG4xN19wWHJ1NlpJZDVaZlpieWlRX19UbV9hMjZiWl9YUWFvYXQyNlNkeGFxYjI0T09zWTUtcGdoSkY5OHJ3MVpuSDhZeXdrNy1mejZ2elp2YXpBRzlGcGplQ2NtOFM1TlA3blVjeWZtN0ZoZXMwcXRDeFhMcUIteTVOZVF3TGtrenR1SjlqTDZnNjlRN0NxWFowOWJkWVMzb9IBuAFBVV95cUxOT2Q5U1dVd2V1alBNYXlrUG9lUktOV3pmR1I5bVFuRnZJZlprenFFYjRDaXJETTk4c0w3a0Y3eUhsaVVWTU1VbDdKdHd2WEtaY2ZpazBTVnNEdXFYcm5adk9EUDg1WnBLcldJbGhXWGFsNHk3c3JDaWRqMXNGSmFLVHRVd3V0SmlJT0hxUUExUDZ1dU1HOEZseXl2NHBQRGVKZjBfNURKaDYxMDlLZkl3S1F3OTBZR0pj?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-11-04T11:21:00+00:00",
+    "time": "11:21",
+    "date": "2026-11-04",
+    "title_ko": "주말에는 콜드 컷, 로스트, 레이스, 수제 맥주, 중세 축제까지",
+    "ko_by": "fallback"
+  },
+  {
     "id": "f4e166f40460",
     "source": "Kansas City Magazine",
     "title": "Big barns, bigger ambitions and plenty of barbecue mark a new era for the American Royal and one of Kansas City’s most beloved traditions",
@@ -226,17 +238,5 @@
     "date": "2026-11-02",
     "title_ko": "혜전대, ‘2026 홍성 글로벌 바비큐 페스티벌’서 바비큐·건강서비스 운영",
     "ko_by": "original"
-  },
-  {
-    "id": "77b23508839d",
-    "source": "NeozOne",
-    "title": "J'ai rencontré l'inventeur du Cardinal, le barbecue français 4 en 1 médaillé du Concours Lépine",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWTZkLXdLLTFlNV9mcjM3TW1Ya1VjdUpDU0RBVFEzZW5vdTlxUjRxdnVPazFTMnk3YVJRRWZOOVJwRG5pdXdZZmlfMTBKUWVuSURsbGxCeG04S19mb1V4bTNjbmdJNzNocGJLUXBTa3piMjNMUUdfQWhKbVBpYm04UEJJTHlRYll4YWYtaXpVaUtwdW0yTFVBWGM4V1N4aERyLW5rM3AtSktBRlRfa25iU2lscFA5NTYyLVByWjRLVEF4ODl1dU5z?oc=5",
-    "query": "Barbecue France",
-    "published_at": "2026-11-02T08:00:00+00:00",
-    "time": "08:00",
-    "date": "2026-11-02",
-    "title_ko": "콩쿠르 레팽에서 메달을 획득한 4인 1 프랑스산 바비큐 카디날의 발명가를 만나다",
-    "ko_by": "gemini"
   }
 ]
