@@ -24,6 +24,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "6de716030054",
+    "source": "Infobae",
+    "title": "Un asado argentino se abrió paso en la élite de la gastronomía mundial",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeGU2TG1oRTN6NEZJb1ZIVFBLNk85a3hTWHZWVk5HQXhFSFdPUzhNWUpLSkE1N18yeFFsNHBRZlYzc2pkQ2hzLV9Cck01RllBV0ZtaGFkVXNrX1dqSzY5SndQUWRVX1d3MkZ0N1FhR1UtOXlMRTJDcHNpQ2l3MzZfUjFMd3ZCck5VZnF2ejhyTHU4V3VDdThybkdlRmJTWlFYby1zOEJUUGFQNENtRVRndlpoOUY3Nl9U0gHTAUFVX3lxTFBYcDdLM20xQW5WR0tjMjBZS2pTelprWG5qVGN3WjZtcmtiNEFoTU5UYlloc3lmeU1CNkZISVJ2UHA5LUl0SGUzdGk5OHlpMVRmME9wV1BUM0VYclVVdWVkMDVIS3pJa0F6V2UydHZCWUtESmZieUZ0OUFTSWJLWHRITWxCSHQ3Y3kyTzFUcHhUQ0s4LVhjWFA3YWIySkdXMDlId2FKd0ZNWExHVjZCajZmYmVITmlkMS1ORndFVldEQ1VaRFFtelZ5MG4wR2Q5clNYVXM?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-11-05T18:09:00+00:00",
+    "time": "18:09",
+    "date": "2026-11-05",
+    "title_ko": "아르헨티나 로스트는 세계 미식의 엘리트로 자리잡았습니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "d679476ba3e5",
     "source": "Sudinfo",
     "title": "« Ça paraît toujours irréel » : on connaît désormais les circonstances de la mort du célèbre chef belge Peter De Clercq, champion du monde de barbecue en 2003",
@@ -226,17 +238,5 @@
     "date": "2026-11-02",
     "title_ko": "콩쿠르 레팽에서 메달을 획득한 4인 1 프랑스산 바비큐 카디날의 발명가를 만나다",
     "ko_by": "gemini"
-  },
-  {
-    "id": "91b005f27d65",
-    "source": "한국대학신문",
-    "title": "청운대, 홍성바비큐페스티벌서 23만 명 유치…영아트·캠핑장·특산물 음식 제공",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96cW1oeGhBV1VLMUV3V0ZQay1xanE5STlNWVVtdVpJTjlpbEdUTHYxczdMRVJZZ084SUpUX1pfNThaejNjUWtNTE83d19nbHFOb2RPMWtmUUM5RGYzOGJLVnMzdjNJUQ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-02T06:54:10+00:00",
-    "time": "06:54",
-    "date": "2026-11-02",
-    "title_ko": "청운대, 홍성바비큐페스티벌서 23만 명 유치…영아트·캠핑장·특산물 음식 제공",
-    "ko_by": "original"
   }
 ]
