@@ -1,5 +1,17 @@
 [
   {
+    "id": "026947a172b1",
+    "source": "RSI",
+    "title": "A Sementina una gara nazionale di barbecue",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmlRRkc1b0c5UHBMOERTZkcwV29oUGk5N25idUY3bl94RkNMNWV4Q1FvMFFhVGZyQTdYYkJta1J5Ul9MdThxbF9oVjUwWGlPVXpNbjlOTE5FTFNDOEZoUU5jQ3cxMFRLRWVlUU4wdnQ2SU52ZGZ5Q1VmS29yYUstWHNxcWFCZEhwUlpIX0d6b3lmWE42MmdiTU4zZlJQSkRjNFMwTmh1NDkxbXM?oc=5",
+    "query": "Barbecue Italia",
+    "published_at": "2026-11-07T18:44:12+00:00",
+    "time": "18:44",
+    "date": "2026-11-07",
+    "title_ko": "세멘티나서 전국 바비큐 대회 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "5c615eb1fb6d",
     "source": "WVIR",
     "title": "Ruckersville barbecue cook-off to support free programs for Greene County kids",
@@ -225,18 +237,6 @@
     "time": "01:01",
     "date": "2026-11-03",
     "title_ko": "누녜스에서 아사도르 올림피아드 개최, 최고의 파리예로와 포클레인 페스티벌 일정",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "6585079cd625",
-    "source": "WJHG",
-    "title": "Bring on the BBQ! 30A BBQ Festival returns with 18 local restaurants, live music and more",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkZ6TUcyRlVmZjhzYmptQzFoS0Qtem8zcmlnSXpjMnUxU0J0X1JxclI0MlBScnpkMk50SHkySEhJODMtWlQ4cFJ3d1MzbTJOdkF0T0R2Y2g2NHBYOVpubDI3MGtzZ3MzTmVzQXZHYkhEMklkLWVBRTc3M0RJazRsOXVXUmlzWGI2dUx4TVRmWkdhQ0d5UFQ5bkVSejM2YkloczZacUFvdFI5bHVqVVdPc1ZfUE4wTzU2M1BObXU3b1BGQdIBwgFBVV95cUxQUkZ6TUcyRlVmZjhzYmptQzFoS0Qtem8zcmlnSXpjMnUxU0J0X1JxclI0MlBScnpkMk50SHkySEhJODMtWlQ4cFJ3d1MzbTJOdkF0T0R2Y2g2NHBYOVpubDI3MGtzZ3MzTmVzQXZHYkhEMklkLWVBRTc3M0RJazRsOXVXUmlzWGI2dUx4TVRmWkdhQ0d5UFQ5bkVSejM2YkloczZacUFvdFI5bHVqVVdPc1ZfUE4wTzU2M1BObXU3b1BGQQ?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-11-02T19:57:19+00:00",
-    "time": "19:57",
-    "date": "2026-11-02",
-    "title_ko": "바비큐의 축제! 18개 지역 식당과 라이브 음악 더한 30A 바비큐 페스티벌 개최",
     "ko_by": "gemini"
   }
 ]
