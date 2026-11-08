@@ -8,8 +8,8 @@
     "published_at": "2026-11-07T22:59:23+00:00",
     "time": "22:59",
     "date": "2026-11-07",
-    "title_ko": "바비큐 및 자랑할 권리: 텍사스 고등학교 피트마스터가 포트워스에서 경쟁합니다",
-    "ko_by": "fallback"
+    "title_ko": "바비큐와 자존심 걸고… 텍사스 고교 피트마스터들 포트워스서 맞대결",
+    "ko_by": "gemini"
   },
   {
     "id": "026947a172b1",
@@ -94,18 +94,6 @@
     "date": "2026-11-05",
     "title_ko": "\"여전히 실감 안 나\"… 2003년 바비큐 세계 챔피언 벨기에 유명 셰프 피터 데 클레르크 사망 경위 밝혀져",
     "ko_by": "gemini"
-  },
-  {
-    "id": "d8a188e78b9f",
-    "source": "매일일보",
-    "title": "홍성군, 29일 글로벌바비큐페스티벌 개막…이색 바비큐 시설 운영",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwZk02dUxFd3lZc2dTa2lSNEEtRDc1U1dNWlF3WVFaSmtlR3VfSkJaVXFaRmZyZk9BamxJQkdSUy0xU01qZXh4bU8yQUh5T0JEbmZha2wzRXRHYVNYdENXYWl1LXo?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-01T07:00:00+00:00",
-    "time": "07:00",
-    "date": "2026-11-01",
-    "title_ko": "홍성군, 29일 글로벌바비큐페스티벌 개막…이색 바비큐 시설 운영",
-    "ko_by": "original"
   },
   {
     "id": "d6632d426d2c",
@@ -238,5 +226,17 @@
     "date": "2026-11-03",
     "title_ko": "홍성군, '2026 홍성글로벌바비큐페스티벌' 안전사고 없이 마무리",
     "ko_by": "original"
+  },
+  {
+    "id": "537a8a5e89a0",
+    "source": "Yahoo",
+    "title": "30A hosts BBQ Festival: Barbecue, Live Music & Local Flavor!",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSm1SZXBWTGs1WEtNb2xEZjZ2cTFKWU1idlJZd3BzMktuaFNtOGVmY01UMTNDSUVEVVd4M1o2Vy1FVy1qZVZvWVlWeGpvckRfM2dTaDE2OXdLaHY1WmhpYWVEajlPQ1ExZXlPRXVZQk4xc3IzdFdPWWhjTGdxN0lSeWI1VGlYVnc?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-11-02T12:36:37+00:00",
+    "time": "12:36",
+    "date": "2026-11-02",
+    "title_ko": "30A, 바비큐 페스티벌 개최… 바비큐·라이브 음악·지역의 맛",
+    "ko_by": "gemini"
   }
 ]
