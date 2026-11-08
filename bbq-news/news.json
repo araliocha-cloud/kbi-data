@@ -1,5 +1,17 @@
 [
   {
+    "id": "5f91fc3aa1be",
+    "source": "NBC 5 Dallas-Fort Worth",
+    "title": "BBQ and bragging rights: Texas high school pitmasters compete in Fort Worth",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2dQVUtYUGpMT29rSDlsUDVrLWNkdzdhVEE2RUoxX3IzRV94ZGJnaE1jQk80NHpiejdRdXBDM0NPdllPazQyV0xBTDRlanJOaVJLYWdMUFM1RldFSEVRRGlTYjNtZGFQeUMxSlZoTmx1clEwT0FCNUhxdjZVME1zcllJRWR3TGpXQ2x2aWRWLUwzTmNJTU4tTE9UMFB0SFNWOHJsYS1XMUN4cGFXSV840gG3AUFVX3lxTFBzd1Vkc3lLVk9ISFVGMUw5eHVPQmRpenJ2bEpTUW00TmFiTktRZGpTaWlQTFRZRTEzSG5kSk5hNVNQWjdfOG1uS3hTa0lUNEU2MTZLVFFrVmZqbDVrUDNCdHFhVTl4eTI3bHBKMkpuYWxmTnpWUnZOb0hFdzEyNG4xSGZBZi1zZEZZT0FHdVhsOHFZbkJ4WWszdUQ0UGdqWE1JSHlCUVlVYkRUWXpCbGdZV2hTaGI0Zw?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-11-07T22:59:23+00:00",
+    "time": "22:59",
+    "date": "2026-11-07",
+    "title_ko": "바비큐 및 자랑할 권리: 텍사스 고등학교 피트마스터가 포트워스에서 경쟁합니다",
+    "ko_by": "fallback"
+  },
+  {
     "id": "026947a172b1",
     "source": "RSI",
     "title": "A Sementina una gara nazionale di barbecue",
@@ -226,17 +238,5 @@
     "date": "2026-11-03",
     "title_ko": "홍성군, '2026 홍성글로벌바비큐페스티벌' 안전사고 없이 마무리",
     "ko_by": "original"
-  },
-  {
-    "id": "02a818b8d44f",
-    "source": "Canal26",
-    "title": "Vuelve la Olimpiada de Asadores a Núñez: cuándo será el festival con los mejores parrilleros, folklore y torneo de truco",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYVhFaDdBMm1Oek95NzdOUTNSclVldjdQQ1VmYllNaUtjTm5oQ0xMQTJSVEpKaklDY192cDlialM5YmZMMEl5S1hOelllajNaYjBVbkp3NWRWdUpVQmRYNkJIVGtXMElROG1KXzZRTXJMTVJkbnhkeHRabkNzU0QwU3FRaktHLVRuWkV5SzQyNGpjMjdKczhDZTZwckItNU9GV1hyb0MzTTJwcHg0b0VyRGxrUml6VTdRS3AwNkMyRFRWejBLRmFRWmsxMkloc1FVTHNQV0tlWEx6UDdkVFJoUjFnT3hmWkltZV8tOFU5eXR2YmlB?oc=5",
-    "query": "Asado Chile",
-    "published_at": "2026-11-03T01:01:50+00:00",
-    "time": "01:01",
-    "date": "2026-11-03",
-    "title_ko": "누녜스에서 아사도르 올림피아드 개최, 최고의 파리예로와 포클레인 페스티벌 일정",
-    "ko_by": "gemini"
   }
 ]
