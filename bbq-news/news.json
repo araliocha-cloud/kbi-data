@@ -72,6 +72,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "b972b96a3009",
+    "source": "축산경제신문",
+    "title": "한돈자조금, 홍성 바비큐축제 참가",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fRWNOVHFGMXlBOERvSzhZYlhTWU05bU1QZFlPWjVTZ000MjdSMXNfTEIyS1BIVmJLdnllYzZoX3loVy0yenBUYWJxelNhdE51QW9XUllHVGV4Z2JNNnU3ZE10MFBYS0cyV0sxUWZfZEtYQdIBckFVX3lxTE5fRWNOVHFGMXlBOERvSzhZYlhTWU05bU1QZFlPWjVTZ000MjdSMXNfTEIyS1BIVmJLdnllYzZoX3loVy0yenBUYWJxelNhdE51QW9XUllHVGV4Z2JNNnU3ZE10MFBYS0cyV0sxUWZfZEtYQQ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-06T03:21:40+00:00",
+    "time": "03:21",
+    "date": "2026-11-06",
+    "title_ko": "한돈자조금, 홍성 바비큐축제 참가",
+    "ko_by": "original"
+  },
+  {
     "id": "d66a54f5a924",
     "source": "Diário de Goiás",
     "title": "Pirenópolis recebe curso de defumação e churrasco com campeões mundiais",
@@ -225,18 +237,6 @@
     "time": "11:21",
     "date": "2026-11-04",
     "title_ko": "소시지, 아사도, 레이스, 수제 맥주, 중세 축제까지 즐기는 주말",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "f4e166f40460",
-    "source": "Kansas City Magazine",
-    "title": "Big barns, bigger ambitions and plenty of barbecue mark a new era for the American Royal and one of Kansas City’s most beloved traditions",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTHdlM09ONW5XN0pqaTJLWnBpbmJZdnVnUWE1OGhUbWtYZVpXS0E5YWlJUEoxZ0JtSlE5aUk2aElld3p1YllBeHdNZEkwaEZidHczRzNfdnJ6VHdHTUlPd2Uyblo5RllLWEI1dmVDRkJhZWItbkliLUJKM0RIRGRTRFg3N0dFckFVNkY3czJpeEszWlVnN253RXMzX3VmWHM5S1J6UTlzZXFRa1JlOXJDNEFZbU1SRm5LNjNuVnhmZWM5RUhUSWtZVjc5TVR4M19jZmx0U3E1RDBjam5mMmVBOEstdGE5d2IzelNicFVHVVNYVC1r?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-11-03T20:42:17+00:00",
-    "time": "20:42",
-    "date": "2026-11-03",
-    "title_ko": "거대한 헛고간과 야망, 풍성한 바비큐가 아메리칸 로열과 캔자스시티 전통의 새시대를 열었다",
     "ko_by": "gemini"
   }
 ]
