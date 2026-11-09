@@ -108,6 +108,18 @@
     "ko_by": "original"
   },
   {
+    "id": "3eaf36ba8403",
+    "source": "농수축산신문",
+    "title": "홍성글로벌바비큐페스티벌, 내실과 성과 모두 잡아",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5TXJUenVKX2VyMDE2eFVCcnhyTDJfaUhkMk5CTUpqWFYzREFObVdTWEZTSjdJVkFuOEtuRUhwU20tOFplMmRZSVdkNUVfNWhGQXZ5aHBuV2t3aDNVcWgxU29naWR6Z1JObFZtNw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-05T06:40:30+00:00",
+    "time": "06:40",
+    "date": "2026-11-05",
+    "title_ko": "홍성글로벌바비큐페스티벌, 내실과 성과 모두 잡아",
+    "ko_by": "original"
+  },
+  {
     "id": "d679476ba3e5",
     "source": "Sudinfo",
     "title": "« Ça paraît toujours irréel » : on connaît désormais les circonstances de la mort du célèbre chef belge Peter De Clercq, champion du monde de barbecue en 2003",
@@ -226,17 +238,5 @@
     "date": "2026-11-03",
     "title_ko": "거대한 헛고간과 야망, 풍성한 바비큐가 아메리칸 로열과 캔자스시티 전통의 새시대를 열었다",
     "ko_by": "gemini"
-  },
-  {
-    "id": "73075a5e63b1",
-    "source": "OBS경인TV",
-    "title": "[오늘의 세계] 조지아, 추수감사절 축제서 드론 타고 나른 바비큐",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvM0ZNcUNqWWs3V0tyYzZieFdwZWp5dFlkT1lzcnJkQUxyUFVWU3FjT0hPa1lHNlhsdElTR2JUbmgyMDFKbWxmZmEtV2xheUxkVGZBRVdYcFNMamg2RjNSRDRGcllzUlppcm9MLVlR?oc=5",
-    "query": "바비큐 대회",
-    "published_at": "2026-11-03T11:46:47+00:00",
-    "time": "11:46",
-    "date": "2026-11-03",
-    "title_ko": "[오늘의 세계] 조지아, 추수감사절 축제서 드론 타고 나른 바비큐",
-    "ko_by": "original"
   }
 ]
