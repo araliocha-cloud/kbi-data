@@ -204,18 +204,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "fe6b7e906507",
-    "source": "농수축산신문",
-    "title": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbTNfbU0zZnRTeW5lWkd6ZXE0eDI1UzNfcEctX0lZRjl1UUM5OU1nSzBXcml3UmRiZVlOOGFJNWdCTWRRNzE2YlZOeTFGWkI4NXk2S1hjN0ZDcjZrQ2V5MGZXZEJiTFQ4MW5jTA?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-02T08:00:00+00:00",
-    "time": "08:00",
-    "date": "2026-11-02",
-    "title_ko": "NH농협 홍성군지부, 바비큐페스티벌서 ‘농심천심운동’ 홍보",
-    "ko_by": "original"
-  },
-  {
     "id": "f4e166f40460",
     "source": "Kansas City Magazine",
     "title": "Big barns, bigger ambitions and plenty of barbecue mark a new era for the American Royal and one of Kansas City’s most beloved traditions",
@@ -237,6 +225,18 @@
     "time": "11:46",
     "date": "2026-11-03",
     "title_ko": "[오늘의 세계] 조지아, 추수감사절 축제서 드론 타고 나른 바비큐",
+    "ko_by": "original"
+  },
+  {
+    "id": "53bf50a05014",
+    "source": "스포츠월드",
+    "title": "홍성 바비큐 축제 23만명 방문…악천우 뚫고 ′맛난 축제′로 자리매김",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wcldpWUVOUTNzR2NCT1FIRnFnVU54S1N0SzRUYzJhSGJRVVhaU2dJb2sxc0w1WDAxVjEtSG5wQUZVcUhyMThzaDZsNUR4MmJRLTl2T0QwRGlfWnBrN252YXp3?oc=5",
+    "query": "스포츠바비큐",
+    "published_at": "2026-11-03T09:15:45+00:00",
+    "time": "09:15",
+    "date": "2026-11-03",
+    "title_ko": "홍성 바비큐 축제 23만명 방문…악천우 뚫고 ′맛난 축제′로 자리매김",
     "ko_by": "original"
   }
 ]
