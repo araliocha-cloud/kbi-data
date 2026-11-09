@@ -132,6 +132,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "b5e6576171b8",
+    "source": "한국영농신문",
+    "title": "홍성 바비큐축제서 한돈 소비촉진…1천만 원 상당 돼지고기 기탁",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SZlJHZVZMZlQza0R0dXBaN3hrQlpVeVBCQ01HbW1TNE50Y0NNSFRHajZMLTBTVlB4N2ZCZGdXTzFLZkR3T01zb0xOVFhXelRvbjNHMm8teHo3LXQ4c3VkZjZtTWM1QmYzUXBjaUVR?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-05T15:02:11+00:00",
+    "time": "15:02",
+    "date": "2026-11-05",
+    "title_ko": "홍성 바비큐축제서 한돈 소비촉진…1천만 원 상당 돼지고기 기탁",
+    "ko_by": "original"
+  },
+  {
     "id": "3a26c27742c5",
     "source": "프라임경제",
     "title": "홍성바비큐축제 매출 14.9% 증가…한우 판매 2배 넘게 늘었다",
@@ -226,17 +238,5 @@
     "date": "2026-11-04",
     "title_ko": "“허수 빼고 내실 채웠다”… 관람객 줄었는데 매출은 15% ‘껑충’ 홍성글로벌바비큐페스티벌 비결은?",
     "ko_by": "original"
-  },
-  {
-    "id": "c45e1f87d895",
-    "source": "Oregon Coast Beach Connection",
-    "title": "South Oregon Coast's BBQ, Blues, Brews and Bourbon Fest Hits Coos Bay Area Soon",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTUZYMGM3N3lSQV83Y21nY1lIb3R1YXdaREQ3WUtENXV4N0txSWY5NXVEQ29kQ2RFblU0TVBCRGdHZEUyeXIya2R4NmpSVHkyeXlxM0p0eUVhSUI5YVVjdUVIT2NIYTVUcVhXZzVLUTMyZktQdGkzZGdGUlVQX2NfRk1SYkZMaHU4Ylk0eWR1cmZ3dw?oc=5",
-    "query": "KCBS",
-    "published_at": "2026-11-04T19:04:44+00:00",
-    "time": "19:04",
-    "date": "2026-11-04",
-    "title_ko": "오리건 남부 해안 바비큐·블루스·맥주·버번 축제, 곧 쿠스베이서 개최",
-    "ko_by": "gemini"
   }
 ]
