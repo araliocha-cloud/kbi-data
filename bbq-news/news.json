@@ -204,18 +204,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "8154d59e20f8",
-    "source": "뉴스파고",
-    "title": "2026 홍성글로벌바비큐페스티벌, 한우 판매액 두 배 증가…총매출 14.9% 상승",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9JQ29tbEFWNmhLOTJ3QXY2VEVhZkNZeDdXRWFBQTFIM3E1Q2RtbFFKNm9EVGxuSmxPeXNibE8wclF4RVRh?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-05T00:57:00+00:00",
-    "time": "00:57",
-    "date": "2026-11-05",
-    "title_ko": "2026 홍성글로벌바비큐페스티벌, 한우 판매액 두 배 증가…총매출 14.9% 상승",
-    "ko_by": "original"
-  },
-  {
     "id": "5c82addc3e0c",
     "source": "시사통신",
     "title": "홍성글로벌바비큐페스티벌, 대한민국 대표 축제로 도약",
@@ -237,6 +225,18 @@
     "time": "02:27",
     "date": "2026-11-05",
     "title_ko": "홍성 바비큐 축제 매출 15억 7천만 원…15% 증가",
+    "ko_by": "original"
+  },
+  {
+    "id": "8154d59e20f8",
+    "source": "뉴스파고",
+    "title": "2026 홍성글로벌바비큐페스티벌, 한우 판매액 두 배 증가…총매출 14.9% 상승",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9JQ29tbEFWNmhLOTJ3QXY2VEVhZkNZeDdXRWFBQTFIM3E1Q2RtbFFKNm9EVGxuSmxPeXNibE8wclF4RVRh?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-05T00:57:00+00:00",
+    "time": "00:57",
+    "date": "2026-11-05",
+    "title_ko": "2026 홍성글로벌바비큐페스티벌, 한우 판매액 두 배 증가…총매출 14.9% 상승",
     "ko_by": "original"
   }
 ]
