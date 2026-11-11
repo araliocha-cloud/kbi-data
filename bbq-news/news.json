@@ -1,5 +1,17 @@
 [
   {
+    "id": "b5d7f61d95cf",
+    "source": "CTV News",
+    "title": "Calgary pitmaster takes home top prize in prestigious barbecue competition in Tennessee",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW01a0NKSEVmX2ZxVWVZbXY5aDF3aEl3bzBkWkFWbVRrSmVZdGl2Mjljem4xQ2ZWMzFCcGNEckg5dk12VVgyZ29pZzZZaHNBdW96LTVTTlNqX0FmRF90aVgyN3QteEJhcmFJUFpmYW9KMFB4a2hfS2Iyc05jb2xCZEllOHZyM2ZGR3lDN2twLUpTMFM0dkc3SlZwZXA0b1VrUTBPNFJwV2ZoNjVDRTQ2UjRQZGRxUXpIWjJoMjJwVnByNW9qTTdR?oc=5",
+    "query": "Jack Daniel's Invitational",
+    "published_at": "2026-11-11T21:02:37+00:00",
+    "time": "21:02",
+    "date": "2026-11-11",
+    "title_ko": "캘거리 피트마스터, 테네시 명예로운 바비큐 대회서 최고상 수상",
+    "ko_by": "gemini"
+  },
+  {
     "id": "2677bcade3dc",
     "source": "메트로신문",
     "title": "진안군, 진안고원 김치보쌈축제서 흑돼지 바비큐·장아찌 체험 즐긴다",
@@ -226,17 +238,5 @@
     "date": "2026-11-05",
     "title_ko": "아르헨티나 아사도, 세계 미식 엘리트 반열 진입",
     "ko_by": "gemini"
-  },
-  {
-    "id": "b5e6576171b8",
-    "source": "한국영농신문",
-    "title": "홍성 바비큐축제서 한돈 소비촉진…1천만 원 상당 돼지고기 기탁",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SZlJHZVZMZlQza0R0dXBaN3hrQlpVeVBCQ01HbW1TNE50Y0NNSFRHajZMLTBTVlB4N2ZCZGdXTzFLZkR3T01zb0xOVFhXelRvbjNHMm8teHo3LXQ4c3VkZjZtTWM1QmYzUXBjaUVR?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-05T15:02:11+00:00",
-    "time": "15:02",
-    "date": "2026-11-05",
-    "title_ko": "홍성 바비큐축제서 한돈 소비촉진…1천만 원 상당 돼지고기 기탁",
-    "ko_by": "original"
   }
 ]
