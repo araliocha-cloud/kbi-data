@@ -144,6 +144,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "23f134ca5de1",
+    "source": "The George-Anne Media Group",
+    "title": "GALLERY: Brick City BBQ & Tailgate Competition",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjJKY1NnbVRZODJyT3RPQjhfYmNaQkx1NVprUV9nOXhKRzBoZjZtUFNzb2x0MlZrLTJTdl9yclJaN3ZUUE9SdEd4LVktdTNleXhLMFRNdjVuZXlvS1Nyd0Rua0lBdHNOeEx0R1c1a0tfVkEzcktlbk4wazFrUE5jOUI5OWs1ZENWVGdURA?oc=5",
+    "query": "Barbecue Malaysia",
+    "published_at": "2026-11-06T20:16:26+00:00",
+    "time": "20:16",
+    "date": "2026-11-06",
+    "title_ko": "갤러리: 브릭 시티 BBQ & 테일게이트 대회",
+    "ko_by": "fallback"
+  },
+  {
     "id": "b82f622d2ea2",
     "source": "Radio 3 Cadena Patagonia",
     "title": "Trelew realizará un concurso de asadores con premios de hasta 500 mil pesos",
@@ -225,18 +237,6 @@
     "time": "09:21",
     "date": "2026-11-05",
     "title_ko": "홍성바비큐축제 매출 14.9% 증가…한우 판매 2배 넘게 늘었다",
-    "ko_by": "original"
-  },
-  {
-    "id": "3eaf36ba8403",
-    "source": "농수축산신문",
-    "title": "홍성글로벌바비큐페스티벌, 내실과 성과 모두 잡아",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5TXJUenVKX2VyMDE2eFVCcnhyTDJfaUhkMk5CTUpqWFYzREFObVdTWEZTSjdJVkFuOEtuRUhwU20tOFplMmRZSVdkNUVfNWhGQXZ5aHBuV2t3aDNVcWgxU29naWR6Z1JObFZtNw?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-05T06:40:30+00:00",
-    "time": "06:40",
-    "date": "2026-11-05",
-    "title_ko": "홍성글로벌바비큐페스티벌, 내실과 성과 모두 잡아",
     "ko_by": "original"
   }
 ]
