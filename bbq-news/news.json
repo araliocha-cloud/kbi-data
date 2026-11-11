@@ -96,6 +96,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "46bf4d0b0198",
+    "source": "Birmingham Live",
+    "title": "Digbeth Dining Club is bringing back BBQ festival with £5 tasting dishes",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdk1MRnRveEU0LTA2WndHN2xFN3R3dUQtbWphWmxFRVpPOTRLZHRzWGdnaWhzWkRRaHFtaERfb2pFY2dCbEhCY2xaS1B1Qi1oUjE2STRzNUtMelotYnI3RzdWTHRtQ2JtZ3oyUnpkamh3YldGQ1lsS180dS1zdnpvNGlqZHd6dUtnNUc2WDJ6RFhwc0NjM256Q0tlYWRiU2Njb2fSAacBQVVfeXFMT0xuVmpocjVud1NNSW12NDQtTHNyLVpSdXNIamIxc3ByVThoZ1BDUWFfakoxU0lIVTVYQ2pyU1NfamJZV2syNVBHMF9kYVh5a1pwUWVSYzBaeG9UM1h5eFl0V2d0SnlkT3ZpSUxfU0EzcFFMczVlZ29qTGVWbXBSTGF3NlBUeC1CRjdVRlpEdkZ1OXFfZWxrSXFIR1RwNS1HQk11QmJXNUE?oc=5",
+    "query": "British BBQ Society",
+    "published_at": "2026-11-08T05:23:00+00:00",
+    "time": "05:23",
+    "date": "2026-11-08",
+    "title_ko": "Digbeth Dining Club, 5파운드짜리 맛보기 요리가 제공되는 바비큐 축제를 다시 개최합니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "5f91fc3aa1be",
     "source": "NBC 5 Dallas-Fort Worth",
     "title": "BBQ and bragging rights: Texas high school pitmasters compete in Fort Worth",
@@ -118,6 +130,18 @@
     "date": "2026-11-07",
     "title_ko": "세멘티나서 전국 바비큐 대회 개최",
     "ko_by": "gemini"
+  },
+  {
+    "id": "c34e67ebdd78",
+    "source": "https://www.birmingham-now.co.uk/",
+    "title": "Huge barbeque festival returns after nearly 10 years with £5 dishes",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTV3YUdEVGtIVzNFeVJ3RmNfaEkwRmw0alUtUDF6cG9YNkl6TzF1c1Q3RWw2NlZoVlFPOVpkRkpJb3IzVzFXdV9kQk1zb3dXYnp6eVFLWWdZV1doVnMxX2F0bF85OWhBcHRPSnppMW96WGF5cktWSHlsZ2NQTG9sak9CdUhka0x2VUNNWHV5YzI1Q29RSDFDWGFNcw?oc=5",
+    "query": "British BBQ Society",
+    "published_at": "2026-11-07T16:00:00+00:00",
+    "time": "16:00",
+    "date": "2026-11-07",
+    "title_ko": "거대한 바비큐 축제가 10년 가까이 지난 후 £5짜리 요리와 함께 돌아옵니다.",
+    "ko_by": "fallback"
   },
   {
     "id": "5c615eb1fb6d",
@@ -213,30 +237,6 @@
     "time": "15:02",
     "date": "2026-11-05",
     "title_ko": "홍성 바비큐축제서 한돈 소비촉진…1천만 원 상당 돼지고기 기탁",
-    "ko_by": "original"
-  },
-  {
-    "id": "2a52057ba64f",
-    "source": "뉴스체크",
-    "title": "홍성 바비큐 축제 23만 인파…지역경제 청신호",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0dUdHTE5ndmJlSEY1TlQxYmZxWHZzX1FZMU1EMVFpeWp3Q3VtRWtTUy1qdkRIMVlUbWdFV3VrOGhIVFJCWUtyZ05tQ0VpSTZ1VVhnMm1TSk9TUGt3LXRLNEk5ejQtU0dELWRzQtIBcEFVX3lxTFBrbDdWZlp0Vk1uQ0R6QXg3RnlrVENMcW16dE5IUnJjMktQVDgyT2pESzhTV1BJRDNDNGVJcl9BSW9IZXA5RkgyM3lqZl9zOExILWxXX0o0VzRrTndxWjhra2dVaEJiYTA0elN5Y1V2dnY?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-05T09:27:42+00:00",
-    "time": "09:27",
-    "date": "2026-11-05",
-    "title_ko": "홍성 바비큐 축제 23만 인파…지역경제 청신호",
-    "ko_by": "original"
-  },
-  {
-    "id": "3a26c27742c5",
-    "source": "프라임경제",
-    "title": "홍성바비큐축제 매출 14.9% 증가…한우 판매 2배 넘게 늘었다",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92ek9DTXAxVlhNalk0cVlLWTVOeVVFVzRmRVJkRXRxTjNGNUdOS0VuZnZkb1BoRHlXRVdQLS05YW1PdmNjZ0psZ0FUd281VzZLTWFkRWQwZWp5WHIyRVMxVVpwUm5vMHhTeEVLZ1gwZ2Y4UQ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-05T09:21:52+00:00",
-    "time": "09:21",
-    "date": "2026-11-05",
-    "title_ko": "홍성바비큐축제 매출 14.9% 증가…한우 판매 2배 넘게 늘었다",
     "ko_by": "original"
   }
 ]
