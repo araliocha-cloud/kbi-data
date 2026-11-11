@@ -1,5 +1,17 @@
 [
   {
+    "id": "5ef55eb8387b",
+    "source": "베타뉴스",
+    "title": "진안 흑돼지 바비큐에 장아찌 체험까지…더본코리아, 김치보쌈축제 참여",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wUTVSMDBvUFoxb1gwb1dCTi0wcmtsMWVfcjYyNHViOVJ0R3pvOWU3UnBoYmViUlNDRDlGZkZmZnI4MVFIZ1piWnhTODFIX1Bwa0trMFlJRkptR2pUY2VtVGxacTE?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-11T04:03:50+00:00",
+    "time": "04:03",
+    "date": "2026-11-11",
+    "title_ko": "진안 흑돼지 바비큐에 장아찌 체험까지…더본코리아, 김치보쌈축제 참여",
+    "ko_by": "original"
+  },
+  {
     "id": "d68a80edb557",
     "source": "7PAGINAS",
     "title": "Concordia se quedó con el podio del Campeonato del Asado en Federación",
@@ -226,17 +238,5 @@
     "date": "2026-11-05",
     "title_ko": "\"여전히 실감 안 나\"… 2003년 바비큐 세계 챔피언 벨기에 유명 셰프 피터 데 클레르크 사망 경위 밝혀져",
     "ko_by": "gemini"
-  },
-  {
-    "id": "8154d59e20f8",
-    "source": "뉴스파고",
-    "title": "2026 홍성글로벌바비큐페스티벌, 한우 판매액 두 배 증가…총매출 14.9% 상승",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9JQ29tbEFWNmhLOTJ3QXY2VEVhZkNZeDdXRWFBQTFIM3E1Q2RtbFFKNm9EVGxuSmxPeXNibE8wclF4RVRh?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-05T00:57:00+00:00",
-    "time": "00:57",
-    "date": "2026-11-05",
-    "title_ko": "2026 홍성글로벌바비큐페스티벌, 한우 판매액 두 배 증가…총매출 14.9% 상승",
-    "ko_by": "original"
   }
 ]
