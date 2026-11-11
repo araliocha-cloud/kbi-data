@@ -12,6 +12,18 @@
     "ko_by": "original"
   },
   {
+    "id": "0be141079b12",
+    "source": "투데이안",
+    "title": "[진안군] 김치보쌈축제서 흑돼지 바비큐·장아찌 체험 선보여",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jdG9ZSGVxNHhmUW5QeF9rOW9weWVOeG9RZzJVS2FNc3lrNEgtbXh0RVB6amZhblR3WnBFRmxRcVZQRDVCR0pkWjRvS3hESGZpcFJnbk5QV1pmQ2J4aF8xYXpNclQ3VjlaVWc?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-11T02:29:53+00:00",
+    "time": "02:29",
+    "date": "2026-11-11",
+    "title_ko": "[진안군] 김치보쌈축제서 흑돼지 바비큐·장아찌 체험 선보여",
+    "ko_by": "original"
+  },
+  {
     "id": "d68a80edb557",
     "source": "7PAGINAS",
     "title": "Concordia se quedó con el podio del Campeonato del Asado en Federación",
@@ -226,17 +238,5 @@
     "date": "2026-11-05",
     "title_ko": "홍성글로벌바비큐페스티벌, 내실과 성과 모두 잡아",
     "ko_by": "original"
-  },
-  {
-    "id": "d679476ba3e5",
-    "source": "Sudinfo",
-    "title": "« Ça paraît toujours irréel » : on connaît désormais les circonstances de la mort du célèbre chef belge Peter De Clercq, champion du monde de barbecue en 2003",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMHNIZmJaV2Z5Q2RxM0Rkdkw0ZV9zRWJfTGR5eVlIMEQtenF4Z3dvWURjd0lLcV9peWszX0NFeWRSSnJnbkpSdGJCaFZqcFJySW1tbXJ0bFNNSUdwSWo2bTRQZ2p5ci1PMGZhdVg1ZXpPY0VBeFhtUlRBbV9DNC1BdkVUSGVqcWZEUlA4X0lLMzUzYU1saU1Yam9WUkJfRmkwZHR1a0liSktLbENONHdkSnd5NlJxdWE4UkF5WTZ6SGR4SW9nVmc?oc=5",
-    "query": "Barbecue France",
-    "published_at": "2026-11-05T05:58:31+00:00",
-    "time": "05:58",
-    "date": "2026-11-05",
-    "title_ko": "\"여전히 실감 안 나\"… 2003년 바비큐 세계 챔피언 벨기에 유명 셰프 피터 데 클레르크 사망 경위 밝혀져",
-    "ko_by": "gemini"
   }
 ]
