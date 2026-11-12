@@ -1,5 +1,17 @@
 [
   {
+    "id": "fc1add58d381",
+    "source": "Le Pélican",
+    "title": "Compétition de barbecue, Village de la gastronomie, Bike Fest… L’agenda du week-end",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVRXeURoUl9GOE1DbnBfRVZuTXJkZnNCdG11ZXNJMGxET18tVjFwOUpQMm5aakFjWGpXdDlKV1ZJcDBVdUdvWGtlWmMzNUJiOE8yZ3VLOHh3Y19ubjRfOHpRYkc1bzY1bkJzd0pqZ19sN3V2QnB5RmZSY0c3QzkyWHdYMzFpVXFHcmc4aVBQMWZveDdHWHNrcjVaNjB1d0luOVVLby1wdmpuWEdPaDNaMUFDcGo?oc=5",
+    "query": "Barbecue France",
+    "published_at": "2026-11-12T15:47:43+00:00",
+    "time": "15:47",
+    "date": "2026-11-12",
+    "title_ko": "바비큐 대회, 미식 마을, 바이크 페스트… 주말 일정",
+    "ko_by": "gemini"
+  },
+  {
     "id": "9b7f7e3aedf3",
     "source": "Las Vegas Weekly",
     "title": "A big new barbecue competition, Four Sixes Ranch Steakhouse and more Las Vegas dining news",
@@ -226,17 +238,5 @@
     "date": "2026-11-06",
     "title_ko": "트렐레우, 상금 최대 50만 페소 걸고 아사도르 대회 개최한다",
     "ko_by": "gemini"
-  },
-  {
-    "id": "ead1af530e5f",
-    "source": "농업인신문",
-    "title": "한돈자조금, 홍성 바비큐축제서 한돈 홍보",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpTUh2T2ZNYXgtbkZ5UUsyN3lwVktvMXZNUHBBYkRVQ1dtUy1NRFZ1SjdIQW5uT1BDYWI2X0NNMHFiREt6T29EUzBMejBEUEJsRnFmVkRvT0dWWjV6NmZIZUJfMWhaLVRBY2FpQ0NR?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-06T01:02:58+00:00",
-    "time": "01:02",
-    "date": "2026-11-06",
-    "title_ko": "한돈자조금, 홍성 바비큐축제서 한돈 홍보",
-    "ko_by": "original"
   }
 ]
