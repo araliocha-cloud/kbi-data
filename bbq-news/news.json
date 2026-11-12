@@ -1,5 +1,17 @@
 [
   {
+    "id": "9b7f7e3aedf3",
+    "source": "Las Vegas Weekly",
+    "title": "A big new barbecue competition, Four Sixes Ranch Steakhouse and more Las Vegas dining news",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmZpZVIzZW1YeG1hV2xoWGdPVU9ocXkweHp5ckJSWlFiTmtQRmVQU3NDX0FYcHlJcjktZ2ozTi1lYmN5dGZUVDNEUzRLTVRjLXpBaFpMeUtYLW52WmdzOG5VT2pidlB3Qncwb25oaEJtQ2t0M29GNUxXYkE4N0huNDc0VTlFOVl0aHFVMmE0anJsWGZzVkRNU1h3?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-11-12T10:01:31+00:00",
+    "time": "10:01",
+    "date": "2026-11-12",
+    "title_ko": "대규모의 새로운 바비큐 대회, Four Sixes Ranch Steakhouse 및 라스베이거스 외식 소식 더 보기",
+    "ko_by": "fallback"
+  },
+  {
     "id": "79a8a08b0447",
     "source": "CTV News",
     "title": "Calgarian wins prestigious Jack Daniel's barbecue championship",
@@ -226,17 +238,5 @@
     "date": "2026-11-06",
     "title_ko": "한돈자조금, 홍성 바비큐축제서 한돈 홍보",
     "ko_by": "original"
-  },
-  {
-    "id": "d66a54f5a924",
-    "source": "Diário de Goiás",
-    "title": "Pirenópolis recebe curso de defumação e churrasco com campeões mundiais",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmJaMVV1R1VqQkl6dkd3U29JUnRwV2RSM29zQ0VBd1VGQVVSeTZJdWdTdEFUX0NnVDFuY3ZVdXI2dTZmLWN2TWxra0RKeFZQdUdzNTZ5SjJVRkl4WnJicVVBMl9kV1dxOHdGdGlQLUY4VS1Mdjl5YnR2RHNlWGZ3dlVCRnl1RWVKdUxDQUo4U3FBWU5NSFhfcGpwdWQ3VXF0Mmhjc3diYmZyY2dj?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-11-05T21:23:14+00:00",
-    "time": "21:23",
-    "date": "2026-11-05",
-    "title_ko": "피레노폴리스, 세계 챔피언과 함께하는 훈제·슈하스코 강좌 개최",
-    "ko_by": "gemini"
   }
 ]
