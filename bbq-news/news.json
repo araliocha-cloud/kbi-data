@@ -1,5 +1,17 @@
 [
   {
+    "id": "79a8a08b0447",
+    "source": "CTV News",
+    "title": "Calgarian wins prestigious Jack Daniel's barbecue championship",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRG1FSG9jOFoydTNTQzV4WmM2X0FkM1hQT083M3RNRzFqdE5ZVW1PUExoY3Rkc21iUlV1NWUwaTBtRUlKWWg5WnBhSWFHWWtuVWR2QktlM1htc2Q5SkpGWGlvVG5sVE1wS09sNFFXZDB5WV8zbFR5UWdYQjJWWXlyd3B3aFFXWUxpNGhpSVZyR3BBejFLeUoxMVpwWWFRMk1obEJZbkstUTlNV29pVFdr?oc=5",
+    "query": "Jack Daniel's Invitational",
+    "published_at": "2026-11-12T00:41:00+00:00",
+    "time": "00:41",
+    "date": "2026-11-12",
+    "title_ko": "캘거리 출신이 권위 있는 잭 다니엘스 바비큐 챔피언십 우승",
+    "ko_by": "fallback"
+  },
+  {
     "id": "b5d7f61d95cf",
     "source": "CTV News",
     "title": "Calgary pitmaster takes home top prize in prestigious barbecue competition in Tennessee",
@@ -225,18 +237,6 @@
     "time": "21:23",
     "date": "2026-11-05",
     "title_ko": "피레노폴리스, 세계 챔피언과 함께하는 훈제·슈하스코 강좌 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "6de716030054",
-    "source": "Infobae",
-    "title": "Un asado argentino se abrió paso en la élite de la gastronomía mundial",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeGU2TG1oRTN6NEZJb1ZIVFBLNk85a3hTWHZWVk5HQXhFSFdPUzhNWUpLSkE1N18yeFFsNHBRZlYzc2pkQ2hzLV9Cck01RllBV0ZtaGFkVXNrX1dqSzY5SndQUWRVX1d3MkZ0N1FhR1UtOXlMRTJDcHNpQ2l3MzZfUjFMd3ZCck5VZnF2ejhyTHU4V3VDdThybkdlRmJTWlFYby1zOEJUUGFQNENtRVRndlpoOUY3Nl9U0gHTAUFVX3lxTFBYcDdLM20xQW5WR0tjMjBZS2pTelprWG5qVGN3WjZtcmtiNEFoTU5UYlloc3lmeU1CNkZISVJ2UHA5LUl0SGUzdGk5OHlpMVRmME9wV1BUM0VYclVVdWVkMDVIS3pJa0F6V2UydHZCWUtESmZieUZ0OUFTSWJLWHRITWxCSHQ3Y3kyTzFUcHhUQ0s4LVhjWFA3YWIySkdXMDlId2FKd0ZNWExHVjZCajZmYmVITmlkMS1ORndFVldEQ1VaRFFtelZ5MG4wR2Q5clNYVXM?oc=5",
-    "query": "Asado Argentina",
-    "published_at": "2026-11-05T18:09:00+00:00",
-    "time": "18:09",
-    "date": "2026-11-05",
-    "title_ko": "아르헨티나 아사도, 세계 미식 엘리트 반열 진입",
     "ko_by": "gemini"
   }
 ]
