@@ -72,6 +72,18 @@
     "ko_by": "original"
   },
   {
+    "id": "845401ef2eb5",
+    "source": "IT비즈뉴스",
+    "title": "갈비 전문 브랜드 양문숯불갈비, ‘2026 서울바비큐페스티벌’ 참가 성료",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzLTFyUmJSSDZLSUlVMlhiNUItc3Z5dnVUSEM0ai1jMm1MN3A0RUM5aE1vZXFBSDJWejB2TnYzVjk3OGMxZG1vMlRmakk4TjhaMjJiSVQwaUNTeUx4ZnREX3dfTV83bUVFLXZybA?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-11T02:40:00+00:00",
+    "time": "02:40",
+    "date": "2026-11-11",
+    "title_ko": "갈비 전문 브랜드 양문숯불갈비, ‘2026 서울바비큐페스티벌’ 참가 성료",
+    "ko_by": "original"
+  },
+  {
     "id": "d68a80edb557",
     "source": "7PAGINAS",
     "title": "Concordia se quedó con el podio del Campeonato del Asado en Federación",
@@ -225,18 +237,6 @@
     "time": "20:16",
     "date": "2026-11-06",
     "title_ko": "갤러리: 브릭시티 바비큐 & 테일게이트 대회",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "b82f622d2ea2",
-    "source": "Radio 3 Cadena Patagonia",
-    "title": "Trelew realizará un concurso de asadores con premios de hasta 500 mil pesos",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU192aVVNTnFKV3l5NDgxM1pWUFRTTUxHdldpRnNyVDZ1d0dmbGRLaUhQcUJadFAwdVc2c2t2RFpOOVZlWGtSZ3RrMWF4V0k5TUZpY19lVndDYnNvWWJQdVpKcTZ4eDIxT3FkSDk4b0tfMGxzNjR6OTd0Q3VXczNvU09tRTlBRGx6SzFnbUdrUWZWTUEtMm9BN0JIRlFTZ3U0WUJGQ1doaTZlX1ctcmg0aTR6SQ?oc=5",
-    "query": "Asado Chile",
-    "published_at": "2026-11-06T12:11:52+00:00",
-    "time": "12:11",
-    "date": "2026-11-06",
-    "title_ko": "트렐레우, 상금 최대 50만 페소 걸고 아사도르 대회 개최한다",
     "ko_by": "gemini"
   }
 ]
