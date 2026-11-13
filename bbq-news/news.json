@@ -1,5 +1,17 @@
 [
   {
+    "id": "f92dbbc24085",
+    "source": "Copperas Cove Leader Press",
+    "title": "Bulldawg BBQ teams qualify for state competition",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXU2eGxubDkzY3ZqeDhWbXZIbGNsWGg2NDY1cEctVU54WmZuaTlVTER0eFNLQW04UGNjVS02ZFFReDlNUldMVFVLR2RldTlnVlk5bEN1WUpublJpNnRsZFlkaHFFQ0tVaWZYWk1RT2UzZ0ZZN1UzbGkwZHJ6WU5NMjBEOEFldHBS?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-11-13T14:55:24+00:00",
+    "time": "14:55",
+    "date": "2026-11-13",
+    "title_ko": "불도그 BBQ 팀, 주 대회 출전 자격 획득",
+    "ko_by": "fallback"
+  },
+  {
     "id": "fc1add58d381",
     "source": "Le Pélican",
     "title": "Compétition de barbecue, Village de la gastronomie, Bike Fest… L’agenda du week-end",
@@ -225,18 +237,6 @@
     "time": "21:26",
     "date": "2026-11-06",
     "title_ko": "새 리얼리티 대회 시리즈 '바비큐 컨트리', 군침 돌게 한다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "23f134ca5de1",
-    "source": "The George-Anne Media Group",
-    "title": "GALLERY: Brick City BBQ & Tailgate Competition",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjJKY1NnbVRZODJyT3RPQjhfYmNaQkx1NVprUV9nOXhKRzBoZjZtUFNzb2x0MlZrLTJTdl9yclJaN3ZUUE9SdEd4LVktdTNleXhLMFRNdjVuZXlvS1Nyd0Rua0lBdHNOeEx0R1c1a0tfVkEzcktlbk4wazFrUE5jOUI5OWs1ZENWVGdURA?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-11-06T20:16:26+00:00",
-    "time": "20:16",
-    "date": "2026-11-06",
-    "title_ko": "갤러리: 브릭시티 바비큐 & 테일게이트 대회",
     "ko_by": "gemini"
   }
 ]
