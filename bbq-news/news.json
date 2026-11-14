@@ -1,5 +1,17 @@
 [
   {
+    "id": "26fc43ae447c",
+    "source": "홍성신문",
+    "title": "‘한우∙한돈 1000마리 무료로 쏜다’ 홍성 바비큐축제의 진짜 상생",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xb2dOZ0NGNkNPRDlaMFgxdWxxcTBUYTdNb2sxVDFBQm5wS2Z2Zk9yd2l1cExWUi1tWkd0YTJVdWZXMkdVa21oQk9nXzdXaEJrbFYyZkttb1l1N1JaeFgxYkF6MW5SdS1vODM4?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-14T01:41:25+00:00",
+    "time": "01:41",
+    "date": "2026-11-14",
+    "title_ko": "‘한우∙한돈 1000마리 무료로 쏜다’ 홍성 바비큐축제의 진짜 상생",
+    "ko_by": "original"
+  },
+  {
     "id": "3262bdde2beb",
     "source": "La Montaña Noticias",
     "title": "Orgullo sanmartinense: Los Más Completos lograron el segundo puesto en un concurso de asadores en La Pampa",
@@ -225,18 +237,6 @@
     "time": "05:23",
     "date": "2026-11-08",
     "title_ko": "디그베스 다이닝 클럽, 5파운드 시식 요리와 함께 바비큐 축제 재개",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "5f91fc3aa1be",
-    "source": "NBC 5 Dallas-Fort Worth",
-    "title": "BBQ and bragging rights: Texas high school pitmasters compete in Fort Worth",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2dQVUtYUGpMT29rSDlsUDVrLWNkdzdhVEE2RUoxX3IzRV94ZGJnaE1jQk80NHpiejdRdXBDM0NPdllPazQyV0xBTDRlanJOaVJLYWdMUFM1RldFSEVRRGlTYjNtZGFQeUMxSlZoTmx1clEwT0FCNUhxdjZVME1zcllJRWR3TGpXQ2x2aWRWLUwzTmNJTU4tTE9UMFB0SFNWOHJsYS1XMUN4cGFXSV840gG3AUFVX3lxTFBzd1Vkc3lLVk9ISFVGMUw5eHVPQmRpenJ2bEpTUW00TmFiTktRZGpTaWlQTFRZRTEzSG5kSk5hNVNQWjdfOG1uS3hTa0lUNEU2MTZLVFFrVmZqbDVrUDNCdHFhVTl4eTI3bHBKMkpuYWxmTnpWUnZOb0hFdzEyNG4xSGZBZi1zZEZZT0FHdVhsOHFZbkJ4WWszdUQ0UGdqWE1JSHlCUVlVYkRUWXpCbGdZV2hTaGI0Zw?oc=5",
-    "query": "Barbecue Malaysia",
-    "published_at": "2026-11-07T22:59:23+00:00",
-    "time": "22:59",
-    "date": "2026-11-07",
-    "title_ko": "바비큐와 자존심 걸고… 텍사스 고교 피트마스터들 포트워스서 맞대결",
     "ko_by": "gemini"
   }
 ]
