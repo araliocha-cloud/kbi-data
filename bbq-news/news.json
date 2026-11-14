@@ -12,6 +12,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "427846f13d0e",
+    "source": "The Killeen Daily Herald",
+    "title": "Top-grade pork chops, chicken wings fire up Temple High BBQ team cooking on way to state competition",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdDNNZkt3RmtFTUFfdDdndHh4M1lzUlZacDhBTG10NFJqTkdpYlFFUnNaUGtSNWJOb1pLOTdmczItUzBCNWYxTUZDOFg1YVNnZmtDcjBXSjdJNTlHYzZ6cE1pTU5scm93T0ZZdVctUjQ3SzJ5bkNTem5NZFpRUXRrX1Y5VHYxemFOczI0TmltWDhEdmZZeDUwTTl6ZXhNYjd2Z2Jka1lLaFN0dlNDa0FfcEl0RmluOE9DOC1OVjQ1QW0ybi1uOHZWdTIzUk5tbUhvOHNPazNiaU5sTXdicnNrLVBvV1JucGg3MU9FMDBybGpZZw?oc=5",
+    "query": "NBBQA",
+    "published_at": "2026-11-13T18:00:00+00:00",
+    "time": "18:00",
+    "date": "2026-11-13",
+    "title_ko": "템플 고등학교 바비큐 팀이 주 대회 진출을 앞두고 최고급 돼지고기 등심과 닭날개를 요리합니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "f92dbbc24085",
     "source": "Copperas Cove Leader Press",
     "title": "Bulldawg BBQ teams qualify for state competition",
@@ -225,18 +237,6 @@
     "time": "16:00",
     "date": "2026-11-07",
     "title_ko": "대형 바비큐 축제, 5파운드 요리와 함께 약 10년 만에 돌아온다",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "3f0f2d6c9dee",
-    "source": "Facebook",
-    "title": "Armed with a 1.5-tonne offset smoker nicknamed Angela and meat sourced straight from Yorkshire, pitmaster Sam Bertioli has turned a hidden Castlefield railway arch into one of Manchester's most sought-after lunchtime barbecue spots",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVBsVnNJc0FUNzZsYTlIdGFJYzUyN1VJLXlxS3ZQMU9nUXVWQmUwekFpODJFZmF0X3NZRkhyVkhYbFoySlg3Vk1ucTh6Tk1MeklIcnlYbnRLRm1tWFYxTkhOaHotNk5teTVESGc5NmJpS2J3UXB3TDA5RkpCQkd0Q0xxNjJPenZ5ZVN4b1hydlJHRkY4bVdqM1J6aDVuLXIyT0U0Z3plbjJPVjBhZ2VSMS14UWRIN2pxOHphdThYM2QwNFdVRXJoVVdzbmd1dGJ6cldaLVgxTXRUSUNzOE15ZkxXUVdZZw?oc=5",
-    "query": "UK BBQ Championship",
-    "published_at": "2026-11-07T08:51:13+00:00",
-    "time": "08:51",
-    "date": "2026-11-07",
-    "title_ko": "1.5톤 스모커 '안젤라'와 요크셔산 고기로 무장한 피트마스터 샘 베르티올리, 맨체스터 캐슬필드 철길 아치를 인기 점심 바비큐 명소로 탈바꿈시켜",
     "ko_by": "gemini"
   }
 ]
