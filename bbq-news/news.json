@@ -84,6 +84,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "c98a070af6cd",
+    "source": "Revista Factual",
+    "title": "Pirenópolis recebe curso de defumação e churrasco com campeões mundiais da área neste sábado (14/11)",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmRvZHh1U29SR0pzVE1keDByeFlubW1GWFZveDEtYjQ1MXhodW1mRUFab0VzTUNYUGhOV0NfOVRQelFUWHJjdGpaOFhsLTJIR3RIM3lNOWRYbG9pQjUtNHhJTlFfWE92a015M09xYVB6cTVTdEo0TGJ2a2dMVVJ5VTlrdktLLWtwYV9RQmNSWkJkd01UakI2SlBIbXRLeG5WRGZFN184b0hzWC1lYUJzeGFLQUQxZw?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-11-11T10:36:42+00:00",
+    "time": "10:36",
+    "date": "2026-11-11",
+    "title_ko": "피레노폴리스, 오는 11월 14일(토)에 이 분야 세계 챔피언들과 함께하는 훈연 및 바비큐 강좌를 개최합니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "2677bcade3dc",
     "source": "메트로신문",
     "title": "진안군, 진안고원 김치보쌈축제서 흑돼지 바비큐·장아찌 체험 즐긴다",
@@ -225,18 +237,6 @@
     "time": "18:44",
     "date": "2026-11-07",
     "title_ko": "세멘티나서 전국 바비큐 대회 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "c34e67ebdd78",
-    "source": "https://www.birmingham-now.co.uk/",
-    "title": "Huge barbeque festival returns after nearly 10 years with £5 dishes",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTV3YUdEVGtIVzNFeVJ3RmNfaEkwRmw0alUtUDF6cG9YNkl6TzF1c1Q3RWw2NlZoVlFPOVpkRkpJb3IzVzFXdV9kQk1zb3dXYnp6eVFLWWdZV1doVnMxX2F0bF85OWhBcHRPSnppMW96WGF5cktWSHlsZ2NQTG9sak9CdUhka0x2VUNNWHV5YzI1Q29RSDFDWGFNcw?oc=5",
-    "query": "British BBQ Society",
-    "published_at": "2026-11-07T16:00:00+00:00",
-    "time": "16:00",
-    "date": "2026-11-07",
-    "title_ko": "대형 바비큐 축제, 5파운드 요리와 함께 약 10년 만에 돌아온다",
     "ko_by": "gemini"
   }
 ]
