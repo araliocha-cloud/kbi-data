@@ -84,6 +84,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "3a546f4dde7e",
+    "source": "ABIH-RJ",
+    "title": "BBQ Garden Festival reúne churrasco e música no Jockey Club, na Gávea, neste sábado (14)",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1ZjLXZaYTI4RDF4NTAtbWtNd0ZjYzZzc0JhUmo3OS03bk5QblhtMmNaaFgxRTR6QjhDY3pneC1ZeWpmNG9IaU5tbUQ0RzExU19CVVdkM1FPZmNDeHdNaUhpT1gwOGJvbnBkbkFZMkdOVlpkYWhVY0wySDRYeUdUR3BLcUdPazllc2toWWEtNVRNUDBqT212dWItU3JJc3dlMWZDVm0weVFHZ0JkY2hwNQ?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-11-11T13:56:26+00:00",
+    "time": "13:56",
+    "date": "2026-11-11",
+    "title_ko": "BBQ 가든 페스티벌이 이번 주 토요일(14일) 가베아의 조키 클럽에서 바비큐와 음악을 선보입니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "c98a070af6cd",
     "source": "Revista Factual",
     "title": "Pirenópolis recebe curso de defumação e churrasco com campeões mundiais da área neste sábado (14/11)",
@@ -225,18 +237,6 @@
     "time": "22:59",
     "date": "2026-11-07",
     "title_ko": "바비큐와 자존심 걸고… 텍사스 고교 피트마스터들 포트워스서 맞대결",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "026947a172b1",
-    "source": "RSI",
-    "title": "A Sementina una gara nazionale di barbecue",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmlRRkc1b0c5UHBMOERTZkcwV29oUGk5N25idUY3bl94RkNMNWV4Q1FvMFFhVGZyQTdYYkJta1J5Ul9MdThxbF9oVjUwWGlPVXpNbjlOTE5FTFNDOEZoUU5jQ3cxMFRLRWVlUU4wdnQ2SU52ZGZ5Q1VmS29yYUstWHNxcWFCZEhwUlpIX0d6b3lmWE42MmdiTU4zZlJQSkRjNFMwTmh1NDkxbXM?oc=5",
-    "query": "Barbecue Italia",
-    "published_at": "2026-11-07T18:44:12+00:00",
-    "time": "18:44",
-    "date": "2026-11-07",
-    "title_ko": "세멘티나서 전국 바비큐 대회 개최",
     "ko_by": "gemini"
   }
 ]
