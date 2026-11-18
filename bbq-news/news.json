@@ -60,6 +60,18 @@
     "ko_by": "original"
   },
   {
+    "id": "98b405359fb7",
+    "source": "뉴스파이어",
+    "title": "‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tWGxldElYX3hWU0hZb2Y0MkZadVBaOFlNU3dpUm5ieEhBSnh6ZFF6ZkxrWjNoRGxsSEFHd0R3REVURDlHTDVlbG9MNjNXajd6WGh2Q3dETHhBUnlvclpBU2VBZmNnUS1HZk1CbGludw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-18T04:02:23+00:00",
+    "time": "04:02",
+    "date": "2026-11-18",
+    "title_ko": "‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
+    "ko_by": "original"
+  },
+  {
     "id": "8d966a22e5bb",
     "source": "연합뉴스",
     "title": "서울바비큐페스티벌에 2만명 넘게 몰려…93% \"내년에도 방문\"",
@@ -225,18 +237,6 @@
     "time": "21:02",
     "date": "2026-11-11",
     "title_ko": "캘거리 피트마스터, 테네시 명예로운 바비큐 대회서 최고상 수상",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "3a546f4dde7e",
-    "source": "ABIH-RJ",
-    "title": "BBQ Garden Festival reúne churrasco e música no Jockey Club, na Gávea, neste sábado (14)",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1ZjLXZaYTI4RDF4NTAtbWtNd0ZjYzZzc0JhUmo3OS03bk5QblhtMmNaaFgxRTR6QjhDY3pneC1ZeWpmNG9IaU5tbUQ0RzExU19CVVdkM1FPZmNDeHdNaUhpT1gwOGJvbnBkbkFZMkdOVlpkYWhVY0wySDRYeUdUR3BLcUdPazllc2toWWEtNVRNUDBqT212dWItU3JJc3dlMWZDVm0weVFHZ0JkY2hwNQ?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-11-11T13:56:26+00:00",
-    "time": "13:56",
-    "date": "2026-11-11",
-    "title_ko": "오는 14일 가베아 조키 클럽서 슈하스코와 음악 어우러지는 바비큐 가든 페스티벌 개최",
     "ko_by": "gemini"
   }
 ]
