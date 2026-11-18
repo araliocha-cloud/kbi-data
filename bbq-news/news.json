@@ -24,6 +24,18 @@
     "ko_by": "original"
   },
   {
+    "id": "5f5e06c0b560",
+    "source": "서울신문",
+    "title": "서울 바비큐 페스티벌에 2만여명 몰렸다…만족도 92.7%",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hcnFPYWJEaEhSQ0RxOUI2V2Y4U2lfdnhjRGo0RVp1ZXJPbW1qUVNRMThPME1BRzljdXpLUnFPNmdqNE9GMWt2Tnh5MzNNSm42SHM0?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-18T06:20:54+00:00",
+    "time": "06:20",
+    "date": "2026-11-18",
+    "title_ko": "서울 바비큐 페스티벌에 2만여명 몰렸다…만족도 92.7%",
+    "ko_by": "original"
+  },
+  {
     "id": "13bd29433d4d",
     "source": "뉴스홈(newshome)",
     "title": "홍성글로벌바비큐페스티벌 성과 공유…방문객 만족도·소비지출 증가",
@@ -225,18 +237,6 @@
     "time": "13:56",
     "date": "2026-11-11",
     "title_ko": "오는 14일 가베아 조키 클럽서 슈하스코와 음악 어우러지는 바비큐 가든 페스티벌 개최",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "c98a070af6cd",
-    "source": "Revista Factual",
-    "title": "Pirenópolis recebe curso de defumação e churrasco com campeões mundiais da área neste sábado (14/11)",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdmRvZHh1U29SR0pzVE1keDByeFlubW1GWFZveDEtYjQ1MXhodW1mRUFab0VzTUNYUGhOV0NfOVRQelFUWHJjdGpaOFhsLTJIR3RIM3lNOWRYbG9pQjUtNHhJTlFfWE92a015M09xYVB6cTVTdEo0TGJ2a2dMVVJ5VTlrdktLLWtwYV9RQmNSWkJkd01UakI2SlBIbXRLeG5WRGZFN184b0hzWC1lYUJzeGFLQUQxZw?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-11-11T10:36:42+00:00",
-    "time": "10:36",
-    "date": "2026-11-11",
-    "title_ko": "피레노폴리스, 오는 14일 토요일 세계 챔피언과 함께하는 훈제·슈하스코 강좌 개최",
     "ko_by": "gemini"
   }
 ]
