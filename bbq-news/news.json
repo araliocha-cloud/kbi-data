@@ -24,6 +24,18 @@
     "ko_by": "original"
   },
   {
+    "id": "e84fd3d3a404",
+    "source": "뉴스1",
+    "title": "서울 바비큐 페스티벌에 2만명 몰렸다…외식업체 매출 10%↑",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuMUkwSmNDUUFBeEpERmhoeWxfTThaNDJIQUNQa2UzVnUzMFJOQVF2Ym53b1VHRVo4Y1prX256a2wwT2NSa3RuVDRvWDRRYzBObkE?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-18T02:15:00+00:00",
+    "time": "02:15",
+    "date": "2026-11-18",
+    "title_ko": "서울 바비큐 페스티벌에 2만명 몰렸다…외식업체 매출 10%↑",
+    "ko_by": "original"
+  },
+  {
     "id": "622b8bb2b3c5",
     "source": "guadeloupe.franceantilles.fr",
     "title": "Le barbecue à l'honneur pour le Festival de la gastronomie",
@@ -189,30 +201,6 @@
     "time": "06:36",
     "date": "2026-11-11",
     "title_ko": "진안군, 진안고원 김치보쌈축제서 흑돼지 바비큐·장아찌 체험 즐긴다",
-    "ko_by": "original"
-  },
-  {
-    "id": "5ef55eb8387b",
-    "source": "베타뉴스",
-    "title": "진안 흑돼지 바비큐에 장아찌 체험까지…더본코리아, 김치보쌈축제 참여",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wUTVSMDBvUFoxb1gwb1dCTi0wcmtsMWVfcjYyNHViOVJ0R3pvOWU3UnBoYmViUlNDRDlGZkZmZnI4MVFIZ1piWnhTODFIX1Bwa0trMFlJRkptR2pUY2VtVGxacTE?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-11T04:03:50+00:00",
-    "time": "04:03",
-    "date": "2026-11-11",
-    "title_ko": "진안 흑돼지 바비큐에 장아찌 체험까지…더본코리아, 김치보쌈축제 참여",
-    "ko_by": "original"
-  },
-  {
-    "id": "68a22860c342",
-    "source": "한국미디어뉴스",
-    "title": "흑돼지 바비큐에 장아찌까지, 진안고원 김치보쌈축제, 지역 먹거리 풍성",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sTS1KMEhqaVQwdGdiYV9iclZtdjI2TDdjLXgtQ1ZlS3ZOXzVSU0pmQzIzQkFBWUpKeFpCZ29wT3JyYm8tcXVCUzBjWlVKTFg5eE9jSzJjTWtYcldfOFpRcHBtbmZFdw?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-11T03:31:21+00:00",
-    "time": "03:31",
-    "date": "2026-11-11",
-    "title_ko": "흑돼지 바비큐에 장아찌까지, 진안고원 김치보쌈축제, 지역 먹거리 풍성",
     "ko_by": "original"
   }
 ]
