@@ -144,6 +144,5 @@ body.doz_sys{color:var(--kb-ink)}
 .kb-submenu a:hover, .kb-submenu a.active{color:var(--kb-acc)}
 .kb-submenu a.active{box-shadow:inset 0 -1px 0 var(--kb-acc)}
 @media (max-width:991px){.kb-submenu ul{justify-content:flex-start}}
-/* keep the sub menu visible on narrow screens too (Imweb hides it by default) */
-.sub-menu.sub_menu_hide{display:block!important}
-@media (max-width:991px){.sub-menu > ul{padding:14px 12px 0!important}.sub-menu li{float:none!important;width:auto!important;display:block!important}}
+/* on narrow screens the Imweb mobile header already shows the second-level menu */
+@media (max-width:991px){.kb-submenu{display:none!important}}
