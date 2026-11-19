@@ -122,3 +122,7 @@ body.doz_sys{color:var(--kb-ink)}
 
 /* Watch page : older duplicate of the founder biography, hidden (widgets kept in Imweb, nothing deleted) */
 #w20211228e11e2610fa65c, #w202112282b7a07a9d8a3a{display:none!important}
+
+/* new pages (Fellows, Working Papers, Books): neutralise Bootstrap .row clearfix inside the widget */
+#kbx .row{margin-left:0!important;margin-right:0!important}
+#kbx .row::before, #kbx .row::after{content:none!important;display:none!important}
