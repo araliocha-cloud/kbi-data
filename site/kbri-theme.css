@@ -119,3 +119,6 @@ body.doz_sys{color:var(--kb-ink)}
 .kbp.kbp .kb-oldpaper{background-color:#D9C49A!important;background-image:radial-gradient(ellipse at 18% 22%,rgba(120,80,30,.22),transparent 38%),radial-gradient(ellipse at 82% 70%,rgba(110,70,25,.26),transparent 42%),radial-gradient(circle at 64% 12%,rgba(140,90,40,.18),transparent 14%),radial-gradient(circle at 30% 86%,rgba(90,60,20,.20),transparent 10%),radial-gradient(ellipse at center,transparent 55%,rgba(70,45,15,.45) 100%)!important;box-shadow:0 30px 60px rgba(0,0,0,.55),inset 0 0 0 1px rgba(60,40,15,.35)!important;filter:sepia(.25);transform:rotate(-1deg);color:#2B1F14!important}
 .kbp.kbp .kb-oldpaper *{color:#2B1F14!important;border-color:#3A2A1A!important}
 .kbp.kbp .kb-oldpaper .kb-op-mast{font-family:'UnifrakturMaguntia','Cormorant Garamond',serif!important}
+
+/* Watch page : older duplicate of the founder biography, hidden (widgets kept in Imweb, nothing deleted) */
+#w20211228e11e2610fa65c, #w202112282b7a07a9d8a3a{display:none!important}
