@@ -23,3 +23,26 @@
  if(document.readyState!=='loading')run(); else document.addEventListener('DOMContentLoaded',run);
  window.addEventListener('load',run);
 })();
+
+/* pages without their own sub menu get one built from the header menu (no stored content changes) */
+(function(){
+ function norm(p){try{p=new URL(p,location.origin).pathname}catch(e){}return p.replace(/\/+$/,'').toLowerCase()||'/'}
+ function build(){
+  if(document.querySelector('.sub-menu, .kb-submenu')) return;
+  if(/^\/(admin|_)/.test(location.pathname)) return;
+  var here=norm(location.pathname); if(here==='/'||here==='/home') return;
+  var nav=document.querySelector('#s2026072819fb105033eda .viewport-nav'); if(!nav) return;
+  var tops=nav.querySelectorAll(':scope > li'); var hit=null;
+  for(var i=0;i<tops.length&&!hit;i++){var as=tops[i].querySelectorAll('.dropdown-menu a'); for(var j=0;j<as.length;j++){if(norm(as[j].getAttribute('href'))===here){hit=tops[i];break}}}
+  if(!hit) return;
+  var links=hit.querySelectorAll('.dropdown-menu a'); if(links.length<2) return;
+  var bar=document.createElement('nav'); bar.className='kb-submenu'; bar.setAttribute('aria-label','Sub menu');
+  var ul=document.createElement('ul');
+  for(var k=0;k<links.length;k++){var li=document.createElement('li'); var a=document.createElement('a'); a.href=links[k].getAttribute('href'); a.textContent=links[k].textContent.trim(); if(norm(a.getAttribute('href'))===here) a.className='active'; li.appendChild(a); ul.appendChild(li)}
+  bar.appendChild(ul);
+  var first=document.querySelector('#doz_body .section_wrap, main .section_wrap, .section_wrap.pc_section');
+  if(first&&first.parentNode) first.parentNode.insertBefore(bar,first); else return;
+ }
+ if(document.readyState!=='loading')build(); else document.addEventListener('DOMContentLoaded',build);
+ window.addEventListener('load',build);
+})();
