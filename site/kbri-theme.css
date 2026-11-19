@@ -88,7 +88,7 @@ body.doz_sys{color:var(--kb-ink)}
 .kbp.kbp .kb-mono{font-family:var(--kb-lat)!important;font-size:13px!important;letter-spacing:.28em!important;color:var(--kb-gold)}
 .kbp.kbp .kb-eyebrow{color:var(--kb-gold)!important}
 .kbp.kbp p[lang="ko"], .kbp.kbp .kb-pair p[lang="ko"]{font-family:var(--kb-sans)!important;line-height:1.95;text-align:justify;word-break:keep-all;color:var(--kb-body)!important}
-.kbp.kbp .kb-hero h1{font-weight:400!important;font-size:clamp(52px,7.6vw,118px)!important;line-height:.98!important}
+.kbp.kbp .kb-hero h1{font-weight:400!important;font-size:clamp(46px,5.4vw,88px)!important;line-height:1!important}
 .kbp.kbp .kb-hero h1 em{font-weight:400!important}
 .kbp.kbp .kb-h1ko{font-family:var(--kb-ser)!important;font-weight:700!important;letter-spacing:.04em;color:var(--kb-ink2)!important}
 .kbp.kbp .kb-sechead h2{font-family:var(--kb-lat)!important;font-weight:400!important;font-size:clamp(44px,4.8vw,66px)!important;line-height:1!important;color:var(--kb-ink)!important}
@@ -109,7 +109,7 @@ body.doz_sys{color:var(--kb-ink)}
 .kbp.kbp .kb-depts a:first-child b{color:var(--kb-acc)!important}
 .kbp.kbp .kb-depts strong{font-family:var(--kb-lat)!important;font-weight:400!important;font-size:20px!important}
 .kbp.kbp .kb-idx a{border-color:rgba(236,227,211,.12)!important;background:transparent!important}
-.kbp.kbp .kb-idx .kb-code, .kbp.kbp .kb-board .kb-code{font-family:var(--kb-lat)!important;letter-spacing:.24em!important;color:var(--kb-acc)!important}
+.kbp.kbp .kb-idx .kb-code, .kbp.kbp .kb-board .kb-code{font-family:var(--kb-lat)!important;letter-spacing:.12em!important;white-space:nowrap;color:var(--kb-acc)!important}
 .kbp.kbp .kb-idx h3{font-family:var(--kb-lat)!important;font-weight:400!important;font-size:26px!important}
 .kbp.kbp .kb-quote{font-family:var(--kb-lat)!important;font-style:italic}
 .kbp.kbp .kb-btn{border-radius:0!important;font-family:var(--kb-lat)!important;letter-spacing:.24em!important;text-transform:uppercase}
@@ -118,4 +118,4 @@ body.doz_sys{color:var(--kb-ink)}
 .kbp.kbp.kbp-07press{--ash:#2A2118;--char:#2A2118;background:#2A2118!important}
 .kbp.kbp .kb-oldpaper{background-color:#D9C49A!important;background-image:radial-gradient(ellipse at 18% 22%,rgba(120,80,30,.22),transparent 38%),radial-gradient(ellipse at 82% 70%,rgba(110,70,25,.26),transparent 42%),radial-gradient(circle at 64% 12%,rgba(140,90,40,.18),transparent 14%),radial-gradient(circle at 30% 86%,rgba(90,60,20,.20),transparent 10%),radial-gradient(ellipse at center,transparent 55%,rgba(70,45,15,.45) 100%)!important;box-shadow:0 30px 60px rgba(0,0,0,.55),inset 0 0 0 1px rgba(60,40,15,.35)!important;filter:sepia(.25);transform:rotate(-1deg);color:#2B1F14!important}
 .kbp.kbp .kb-oldpaper *{color:#2B1F14!important;border-color:#3A2A1A!important}
-.kbp.kbp .kb-oldpaper .kb-op-en{font-family:'UnifrakturMaguntia','Cormorant Garamond',serif!important}
+.kbp.kbp .kb-oldpaper .kb-op-mast{font-family:'UnifrakturMaguntia','Cormorant Garamond',serif!important}
