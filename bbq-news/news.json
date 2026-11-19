@@ -1,5 +1,17 @@
 [
   {
+    "id": "429d573368ab",
+    "source": "PR TIMES",
+    "title": "【愛知で日本初開催】世界基準のKCBS公式BBQコンテストとアメリカンフェスを11月29日（いい肉の日）に同時開催",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Vb2NFMUQ2N2V2bUNFNHFETDVWVW9PLXRhSzAxdG0yWHk2TEhrd21WNWtQSjNUaDZJTlFNS0dKNkFpMGpJUi1PbHlVSjJtM1pQWXdmdVdSWlRjSktLbXRHSk4wc1FMSDVWY1E?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-11-19T10:04:28+00:00",
+    "time": "10:04",
+    "date": "2026-11-19",
+    "title_ko": "[아이치에서 일본 최초 개최] 세계적 기준의 KCBS 공식 BBQ 콘테스트와 아메리칸 페스티벌을 11월 29일(좋은 고기의 날)에 동시 개최",
+    "ko_by": "fallback"
+  },
+  {
     "id": "65d1d0df9825",
     "source": "경찰연합신문",
     "title": "홍성군 홍주문화관광재단 2026 홍성글로벌바비큐페스티벌 성과공유 간담회 개최:경찰연합신문",
@@ -225,18 +237,6 @@
     "time": "15:47",
     "date": "2026-11-12",
     "title_ko": "바비큐 대회, 미식 마을, 바이크 페스트… 주말 일정",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "9b7f7e3aedf3",
-    "source": "Las Vegas Weekly",
-    "title": "A big new barbecue competition, Four Sixes Ranch Steakhouse and more Las Vegas dining news",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmZpZVIzZW1YeG1hV2xoWGdPVU9ocXkweHp5ckJSWlFiTmtQRmVQU3NDX0FYcHlJcjktZ2ozTi1lYmN5dGZUVDNEUzRLTVRjLXpBaFpMeUtYLW52WmdzOG5VT2pidlB3Qncwb25oaEJtQ2t0M29GNUxXYkE4N0huNDc0VTlFOVl0aHFVMmE0anJsWGZzVkRNU1h3?oc=5",
-    "query": "BBQ World Championship",
-    "published_at": "2026-11-12T10:01:31+00:00",
-    "time": "10:01",
-    "date": "2026-11-12",
-    "title_ko": "대형 신규 바비큐 대회, 포 식스 랭치 스테이크하우스 등 라스베이거스 다이닝 소식",
     "ko_by": "gemini"
   }
 ]
