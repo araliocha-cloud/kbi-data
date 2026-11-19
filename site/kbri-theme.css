@@ -134,3 +134,4 @@ body.doz_sys{color:var(--kb-ink)}
 .sub-menu > ul{display:flex!important;flex-wrap:nowrap!important;justify-content:center!important;overflow-x:auto;scrollbar-width:none}
 .sub-menu > ul::-webkit-scrollbar{display:none}
 .sub-menu > ul > li > a, .sub-menu li.depth-01 > a{margin:0 clamp(10px,1.1vw,18px)!important;letter-spacing:.12em!important;font-size:14px!important;white-space:nowrap}
+@media (max-width:991px){.sub-menu > ul{justify-content:flex-start!important}}
