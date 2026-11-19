@@ -46,3 +46,9 @@
  if(document.readyState!=='loading')build(); else document.addEventListener('DOMContentLoaded',build);
  window.addEventListener('load',build);
 })();
+
+/* expose the height of the pinned sub menu so floating panels (HCX result bar) can sit below it */
+(function(){
+ function upd(){var r=document.querySelector('.kb-sub-fixed')||document.querySelector('.kb-submenu');var h=0;if(r){var b=r.getBoundingClientRect();if(r.classList.contains('kb-sub-fixed')||b.top<=parseFloat(getComputedStyle(r).top||0)+1)h=b.height}document.documentElement.style.setProperty('--kbSubH',h+'px')}
+ window.addEventListener('scroll',upd,{passive:true});window.addEventListener('resize',upd);window.addEventListener('load',upd);
+})();

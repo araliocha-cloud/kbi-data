@@ -146,3 +146,6 @@ body.doz_sys{color:var(--kb-ink)}
 @media (max-width:991px){.kb-submenu ul{justify-content:flex-start}}
 /* on narrow screens the Imweb mobile header already shows the second-level menu */
 @media (max-width:991px){.kb-submenu{display:none!important}}
+
+/* HCX page : the floating result bar sits below the pinned sub menu instead of covering it */
+#hcx-app > div[style*="position: fixed"]{top:calc(var(--kbNavH,89px) + var(--kbSubH,0px) + 8px)!important}
