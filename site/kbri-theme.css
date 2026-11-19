@@ -126,3 +126,11 @@ body.doz_sys{color:var(--kb-ink)}
 /* new pages (Fellows, Working Papers, Books): neutralise Bootstrap .row clearfix inside the widget */
 #kbx .row{margin-left:0!important;margin-right:0!important}
 #kbx .row::before, #kbx .row::after{content:none!important;display:none!important}
+
+/* main menu : centred in the free space, spacing grows with the screen */
+#s2026072819fb105033eda .inline-col-group-right{flex:1 1 auto!important;display:flex!important;justify-content:center!important}
+#s2026072819fb105033eda#s2026072819fb105033eda .viewport-nav li > a.dropdown-toggle{padding-left:clamp(8px,calc((100vw - 1100px)*.08),24px)!important;padding-right:clamp(8px,calc((100vw - 1100px)*.08),24px)!important}
+/* sub menu : one line */
+.sub-menu > ul{display:flex!important;flex-wrap:nowrap!important;justify-content:center!important;overflow-x:auto;scrollbar-width:none}
+.sub-menu > ul::-webkit-scrollbar{display:none}
+.sub-menu > ul > li > a, .sub-menu li.depth-01 > a{margin:0 clamp(10px,1.1vw,18px)!important;letter-spacing:.12em!important;font-size:14px!important;white-space:nowrap}
