@@ -64,3 +64,19 @@ body.doz_sys{color:var(--kb-ink)}
  .board_view .board_txt_area p, .board_view .board_txt_area li{font-size:16.5px!important;line-height:1.95!important}
  .li_board .li_body .list_text_title, .li_board .li_body .list_text_title span{font-size:16px!important}
 }
+
+/* page intro (title text widget above each board) */
+.kb-intro{max-width:1240px}
+.kb-intro p{margin:0!important}
+.kb-intro p.kb-t, .kb-intro p.kb-t *{font-family:var(--kb-lat)!important;font-size:clamp(46px,5.6vw,84px)!important;font-weight:400!important;line-height:1.02!important;color:var(--kb-ink)!important;letter-spacing:.005em!important}
+.kb-intro p.kb-t em{font-style:italic!important;color:var(--kb-acc)!important}
+.kb-intro p.kb-k{font-family:var(--kb-ser)!important;font-size:21px!important;font-weight:700!important;color:var(--kb-ink2)!important;margin:16px 0 0!important;letter-spacing:.06em}
+.kb-intro p.kb-s, .kb-intro p.kb-s *{font-family:var(--kb-lat)!important;font-size:24px!important;font-style:italic!important;font-weight:400!important;color:var(--kb-gold)!important;line-height:1.5!important}
+.kb-intro p.kb-s{margin:22px 0 18px!important}
+.kb-intro p.kb-b, .kb-intro p.kb-b *{font-family:var(--kb-sans)!important;font-size:16px!important;line-height:1.95!important;color:var(--kb-body)!important}
+.kb-intro p.kb-b{max-width:820px;text-align:justify!important;word-break:keep-all}
+.kb-intro .kb-cap{display:block;font-family:var(--kb-lat);font-size:13px;letter-spacing:.3em;text-transform:uppercase;color:var(--kb-gold);margin-bottom:26px}
+.widget.board .board-head header{font-family:var(--kb-lat)!important;font-size:13px!important;letter-spacing:.28em!important;text-transform:uppercase!important;color:var(--kb-gold)!important}
+.widget.board .board-head header em{font-style:normal;color:var(--kb-faint)!important}
+.widget.board .board-head input{background:transparent!important;border:0!important;border-bottom:1px solid rgba(236,227,211,.3)!important;border-radius:0!important;color:var(--kb-ink)!important}
+@media (max-width:767px){.kb-intro p.kb-t, .kb-intro p.kb-t *{font-size:42px!important}.kb-intro p.kb-s, .kb-intro p.kb-s *{font-size:19px!important}}
