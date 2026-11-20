@@ -1,5 +1,17 @@
 [
   {
+    "id": "715622b5977f",
+    "source": "Indianapolis Business Journal",
+    "title": "For barbecue champion Jordan Davis, fighting hunger is the bigger prize",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTVQejJXWHBSdVQ0TzZtVm5KRl94MUF6aDUyb2dyWDEydG45OWNoVldrOG1VbDQyVmNIZ0dpam9WMldfbnJqbVZpUkRub3JGSkZfT1FfcmVqenk5RDNfdkNHWGthanBzSFVISUhrbzdzZ2tSZGtpQ0pvWW9vME02SW5QaXBHSVN4OEVTVmpGd09leGozVEFOelJQVVdrdG5y?oc=5",
+    "query": "BBQ World Championship",
+    "published_at": "2026-11-20T19:00:00+00:00",
+    "time": "19:00",
+    "date": "2026-11-20",
+    "title_ko": "바비큐 챔피언 조던 데이비스에게 기아 퇴치는 더 큰 상입니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "c5ed54ad3a39",
     "source": "Viví el Oeste",
     "title": "Fin de semana XL en la Provincia: festival del jazz, gastronomía italiana, fiesta del asado con cuero y más",
@@ -226,17 +238,5 @@
     "date": "2026-11-16",
     "title_ko": "검트리즈 펍 앤 그릴 브라이 대회, 화이트리버 자선단체 기금 마련",
     "ko_by": "gemini"
-  },
-  {
-    "id": "26fc43ae447c",
-    "source": "홍성신문",
-    "title": "‘한우∙한돈 1000마리 무료로 쏜다’ 홍성 바비큐축제의 진짜 상생",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xb2dOZ0NGNkNPRDlaMFgxdWxxcTBUYTdNb2sxVDFBQm5wS2Z2Zk9yd2l1cExWUi1tWkd0YTJVdWZXMkdVa21oQk9nXzdXaEJrbFYyZkttb1l1N1JaeFgxYkF6MW5SdS1vODM4?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-14T01:41:25+00:00",
-    "time": "01:41",
-    "date": "2026-11-14",
-    "title_ko": "‘한우∙한돈 1000마리 무료로 쏜다’ 홍성 바비큐축제의 진짜 상생",
-    "ko_by": "original"
   }
 ]
