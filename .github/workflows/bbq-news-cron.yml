@@ -40,5 +40,5 @@ jobs:
           git add bbq-news/news.json bbq-news/resolve_cache.json
           git diff --cached --quiet && exit 0
           git commit -m "chore: bbq news auto-update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main
           git push
