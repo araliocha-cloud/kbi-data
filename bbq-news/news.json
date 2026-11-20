@@ -1,5 +1,17 @@
 [
   {
+    "id": "c5ed54ad3a39",
+    "source": "Viví el Oeste",
+    "title": "Fin de semana XL en la Provincia: festival del jazz, gastronomía italiana, fiesta del asado con cuero y más",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdVp1UkhSZnI5SzZnNmVjMzJtaWJFdVFRNUtzZ0dNMmxpbmtMLVk2QmRhd3JLeXJDTmxSNW9idEMzck1kLWM0Z2o0ZjVVWTFOek9aMmliUG01aXlWQV82d3lna3BHRDdOcTFEM1VEXzJpeFpVS3V4eUZxcG5DNkdxekFlVkQ2VUpaT003dDlOMEJqMFk5UUVqcVlXeWJrckFaWDh6TGRwYzk1NzZJWlFmeTRINDZrWmNFX1ZCWnEtRURMdUlYUFkwbU83ZU9wcV94R1QxM3pWbnVweXVjSzBxTW1LUk1uVXVuMG5OMm1qVjRvRmvSAfgBQVVfeXFMTUJkR0p4MlFvSUZ1SG0tSTY0VnV6VkFqQWhuaDBWRFRRTnRMNVVNWjVXbDVSOU1FSjNhMVhDYTZsM0UyQnQtRlRWNXh4VENGZUF6X3ZpVTU3U0JIMnBhdW4wWHdXa2o2NEFWLUlZSTVHUVpGTGJBYVZ5ektsUTBVWGoxM2RidUVRVE1IYjNma0Jtd0N5Qlp0aV9XWTkzeTNVdzg5MUFFaDFaejFtZUw5T3ZkeG5mSFJsTW1oTldDeV9DRnQ4eC0wQmVkandVZTJfdWhseVJsMnllUkxWY2FnOXBoMDJIQWFLb2lnTFJfMGxUSHdER1hfODk?oc=5",
+    "query": "Asado Argentina",
+    "published_at": "2026-11-20T10:55:05+00:00",
+    "time": "10:55",
+    "date": "2026-11-20",
+    "title_ko": "지방의 XL 주말: 재즈 페스티벌, 이탈리아 요리법, 가죽 축제와 함께하는 바비큐 등",
+    "ko_by": "fallback"
+  },
+  {
     "id": "b8df5cbdab3a",
     "source": "현대건강신문",
     "title": "“몸만 오면 바비큐 즐겨요”...서울 바비큐 페스티벌 2만 명 방문",
@@ -34,18 +46,6 @@
     "date": "2026-11-19",
     "title_ko": "아이치현서 일본 첫 개최 KCBS 공식 바비큐 대회와 아메리칸 페스 11월 29일 동시 개최",
     "ko_by": "gemini"
-  },
-  {
-    "id": "92f6c365b681",
-    "source": "서울시정일보",
-    "title": "[서울시정] ‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lX0tvUUpPZm0xNk1pOE14b2hqazNzdndaV0l2a2NJTDdjd0k2QlV0MnJnQmFwUUpZSGpLd1FmMXdBVk4tU3pDeGJtYVp4cTZMdzZhdUR5MFhhMkNkTnNMQlFMbVNrajFsWnhB?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-16T08:00:00+00:00",
-    "time": "08:00",
-    "date": "2026-11-16",
-    "title_ko": "[서울시정] ‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
-    "ko_by": "original"
   },
   {
     "id": "65d1d0df9825",
@@ -204,6 +204,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "92f6c365b681",
+    "source": "서울시정일보",
+    "title": "[서울시정] ‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lX0tvUUpPZm0xNk1pOE14b2hqazNzdndaV0l2a2NJTDdjd0k2QlV0MnJnQmFwUUpZSGpLd1FmMXdBVk4tU3pDeGJtYVp4cTZMdzZhdUR5MFhhMkNkTnNMQlFMbVNrajFsWnhB?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-16T08:00:00+00:00",
+    "time": "08:00",
+    "date": "2026-11-16",
+    "title_ko": "[서울시정] ‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
+    "ko_by": "original"
+  },
+  {
     "id": "7b8571e288ee",
     "source": "The Citizen",
     "title": "IN PHOTOS| GumTreez Pub & Grill braai competition raises funds for White River charities",
@@ -226,17 +238,5 @@
     "date": "2026-11-14",
     "title_ko": "‘한우∙한돈 1000마리 무료로 쏜다’ 홍성 바비큐축제의 진짜 상생",
     "ko_by": "original"
-  },
-  {
-    "id": "3262bdde2beb",
-    "source": "La Montaña Noticias",
-    "title": "Orgullo sanmartinense: Los Más Completos lograron el segundo puesto en un concurso de asadores en La Pampa",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdkxSY1lNU1loMGlaUkFRbEZYTmdZazVKZUFDVk5ydzhQM2kwd0swR05Wc0wyN1ZPc0NNcUVjbnliRWR5RHBSdFc5S3pPT1lfUG0yTmRjYVlDMWZUMHhKWktvUWNEMnFvMTA0UnZnZDJFR1RtbS16UXVVbmZ0dmVQN2luUkFSVzllY3ZhaUtrTlV2VUdYZjMzaDVJY2dUNTV6UjItaXZkRkVySHdWX3pBcF9MLVBKcjhlYVZ4UjlsYjlpbXIxV3ZQam9PdWh5Skx6TG5VVElpMDNzb3dveThHT251Ni1pb002eVktMk9yTDdiQdIB9wFBVV95cUxOeHZ0Y19BMkoxS2VuN3p4QnpSR19yTEk4RmVJa2Z4NVRQWGZuWGxRNGJibHVYSjUzYllZOTJvTU5taTVabzY4N2IxVkFreFVuMzAwN1BWazlpRFVTTzR5LXhoQWJBUGczd2hHcUQ5YjdqSWVrUS16Q0NpbmV5MTZFSmctZ0tWTjJ3UzNMZW1wRG0zRHNxUFNodEpYZnVRWUtWN0t3dDBhbmI2emhxaWV0UVFmcE1USkZyT3lNYjhZU1ppXzQzY3FVdEpUdDJDT3BWajJsUjU1dGRtUkNtQUtMQi1acjl5RmtVUUY3WGlvckZ6d3U3V0Zj?oc=5",
-    "query": "Asado Mundial",
-    "published_at": "2026-11-13T20:37:30+00:00",
-    "time": "20:37",
-    "date": "2026-11-13",
-    "title_ko": "산마르틴의 자랑 '로스 마스 콤플레토스', 라팜파 아사도르 대회서 2위 차지",
-    "ko_by": "gemini"
   }
 ]
