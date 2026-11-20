@@ -1,5 +1,17 @@
 [
   {
+    "id": "b8df5cbdab3a",
+    "source": "현대건강신문",
+    "title": "“몸만 오면 바비큐 즐겨요”...서울 바비큐 페스티벌 2만 명 방문",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rRHpuMUlyVk9uMjFqU012X1RDWU5SQTAySGpWdGZFbG1mcW5RUllMUUVUX204a1I2RXFYbVZrTG0zT2dtNmVYblVaUExvLXdOVEZ0R2xB?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-20T03:30:00+00:00",
+    "time": "03:30",
+    "date": "2026-11-20",
+    "title_ko": "“몸만 오면 바비큐 즐겨요”...서울 바비큐 페스티벌 2만 명 방문",
+    "ko_by": "original"
+  },
+  {
     "id": "26f1cc962920",
     "source": "Alvear Ya",
     "title": "4° Fiesta Provincial del Asado con Cuero y Concurso de Asadores en Bolívar",
@@ -225,18 +237,6 @@
     "time": "20:37",
     "date": "2026-11-13",
     "title_ko": "산마르틴의 자랑 '로스 마스 콤플레토스', 라팜파 아사도르 대회서 2위 차지",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "427846f13d0e",
-    "source": "The Killeen Daily Herald",
-    "title": "Top-grade pork chops, chicken wings fire up Temple High BBQ team cooking on way to state competition",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdDNNZkt3RmtFTUFfdDdndHh4M1lzUlZacDhBTG10NFJqTkdpYlFFUnNaUGtSNWJOb1pLOTdmczItUzBCNWYxTUZDOFg1YVNnZmtDcjBXSjdJNTlHYzZ6cE1pTU5scm93T0ZZdVctUjQ3SzJ5bkNTem5NZFpRUXRrX1Y5VHYxemFOczI0TmltWDhEdmZZeDUwTTl6ZXhNYjd2Z2Jka1lLaFN0dlNDa0FfcEl0RmluOE9DOC1OVjQ1QW0ybi1uOHZWdTIzUk5tbUhvOHNPazNiaU5sTXdicnNrLVBvV1JucGg3MU9FMDBybGpZZw?oc=5",
-    "query": "NBBQA",
-    "published_at": "2026-11-13T18:00:00+00:00",
-    "time": "18:00",
-    "date": "2026-11-13",
-    "title_ko": "주 대회 향하는 템플고 바비큐 팀, 최고급 폭찹·치킨 윙으로 요리 열기 불태워",
     "ko_by": "gemini"
   }
 ]
