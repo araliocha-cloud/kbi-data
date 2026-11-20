@@ -24,6 +24,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "3638fb17d7c4",
+    "source": "헤럴드경제 미주판",
+    "title": "2만여명 몰린 ‘서울 바비큐 페스티벌’, 이틀간 매출 1억6000만원",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xem55SGxIdzhDQlJOOHlCZU9mTDMySFVvNXJ1YjVTNEZiRVlvaVMtc3BxUFBTbXlfanpVc2JyUExoZzlJdjVQLUF2SWc0X01hbGMtRHBuY2tsZDZiZWVBVw?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-20T06:25:00+00:00",
+    "time": "06:25",
+    "date": "2026-11-20",
+    "title_ko": "2만여명 몰린 ‘서울 바비큐 페스티벌’, 이틀간 매출 1억6000만원",
+    "ko_by": "original"
+  },
+  {
     "id": "b8df5cbdab3a",
     "source": "현대건강신문",
     "title": "“몸만 오면 바비큐 즐겨요”...서울 바비큐 페스티벌 2만 명 방문",
@@ -225,18 +237,6 @@
     "time": "21:16",
     "date": "2026-11-16",
     "title_ko": "하나님의 교회 목사 듀오, 상 넘어선 목적 품고 세계 바비큐 챔피언십 우승",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "7b8571e288ee",
-    "source": "The Citizen",
-    "title": "IN PHOTOS| GumTreez Pub & Grill braai competition raises funds for White River charities",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMzRpZ2l0UDRvZ0wtMEM4YS1fOFZROTlCYWZtdVRaNWdUdEJzQ05CUzRubkJtRmg5OEhDSVFXSmNPVk1FZTNzcEtfcTduVVBVc1E0ZFJVVFJ6a3ZneWZPM2VXcC1nc3lKOE1IY19UUGNOX2M5WEZxUUVpSnQ1ZXpuczdfcEpZZUNvTTFYY3RhS3JKWGJjcjNodjZqcXktVDV6MC0yX2d4b2tWZVFSSG5LQjZibTBEa2FiWXpmOVZjMXJsZGE1a1FkNkZhYzFVS0lLLVoyalpjMnN5cGN6a0M2YQ?oc=5",
-    "query": "Braai South Africa",
-    "published_at": "2026-11-16T07:39:50+00:00",
-    "time": "07:39",
-    "date": "2026-11-16",
-    "title_ko": "검트리즈 펍 앤 그릴 브라이 대회, 화이트리버 자선단체 기금 마련",
     "ko_by": "gemini"
   }
 ]
