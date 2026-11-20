@@ -168,3 +168,8 @@ html body .sub-menu li:hover > a .plain_name::after, .kb-submenu li:hover > a .p
 
 /* ===== World Barbecue Report page : no tinted panel, the page ground shows through ===== */
 #wbr-page{background:transparent!important;--wbr-bg:transparent!important}
+
+/* balance : page intros and new pages share the left edge of the header logo and the boards */
+#kbx{padding-left:0!important;padding-right:0!important}
+#kbx .in{max-width:none!important;margin-left:0!important;margin-right:0!important}
+#kbx .in > p:not(.cap){max-width:880px}
