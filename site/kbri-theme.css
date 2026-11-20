@@ -149,3 +149,22 @@ body.doz_sys{color:var(--kb-ink)}
 
 /* HCX page : the floating result bar sits below the pinned sub menu instead of covering it */
 #hcx-app > div[style*="position: fixed"]{top:calc(var(--kbNavH,89px) + var(--kbSubH,0px) + 8px)!important}
+
+/* ===== 2026-11-20 : one menu language (main, dropdown, sub), one accent ===== */
+#s2026072819fb105033eda, #s20261017b65ddf1252f16, #mobile_carousel_menu, #doz_header_wrap{--kh-ember:#E07A4E;--kh-ko:'Nanum Myeongjo',serif}
+html body .sub-menu ul li a, html body .sub-menu ul li a.active, html body .sub-menu ul li a.active-real, .kb-submenu a{font-family:var(--kb-lat)!important;font-size:14px!important;font-weight:500!important;letter-spacing:.12em!important;text-transform:uppercase!important;color:var(--kb-mute)!important;border:0!important;background:transparent!important;box-shadow:none!important;padding:0 0 14px!important;text-decoration:none!important}
+html body .sub-menu ul li a .plain_name{color:inherit!important}
+html body .sub-menu ul li.active > a, html body .sub-menu ul li a.active, .kb-submenu a.active{color:var(--kb-acc)!important;box-shadow:inset 0 -2px 0 var(--kb-acc)!important}
+html body .sub-menu .plain_name::before, .kb-submenu .plain_name::before{display:none!important;content:none!important}
+html body .sub-menu .plain_name, .kb-submenu .plain_name{position:relative!important;display:inline-block!important}
+html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{content:attr(data-hover);position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);white-space:nowrap;font-family:'Nanum Myeongjo',serif;font-weight:700;font-size:14px;letter-spacing:.04em;text-transform:none;color:var(--kb-acc);-webkit-text-fill-color:var(--kb-acc);opacity:0;pointer-events:none}
+html body .sub-menu li:hover > a .plain_name, .kb-submenu li:hover > a .plain_name{color:transparent!important;-webkit-text-fill-color:transparent!important}
+html body .sub-menu li:hover > a .plain_name::after, .kb-submenu li:hover > a .plain_name::after{opacity:1}
+#s2026072819fb105033eda .viewport-nav > li > a .plain_name::after, #s2026072819fb105033eda .dropdown-menu li > a .plain_name::after{font-family:'Nanum Myeongjo',serif!important;font-weight:700!important}
+
+/* ===== all running text justified, Korean and foreign alike (helper adds .kb-j only where the design had left-aligned text) ===== */
+.kb-j{text-align:justify!important;text-justify:inter-word;word-break:keep-all;overflow-wrap:break-word}
+.kbp.kbp .kb-pair p, #wbr-page .wbr-body p, .board_view .board_txt_area p{text-align:justify!important}
+
+/* ===== World Barbecue Report page : no tinted panel, the page ground shows through ===== */
+#wbr-page{background:transparent!important;--wbr-bg:transparent!important}

@@ -38,7 +38,7 @@
   var links=hit.querySelectorAll('.dropdown-menu a'); if(links.length<2) return;
   var bar=document.createElement('nav'); bar.className='kb-submenu'; bar.setAttribute('aria-label','Sub menu');
   var ul=document.createElement('ul');
-  for(var k=0;k<links.length;k++){var li=document.createElement('li'); var a=document.createElement('a'); a.href=links[k].getAttribute('href'); a.textContent=links[k].textContent.trim(); if(norm(a.getAttribute('href'))===here) a.className='active'; li.appendChild(a); ul.appendChild(li)}
+  for(var k=0;k<links.length;k++){var li=document.createElement('li'); var a=document.createElement('a'); a.href=links[k].getAttribute('href'); var pn=document.createElement('span'); pn.className='plain_name'; pn.textContent=links[k].textContent.trim(); var src=links[k].querySelector('.plain_name'); if(src&&src.getAttribute('data-hover')) pn.setAttribute('data-hover',src.getAttribute('data-hover')); a.appendChild(pn); if(norm(a.getAttribute('href'))===here) a.className='active'; li.appendChild(a); ul.appendChild(li)}
   bar.appendChild(ul);
   var first=document.querySelector('#doz_body .section_wrap, main .section_wrap, .section_wrap.pc_section');
   if(first&&first.parentNode) first.parentNode.insertBefore(bar,first); else return;
@@ -51,4 +51,23 @@
 (function(){
  function upd(){var r=document.querySelector('.kb-sub-fixed')||document.querySelector('.kb-submenu');var h=0;if(r){var b=r.getBoundingClientRect();if(r.classList.contains('kb-sub-fixed')||b.top<=parseFloat(getComputedStyle(r).top||0)+1)h=b.height}document.documentElement.style.setProperty('--kbSubH',h+'px')}
  window.addEventListener('scroll',upd,{passive:true});window.addEventListener('resize',upd);window.addEventListener('load',upd);
+})();
+
+/* justify every left-aligned paragraph in the content area (designed centred or right-aligned text is left alone) */
+(function(){
+ var SEL='#doz_body p, #doz_body li, .section_wrap p, .section_wrap li';
+ function ok(el){
+  if(el.closest('#doz_header_wrap, #doz_footer_wrap, nav, .sub-menu, .kb-submenu, .li_board, .paging-block, .dropdown-menu, button, .board_summary')) return false;
+  if(el.closest('li')&&el.tagName==='LI'&&el.closest('ul.li_body, .viewport-nav')) return false;
+  var cs=getComputedStyle(el); var ta=cs.textAlign;
+  if(!(ta==='left'||ta==='start'||ta==='justify')) return false;
+  if(el.offsetHeight<parseFloat(cs.lineHeight||'20')*1.6) return false;
+  return true;
+ }
+ var t=null;
+ function run(){t=null; var ns=document.querySelectorAll(SEL); for(var i=0;i<ns.length;i++){var n=ns[i]; if(!n.classList.contains('kb-j')&&ok(n)) n.classList.add('kb-j')}}
+ function soon(){if(!t)t=setTimeout(run,400)}
+ if(document.readyState!=='loading')soon(); else document.addEventListener('DOMContentLoaded',soon);
+ window.addEventListener('load',soon); window.addEventListener('resize',soon);
+ try{new MutationObserver(soon).observe(document.documentElement,{childList:true,subtree:true})}catch(e){}
 })();
