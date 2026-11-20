@@ -60,6 +60,9 @@
   if(el.closest('#doz_header_wrap, #doz_footer_wrap, nav, .sub-menu, .kb-submenu, .li_board, .paging-block, .dropdown-menu, button, .board_summary')) return false;
   if(el.closest('li')&&el.tagName==='LI'&&el.closest('ul.li_body, .viewport-nav')) return false;
   var cs=getComputedStyle(el); var ta=cs.textAlign;
+  if(/flex|grid/.test(cs.display)) return false;
+  if(/(eyebrow|mono|cap|kicker|label|tag|meta|time|date)/i.test(el.className)) return false;
+  if(cs.textTransform==='uppercase') return false;
   if(!(ta==='left'||ta==='start'||ta==='justify')) return false;
   if(el.offsetHeight<parseFloat(cs.lineHeight||'20')*1.6) return false;
   return true;
