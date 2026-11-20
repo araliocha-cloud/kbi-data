@@ -61,6 +61,7 @@
   if(el.closest('li')&&el.tagName==='LI'&&el.closest('ul.li_body, .viewport-nav')) return false;
   var cs=getComputedStyle(el); var ta=cs.textAlign;
   if(/flex|grid/.test(cs.display)) return false;
+  if(el.offsetWidth<380) return false;
   if(/(eyebrow|mono|cap|kicker|label|tag|meta|time|date)/i.test(el.className)) return false;
   if(cs.textTransform==='uppercase') return false;
   if(!(ta==='left'||ta==='start'||ta==='justify')) return false;
