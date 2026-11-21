@@ -1,5 +1,17 @@
 [
   {
+    "id": "6055d9d85df5",
+    "source": "KCTV",
+    "title": "Kansas City mayor puts barbecue on the line ahead of Current’s championship match",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY3VBdFVLemFhR05wWE9ia2JCajBMTkhDZU5uQU9SelN1WDRzMGNEUWdremJxUFdQUTdnT0o0VkZBOFlvcDdpcEtWcHd4S3hTMVhjZDVndm1Vc3cxY3RtejVNaXBGVERVVWRZdVZQQV91cEJ0dmFmTXpjdEtQM09vOWlCSUFaSlFOdkQ5TmtTQWJEWmN3RVd0OXdyWDRpODg2eEhmbWJiM2xZOHM5N0hvbm5LbkdxNDV0cEZZ0gG7AUFVX3lxTE1jdUF0VUt6YWFHTnBYT2JrYkJqMExOSENlTm5BT1J6U3VYNHMwY0RRZ2t6YnFQV1BRN2dPSjRWRkE4WW9wN2lwS1Zwd3hLeFMxWGNkNWd2bVVzdzFjdG16NU1pcEZURFVVZFl1VlBBX3VwQnR2YWZNemN0S1AzT285aUJJQVpKUU52RDlOa1NBYkRaY3dFV3Q5d3JYNGk4ODZ4SGZtYmIzbFk4czk3SG9ubktuR3E0NXRwRlk?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-11-21T00:19:02+00:00",
+    "time": "00:19",
+    "date": "2026-11-21",
+    "title_ko": "캔자스시티 시장, 커런트 챔피언십 경기 앞두고 바비큐 내걸어",
+    "ko_by": "gemini"
+  },
+  {
     "id": "715622b5977f",
     "source": "Indianapolis Business Journal",
     "title": "For barbecue champion Jordan Davis, fighting hunger is the bigger prize",
@@ -225,18 +237,6 @@
     "time": "05:43",
     "date": "2026-11-17",
     "title_ko": "미식 페스티벌에서 조명받는 바비큐",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "d854bd2ed57e",
-    "source": "The Citizen",
-    "title": "IN PHOTOS| GumTreez Pub & Grill braai competition raises funds for White River charities",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1RkYUx3ZldCTW5Qck1GTWE2cDlEdWtMd0tSOGx6WkdrbGpWR2JrUEhzVW9GTHBZMjlqSEptYWJLNTFSZ0g5TERyOWxiQUJ3NVdoYlJsNUp6XzJTUDBjOWR3Q2hiYzR3X2V1Yzd5cGN5WXI1NE1HTWRBMFItQmpTcExpYmNtSTlIcWlSWkRpV1VJZHpQTVNXMV9CdTYtR1NVaUU3SjNXUTVlWjFtSXVoRDJEYktpOEVmN3VHdVV1STdESFI4TmxUenZCeGdNU3owVm54SUZLMTNGLXY4TDR2REV3UmZOQjRSTGdzSkczbWQ?oc=5",
-    "query": "Braai South Africa",
-    "published_at": "2026-11-17T04:11:19+00:00",
-    "time": "04:11",
-    "date": "2026-11-17",
-    "title_ko": "검트리즈 펍 앤 그릴 브라이 대회, 화이트리버 자선단체 기금 모금",
     "ko_by": "gemini"
   }
 ]
