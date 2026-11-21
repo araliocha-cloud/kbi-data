@@ -168,6 +168,18 @@
     "ko_by": "original"
   },
   {
+    "id": "cdb62df62787",
+    "source": "The Korea Times",
+    "title": "Seoul Barbecue Festival draws 20,800 visitors, positive reviews",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFdwZFJCclpBdERyZHFqU1NURkZLYWpCVm9SWTZYVW9XODNsTmVmYWo0bGt1TURYbWtaUktaU1J5UFZxS3MwaHItZVhWR1dVNTdLTEdoZnN4c0phdnNUVWlDeVZ4VlBncnVZQnNpbjNsQmZfRFNMb1M1ZXNYcGRXdkN5cjc0Z2NyTlgzcDZkbjUydHA5MG5PM0MzRW01bGVFQUxmLXQtYmo3c3diM05XUkJXYVlHVjBDY1RxN3o4REFlQ1pNUEHSAcYBQVVfeXFMT3BXcGRSQnJaQXREcmRxalNTVEZGS2FqQlZvUlk2WFVvVzgzbE5lZmFqNGxrdU1EWG1rWlJLWlNSeVBWcUtzMGhyLWVYVkdXVTU3S0xHaGZzeHNKYXZzVFVpQ3lWeFZQZ3J1WUJzaW4zbEJmX0RTTG9TNWVzWHBkV3ZDeXI3NGdjck5YM3A2ZG41MnRwOTBuTzNDM0VtNWxlRUFMZi10LWJqN3N3YjNOV1JCV2FZR1YwQ2NUcTd6OERBZUNaTVBB?oc=5",
+    "query": "Sport Barbecue",
+    "published_at": "2026-11-18T06:05:07+00:00",
+    "time": "06:05",
+    "date": "2026-11-18",
+    "title_ko": "서울 바비큐 페스티벌, 방문객 20,800명 유치 및 긍정적인 평가 받아",
+    "ko_by": "fallback"
+  },
+  {
     "id": "04b9ec1cd14d",
     "source": "https://www.2news.co.kr/",
     "title": "서울 바비큐 페스티벌 방문객 2만 명 돌파…매출 1억 6000만 원 달성",
@@ -226,17 +238,5 @@
     "date": "2026-11-18",
     "title_ko": "서울 바비큐 페스티벌에 2만명 몰렸다…외식업체 매출 10%↑",
     "ko_by": "original"
-  },
-  {
-    "id": "8f125207fd88",
-    "source": "Rondoniaovivo.com",
-    "title": "JUBILEU DE OURO: Paróquia São Luiz Gonzaga celebra 50 anos com festival de churrasco",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcjNEeU1JUlRSU3VZaDBiMFIzakxLVjdBQjJiS1dqR2txVXh1eG83NXREQm5yUjllc295MlF4Uml5eVRzRnE3bC1zRnNvekktSF9OcFhIa2NKZTVaNzY0WVJkWUc1UUNvS2RNVFZQRVZiUXBxWWR6UGxHR2dhaWhLSENpVnkzMVVpQUswX1FUX0FYd1lXbUdFOVQwLTFkZ1FQd1NHcHhWVzh5cVdkWTNMZElDYVZ4UVM4WFFzeHNuUDYyeFZobEFKcEhRbm9YOGlTcml5d3JZSjhyem5NOXlIS19LcFQ4WE0?oc=5",
-    "query": "Churrasco Brasil",
-    "published_at": "2026-11-17T21:08:12+00:00",
-    "time": "21:08",
-    "date": "2026-11-17",
-    "title_ko": "'금경축' 상루이스 곤자가 성당, 슈하스코 축제로 50주년 기념",
-    "ko_by": "gemini"
   }
 ]
