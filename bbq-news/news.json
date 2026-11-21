@@ -96,18 +96,6 @@
     "ko_by": "gemini"
   },
   {
-    "id": "92f6c365b681",
-    "source": "서울시정일보",
-    "title": "[서울시정] ‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lX0tvUUpPZm0xNk1pOE14b2hqazNzdndaV0l2a2NJTDdjd0k2QlV0MnJnQmFwUUpZSGpLd1FmMXdBVk4tU3pDeGJtYVp4cTZMdzZhdUR5MFhhMkNkTnNMQlFMbVNrajFsWnhB?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-16T08:00:00+00:00",
-    "time": "08:00",
-    "date": "2026-11-16",
-    "title_ko": "[서울시정] ‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
-    "ko_by": "original"
-  },
-  {
     "id": "65d1d0df9825",
     "source": "경찰연합신문",
     "title": "홍성군 홍주문화관광재단 2026 홍성글로벌바비큐페스티벌 성과공유 간담회 개최:경찰연합신문",
@@ -238,5 +226,17 @@
     "date": "2026-11-17",
     "title_ko": "'금경축' 상루이스 곤자가 성당, 슈하스코 축제로 50주년 기념",
     "ko_by": "gemini"
+  },
+  {
+    "id": "d854bd2ed57e",
+    "source": "The Citizen",
+    "title": "IN PHOTOS| GumTreez Pub & Grill braai competition raises funds for White River charities",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1RkYUx3ZldCTW5Qck1GTWE2cDlEdWtMd0tSOGx6WkdrbGpWR2JrUEhzVW9GTHBZMjlqSEptYWJLNTFSZ0g5TERyOWxiQUJ3NVdoYlJsNUp6XzJTUDBjOWR3Q2hiYzR3X2V1Yzd5cGN5WXI1NE1HTWRBMFItQmpTcExpYmNtSTlIcWlSWkRpV1VJZHpQTVNXMV9CdTYtR1NVaUU3SjNXUTVlWjFtSXVoRDJEYktpOEVmN3VHdVV1STdESFI4TmxUenZCeGdNU3owVm54SUZLMTNGLXY4TDR2REV3UmZOQjRSTGdzSkczbWQ?oc=5",
+    "query": "Braai South Africa",
+    "published_at": "2026-11-17T04:11:19+00:00",
+    "time": "04:11",
+    "date": "2026-11-17",
+    "title_ko": "사진으로 보기| GumTreez Pub & Grill 바비큐 대회가 화이트 리버 자선 단체를 위한 기금을 모금했습니다",
+    "ko_by": "fallback"
   }
 ]
