@@ -1,5 +1,17 @@
 [
   {
+    "id": "cfe58096aa5d",
+    "source": "KRIS 6 News Corpus Christi",
+    "title": "Kingsville Ranch Hand Weekend kicks off with tree lighting, rodeo, barbecue competition and more",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlRfc2lOTFVHelZwRlBjempULTNraWFYQWlubndJNzQ1SFVwdloySHZ4d2t4QldWNEVEaVpBVjdoLWxFZ3ZHRTAwWnhnSk5FZ0tQUjNyQlR2TGZINVNWY09yWjg1NHl5SDJ5bFJXelVMYnhXY0JHNXRSNXZkQU01MjhuNzFQZkxDVTB2dFhHZWVGM2tNeDJETjlRZ1R1U1lxUmJvRF9wRE1IVml0bHJ2ZjJRNFQzek9ibDJZeHo1RzNFeC1vVTBGaGMyWHZJUQ?oc=5",
+    "query": "KCBS",
+    "published_at": "2026-11-21T03:48:09+00:00",
+    "time": "03:48",
+    "date": "2026-11-21",
+    "title_ko": "킹스빌 랜치 핸드 위켄드가 트리 점등, 로데오, 바비큐 대회 등으로 시작됩니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "6055d9d85df5",
     "source": "KCTV",
     "title": "Kansas City mayor puts barbecue on the line ahead of Current’s championship match",
@@ -225,18 +237,6 @@
     "time": "21:08",
     "date": "2026-11-17",
     "title_ko": "'금경축' 상루이스 곤자가 성당, 슈하스코 축제로 50주년 기념",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "622b8bb2b3c5",
-    "source": "guadeloupe.franceantilles.fr",
-    "title": "Le barbecue à l'honneur pour le Festival de la gastronomie",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcjRDUWlhZEVTR0xwVUN6aEVsMWVWb1JwdTRaNzdxUU91b0RaUzBBUW8wTF9hNV9fNjZxdTJna1g1V3dSdWg1U3FNMExQMWdEVHl3VGo2UjMyS0pZcXh5XzlabUV2Y0hod2ZzOGtUX0NnWnZqYVRnRUZYTk9uVlRwUmRlTVdoX3lxSTV0YWxBbXhLak8zMVM2MnJvQm1FZVc2Wm5mNkFqV3hJc2pfUnpfOXIwS19xbFlwclhkckFRR0lUV0JmdDRsRG1aUHBfUQ?oc=5",
-    "query": "Barbecue France",
-    "published_at": "2026-11-17T05:43:50+00:00",
-    "time": "05:43",
-    "date": "2026-11-17",
-    "title_ko": "미식 페스티벌에서 조명받는 바비큐",
     "ko_by": "gemini"
   }
 ]
