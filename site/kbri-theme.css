@@ -189,7 +189,7 @@ html body .sub-menu li:hover > a .plain_name::after, .kb-submenu li:hover > a .p
 #s20211215730fa0a0c68cd, #s20211215730fa0a0c68cd *{font-family:var(--kb-pre)!important;letter-spacing:.06em!important;font-size:11.5px}
 #s2021121591d671aea741b .search_btn_form{font-family:var(--kb-pre)!important;letter-spacing:.04em}
 #s2026072819fb105033eda .inline_menu a, #s2026072819fb105033eda [data-widget-type="inline_menu"] a, #s2026072819fb105033eda .viewport-nav a{font-family:var(--kb-pre)!important;font-weight:600!important;font-size:15px!important;letter-spacing:.06em!important}
-#s2026072819fb105033eda, #s20261017b65ddf1252f16, #mobile_carousel_menu, #doz_header_wrap{--kh-ko:var(--kb-pre)}
+#s2026072819fb105033eda, #s20261017b65ddf1252f16, #mobile_carousel_menu, #doz_header_wrap, html body .sub-menu, .kb-submenu{--kh-ko:var(--kb-pre)!important;--kh-latin:var(--kb-pre)!important}
 #s2026072819fb105033eda .viewport-nav > li > a .plain_name::after, #s2026072819fb105033eda .dropdown-menu li > a .plain_name::after{font-family:var(--kb-pre)!important;font-weight:600!important}
 [data-widget-type="sub_menu"] .sub-menu a, html body .sub-menu ul li a, html body .sub-menu ul li a.active, html body .sub-menu ul li a.active-real, .kb-submenu a{font-family:var(--kb-pre)!important;font-size:14px!important;font-weight:500!important;letter-spacing:.06em!important}
 html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-family:var(--kb-pre)!important;font-size:14px!important;font-weight:600!important;letter-spacing:.02em!important}
@@ -200,3 +200,4 @@ html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-fami
 .kbp.kbp .kb-mono, .kbp.kbp .kb-more, .kbp.kbp .kb-list time, .kbp.kbp .kb-meta, .kbp.kbp .kb-idx .kb-code, .kbp.kbp .kb-board .kb-code, .kbp.kbp .kb-btn{font-family:var(--kb-pre)!important;letter-spacing:.08em!important}
 .kbp.kbp .kb-mono{font-size:12px!important;letter-spacing:.2em!important}
 .kbp.kbp .kb-board, .kbp.kbp .kb-board *{font-variant-numeric:tabular-nums}
+.kbp.kbp .kb-board .kb-ko, .kbp.kbp .kb-board small{font-family:var(--kb-pre)!important}
