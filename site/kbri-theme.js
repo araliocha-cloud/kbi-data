@@ -104,3 +104,27 @@
  window.addEventListener('load',put);
  setInterval(put,600000);
 })();
+
+/* SEO : every page gets one h1 (the page-intro title), images get alt text */
+(function(){
+ function h1fix(){
+  if(document.querySelector('#doz_body h1, .section_wrap h1, .kbp h1')) return;
+  var t=document.querySelector('.kb-intro p.kb-t');
+  if(!t) return;
+  var h=document.createElement('h1');
+  for(var i=0;i<t.attributes.length;i++){h.setAttribute(t.attributes[i].name,t.attributes[i].value)}
+  while(t.firstChild){h.appendChild(t.firstChild)}
+  t.parentNode.replaceChild(h,t);
+ }
+ function altfix(){
+  var base=(document.title||'').split('|')[0].trim();
+  var im=document.querySelectorAll('img:not([alt]), img[alt=""]');
+  for(var i=0;i<im.length;i++){
+   var el=im[i], s=el.closest('section,.widget,.kbp,div'), hd=s&&s.querySelector('h1,h2,h3');
+   el.setAttribute('alt',((hd&&hd.textContent.trim().slice(0,80))||base||'Korea Barbecue Research & Institute'));
+  }
+ }
+ function run(){try{h1fix()}catch(e){} try{altfix()}catch(e){}}
+ if(document.readyState!=='loading')setTimeout(run,0); else document.addEventListener('DOMContentLoaded',function(){setTimeout(run,0)});
+ window.addEventListener('load',function(){setTimeout(run,300)});
+})();

@@ -69,8 +69,8 @@ body.doz_sys{color:var(--kb-ink)}
 /* page intro (title text widget above each board) */
 .kb-intro{max-width:1240px}
 .kb-intro p{margin:0!important}
-.kb-intro p.kb-t, .kb-intro p.kb-t *{font-family:var(--kb-lat)!important;font-size:clamp(46px,5.6vw,84px)!important;font-weight:400!important;line-height:1.02!important;color:var(--kb-ink)!important;letter-spacing:.005em!important}
-.kb-intro p.kb-t em{font-style:italic!important;color:var(--kb-acc)!important}
+.kb-intro .kb-t, .kb-intro .kb-t *{font-family:var(--kb-lat)!important;font-size:clamp(46px,5.6vw,84px)!important;font-weight:400!important;line-height:1.02!important;color:var(--kb-ink)!important;letter-spacing:.005em!important}
+.kb-intro .kb-t em{font-style:italic!important;color:var(--kb-acc)!important}
 .kb-intro p.kb-k{font-family:var(--kb-ser)!important;font-size:21px!important;font-weight:700!important;color:var(--kb-ink2)!important;margin:16px 0 0!important;letter-spacing:.06em}
 .kb-intro p.kb-s, .kb-intro p.kb-s *{font-family:var(--kb-lat)!important;font-size:24px!important;font-style:italic!important;font-weight:400!important;color:var(--kb-gold)!important;line-height:1.5!important}
 .kb-intro p.kb-s{margin:22px 0 18px!important}
@@ -80,7 +80,7 @@ body.doz_sys{color:var(--kb-ink)}
 .widget.board .board-head header{font-family:var(--kb-lat)!important;font-size:13px!important;letter-spacing:.28em!important;text-transform:uppercase!important;color:var(--kb-gold)!important}
 .widget.board .board-head header em{font-style:normal;color:var(--kb-faint)!important}
 .widget.board .board-head input{background:transparent!important;border:0!important;border-bottom:1px solid rgba(236,227,211,.3)!important;border-radius:0!important;color:var(--kb-ink)!important}
-@media (max-width:767px){.kb-intro p.kb-t, .kb-intro p.kb-t *{font-size:42px!important}.kb-intro p.kb-s, .kb-intro p.kb-s *{font-size:19px!important}}
+@media (max-width:767px){.kb-intro .kb-t, .kb-intro .kb-t *{font-size:42px!important}.kb-intro p.kb-s, .kb-intro p.kb-s *{font-size:19px!important}}
 
 /* ===== home (kbp widgets) : remap the widget palette, keep their markup and scripts ===== */
 .kbp.kbp.kbp{--char:#0D0B0A;--char-2:#15110F;--char-line:rgba(236,227,211,.14);--ash:#0D0B0A;--ash-2:#15110F;--ash-line:rgba(236,227,211,.14);--ink:#ECE3D3;--ink-soft:#B8AE9E;--bone:#ECE3D3;--bone-soft:#A99E8C;--copper:#B9A27A;--ember:#E07A4E;--f-latin:'Cormorant Garamond',Georgia,serif;--f-display:'Nanum Myeongjo',serif;--f-body:'Cormorant Garamond','Nanum Gothic',Georgia,serif;--f-mono:'Cormorant Garamond',Georgia,serif;background:var(--ash);color:var(--ink)}
@@ -206,7 +206,7 @@ html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-fami
 .kbp.kbp .kb-sechead h2 .kb-ko{font-size:18px!important;margin-top:12px!important}
 .kbp.kbp .kb-hanja{font-size:16px!important;margin-bottom:14px}
 .kbp.kbp .kb-idx h3{font-size:22px!important}
-.kb-intro p.kb-t, .kb-intro p.kb-t *{font-size:clamp(34px,3.2vw,46px)!important;line-height:1.08!important}
+.kb-intro .kb-t, .kb-intro .kb-t *{font-size:clamp(34px,3.2vw,46px)!important;line-height:1.08!important}
 .kb-intro p.kb-k{font-size:18px!important;margin-top:12px!important}
 .kb-intro p.kb-s, .kb-intro p.kb-s *{font-size:19px!important}
 .board_view .board-title .view_tit{font-size:clamp(24px,2.6vw,34px)!important}
@@ -228,3 +228,4 @@ html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-fami
 #kb-dateline .kb-dl-sep{width:4px;height:4px;background:#B9A27A;border:0}
 /* home hero headline : two lines */
 @media (min-width:961px){.kbp.kbp.kbp-01hero .kb-hero h1{font-size:clamp(36px,3.375vw,54px)!important;line-height:1.14!important}}
+.kb-intro h1.kb-t{margin:0!important;font-weight:400!important;letter-spacing:.005em}
