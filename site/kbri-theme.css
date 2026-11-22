@@ -221,3 +221,8 @@ html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-fami
 @media (max-width:1180px){#kb-dateline{display:none}}
 #s20211215730fa0a0c68cd, #s20261017f655ae7099498{--kh-mono:var(--kb-pre)!important}
 #s20211215730fa0a0c68cd .text-table-cell p span, #s20211215730fa0a0c68cd .text-table-cell p strong{font-size:10px!important;font-weight:500!important;letter-spacing:.14em!important;color:#8F8576!important}
+/* dateline, readable classic */
+#kb-dateline .kb-dl-in{font-family:'Cormorant Garamond',Georgia,serif;font-variant:normal;font-variant-numeric:lining-nums;font-size:17px;font-weight:600;letter-spacing:.04em;color:#D9CFBF}
+#kb-dateline .kb-dl-place{font-style:italic;font-weight:500;letter-spacing:.06em;color:#B9A27A}
+#kb-dateline .kb-dl-dangi{font-family:'Nanum Myeongjo',serif;font-size:14px;font-weight:700;letter-spacing:.12em;color:#B9A27A}
+#kb-dateline .kb-dl-sep{width:4px;height:4px;background:#B9A27A;border:0}
