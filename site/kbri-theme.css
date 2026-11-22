@@ -1,4 +1,5 @@
 /* KBRI 2026-11 : Ebony & Ember theme (design only, content untouched) */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Nanum+Myeongjo:wght@400;700;800&family=Nanum+Gothic:wght@400;700&family=UnifrakturMaguntia&display=swap');
 :root{--kb-bg:#0D0B0A;--kb-surf:#15110F;--kb-ink:#ECE3D3;--kb-ink2:#D9CFBF;--kb-body:#B8AE9E;--kb-mute:#A99E8C;--kb-faint:#8F8576;--kb-dim:#6E655A;--kb-gold:#B9A27A;--kb-acc:#E07A4E;--kb-line:rgba(236,227,211,.12);--kb-lat:'Cormorant Garamond',Georgia,serif;--kb-ser:'Nanum Myeongjo',serif;--kb-sans:'Nanum Gothic','Apple SD Gothic Neo',sans-serif}
 
@@ -180,3 +181,22 @@ html body .sub-menu li:hover > a .plain_name::after, .kb-submenu li:hover > a .p
  .kbp.kbp.kbp-01hero .kb-cta .kb-btn{flex:1 1 auto;min-width:0;padding-left:8px;padding-right:8px;font-size:13.5px}
  .kbp.kbp.kbp-01hero .kb-cta .kb-btn small{font-size:.86em;letter-spacing:-.03em}
 }
+
+/* 2026-11-22 type system C : classic serif titles, Pretendard for reading, menus, labels and numbers */
+:root{--kb-pre:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;--kb-sans:var(--kb-pre)}
+.kbp.kbp.kbp{--f-body:var(--kb-pre);--f-mono:var(--kb-pre)}
+.text-table :where(p,span,li,td,th,a,font,div,strong,b){font-family:var(--kb-pre)!important}
+#s20211215730fa0a0c68cd, #s20211215730fa0a0c68cd *{font-family:var(--kb-pre)!important;letter-spacing:.06em!important;font-size:11.5px}
+#s2021121591d671aea741b .search_btn_form{font-family:var(--kb-pre)!important;letter-spacing:.04em}
+#s2026072819fb105033eda .inline_menu a, #s2026072819fb105033eda [data-widget-type="inline_menu"] a, #s2026072819fb105033eda .viewport-nav a{font-family:var(--kb-pre)!important;font-weight:600!important;font-size:15px!important;letter-spacing:.06em!important}
+#s2026072819fb105033eda, #s20261017b65ddf1252f16, #mobile_carousel_menu, #doz_header_wrap{--kh-ko:var(--kb-pre)}
+#s2026072819fb105033eda .viewport-nav > li > a .plain_name::after, #s2026072819fb105033eda .dropdown-menu li > a .plain_name::after{font-family:var(--kb-pre)!important;font-weight:600!important}
+[data-widget-type="sub_menu"] .sub-menu a, html body .sub-menu ul li a, html body .sub-menu ul li a.active, html body .sub-menu ul li a.active-real, .kb-submenu a{font-family:var(--kb-pre)!important;font-size:14px!important;font-weight:500!important;letter-spacing:.06em!important}
+html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-family:var(--kb-pre)!important;font-size:14px!important;font-weight:600!important;letter-spacing:.02em!important}
+.li_board .li_header li, .li_board .li_body .count, .li_board .li_body .name, .li_board .li_body .time, .li_board .li_body .read, .li_board .li_body .like, .paging-block a, .paging-block span, .pagination a, .pagination span, .board_view .board_summary .author > div, .widget.board .board-head header, .kb-intro .kb-cap{font-family:var(--kb-pre)!important;font-style:normal!important;letter-spacing:.06em!important}
+.li_board .li_body .count, .li_board .li_body .time, .li_board .li_body .read, .li_board .li_body .like, .paging-block a, .pagination a{font-size:14px!important;font-variant-numeric:tabular-nums}
+.li_board .li_body .list_text_title, .li_board .li_body .list_text_title span{font-family:var(--kb-pre)!important;font-size:16.5px!important;font-weight:500!important;letter-spacing:-.01em}
+.board_view .board_txt_area, .board_view .board_txt_area p, .board_view .board_txt_area li, .board_view .board_txt_area span{font-family:var(--kb-pre)!important;line-height:1.9}
+.kbp.kbp .kb-mono, .kbp.kbp .kb-more, .kbp.kbp .kb-list time, .kbp.kbp .kb-meta, .kbp.kbp .kb-idx .kb-code, .kbp.kbp .kb-board .kb-code, .kbp.kbp .kb-btn{font-family:var(--kb-pre)!important;letter-spacing:.08em!important}
+.kbp.kbp .kb-mono{font-size:12px!important;letter-spacing:.2em!important}
+.kbp.kbp .kb-board, .kbp.kbp .kb-board *{font-variant-numeric:tabular-nums}
