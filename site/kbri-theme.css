@@ -226,3 +226,5 @@ html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-fami
 #kb-dateline .kb-dl-place{font-style:italic;font-weight:500;letter-spacing:.06em;color:#B9A27A}
 #kb-dateline .kb-dl-dangi{font-family:'Nanum Myeongjo',serif;font-size:14px;font-weight:700;letter-spacing:.12em;color:#B9A27A}
 #kb-dateline .kb-dl-sep{width:4px;height:4px;background:#B9A27A;border:0}
+/* home hero headline : two lines */
+@media (min-width:961px){.kbp.kbp.kbp-01hero .kb-hero h1{font-size:clamp(36px,3.375vw,54px)!important;line-height:1.14!important}}
