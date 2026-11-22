@@ -201,3 +201,12 @@ html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-fami
 .kbp.kbp .kb-mono{font-size:12px!important;letter-spacing:.2em!important}
 .kbp.kbp .kb-board, .kbp.kbp .kb-board *{font-variant-numeric:tabular-nums}
 .kbp.kbp .kb-board .kb-ko, .kbp.kbp .kb-board small{font-family:var(--kb-pre)!important}
+/* 2026-11-22 title scale : section and page titles about 30% smaller, home hero untouched */
+.kbp.kbp .kb-sechead h2{font-size:clamp(34px,3.3vw,48px)!important;line-height:1.06!important}
+.kbp.kbp .kb-sechead h2 .kb-ko{font-size:18px!important;margin-top:12px!important}
+.kbp.kbp .kb-hanja{font-size:16px!important;margin-bottom:14px}
+.kbp.kbp .kb-idx h3{font-size:22px!important}
+.kb-intro p.kb-t, .kb-intro p.kb-t *{font-size:clamp(34px,3.2vw,46px)!important;line-height:1.08!important}
+.kb-intro p.kb-k{font-size:18px!important;margin-top:12px!important}
+.kb-intro p.kb-s, .kb-intro p.kb-s *{font-size:19px!important}
+.board_view .board-title .view_tit{font-size:clamp(24px,2.6vw,34px)!important}
