@@ -173,3 +173,9 @@ html body .sub-menu li:hover > a .plain_name::after, .kb-submenu li:hover > a .p
 #kbx{padding-left:0!important;padding-right:0!important}
 #kbx .in{max-width:none!important;margin-left:0!important;margin-right:0!important}
 #kbx .in > p:not(.cap){max-width:880px}
+
+/* home hero portal row : 7 buttons sized to their labels, wrap instead of clipping */
+@media (min-width:961px){
+ .kbp.kbp.kbp-01hero .kb-cta{flex-wrap:wrap}
+ .kbp.kbp.kbp-01hero .kb-cta .kb-btn{flex:1 1 auto;min-width:max-content;padding-left:10px;padding-right:10px}
+}
