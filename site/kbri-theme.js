@@ -110,7 +110,13 @@
  function h1fix(){
   if(document.querySelector('#doz_body h1, .section_wrap h1, .kbp h1')) return;
   var t=document.querySelector('.kb-intro p.kb-t');
-  if(!t) return;
+  if(!t){
+   var host=document.querySelector('#doz_body .section_wrap, #doz_body');
+   var name=(document.title||'').split('|')[0].trim();
+   if(!host||!name) return;
+   var hh=document.createElement('h1'); hh.className='kb-sr'; hh.textContent=name;
+   host.insertBefore(hh,host.firstChild); return;
+  }
   var h=document.createElement('h1');
   for(var i=0;i<t.attributes.length;i++){h.setAttribute(t.attributes[i].name,t.attributes[i].value)}
   while(t.firstChild){h.appendChild(t.firstChild)}
