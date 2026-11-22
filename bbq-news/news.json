@@ -12,6 +12,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "7f3a420652f3",
+    "source": "Canal26",
+    "title": "Tiene 810 habitantes y celebra un festival con asado, empanadas y un show de Los Charros: el pueblo bonaerense ideal para una escapada",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVnA5OUJ0ZkhxbnJGRU1naVBRX1QzZE53T1g3U3hPSlh5Z1FMZVlCejJ2dFppbThoejNYajlIZC0yRGc0MUx1akJzU1VKSTNiUkxtQXp0Y3VLanpiNkUxMlpNbkxabHZCMU1Jem5Dbk9Fa1hMcW1fTFFHM3dxMUdGLTlIZ0ZxZEcxSTNOaWQ4V2VoeDNvei05aS1YM0xkZnBvWFJTNDl5M2oxQ0pJbjlfbUsyQWR4Zll6a3U5d0ZpUXk1MmZaNmV1VElaNzFxOEJnTDJlNEhWZkNyUUZJYTZxdnAzeVNKanpUd2tIaWdoXzFzVGxZaFJ1UFdsZks1cFROS01uRHVHNA?oc=5",
+    "query": "Asado Mundial",
+    "published_at": "2026-11-21T01:17:44+00:00",
+    "time": "01:17",
+    "date": "2026-11-21",
+    "title_ko": "810명의 주민이 살고 있으며 아사도(숯불구이), 엠파나다(고기 만두), 로스 차로스(Los Charros) 공연이 있는 축제를 개최합니다. 이곳은 휴가를 보내기에 이상적인 부에노스아이레스의 마을입니다.",
+    "ko_by": "fallback"
+  },
+  {
     "id": "6055d9d85df5",
     "source": "KCTV",
     "title": "Kansas City mayor puts barbecue on the line ahead of Current’s championship match",
@@ -225,18 +237,6 @@
     "time": "02:15",
     "date": "2026-11-18",
     "title_ko": "서울시, 바비큐 페스티벌 2만800명 방문⋯지난해 대비 만족도 6.2%p 상승",
-    "ko_by": "original"
-  },
-  {
-    "id": "e84fd3d3a404",
-    "source": "뉴스1",
-    "title": "서울 바비큐 페스티벌에 2만명 몰렸다…외식업체 매출 10%↑",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuMUkwSmNDUUFBeEpERmhoeWxfTThaNDJIQUNQa2UzVnUzMFJOQVF2Ym53b1VHRVo4Y1prX256a2wwT2NSa3RuVDRvWDRRYzBObkE?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-18T02:15:00+00:00",
-    "time": "02:15",
-    "date": "2026-11-18",
-    "title_ko": "서울 바비큐 페스티벌에 2만명 몰렸다…외식업체 매출 10%↑",
     "ko_by": "original"
   }
 ]
