@@ -75,3 +75,10 @@
  window.addEventListener('load',soon); window.addEventListener('resize',soon);
  try{new MutationObserver(soon).observe(document.documentElement,{childList:true,subtree:true})}catch(e){}
 })();
+
+/* header logo (KBRI, PROFESSIONAL BARBECUER) returns to the home page */
+(function(){
+ function fix(){var as=document.querySelectorAll('#s2026072819fb105033eda .inline-col-group-left a');for(var i=0;i<as.length;i++){as[i].setAttribute('href','/')}}
+ if(document.readyState!=='loading')fix(); else document.addEventListener('DOMContentLoaded',fix);
+ window.addEventListener('load',fix);
+})();
