@@ -210,3 +210,12 @@ html body .sub-menu .plain_name::after, .kb-submenu .plain_name::after{font-fami
 .kb-intro p.kb-k{font-size:18px!important;margin-top:12px!important}
 .kb-intro p.kb-s, .kb-intro p.kb-s *{font-size:19px!important}
 .board_view .board-title .view_tit{font-size:clamp(24px,2.6vw,34px)!important}
+/* classic dateline */
+#s2021121591d671aea741b .inline-col-group-left{display:flex!important;align-items:center}
+#kb-dateline{flex:1 1 auto;display:flex;align-items:center;gap:18px;margin:0 28px 0 36px;min-width:0}
+#kb-dateline .kb-dl-rule{flex:1 1 20px;height:3px;border-top:1px solid rgba(185,162,122,.45);border-bottom:1px solid rgba(185,162,122,.45)}
+#kb-dateline .kb-dl-in{display:flex;align-items:center;gap:14px;white-space:nowrap;font-family:'Cormorant Garamond',Georgia,serif;font-size:14.5px;font-weight:500;font-variant:small-caps;letter-spacing:.16em;color:#B9A27A;line-height:1}
+#kb-dateline .kb-dl-place{font-style:italic;letter-spacing:.1em}
+#kb-dateline .kb-dl-dangi{font-family:'Nanum Myeongjo',serif;font-variant:normal;font-size:12.5px;letter-spacing:.22em;color:#A99E8C}
+#kb-dateline .kb-dl-sep{width:5px;height:5px;transform:rotate(45deg);border:1px solid rgba(185,162,122,.7)}
+@media (max-width:1180px){#kb-dateline{display:none}}

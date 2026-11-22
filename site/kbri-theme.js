@@ -82,3 +82,25 @@
  if(document.readyState!=='loading')fix(); else document.addEventListener('DOMContentLoaded',fix);
  window.addEventListener('load',fix);
 })();
+
+/* classic newspaper dateline in the search row : place, date and the Dangi year, Seoul time */
+(function(){
+ function txt(){
+  var now=new Date();
+  var en=new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Seoul',weekday:'long',day:'numeric',month:'long',year:'numeric'}).formatToParts(now);
+  var p={};en.forEach(function(x){p[x.type]=x.value});
+  var y=parseInt(p.year,10);
+  return {d:p.weekday+', '+p.day+' '+p.month+' '+p.year, g:'檀紀 '+(y+2333)+'年'};
+ }
+ function put(){
+  var g=document.querySelector('#s2021121591d671aea741b .inline-col-group-left');
+  if(!g)return;
+  var el=document.getElementById('kb-dateline');
+  if(!el){el=document.createElement('div');el.id='kb-dateline';el.setAttribute('aria-label','Dateline');g.appendChild(el)}
+  var t=txt();
+  el.innerHTML='<span class="kb-dl-rule"></span><span class="kb-dl-in"><span class="kb-dl-place">Seoul</span><span class="kb-dl-sep"></span><span class="kb-dl-date">'+t.d+'</span><span class="kb-dl-sep"></span><span class="kb-dl-dangi">'+t.g+'</span></span><span class="kb-dl-rule"></span>';
+ }
+ if(document.readyState!=='loading')put(); else document.addEventListener('DOMContentLoaded',put);
+ window.addEventListener('load',put);
+ setInterval(put,600000);
+})();
