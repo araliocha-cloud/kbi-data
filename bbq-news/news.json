@@ -1,5 +1,17 @@
 [
   {
+    "id": "f7e834ac225d",
+    "source": "O Maringá",
+    "title": "Motos, pickups, rodeio, música e churrasco marcam o 1º Festival Pé Vermelho",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmRNcng0dk42WW16ay1IU3Zqd3pFLWtuV0ZHUWFBaTdQR1ZUTkhYaFd3NDZaOWJwdXRIZmtHX3RsTElZaU9pellKTGR3ZnV3U3FZMVkxVDNSZmVycjhLNENYVWJSTGg2M041TjYxcHNaNG9IaVo5U1NIeTMxWEM4Q9IBhgFBVV95cUxOb3ZJak1ZeW1jXzFHSjZLUTVyaW5DY2ZRaGtNNU1rcmZTYUpaS2prd0ZrMW84TUNadzEzNERCblJ2X2FyZ3hMN1cyX2xFaXFKNlcyNnE4N3V5RDdKUVZGWGhNZ2J1V2Vhb1JkV3R6MHNoRkk4MlU5NUZFTnl5V0NXXzVoa1FSdw?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-11-22T22:06:43+00:00",
+    "time": "22:06",
+    "date": "2026-11-22",
+    "title_ko": "오토바이·픽업트럭·로데오·음악·슈하스코 어우러진 제1회 페 베르멜류 페스티벌",
+    "ko_by": "gemini"
+  },
+  {
     "id": "cfe58096aa5d",
     "source": "KRIS 6 News Corpus Christi",
     "title": "Kingsville Ranch Hand Weekend kicks off with tree lighting, rodeo, barbecue competition and more",
@@ -225,18 +237,6 @@
     "time": "02:15",
     "date": "2026-11-18",
     "title_ko": "서울바비큐페스티벌에 2만명 넘게 몰려…93% \"내년에도 방문\"",
-    "ko_by": "original"
-  },
-  {
-    "id": "ed927becbfa9",
-    "source": "이투데이",
-    "title": "서울시, 바비큐 페스티벌 2만800명 방문⋯지난해 대비 만족도 6.2%p 상승",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiUkdIWGxvZVdlM05yUVRqalNEcVVDR0FsRUtBQUVOa1prQW1YNHdCMTd0MjhUSC1GN1NjYVp2YTZLVkJnWTFid2swZ2JWLXY2a1U3dQ?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-18T02:15:00+00:00",
-    "time": "02:15",
-    "date": "2026-11-18",
-    "title_ko": "서울시, 바비큐 페스티벌 2만800명 방문⋯지난해 대비 만족도 6.2%p 상승",
     "ko_by": "original"
   }
 ]
