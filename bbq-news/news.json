@@ -1,5 +1,17 @@
 [
   {
+    "id": "1c4e9561f0d9",
+    "source": "중도일보",
+    "title": "숫자를 덜어내고 실익을 채웠다, 홍성 바비큐 축제의 '정직한 결산'",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tckpDQUdJNFFRb3dBVGF6S3Jla2VMdlFTVWhYSm41cVZndV9qaF9YSHp0Tk1WaFBMSEtxQkJ0alYwWHV3aEZwMWc2WGRZU0dWR0M0T3pCSUFvMU9sZTNuM0h2TGJMMk5EVVhtbA?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-24T00:22:53+00:00",
+    "time": "00:22",
+    "date": "2026-11-24",
+    "title_ko": "숫자를 덜어내고 실익을 채웠다, 홍성 바비큐 축제의 '정직한 결산'",
+    "ko_by": "original"
+  },
+  {
     "id": "a139b38c314c",
     "source": "HapaKenya -",
     "title": "Experience Nairobi’s ultimate all you can eat BBQ feast at The Meat Up Fest on Dec 5",
@@ -226,17 +238,5 @@
     "date": "2026-11-18",
     "title_ko": "서울 바비큐 축제, 방문객 2만 800명 몰리며 호평",
     "ko_by": "gemini"
-  },
-  {
-    "id": "04b9ec1cd14d",
-    "source": "https://www.2news.co.kr/",
-    "title": "서울 바비큐 페스티벌 방문객 2만 명 돌파…매출 1억 6000만 원 달성",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zdXBxREszaWh5d3pFMXBValVSXzlYVl95djU0MHVabXNvR0NzLXZTRWM0anNCOWtScEc5WlBzR09ESlB3WWYyU2RaVXJwY0JFTW1ZcUJLTlRkcUpJVndUeW05NGRSY3d1?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-18T04:26:00+00:00",
-    "time": "04:26",
-    "date": "2026-11-18",
-    "title_ko": "서울 바비큐 페스티벌 방문객 2만 명 돌파…매출 1억 6000만 원 달성",
-    "ko_by": "original"
   }
 ]
