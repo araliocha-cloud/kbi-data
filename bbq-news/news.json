@@ -1,5 +1,17 @@
 [
   {
+    "id": "44dfc4d223cb",
+    "source": "毎日新聞",
+    "title": "Offal culture, freezing winter festival made Kitami a yakiniku BBQ hotspot in Japan",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VTVozdTRObDVoZW5MTTVQZTNIRWY0Z2RES0VFYkRpWjBabzZfbVpRbFBwSi0yV3Zncm96V1pPdERhbGNXV0NhcFEyTElNTGw1U2tfVHBydmppTmtqY0hOeXFjcm96d3lDMGpZWTdUYU05dW8?oc=5",
+    "query": "NBBQA",
+    "published_at": "2026-11-25T03:44:41+00:00",
+    "time": "03:44",
+    "date": "2026-11-25",
+    "title_ko": "내장 요리 문화와 혹한의 겨울 축제가 일본 기타미를 야키니쿠 바비큐 명소로 만들었다",
+    "ko_by": "gemini"
+  },
+  {
     "id": "df58f03bcdb0",
     "source": "중도일보",
     "title": "[기획]숫자를 덜어내고 실익을 채웠다, 홍성 바비큐 축제의 '정직한 결산'",
@@ -226,17 +238,5 @@
     "date": "2026-11-18",
     "title_ko": "홍성글로벌바비큐페스티벌 성과 공유…방문객 만족도·소비지출 증가",
     "ko_by": "original"
-  },
-  {
-    "id": "cdb62df62787",
-    "source": "The Korea Times",
-    "title": "Seoul Barbecue Festival draws 20,800 visitors, positive reviews",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFdwZFJCclpBdERyZHFqU1NURkZLYWpCVm9SWTZYVW9XODNsTmVmYWo0bGt1TURYbWtaUktaU1J5UFZxS3MwaHItZVhWR1dVNTdLTEdoZnN4c0phdnNUVWlDeVZ4VlBncnVZQnNpbjNsQmZfRFNMb1M1ZXNYcGRXdkN5cjc0Z2NyTlgzcDZkbjUydHA5MG5PM0MzRW01bGVFQUxmLXQtYmo3c3diM05XUkJXYVlHVjBDY1RxN3o4REFlQ1pNUEHSAcYBQVVfeXFMT3BXcGRSQnJaQXREcmRxalNTVEZGS2FqQlZvUlk2WFVvVzgzbE5lZmFqNGxrdU1EWG1rWlJLWlNSeVBWcUtzMGhyLWVYVkdXVTU3S0xHaGZzeHNKYXZzVFVpQ3lWeFZQZ3J1WUJzaW4zbEJmX0RTTG9TNWVzWHBkV3ZDeXI3NGdjck5YM3A2ZG41MnRwOTBuTzNDM0VtNWxlRUFMZi10LWJqN3N3YjNOV1JCV2FZR1YwQ2NUcTd6OERBZUNaTVBB?oc=5",
-    "query": "Sport Barbecue",
-    "published_at": "2026-11-18T06:05:07+00:00",
-    "time": "06:05",
-    "date": "2026-11-18",
-    "title_ko": "서울 바비큐 축제, 방문객 2만 800명 몰리며 호평",
-    "ko_by": "gemini"
   }
 ]
