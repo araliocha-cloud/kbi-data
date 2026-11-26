@@ -156,6 +156,18 @@
     "ko_by": "original"
   },
   {
+    "id": "3a39258cd7a5",
+    "source": "クレアウェブ",
+    "title": "【愛知で日本初開催】世界基準のKCBS公式BBQコンテストとアメリカンフェスを11月29日（いい肉の日）に同時開催",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOFhiMHBoU3FZblZfeEljZ3RRM2VHUDg2cEgzZXFTaTBsRExaV3pLUThScFdMMVJBaTF4d3J2UGZWWlQ3dGJPYnc5NHpIOGwtaTRINU9CTnF3VFpLc3RtSGthR19aVmx1WVpzSXNLYTFmZw?oc=5",
+    "query": "バーベキュー大会",
+    "published_at": "2026-11-20T02:06:03+00:00",
+    "time": "02:06",
+    "date": "2026-11-20",
+    "title_ko": "아이치현서 일본 첫 개최 KCBS 공식 바비큐 대회와 아메리칸 페스티벌 11월 29일 동시 개최",
+    "ko_by": "gemini"
+  },
+  {
     "id": "6a3fe67086af",
     "source": "국민기자뉴스",
     "title": "‘서울 바비큐 페스티벌’2만 800명 발길… 방문객 만족도 92.7%",
@@ -177,18 +189,6 @@
     "time": "11:04",
     "date": "2026-11-19",
     "title_ko": "볼리바르 제4회 주 아사도 콘 쿠에로 축제 및 아사도르 대회",
-    "ko_by": "gemini"
-  },
-  {
-    "id": "429d573368ab",
-    "source": "PR TIMES",
-    "title": "【愛知で日本初開催】世界基準のKCBS公式BBQコンテストとアメリカンフェスを11月29日（いい肉の日）に同時開催",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Vb2NFMUQ2N2V2bUNFNHFETDVWVW9PLXRhSzAxdG0yWHk2TEhrd21WNWtQSjNUaDZJTlFNS0dKNkFpMGpJUi1PbHlVSjJtM1pQWXdmdVdSWlRjSktLbXRHSk4wc1FMSDVWY1E?oc=5",
-    "query": "バーベキュー大会",
-    "published_at": "2026-11-19T10:04:28+00:00",
-    "time": "10:04",
-    "date": "2026-11-19",
-    "title_ko": "아이치현서 일본 첫 개최 KCBS 공식 바비큐 대회와 아메리칸 페스 11월 29일 동시 개최",
     "ko_by": "gemini"
   }
 ]
