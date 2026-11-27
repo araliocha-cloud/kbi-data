@@ -168,6 +168,18 @@
     "ko_by": "gemini"
   },
   {
+    "id": "87aff58499b7",
+    "source": "헤럴드경제",
+    "title": "2만여명 몰린 ‘서울 바비큐 페스티벌’, 이틀간 매출 1억6000만원",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vMHhDOXJRZGo5N0FlUlkzR0dRZjhUMm4yV1BCdEZadUxaeVN5eENHQzZPNnBPVlVZT1FqZnZxY3JIbFdyU3pVU2VwNlVfdVM3VEtWQ2ZOVQ?oc=5",
+    "query": "바베큐 페스티벌",
+    "published_at": "2026-11-20T23:25:00+00:00",
+    "time": "23:25",
+    "date": "2026-11-20",
+    "title_ko": "2만여명 몰린 ‘서울 바비큐 페스티벌’, 이틀간 매출 1억6000만원",
+    "ko_by": "original"
+  },
+  {
     "id": "715622b5977f",
     "source": "Indianapolis Business Journal",
     "title": "For barbecue champion Jordan Davis, fighting hunger is the bigger prize",
@@ -190,17 +202,5 @@
     "date": "2026-11-20",
     "title_ko": "주 긴 연휴: 재즈 페스티벌, 이탈리아 미식, 가죽 아사도 축제 등",
     "ko_by": "gemini"
-  },
-  {
-    "id": "3638fb17d7c4",
-    "source": "헤럴드경제 미주판",
-    "title": "2만여명 몰린 ‘서울 바비큐 페스티벌’, 이틀간 매출 1억6000만원",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xem55SGxIdzhDQlJOOHlCZU9mTDMySFVvNXJ1YjVTNEZiRVlvaVMtc3BxUFBTbXlfanpVc2JyUExoZzlJdjVQLUF2SWc0X01hbGMtRHBuY2tsZDZiZWVBVw?oc=5",
-    "query": "바베큐 페스티벌",
-    "published_at": "2026-11-20T06:25:00+00:00",
-    "time": "06:25",
-    "date": "2026-11-20",
-    "title_ko": "2만여명 몰린 ‘서울 바비큐 페스티벌’, 이틀간 매출 1억6000만원",
-    "ko_by": "original"
   }
 ]
