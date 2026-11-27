@@ -1,5 +1,17 @@
 [
   {
+    "id": "280e3627a60c",
+    "source": "Diário do Estado",
+    "title": "Flamengo celebra 10º título do Campeonato Brasileiro com churrasco",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajZpcnpmcnc0Y3JZN3FqSmlBVWFHbktzRVdOZy1xQ21BdS1vM1JTMjFwTlJ3YTh4bEUxVjBxak5NWWpYNU4zOWJWVW11aXRwX3JlRVNBUGExVXIwNDZhbFk2aU0td3FKTTJLTkJaak1qZUVYUHVqN1VEbnB1UENLY3hmeThrbTJnczVyUnlXYjhyME9EWWwxMld1MjZlUGxL?oc=5",
+    "query": "Churrasco Brasil",
+    "published_at": "2026-11-27T02:00:19+00:00",
+    "time": "02:00",
+    "date": "2026-11-27",
+    "title_ko": "플라멩구가 바비큐 파티로 브라질 챔피언십 10번째 우승을 축하하다",
+    "ko_by": "fallback"
+  },
+  {
     "id": "19a473ea0fa9",
     "source": "tmc.com.br",
     "title": "Elenco e comissão técnica do Flamengo fazem churrasco para celebrar título",
@@ -202,17 +214,5 @@
     "date": "2026-11-20",
     "title_ko": "“몸만 오면 바비큐 즐겨요”...서울 바비큐 페스티벌 2만 명 방문",
     "ko_by": "original"
-  },
-  {
-    "id": "3a39258cd7a5",
-    "source": "クレアウェブ",
-    "title": "【愛知で日本初開催】世界基準のKCBS公式BBQコンテストとアメリカンフェスを11月29日（いい肉の日）に同時開催",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOFhiMHBoU3FZblZfeEljZ3RRM2VHUDg2cEgzZXFTaTBsRExaV3pLUThScFdMMVJBaTF4d3J2UGZWWlQ3dGJPYnc5NHpIOGwtaTRINU9CTnF3VFpLc3RtSGthR19aVmx1WVpzSXNLYTFmZw?oc=5",
-    "query": "バーベキュー大会",
-    "published_at": "2026-11-20T02:06:03+00:00",
-    "time": "02:06",
-    "date": "2026-11-20",
-    "title_ko": "아이치현서 일본 첫 개최 KCBS 공식 바비큐 대회와 아메리칸 페스티벌 11월 29일 동시 개최",
-    "ko_by": "gemini"
   }
 ]
